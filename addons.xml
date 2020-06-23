@@ -1123,72 +1123,460 @@ https://xcine.tv</description>
 </addon>
 
 
+<addon id="repository.gamestarter" name="Gamestarter add-on repository" version="3.0.0" provider-name="Bite Your Idols!">
+    <extension point="xbmc.addon.repository" name="Gamestarter add-on repository">
+        <info compressed="true">https://github.com/bite-your-idols/Gamestarter/raw/master/repository.gamestarter/addons.xml</info>
+        <checksum>https://github.com/bite-your-idols/Gamestarter/raw/master/repository.gamestarter/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/bite-your-idols/Gamestarter/master/repository.gamestarter/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Gamestarter add-on repository</summary>
+		<description lang="en">Gamestarter add-on repository</description>
+        <platform>all</platform>
+    </extension>
+</addon>
 
 
+<addon id="repository.infinity" name="Infinity Repository" version="1.0.0" provider-name="Infinity-Team">
+    <extension point="xbmc.addon.repository" name="Infinity Repository">
+        <info compressed="false">https://raw.github.com/42ona/infship/master/addons.xml</info>
+        <checksum>https://raw.github.com/42ona/infship/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.github.com/42ona/infship/master</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="de">Metadaten für Infinity Repository</summary>
+        <platform>all</platform>
+    </extension>
+</addon>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-	
-	
-	
-<addon id="plugin.program.dependencies.installer"
-		name="[B][COLOR antiquewhite] Kodi Abhängigkeiten (Dependencies) Installer / Updater [/B][/COLOR]"
-		version="2019.10.10"
-		provider-name="[COLOR antiquewhite] Ctrl_Esc [/COLOR]">
-	<requires>
-		<import addon="xbmc.python" version="2.7.13" />
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="resources/pys/updater.py">
-		<provides>executable</provides>
+<addon id="repository.yt.testing_official" name="YouTube Test Repo (Official)" version="1.0.0" provider-name="Jeffrey Frasure">
+	<extension point="xbmc.addon.repository" name="YouTube Test Repo (Official)">
+		<info compressed="false">https://raw.githubusercontent.com/jdf76/repository/master/testing/official/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/jdf76/repository/master/testing/official/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/jdf76/repository/master/testing/official/zips</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-	<summary></summary>
-	<description>Addon Abhängigkeiten / Dependencies Installer / Updater.</description>
+		<summary>Install alpha and beta versions of the YouTube add-on.</summary>
+		<description>Install alpha and beta versions of the YouTube add-on.</description>
+		<disclaimer>This add-on is not supported or endorsed by Google/YouTube.</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+
+<addon id="repository.zachmorris" name="Zach Morris Add-ons" version="1.0.0" provider-name="zachmorris">
+    <extension point="xbmc.addon.repository" name="Zach Morris Add-ons">
+        <info compressed="true">https://github.com/zach-morris/repository.zachmorris/raw/master/addons.xml</info>
+        <checksum>https://github.com/zach-morris/repository.zachmorris/raw/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/zach-morris/repository.zachmorris/master/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Zach Morris Add-ons</summary>
+        <platform>all</platform>
+    </extension>
+</addon>
+
+
+<addon id="resource.uisounds.ctrl_esc" version="1.0.0" name="Control Escape UI Sounds" provider-name="Ctrl_Esc">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.uisounds"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Ctrl_Esc GUI Sounds</summary>
+    <description lang="en">Ctrl_Esc GUI Sounds
+
+Visit us:
+
+RaspberryPi_Kodi_Deutschland_Community
+https://www.facebook.com/groups/raspikdc
+    </description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+
+<addon id="script.infinity.artwork" version="1.0.1" name="Infinity Artwork" provider-name="Infinity Team">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<summary>Icons für das Infinity Addon</summary>
+		<description>Themen für Infinity werden seperat aktualisiert und gepflegt um die Verteilung des Addons einfacher zu machen</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+
+<addon id="script.module.7of9-motherless"
+	   name="motherless - 7of9 Module"
+	   version="1.0.2c"
+	   provider-name="motherless">
+  <extension point="xbmc.python.pluginsource"
+			 library="default.py">
+    	<provides>all</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Adult(18+) videos from motherless.com</summary>
+    <description>Adult(18+) videos from motherless.com</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+
+<addon id="script.module.7of9-pirateslife4me" name="A Pirate's Life for Me - 7of9 Module" version="1.3" provider-name="SomeBody">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.requests" />
+	<import addon="script.video.F4mProxy" />
+	<import addon="script.module.resolveurl" version="2.2.0"/>
+    <import addon="script.module.moss"/>
+	<import addon="script.module.beautifulsoup4" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>all</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">The Pirate Bay and MTB Torrent Search Powered by Real-Debrid.</summary>
+    <description lang="en">The Pirate Bay and MTB Torrent Search Powered by Real-Debrid With Top Trending Movies.</description>
+	<disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon.[CR]The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.[CR]This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+
+<addon
+  id="script.module.7of9-videodevil"
+  version="1.7.197b"
+  name="VideoDevil - 7of9 Module"
+  provider-name="xbmc-adult">
+  <requires>
+   <import addon="xbmc.python" version="2.14.0"/>
+  </requires>
+  <extension 
+    point="xbmc.python.pluginsource"
+    library="default.py">
+   <provides>all</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Play videos from different adult streaming sites</summary>
+    <description>This addon plays videos from YouPorn, Tube8, Boysfood, MoviesAnd, PornoTube, xHamster, KeezMovies and some other adult streaming sites. It contains explicit adult material. You may only view this addon if you are at least 18 years of age, or at least the age of majority in the jurisdiction where you reside or from which you access this content. If you do not meet these requirements, then you do not have permission to use this addon. </description>
+    <disclaimer>The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+
+<addon id="script.module.addon.common" 
+	     name="Common addon methods" 
+	     version="2.0.0" 
+	     provider-name="Eldorado (original: t0mm0)">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Collection of commonly used addon routines</summary>
+    <description lang="en">Collection of commonly used addon routines to simplify addon development.</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>  
+  </extension>
+</addon>
+
+
+<addon id="script.module.beautifulsoup"
+       name="BeautifulSoup"
+       version="3.2.1"
+       provider-name="Leonard Richardson (leonardr@segfault.org)">
+  <requires>
+    <import addon="xbmc.python" 
+    		version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary>HTML/XML parser for quick-turnaround applications like screen-scraping</summary>
+    <description>Beautiful Soup parses arbitrarily invalid SGML and provides a variety of methods and Pythonic idioms for iterating and searching the parse tree.</description>
+    <license>BSD</license>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+
+<addon id="script.module.beautifulsoup4"
+       name="BeautifulSoup4"
+       version="4.6.2"
+       provider-name="Leonard Richardson (leonardr@segfault.org)">
+  <requires>
+    <import addon="xbmc.python" 
+             version="2.25.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Screen-scraping library</summary>
+    <description lang="en_GB">Beautiful Soup is a library that makes it easy to scrape information from web pages. It sits atop an HTML or XML parser, providing Pythonic idioms for iterating, searching, and modifying the parse tree.</description>
+    <license>MIT</license>
+    <platform>all</platform>
+    <website>https://www.crummy.com/software/BeautifulSoup/</website>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
+
+<addon id="script.module.brotli"
+       name="brotli"
+       version="1.0.7"
+       provider-name="Brotli">
+  <requires>
+    <import addon="xbmc.python" version="2.25.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Python bindings for the Brotli compression library.</summary>
+    <description lang="en_GB">Packed for Kodi from https://github.com/google/brotli.</description>
+    <license>MIT</license>
+    <website>https://github.com/google/brotli</website>
+    <source>https://github.com/google/brotli</source>
+    <email>https://groups.google.com/forum/#!forum/brotli</email>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
+
+<addon id="script.module.certifi"
+       name="certifi"
+       version="2019.9.11"
+       provider-name="Kenneth Reitz">
+  <requires>
+    <import addon="xbmc.python" version="2.25.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Python package for providing Mozilla's CA Bundle.</summary>
+    <description lang="en_GB">Certifi is a carefully curated collection of Root Certificates for validating the trustworthiness of SSL certificates while verifying the identity of TLS hosts. It has been extracted from the Requests project.</description>
+    <license>MPL-2.0</license>
+    <website>https://certifi.io</website>
+    <source>https://github.com/certifi/python-certifi</source>
+    <email>freso.dk AT gmail.com</email>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
+
+<addon id="script.module.cfscrape"
+       name="cfscrape"
+       version="2020.01.07"
+       provider-name="privateship">
+  <requires>
+    <import addon="xbmc.python" version="2.25.0"/>
+    <import addon="script.module.requests" version="2.9.1"/>
+    <import addon="script.module.requests_toolbelt" version="0.9.1"/>
+    <import addon="script.module.brotli" version="1.0.7"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <website>https://github.com/VeNoMouS/cloudscraper</website>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE.</license>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
+
+<addon id="script.module.chardet"
+       name="chardet"
+       version="3.0.4"
+       provider-name="Dan Blanchard">
+  <requires>
+    <import addon="xbmc.python" version="2.25.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Universal encoding detector</summary>
+    <description lang="en_GB">Packed for Kodi from https://github.com/chardet/chardet</description>
+    <license>LGPL</license>
+    <platform>all</platform>
+    <language></language>
+    <forum></forum>
+    <website>https://chardet.readthedocs.io/en/latest/</website>
+    <source>https://github.com/beenje/script.module.chardet</source>
+    <email>beenje AT gmail.com</email>
+  </extension>
+</addon>
+
+
+<addon id="script.module.clouddrive.common" name="Cloud Drive Common Module" version="1.2.8" provider-name="Carlos Guzman (cguZZman)">
+	<requires>
+		<import addon="xbmc.python" version="2.25.0" />
+		<import addon="script.module.dateutil"/>
+		<import addon="script.module.pyqrcode"/>
+	</requires>
+	<extension point="xbmc.python.module" library="/" />
+	<extension point="xbmc.service" library="service.py" start="login" />
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en_GB">Cloud Drive Common Module</summary>
+		<description lang="en_GB">Common Services and Classes for all the cloud drive addons.</description>
+		<summary lang="he_IL">מודול משותף לכונן בענן</summary>
+		<description lang="he_IL">שירותים ושירותים משותפים לכל התוספים של כונן הענן.</description>		
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+		<source>https://github.com/cguZZman/script.module.clouddrive.common</source>
+		<forum>https://github.com/cguZZman/script.module.clouddrive.common/issues</forum>
+		<news>
+v1.2.8 released Sep 20, 2018:
+- Resume points and watched status for strm files in library
+v1.2.7 released Sep 12, 2018:
+- Order by date fix
+v1.2.6 released Sep 10, 2018:
+- Subtitles assigned in source mode
+- Fixes
+v1.2.5 released Aug 25, 2018:
+- Fix 'Remove' export option
+- Fix error log
+v1.2.3 released Aug 24, 2018:
+- Fix watch folder creating strm for non-media files
+- strm files saved in the cloud are exported as is. 
+v1.2.1 released Aug 18, 2018:
+- Fix source mode
+v1.2.0 released Aug 15, 2018:
+- Added auto export and watch export folder
+v1.1.7 released Jul 14, 2018:
+- Added a QR code to simplify adding an account
+v1.1.5 released Jul 14, 2018:
+- Fixes for slow connections
+v1.1.4 released Jul 12, 2018:
+- Ip change detection.
+- Fixes
+v1.1.0 released Jul 11, 2018:
+- New mode for source and download services. Both moved to respective addons.
+- Source service fixed.
+v1.0.4 released Jul 6, 2018:
+- Fix display more than 100 files in source mode
+v1.0.3 released Jul 5, 2018:
+- Fixes
+v1.0.2 released March 15, 2018:
+- Fixes
+v1.0.1 released Nov 6, 2017:
+- Login app rename
+- Support for images by extension only when the cloud drive doesn't provide image information. 
+v1.0.0 released Nov 6, 2017:
+- First release
+		</news>
+		<disclaimer lang="en_GB">
+This cloud drive addon uses a third-party authentication mechanism commonly known as OAuth 2.0.
+If you want to know more about OAuth 2.0 you can visit the following pages:
+- https://oauth.net/2/
+- https://developers.google.com/identity/protocols/OAuth2
+- https://docs.microsoft.com/en-us/onedrive/developer/rest-api/getting-started/msa-oauth
+
+Kodi and myself take no responsibility or liability whatsoever.
+
+The authentication server URL is specified in Settings / Advanced / Sign-in Server. The Sign-in Server implements the OAuth 2.0 protocol.
+The complete source code of the Sign-in Server can be download here: https://github.com/cguZZman/drive-login
+You can clone the project and host it in your own server. 
+		</disclaimer>
+	</extension>
+</addon>
+
+
+<addon id="script.module.cryptopy" name="CryptoPy" version="1.2.6" provider-name="cryptopy.sourceforge.net">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib"/>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+  </extension>
+</addon>
+
+
+<addon id="script.module.future"
+       name="future"
+       version="0.16.0.4"
+       provider-name="Ed Schofield">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0" />
+  </requires>
+  <extension point="xbmc.python.module" library="libs" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Clean single-source support for Python 3 and 2</summary>
+    <description lang="en">future is the missing compatibility layer between Python 2 and Python 3. It allows you to use a single, clean Python 3.x-compatible codebase to support both Python 2 and Python 3 with minimal overhead.</description>
+    <platform>all</platform>
+    <license>MIT</license>
+    <source>https://github.com/PythonCharmers/python-future</source>
+    <website>http://python-future.org</website>
+  </extension>
+</addon>
+
+
+<addon id="script.module.fvg" name="Free Tv" version="1.0.0" provider-name="Ghost">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.pyamf" />
+    <import addon="script.module.kodi-six" />
+    <import addon="script.module.future" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.routing" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides></provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <reuselanguageinvoker>true</reuselanguageinvoker>
+    <summary lang="en_gb">This module has been cloned from the Racc TvOne add-on.All credit to him.</summary>
+    <description lang="en_gb">Ghost</description>
+    <disclaimer lang="en_gb"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
+
+
+<addon id="script.module.hls.cache"
+		name="[COLOR blue]HLS-CACHE[/COLOR]"
+		version="1.0.2"
+		provider-name="Loki1979">
+	<requires>
+        <import addon="xbmc.python" version="2.7.13"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.python.module" library="resources/lib"/>
+	<extension point="xbmc.webinterface"/>
+	<extension point="xbmc.addon.metadata">
+	<summary>Created by loki1979</summary>
+	<description>
+1.) import hls
+2.) hls.cache_loader(m3u8_url,m3u8_headers={},segment_headers={})
+3.) Activate web interface !</description>
 	<disclaimer></disclaimer>
 	<language></language>
 	<platform>all</platform>
@@ -1207,8 +1595,65 @@ https://xcine.tv</description>
 	</assets>
 	</extension>
 </addon>
-	
-	
+
+
+<addon id="script.module.hsk.de"
+		name="[COLOR blue]MODULE HSK DE[/COLOR]"
+		version="1.0.0"
+		provider-name="[COLOR blue]Loki1979[/COLOR]">
+	<requires>
+		<import addon="xbmc.python" version="2.7.13" />
+	</requires>
+	<extension point="xbmc.python.module" library="resources/lib" />
+	<extension point="xbmc.addon.metadata">
+	<summary>[COLOR blue]181220191730[/COLOR]</summary>
+	<description></description>
+	<disclaimer></disclaimer>
+	<language></language>
+	<platform>all</platform>
+	<license></license>
+	<forum></forum>
+	<website></website>
+	<email></email>
+	<source></source>
+	<news></news>
+	<assets>
+		<icon>resources/icon.png</icon>
+		<fanart>resources/fanart.jpg</fanart>
+		<banner></banner>
+		<clearlogo></clearlogo>
+		<screenshot></screenshot>
+	</assets>
+	</extension>
+</addon>
+
+
+<addon id="script.module.idna"
+       name="idna"
+       version="2.8"
+       provider-name="Kim Davies">
+  <requires>
+    <import addon="xbmc.python" version="2.25.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Internationalized Domain Names for Python</summary>
+    <description lang="en_GB">Packed for KODI from https://github.com/kjd/idna</description>
+    <platform>all</platform>
+    <language></language>
+    <license>BSD</license>
+    <forum></forum>
+    <website>https://github.com/kjd/idna</website>
+    <source>https://github.com/Freso/script.module.idna</source>
+    <email>freso.dk AT gmail.com</email>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
+
 <addon id="script.module.kodi-six"
        name="Kodi Six"
        version="0.1.2"
@@ -1237,8 +1682,199 @@ https://xcine.tv</description>
 - Added xbmcdrm module.</news>
   </extension>
 </addon>
-	
-	
+
+
+<addon id="script.module.limitless-swiftstreamz" name="limitless Swift Streamz" version="2.3" provider-name="Luxury">
+  <requires>
+    <import addon="script.module.requests" />
+    <import addon="script.module.requests-cache" />
+    <import addon="script.module.routing" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>all</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_gb">Cloned for Luxury users from RACC SwiftStreamz Module. All credit must go to anyone involved in the Original Code</summary>
+    <description lang="en_gb">Module for SwiftStreamz APK</description>
+    <disclaimer lang="en_gb"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
+
+
+<addon id="script.module.limitless-tvtap" name="Limitless TvTap" version="2.0" provider-name="Luxury">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.livestreamer" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.routing" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>all</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_gb">Cloned for Limitless users from RACC TvTap Module. All credit must go to anyone involved in the Original Code</summary>
+    <description lang="en_gb">Module for TvTap APK</description>
+    <disclaimer lang="en_gb"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
+
+
+<addon id="script.module.metahandler" 
+     name="metahandler" 
+     version="3.0.3" 
+     provider-name="Eldorado, jsergio">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="script.module.simplejson" version="3.3.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="script.module.myconnpy" version="1.1.6"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Downloads Artwork for TV shows, Movies and Music videos for addons and stores them in a local SQLITE database</summary>
+    <description lang="en">Queries, stores, and returns metadata for TV shows, Movies and Musicvideos. [CR]Sources:[CR]www.thetvdb.com[CR]www.themoviedb.org[CR]www.imdb.com[CR]www.omdbapi.com[CR]This product uses the TMDb API but is not endorsed or certified by TMDb.</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
+
+
+<addon id="script.module.moss" name="Moss Module" version="1.00.005" provider-name="Biglad + Echo Coder">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0" />
+		<import addon="script.module.requests" />
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Forked from TK Norris Shared Module. Reusable Modules used by several of Echo's addons</summary>
+	</extension>
+</addon>
+
+
+<addon id="script.module.mutagen"
+       name="mutagen"
+       version="2019.10.10"
+       provider-name="Joe Wreschnig">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <language></language>
+    <summary lang="en">Mutagen is a Python module to handle audio metadata.</summary>
+    <description lang="en">Mutagen is a Python module to handle audio metadata. It supports ASF, FLAC, 
+M4A, Monkey's Audio, MP3, Musepack, Ogg Opus, Ogg FLAC, Ogg Speex, Ogg 
+Theora, Ogg Vorbis, True Audio, WavPack and OptimFROG audio files. All 
+versions of ID3v2 are supported, and all standard ID3v2.4 frames are 
+parsed. It can read Xing headers to accurately calculate the bitrate and 
+length of MP3s. ID3 and APEv2 tags can be edited regardless of audio 
+format. It can also manipulate Ogg streams on an individual packet/page 
+level.</description>
+    <disclaimer lang="en">Code taken from http://code.google.com/p/mutagen/</disclaimer>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <website>http://code.google.com/p/mutagen/</website>
+    <source>https://bitbucket.org/lazka/mutagen/overview</source>
+  </extension>
+</addon>
+
+
+<addon id="script.module.myconnpy"
+       name="MySQL Connector/Python"
+       version="1.1.7"
+       provider-name="MySQL">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.module" library="lib"/>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">MySQL Connector/Python</summary>
+        <description lang="en">MySQL Connector/Python is implementing the MySQL Client/Server protocol completely in Python. This means you don't have to compile anything or MySQL (client library) doesn't even have to be installed on the machine.</description>
+        <license>GPLv2</license>
+        <platform>all</platform>
+        <website>http://dev.mysql.com/doc/connector-python/en/index.html</website>
+        <source>http://dev.mysql.com/downloads/connector/python/</source>
+    </extension>
+</addon>
+
+
+<addon id="script.module.parsedom" name="Parsedom for xbmc plugins" provider-name="TheCollective" version="2.5.2">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Parsedom for xbmc plugins.</summary>
+  </extension>
+  <extension library="lib" point="xbmc.python.module" />
+  <extension point="xbmc.addon.metadata">
+        <license>GPLv3</license>
+        <platform>all</platform>
+        <email></email>
+        <website></website>
+        <forum>http://forum.xbmc.org/showthread.php?tid=116498</forum>
+        <source>https://github.com/HenrikDK/xbmc-common-plugin-functions</source>
+        <language></language>
+   </extension>
+</addon>
+
+
+<addon id="script.module.pycryptodome"
+       name="PyCryptodome"
+       version="3.4.1"
+       provider-name="Legrandin">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary>Cryptographic library for Python</summary>
+    <source> http://www.pycryptodome.org</source>
+    <platform>all</platform>
+    <license>Public domain</license>
+  </extension>
+</addon>
+
+
+<addon id="script.module.pydes" name="pyDes" version="2.0.1" provider-name="Todd Whiteman">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">A pure python module which implements the DES and Triple-DES encryption algorithms.</summary>
+    <website>http://twhiteman.netfirms.com/des.html</website> 
+    <license>Public Domain</license> 
+    <platform>all</platform> 
+    <source>http://sourceforge.net/projects/pydes/</source> 
+  </extension>
+</addon>
+
+
 <addon id="script.module.requests"
        name="requests"
        version="2.22.0"
@@ -1267,8 +1903,32 @@ https://xcine.tv</description>
     </assets>
   </extension>
 </addon>
-	
-	
+
+
+<addon id="script.module.requests_toolbelt"
+       name="requests_toolbelt"
+       version="0.9.1"
+       provider-name="Ian Cordasco, Cory Benfield">
+  <requires>
+    <import addon="xbmc.python" version="2.25.0"/>
+    <import addon="script.module.requests" version="2.0.1"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">A utility belt for advanced users of python-requests.</summary>
+    <description lang="en_GB">Packed for Kodi from https://github.com/requests/toolbelt</description>
+    <license>Apache 2.0</license>
+    <website>https://toolbelt.readthedocs.org</website>
+    <source>https://github.com/requests/toolbelt</source>
+    <email>graffatcolmingov@gmail.com</email>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
+
 <addon id="script.module.routing" name="Plugin routing" version="0.2.3" provider-name="takoi">
     <requires>
         <import addon="xbmc.python" version="2.14.0"/>
@@ -1286,8 +1946,8 @@ https://xcine.tv</description>
         </assets>
     </extension>
 </addon>
-	
-	
+
+
 <addon id="script.module.simplejson"
        name="simplejson"
        version="3.16.1" 
@@ -1308,45 +1968,8 @@ https://xcine.tv</description>
     <source>https://github.com/simplejson/simplejson</source>
   </extension>
 </addon>
-	
-	
-<addon id="script.module.xmltodict" name="xmltodict" version="0.11.0" provider-name="martinblech">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-    </requires>
-    <extension point="xbmc.python.module" library="lib"/>
-    <extension point="xbmc.addon.metadata">
-        <language></language>
-        <summary lang="en">Python helper module</summary>
-        <description lang="en">xmltodict is a Python module that makes working with XML feel like you are working with JSON, as in this "spec".</description>
-        <license>MIT</license>
-        <platform>all</platform>
-        <website>https://github.com/martinblech/xmltodict</website>
-        <source>https://github.com/martinblech/xmltodict</source>
-        <forum></forum>
-    </extension>
-</addon>
-	
-	
-<addon id="script.module.future"
-       name="future"
-       version="0.16.0.4"
-       provider-name="Ed Schofield">
-  <requires>
-    <import addon="xbmc.python" version="2.14.0" />
-  </requires>
-  <extension point="xbmc.python.module" library="libs" />
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Clean single-source support for Python 3 and 2</summary>
-    <description lang="en">future is the missing compatibility layer between Python 2 and Python 3. It allows you to use a single, clean Python 3.x-compatible codebase to support both Python 2 and Python 3 with minimal overhead.</description>
-    <platform>all</platform>
-    <license>MIT</license>
-    <source>https://github.com/PythonCharmers/python-future</source>
-    <website>http://python-future.org</website>
-  </extension>
-</addon>
-	
-	
+
+
 <addon id="script.module.t0mm0.common" 
 	     name="t0mm0's common stuff" 
 	     version="2.1.1" 
@@ -1361,8 +1984,62 @@ https://xcine.tv</description>
     <description lang="en">Collection of commonly used addon routines to simplify addon development.</description>
   </extension>
 </addon>
-	
-	
+
+
+<addon id="script.module.tvforfree" name="TV 4 Free" version="1.0.0" provider-name="Lost Soul">
+  <requires>
+    <import addon="xbmc.python" version="2.26.0"/>
+    <import addon="script.module.pycryptodome" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.kodi-six" />
+    <import addon="script.module.future" />
+    <import addon="script.module.routing" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>all</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <reuselanguageinvoker>true</reuselanguageinvoker>
+    <summary lang="en_gb">This module has been cloned from the Racc TvOne add-on. Any and all credit must go to himself.</summary>
+    <description lang="en_gb">Lost Soul</description>
+    <disclaimer lang="en_gb"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license>GPL-3.0</license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>
+
+
+<addon id="script.module.urllib3"
+       name="urllib3"
+       version="1.25.3"
+       provider-name="shazow">
+  <requires>
+    <import addon="xbmc.python" version="2.25.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">urllib3 is a powerful, sanity-friendly HTTP client for Python</summary>
+    <description lang="en_GB">Packed for KODI from https://pypi.org/project/urllib3/</description>
+    <platform>all</platform>
+    <language></language>
+    <license>MIT</license>
+    <forum></forum>
+    <website>https://urllib3.readthedocs.io/en/latest/</website>
+    <source>https://github.com/Freso/script.module.urllib3</source>
+    <email>freso.dk AT gmail.com</email>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
+
 <addon id="script.module.win_inet_pton" name="win-inet-pton" version="1.1.0" provider-name="hickeroar">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -1384,124 +2061,54 @@ https://xcine.tv</description>
     </assets>
   </extension>
 </addon>
-	
-	
-<addon id="script.module.chardet"
-       name="chardet"
-       version="3.0.4"
-       provider-name="Dan Blanchard">
+
+
+<addon id="script.module.wvg" name="World Tv" version="1.0.0" provider-name="Ghost">
   <requires>
-    <import addon="xbmc.python" version="2.25.0"/>
+    <import addon="xbmc.python" version="2.26.0"/>
+    <import addon="script.module.pycryptodome" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.kodi-six" />
+    <import addon="script.module.future" />
+    <import addon="script.module.routing" />
   </requires>
-  <extension point="xbmc.python.module"
-             library="lib" />
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides></provides>
+  </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en_GB">Universal encoding detector</summary>
-    <description lang="en_GB">Packed for Kodi from https://github.com/chardet/chardet</description>
-    <license>LGPL</license>
-    <platform>all</platform>
+    <reuselanguageinvoker>true</reuselanguageinvoker>
+    <summary lang="en_gb">This module has been cloned from the Racc TvOne add-on. All credit to him.</summary>
+    <description lang="en_gb">Ghost</description>
+    <disclaimer lang="en_gb"></disclaimer>
     <language></language>
+    <platform>all</platform>
+    <license>GPL-3.0</license>
     <forum></forum>
-    <website>https://chardet.readthedocs.io/en/latest/</website>
-    <source>https://github.com/beenje/script.module.chardet</source>
-    <email>beenje AT gmail.com</email>
+    <website></website>
+    <email></email>
+    <source></source>
   </extension>
 </addon>
-	
-	
-<addon id="script.module.parsedom" name="Parsedom for xbmc plugins" provider-name="TheCollective" version="2.5.2">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0" />
-  </requires>
-  <extension point="xbmc.addon.metadata">
-    <platform>all</platform>
-    <summary lang="en">Parsedom for xbmc plugins.</summary>
-  </extension>
-  <extension library="lib" point="xbmc.python.module" />
-  <extension point="xbmc.addon.metadata">
-        <license>GPLv3</license>
-        <platform>all</platform>
-        <email></email>
-        <website></website>
-        <forum>http://forum.xbmc.org/showthread.php?tid=116498</forum>
-        <source>https://github.com/HenrikDK/xbmc-common-plugin-functions</source>
+
+
+<addon id="script.module.xmltodict" name="xmltodict" version="0.11.0" provider-name="martinblech">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.module" library="lib"/>
+    <extension point="xbmc.addon.metadata">
         <language></language>
-   </extension>
-</addon>
-
-	
-<addon id="script.module.7of9-motherless"
-	   name="motherless - 7of9 Module"
-	   version="1.0.2c"
-	   provider-name="motherless">
-  <extension point="xbmc.python.pluginsource"
-			 library="default.py">
-    	<provides>all</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>Adult(18+) videos from motherless.com</summary>
-    <description>Adult(18+) videos from motherless.com</description>
-    <platform>all</platform>
-  </extension>
+        <summary lang="en">Python helper module</summary>
+        <description lang="en">xmltodict is a Python module that makes working with XML feel like you are working with JSON, as in this "spec".</description>
+        <license>MIT</license>
+        <platform>all</platform>
+        <website>https://github.com/martinblech/xmltodict</website>
+        <source>https://github.com/martinblech/xmltodict</source>
+        <forum></forum>
+    </extension>
 </addon>
 
 
-<addon
-  id="script.module.7of9-videodevil"
-  version="1.7.197b"
-  name="VideoDevil - 7of9 Module"
-  provider-name="xbmc-adult">
-  <requires>
-   <import addon="xbmc.python" version="2.14.0"/>
-  </requires>
-  <extension 
-    point="xbmc.python.pluginsource"
-    library="default.py">
-   <provides>all</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>Play videos from different adult streaming sites</summary>
-    <description>This addon plays videos from YouPorn, Tube8, Boysfood, MoviesAnd, PornoTube, xHamster, KeezMovies and some other adult streaming sites. It contains explicit adult material. You may only view this addon if you are at least 18 years of age, or at least the age of majority in the jurisdiction where you reside or from which you access this content. If you do not meet these requirements, then you do not have permission to use this addon. </description>
-    <disclaimer>The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
-    <platform>all</platform>
-  </extension>
-</addon>	
-
-
-<addon id="script.module.7of9-pirateslife4me" name="A Pirate's Life for Me - 7of9 Module" version="1.3" provider-name="SomeBody">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.requests" />
-	<import addon="script.video.F4mProxy" />
-	<import addon="script.module.resolveurl" version="2.2.0"/>
-    <import addon="script.module.moss"/>
-	<import addon="script.module.beautifulsoup4" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>all</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">The Pirate Bay and MTB Torrent Search Powered by Real-Debrid.</summary>
-    <description lang="en">The Pirate Bay and MTB Torrent Search Powered by Real-Debrid With Top Trending Movies.</description>
-	<disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon.[CR]The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.[CR]This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
-    <platform>all</platform>
-  </extension>
-</addon>
-
-
-<addon id="script.module.moss" name="Moss Module" version="1.00.005" provider-name="Biglad + Echo Coder">
-	<requires>
-		<import addon="xbmc.python" version="2.1.0" />
-		<import addon="script.module.requests" />
-	</requires>
-	<extension point="xbmc.python.module" library="lib" />
-	<extension point="xbmc.addon.metadata">
-		<platform>all</platform>
-		<summary lang="en">Forked from TK Norris Shared Module. Reusable Modules used by several of Echo's addons</summary>
-	</extension>
-</addon>
-	
-	
 <addon id="script.video.F4mProxy" 
 	     name="F4mProxy" 
 	     version="2.8.7" 
@@ -1523,98 +2130,104 @@ https://xcine.tv</description>
     <description lang="en">Use this addon to play F4m v1 and v2 streams</description>
   </extension>
 </addon>
-	
-	
-<addon id="script.module.limitless-swiftstreamz" name="limitless Swift Streamz" version="2.3" provider-name="Luxury">
-  <requires>
-    <import addon="script.module.requests" />
-    <import addon="script.module.requests-cache" />
-    <import addon="script.module.routing" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="addon.py">
-    <provides>all</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en_gb">Cloned for Luxury users from RACC SwiftStreamz Module. All credit must go to anyone involved in the Original Code</summary>
-    <description lang="en_gb">Module for SwiftStreamz APK</description>
-    <disclaimer lang="en_gb"></disclaimer>
-    <language></language>
-    <platform>all</platform>
-    <license></license>
-    <forum></forum>
-    <website></website>
-    <email></email>
-    <source></source>
-  </extension>
-</addon>
-	
-	
-<addon id="script.module.limitless-tvtap" name="Limitless TvTap" version="2.0" provider-name="Luxury">
+
+
+<addon id="service.thoradia"
+       name="Thoradia Add-ons"
+       version="9.0.20"
+       provider-name="thoradia">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.livestreamer" />
-    <import addon="script.module.requests" />
-    <import addon="script.module.routing" />
+
   </requires>
-  <extension point="xbmc.python.pluginsource" library="addon.py">
-    <provides>all</provides>
+  <extension point="xbmc.service" library="default.py">
+    <provides></provides>
+  </extension>
+  <extension point="xbmc.addon.repository">
+    <datadir zip="true">https://raw.githubusercontent.com/thoradia/thoradia/master/9.0/RPi2/arm/</datadir>
+    <info>https://raw.githubusercontent.com/thoradia/thoradia/master/9.0/RPi2/arm/addons.xml</info>
+    <checksum>https://raw.githubusercontent.com/thoradia/thoradia/master/9.0/RPi2/arm/addons.xml.md5</checksum>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en_gb">Cloned for Limitless users from RACC TvTap Module. All credit must go to anyone involved in the Original Code</summary>
-    <description lang="en_gb">Module for TvTap APK</description>
-    <disclaimer lang="en_gb"></disclaimer>
-    <language></language>
+    <summary>Thoradia Add-ons: add-on repository</summary>
+    <description>
+Thoradia Add-ons (20) add-on repository, provides aria2, Bazarr, btfs, CouchPotato, Deluge, FlexGet, Headphones, Jackett, Lidarr, Medusa, Mono, NZBGet, NZBHydra, qBittorent, Radarr, rTorrent, ruTorrent, SABnzbd, Sonarr, Thoradia VPN interface, Transmission and WebGrab+Plus.
+    </description>
+    <disclaimer>
+Keep it legal and carry on
+    </disclaimer>
     <platform>all</platform>
-    <license></license>
-    <forum></forum>
-    <website></website>
-    <email></email>
-    <source></source>
+    <news>
+20
+- Mention Bazarr, Mono, Thoradia VPN interface and WebGrab+Plus
+
+19
+- Add Rockchip
+
+18
+- Rework default.py
+
+17
+- Add btfs and Lidarr
+
+16
+- Add FlexGet
+
+15
+- Add NZBHydra
+
+14
+- Support repository.rbrepo
+
+13
+- Add aria2
+
+12
+- Support S805
+
+11
+- Mention Medusa, remove SickRage
+
+10
+- Support Slice and Slice3
+- Update repositories on LibreELEC update
+
+9
+- Mention rTorrent and ruTorrent
+
+8
+- Rework default.py
+
+7
+- Rework default.py
+
+6
+- Mention qBittorrent
+
+5
+- Rename add-on
+
+4
+- Mention Radarr
+
+3
+- Mention Deluge
+
+2
+- Fix datadir
+
+1
+- Initial add-on
+    </news>
+    <assets>
+      <icon>resources/icon.png</icon>
+      <fanart>resources/fanart.png</fanart>
+
+    </assets>
   </extension>
 </addon>
-	
-	
-<addon id="script.module.mutagen"
-       name="mutagen"
-       version="2019.10.10"
-       provider-name="Joe Wreschnig">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.module"
-             library="lib" />
-  <extension point="xbmc.addon.metadata">
-    <platform>all</platform>
-    <language></language>
-    <summary lang="en">Mutagen is a Python module to handle audio metadata.</summary>
-    <description lang="en">Mutagen is a Python module to handle audio metadata. It supports ASF, FLAC, 
-M4A, Monkey's Audio, MP3, Musepack, Ogg Opus, Ogg FLAC, Ogg Speex, Ogg 
-Theora, Ogg Vorbis, True Audio, WavPack and OptimFROG audio files. All 
-versions of ID3v2 are supported, and all standard ID3v2.4 frames are 
-parsed. It can read Xing headers to accurately calculate the bitrate and 
-length of MP3s. ID3 and APEv2 tags can be edited regardless of audio 
-format. It can also manipulate Ogg streams on an individual packet/page 
-level.</description>
-    <disclaimer lang="en">Code taken from http://code.google.com/p/mutagen/</disclaimer>
-    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-    <website>http://code.google.com/p/mutagen/</website>
-    <source>https://bitbucket.org/lazka/mutagen/overview</source>
-  </extension>
-</addon>
-	
-	
 
-	
-	
 
-	
-	
 
-	
-	
 
-	
-	
-
-	
 </addons>
