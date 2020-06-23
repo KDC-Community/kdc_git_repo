@@ -1,6 +1,4 @@
 script.module.brotli*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/script.module.brotli/script.module.brotli.zip*module.png
-script.module.beautifulsoup*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/script.module.beautifulsoup/script.module.beautifulsoup-3.2.1.zip*module.png
-script.module.beautifulsoup4*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/script.module.beautifulsoup4/script.module.beautifulsoup4-4.6.2.zip*module.png
 script.module.urllib3*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/script.module.urllib3/script.module.urllib3-1.25.3.zip*module.png
 script.module.xmltodict*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/script.module.xmltodict/script.module.xmltodict-0.11.0.zip*module.png
 script.module.chardet*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/script.module.chardet/script.module.chardet-3.0.4.zip*module.png
