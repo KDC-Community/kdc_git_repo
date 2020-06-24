@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="plugin.program.addon.updater"
-		name="[COLOR blue]Addon Updater[/COLOR]"
+		name="[B][COLOR antiquewhite]Addon Updater[/B][/COLOR]"
 		version="2019.10.10"
-		provider-name="[COLOR blue]Ctrl_Esc[/COLOR]">
+		provider-name="[B][COLOR antiquewhite]Ctrl_Esc[/B][/COLOR]">
 	<requires>
 		<import addon="xbmc.python" version="2.7.13" />
 	</requires>
