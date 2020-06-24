@@ -1,9 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<addon
-  id="visualization.milkdrop"
-  version="2.0.4"
-  name="MilkDrop"
-  provider-name="Team Kodi">
+<addon id="visualization.milkdrop" version="2.0.4" name="MilkDrop" provider-name="Team Kodi">
   <requires>
 <import addon="kodi.binary.global.main" version="1.0.14"/>
 <import addon="kodi.binary.instance.visualization" version="2.0.1"/></requires>
