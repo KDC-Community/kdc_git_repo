@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.takealug" name="takealug.de Add-ons" version="1.0.1" provider-name="DeBaschdi">
+	<extension point="xbmc.addon.repository" name="TAKEALUG">
+		<info compressed="true">https://raw.githubusercontent.com/DeBaschdi/repo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/DeBaschdi/repo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/DeBaschdi/repo/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Takealug Repository</summary>
+	    <description lang="en">This is the official Repository of the german Community 'Takelug' which you'll find at www.takealug.de. This Repository are supported by DeBaschdi. Enjoy!</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
