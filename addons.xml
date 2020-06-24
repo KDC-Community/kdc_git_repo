@@ -722,21 +722,18 @@ https://www.facebook.com/groups/raspikdc
 
 <addon id="plugin.video.hdfilme.cc"
 		name="[COLOR lime]HD-Filme.cc[/COLOR]"
-		version="1.0.0"
+		version="1.2.2"
 		provider-name="Loki1979">
 	<requires>
         <import addon="xbmc.python" version="2.7.13" />
-		<import addon="script.module.hsk.de"/>
-        <!-- choose your resolver -->
-		<!-- <import addon="script.module.resolveurl"/> -->
-		<!-- <import addon="script.module.urlresolver"/> -->
-        <!-- choose your resolver -->
+		<import addon="script.module.hsk.de" version="1.1.0"/>
+		<import addon="script.module.hls.cache" version="1.0.6"/>
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="addon.py">
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-	<summary>181220191730</summary>
+	<summary>150320201230</summary>
 	<description>Umsetzung der Website:
 https://hdfilme.cc</description>
 	<disclaimer></disclaimer>
@@ -1016,17 +1013,18 @@ http://www.texxas.de/rss/</description>
 
 <addon id="plugin.video.xcine.tv"
 		name="[COLOR gold]X-Cine.tv[/COLOR]"
-		version="1.0.5"
+		version="1.2.0"
 		provider-name="Loki1979">
 	<requires>
         <import addon="xbmc.python" version="2.7.13" />
 		<import addon="script.module.hsk.de"/>
+		<import addon="script.module.hls.cache"/>
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="addon.py">
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-	<summary>240120201330</summary>
+	<summary>250520200240</summary>
 	<description>Umsetzung der Website:
 https://xcine.tv</description>
 	<disclaimer></disclaimer>
@@ -1561,7 +1559,7 @@ You can clone the project and host it in your own server.
 
 <addon id="script.module.hls.cache"
 		name="[COLOR blue]HLS-CACHE[/COLOR]"
-		version="1.0.2"
+		version="1.0.8"
 		provider-name="Loki1979">
 	<requires>
         <import addon="xbmc.python" version="2.7.13"/>
@@ -1574,9 +1572,11 @@ You can clone the project and host it in your own server.
 	<extension point="xbmc.addon.metadata">
 	<summary>Created by loki1979</summary>
 	<description>
-1.) import hls
-2.) hls.cache_loader(m3u8_url,m3u8_headers={},segment_headers={})
-3.) Activate web interface !</description>
+1.) import addon="script.module.hls.cache"
+2.) import hls
+3.) hls.cache_loader(m3u8_url,m3u8_headers={},segment_headers={})
+4.) Activate web interface !
+	</description>
 	<disclaimer></disclaimer>
 	<language></language>
 	<platform>all</platform>
@@ -1599,14 +1599,14 @@ You can clone the project and host it in your own server.
 
 <addon id="script.module.hsk.de"
 		name="[COLOR blue]MODULE HSK DE[/COLOR]"
-		version="1.0.0"
+		version="1.1.2"
 		provider-name="[COLOR blue]Loki1979[/COLOR]">
 	<requires>
 		<import addon="xbmc.python" version="2.7.13" />
 	</requires>
 	<extension point="xbmc.python.module" library="resources/lib" />
 	<extension point="xbmc.addon.metadata">
-	<summary>[COLOR blue]181220191730[/COLOR]</summary>
+	<summary>[COLOR blue]040620200930[/COLOR]</summary>
 	<description></description>
 	<disclaimer></disclaimer>
 	<language></language>

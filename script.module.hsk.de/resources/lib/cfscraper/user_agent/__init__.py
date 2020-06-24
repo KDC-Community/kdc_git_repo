@@ -47,7 +47,7 @@ class User_Agent():
         for browser in user_agents:
             for release in user_agents[browser]['releases']:
                 for platform in ['mobile', 'desktop']:
-                    if re.search(self.custom, ' '.join(user_agents[browser]['releases'][release]['User-Agent'][platform])):
+                    if re.search(re.escape(self.custom), ' '.join(user_agents[browser]['releases'][release]['User-Agent'][platform])):
                         self.browser = browser
                         self.loadHeaders(user_agents, release)
                         self.headers['User-Agent'] = self.custom
@@ -74,17 +74,18 @@ class User_Agent():
             sys.tracebacklimit = 0
             raise RuntimeError("Sorry you can't have mobile and desktop disabled at the same time.")
 
-        user_agents = json.load(
-            open(os.path.join(os.path.dirname(__file__), 'browsers.json'), 'r'),
-            object_pairs_hook=OrderedDict
-        )
+        with open(os.path.join(os.path.dirname(__file__), 'browsers.json'), 'r') as fp:
+            user_agents = json.load(
+                fp,
+                object_pairs_hook=OrderedDict
+            )
 
         if self.custom:
             if not self.tryMatchCustom(user_agents):
                 self.cipherSuite = [
                     ssl._DEFAULT_CIPHERS,
-                    '!ECDHE+SHA',
-                    '!AES128-SHA'
+                    '!AES128-SHA',
+                    '!ECDHE-RSA-AES256-SHA',
                 ]
                 self.headers = OrderedDict([
                     ('User-Agent', self.custom),

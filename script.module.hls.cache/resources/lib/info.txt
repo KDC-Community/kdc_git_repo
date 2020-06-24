@@ -1,4 +1,4 @@
-certifi 2020.4.5.1
+certifi 2020.4.5.2
 https://pypi.org/project/certifi/
 
 chardet 3.0.4
@@ -10,9 +10,9 @@ https://pypi.org/project/idna/
 requests 2.23.0
 https://pypi.org/project/requests/
 
-urllib3 1.25.8
+urllib3 1.25.9
 https://pypi.org/project/urllib3/
 
 ##################################
-# LAST UPDATE 15.04.2020 - 21:30 #
+# LAST UPDATE 13.06.2020 - 08:00 #
 ##################################

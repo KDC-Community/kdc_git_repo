@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <settings>
-	<category label="SETTINGS">
+	<category label="CACHE SETTINGS">
 		<setting label="[COLOR red]IP[/COLOR]" type="text" id="ip" default=""/>
 		<setting label="[COLOR red]PORT[/COLOR]" type="number" id="port" default="8080"/>
 		<setting type="sep"/>
-		<setting label="[COLOR blue]CACHE FORWARD[/COLOR]" type="labelenum" id="cache_forward" values="1|2|3|3|4|5" default="1"/>
-		<setting label="[COLOR blue]CACHE MULTIPLIER[/COLOR]" type="labelenum" id="cache_multiplier" values="0|8|16|32|40" default="16"/>
-		<setting label="[COLOR blue]DOWNLOAD DELAY[/COLOR]" type="labelenum" id="download_delay" values="0|100|200|300|400|500" default="500"/>
+		<setting label="[COLOR blue]CACHE FORWARD[/COLOR]" type="labelenum" id="cache_forward" values="1|2|3|3|4|5|6|7|8|9|10" default="4"/>
+		<setting label="[COLOR blue]CACHE MULTIPLIER[/COLOR]" type="labelenum" id="cache_multiplier" values="0|4|8|16|32|64|128|256|512|1024" default="8"/>
+		<setting label="[COLOR blue]DOWNLOAD DELAY[/COLOR]" type="labelenum" id="download_delay" values="0|50|100|150|200|250|300|350|400|450|500" default="200"/>
+	</category>
+	<category label="LOG SETTINGS">
+		<setting label="[COLOR blue]IMPORT KODI LOG[/COLOR]" type="bool" id="import_kodi_log" default="false"/>
 	</category>
 </settings>

@@ -6,9 +6,20 @@ import requests
 try:
     import polling
 except ImportError:
-    import sys
-    sys.tracebacklimit = 0
-    raise RuntimeError("Please install the python module 'polling' via pip or download it from https://github.com/justiniso/polling/")
+    raise ImportError(
+        "Please install the python module 'polling' via pip or download it from "
+        "https://github.com/justiniso/polling/"
+    )
+
+from ..exceptions import (
+    reCaptchaException,
+    reCaptchaServiceUnavailable,
+    reCaptchaAccountError,
+    reCaptchaTimeout,
+    reCaptchaParameter,
+    reCaptchaBadJobID,
+    reCaptchaReportError
+)
 
 from . import reCaptcha
 
@@ -20,7 +31,7 @@ class captchaSolver(reCaptcha):
         self.host = 'http://api.dbcapi.me/api'
         self.session = requests.Session()
 
-        # ------------------------------------------------------------------------------- #
+    # ------------------------------------------------------------------------------- #
 
     @staticmethod
     def checkErrorStatus(response):
@@ -34,21 +45,21 @@ class captchaSolver(reCaptcha):
         )
 
         if response.status_code in errors:
-            raise RuntimeError(errors.get(response.status_code))
+            raise reCaptchaServiceUnavailable(errors.get(response.status_code))
 
-        # ------------------------------------------------------------------------------- #
+    # ------------------------------------------------------------------------------- #
 
     def login(self, username, password):
         self.username = username
         self.password = password
 
         def _checkRequest(response):
-            if response.status_code == 200:
+            if response.ok:
                 if response.json().get('is_banned'):
-                    raise RuntimeError('DeathByCaptcha: Your account is banned.')
+                    raise reCaptchaAccountError('DeathByCaptcha: Your account is banned.')
 
                 if response.json().get('balanace') == 0:
-                    raise RuntimeError('DeathByCaptcha: insufficient credits.')
+                    raise reCaptchaAccountError('DeathByCaptcha: insufficient credits.')
 
                 return response
 
@@ -72,11 +83,13 @@ class captchaSolver(reCaptcha):
 
         self.debugRequest(response)
 
-        # ------------------------------------------------------------------------------- #
+    # ------------------------------------------------------------------------------- #
 
     def reportJob(self, jobID):
         if not jobID:
-            raise RuntimeError("DeathByCaptcha: Error bad job id to report failed reCaptcha.")
+            raise reCaptchaBadJobID(
+                "DeathByCaptcha: Error bad job id to report failed reCaptcha."
+            )
 
         def _checkRequest(response):
             if response.status_code == 200:
@@ -103,16 +116,20 @@ class captchaSolver(reCaptcha):
         if response:
             return True
         else:
-            raise RuntimeError("DeathByCaptcha: Error report failed reCaptcha.")
+            raise reCaptchaReportError(
+                "DeathByCaptcha: Error report failed reCaptcha."
+            )
 
-        # ------------------------------------------------------------------------------- #
+    # ------------------------------------------------------------------------------- #
 
     def requestJob(self, jobID):
         if not jobID:
-            raise RuntimeError("DeathByCaptcha: Error bad job id to request reCaptcha.")
+            raise reCaptchaBadJobID(
+                "DeathByCaptcha: Error bad job id to request reCaptcha."
+            )
 
         def _checkRequest(response):
-            if response.status_code in [200, 303] and response.json().get('text'):
+            if response.ok and response.json().get('text'):
                 return response
 
             self.checkErrorStatus(response)
@@ -132,13 +149,15 @@ class captchaSolver(reCaptcha):
         if response:
             return response.json().get('text')
         else:
-            raise RuntimeError("DeathByCaptcha: Error failed to solve reCaptcha.")
+            raise reCaptchaTimeout(
+                "DeathByCaptcha: Error failed to solve reCaptcha."
+            )
 
-        # ------------------------------------------------------------------------------- #
+    # ------------------------------------------------------------------------------- #
 
-    def requestSolve(self, site_url, site_key):
+    def requestSolve(self, url, siteKey):
         def _checkRequest(response):
-            if response.status_code in [200, 303] and response.json().get("is_correct") and response.json().get('captcha'):
+            if response.ok and response.json().get("is_correct") and response.json().get('captcha'):
                 return response
 
             self.checkErrorStatus(response)
@@ -154,8 +173,8 @@ class captchaSolver(reCaptcha):
                     'password': self.password,
                     'type': '4',
                     'token_params': json.dumps({
-                        'googlekey': site_key,
-                        'pageurl': site_url
+                        'googlekey': siteKey,
+                        'pageurl': url
                     })
                 },
                 allow_redirects=False
@@ -168,32 +187,45 @@ class captchaSolver(reCaptcha):
         if response:
             return response.json().get('captcha')
         else:
-            raise RuntimeError('DeathByCaptcha: Error no job id was returned.')
+            raise reCaptchaBadJobID(
+                'DeathByCaptcha: Error no job id was returned.'
+            )
 
-        # ------------------------------------------------------------------------------- #
+    # ------------------------------------------------------------------------------- #
 
-    def getCaptchaAnswer(self, site_url, site_key, reCaptchaParams):
+    def getCaptchaAnswer(self, captchaType, url, siteKey, reCaptchaParams):
         jobID = None
 
         for param in ['username', 'password']:
             if not reCaptchaParams.get(param):
-                raise ValueError("DeathByCaptcha: Missing '{}' parameter.".format(param))
+                raise reCaptchaParameter(
+                    "DeathByCaptcha: Missing '{}' parameter.".format(param)
+                )
             setattr(self, param, reCaptchaParams.get(param))
+
+        if captchaType == 'hCaptcha':
+            raise reCaptchaException(
+                'Provider does not support hCaptcha.'
+            )
 
         if reCaptchaParams.get('proxy'):
             self.session.proxies = reCaptchaParams.get('proxies')
 
         try:
-            jobID = self.requestSolve(site_url, site_key)
+            jobID = self.requestSolve(url, siteKey)
             return self.requestJob(jobID)
         except polling.TimeoutException:
             try:
                 if jobID:
                     self.reportJob(jobID)
             except polling.TimeoutException:
-                raise RuntimeError("DeathByCaptcha: reCaptcha solve took to long and also failed reporting the job.")
+                raise reCaptchaTimeout(
+                    "DeathByCaptcha: reCaptcha solve took to long and also failed reporting the job id {}.".format(jobID)
+                )
 
-            raise RuntimeError("DeathByCaptcha: reCaptcha solve took to long to execute, aborting.")
+            raise reCaptchaTimeout(
+                "DeathByCaptcha: reCaptcha solve took to long to execute job id {}, aborting.".format(jobID)
+            )
 
 
 # ------------------------------------------------------------------------------- #
