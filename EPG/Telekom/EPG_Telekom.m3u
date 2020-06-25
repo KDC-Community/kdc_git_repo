@@ -1,0 +1,537 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Sky Cinema" tvg-name="Sky Cinema" tvg-logo="https://bit.ly/2DFO29P" group-title="Sky",SKY CINEMA x
+plugin://script.module.limitless-swiftstreamz/play/26/1296/play.pvr
+
+#EXTINF:-1 tvg-id="Sky Cinema +1" tvg-name="Sky Cinema +1" tvg-logo="https://bit.ly/2I9y8aG" group-title="Sky",SKY CINEMA + 1 x
+plugin://script.module.limitless-swiftstreamz/play/26/1297/play.pvr
+
+#EXTINF:-1 tvg-id="Sky Cinema+24" tvg-name="SKY CINEMA24 HD" tvg-logo="https://bit.ly/2raRe6B" group-title="Sky",SKY CINEMA24 x
+plugin://script.module.limitless-swiftstreamz/play/26/1298/play.pvr
+
+#EXTINF:-1 tvg-id="Sky Action" tvg-name="SKY ACTION HD" tvg-logo="https://bit.ly/2rbUBJJ" group-title="Sky",SKY ACTION x
+plugin://script.module.limitless-swiftstreamz/play/26/1299/play.pvr
+
+#EXTINF:-1 tvg-id="Sky Cinema Hits HD" tvg-name="Sky Cinema Hits" tvg-logo="https://bit.ly/2jjUjx8" group-title="Sky",SKY CINEMA HITS x
+plugin://script.module.limitless-swiftstreamz/play/26/1313/play.pvr
+
+#EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="Sky Atlantic HD" tvg-logo="https://bit.ly/2FtzyHZ" group-title="Sky",SKY ATLANTIC x
+plugin://script.module.limitless-swiftstreamz/play/26/1300/play.pvr
+
+#EXTINF:-1 tvg-id="Sky Comedy" tvg-name="SKY COMEDY HD" tvg-logo="https://bit.ly/2HDK1Gr" group-title="Sky",SKY COMEDY x
+plugin://script.module.limitless-swiftstreamz/play/26/1301/play.pvr
+
+#EXTINF:-1 tvg-id="Sky Emotion" tvg-name="Sky Emotion" tvg-logo="https://bit.ly/2HBUt17" group-title="Sky",SKY EMOTION x
+plugin://script.module.limitless-tvtap/play/399/play.pvr
+
+#EXTINF:-1 tvg-id="Sky Cinema Family" tvg-name="Sky Cinema Family" tvg-logo="https://bit.ly/2r6JjGK" group-title="Sky",SKY CINEMA FAMILY
+http://
+
+#EXTINF:-1 tvg-id="Sony Channel" tvg-name="Sony Channel" tvg-logo="https://bit.ly/2rbLAk6" group-title="Sky",SONY ENTERTAINMENT TV
+http://
+
+#EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="Universal Channel" tvg-logo="https://bit.ly/2HEZRAI" group-title="Sky",SKY UNIVERSAL
+http://
+
+#EXTINF:-1 tvg-id="Romance TV" tvg-name="Romance TV" tvg-logo="https://bit.ly/2xTz5go" group-title="Sky",SKY ROMANCE TV
+http://
+
+#EXTINF:-1 tvg-id="Sky Nostalgie" tvg-name="SKY NOSTALGIE HD" tvg-logo="https://bit.ly/2jhM0BG" group-title="Sky",SKY NOSTALGIE
+http://
+
+#EXTINF:-1 tvg-id="Sky Krimi" tvg-name="Sky Krimi" tvg-logo="https://bit.ly/2I1Jv4t" group-title="Sky",SKY KRIMI
+http://
+
+#EXTINF:-1 tvg-id="Sky 1" tvg-name="Sky 1 HD" tvg-logo="https://bit.ly/2rfopWa" group-title="Sky",Sky 1 x
+plugin://script.module.limitless-tvtap/play/597/play.pvr
+
+#EXTINF:-1 tvg-id="13TH STREET" tvg-name="13th Street" tvg-logo="https://bit.ly/2jizj9Z" group-title="Sky",13TH STREET
+http://
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="https://bit.ly/2I74zXD" group-title="Sky",AXN x
+plugin://script.module.limitless-swiftstreamz/play/26/1295/play.pvr
+
+#EXTINF:-1 tvg-id="KinoweltTV" tvg-name="Kinowelt.tv" tvg-logo="https://bit.ly/2rborhE" group-title="Sky",SKY KINOWELT
+http://
+
+#EXTINF:-1 tvg-id="Silverline" tvg-name="Silverline" tvg-logo="https://bit.ly/2CiOkSu" group-title="Sky",SILVERLINE
+http://
+
+#EXTINF:-1 tvg-id="TNT Film" tvg-name="TNT FILM HD" tvg-logo="https://bit.ly/2jjJACz" group-title="Sky",TNT FILM x
+plugin://script.module.limitless-swiftstreamz/play/26/1330/play.pvr
+
+#EXTINF:-1 tvg-id="TNT Serie" tvg-name="TNT Serie" tvg-logo="https://bit.ly/2vXmDhT" group-title="Sky",TNT Serie x
+plugin://script.module.limitless-swiftstreamz/play/26/1331/play.pvr
+
+#EXTINF:-1 tvg-id="TNT Comedy" tvg-name="TNT COMEDY FHD" tvg-logo="https://bit.ly/2w2tre8" group-title="Sky",TNT COMEDY x
+plugin://script.module.limitless-tvtap/play/654/play.pvr
+
+
+#EXTINF:-1 tvg-id="FOX" tvg-name="Fox HD" tvg-logo="https://bit.ly/2KrkHS6" group-title="Sky",FOX
+plugin://script.module.limitless-tvtap/play/653/play.pvr
+
+#EXTINF:-1 tvg-id="kabel eins CLASSICS" tvg-name="kabel eins CLASSICS" tvg-logo="https://bit.ly/2I4hNUN" group-title="Sky",KABEL EINS CLASSICS
+http://
+
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy HD" tvg-logo="https://bit.ly/2rbdAoN" group-title="Sky",SYFY x
+plugin://script.module.limitless-tvtap/play/597/play.pvr
+
+#EXTINF:-1 tvg-id="Classica" tvg-name="Classica" tvg-logo="https://bit.ly/2I4hNUN" group-title="Sky",Classica
+http://
+
+#EXTINF:-1 tvg-id="A&amp;E" tvg-name="A&amp;E" tvg-logo="https://bit.ly/2w2gEZf" group-title="Doku",A&E
+http://
+
+#EXTINF:-1 tvg-id="PLANET" tvg-name="PLANET" tvg-logo="https://bit.ly/2HCwKOB" group-title="Doku",PLANET
+http://
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="https://bit.ly/2HF93oU" group-title="Doku",Animal Planet x
+plugin://script.module.limitless-swiftstreamz/play/26/1333/play.pvr
+
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://bit.ly/2jjTyUJ" group-title="Doku",NAT GEO WILD x
+plugin://script.module.limitless-swiftstreamz/play/26/1312/play.pvr
+
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="NAT GEOGRAPHIC HD" tvg-logo="https://bit.ly/2jjALZO" group-title="Doku",NAT GEOGRAPHIC x
+plugin://script.module.limitless-swiftstreamz/play/26/1334/play.pvr
+
+#EXTINF:-1 tvg-id="National Geographic People" tvg-name="NAT GEO people" tvg-logo="https://bit.ly/2jjALZO" group-title="Doku",NAT GEOGRAPHIC People x
+plugin://script.module.limitless-swiftstreamz/play/26/1335/play.pvr
+
+#EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery Channel" tvg-logo="https://bit.ly/2HIan6j" group-title="Doku",DISCOVERY x
+plugin://script.module.limitless-swiftstreamz/play/26/1310/play.pvr
+
+#EXTINF:-1 tvg-id="SPIEGEL Geschichte" tvg-name="SPIEGEL GESCHICHTE FHD" tvg-logo="https://bit.ly/37pE6gv" group-title="Doku",SPIEGEL GESCHICHTE x
+plugin://script.module.limitless-swiftstreamz/play/26/1335/play.pvr
+
+#EXTINF:-1 tvg-id="SPIEGEL TV WISSEN" tvg-name="Spiegel TV Wissen HD" tvg-logo="https://bit.ly/2FxbMum" group-title="Doku",SPIEGEL WISSEN
+http://
+
+#EXTINF:-1 tvg-id="history" tvg-name="history" tvg-logo="https://bit.ly/2FygMze" group-title="Doku",HISTORY x
+plugin://script.module.limitless-swiftstreamz/play/26/1311/play.pvr
+
+#EXTINF:-1 tvg-id="Sky Select 1" tvg-name="SKY SELECT 1 HD" tvg-logo="http://static.iptv-epg.com/de/SkySelect1.de.png" group-title="Sky Select",Sky Select 1 x
+plugin://script.module.limitless-swiftstreamz/play/26/1314/play.pvr
+
+#EXTINF:-1 tvg-id="Sky Select 2" tvg-name="SKY SELECT 2 HD" tvg-logo="http://static.iptv-epg.com/de/SkySelect2.de.png" group-title="Sky Select",Sky Select 2 x
+plugin://script.module.limitless-swiftstreamz/play/26/1315/play.pvr
+
+#EXTINF:-1 tvg-id="Sky Select 3" tvg-name="SKY SELECT 3 HD" tvg-logo="http://static.iptv-epg.com/de/SkySelect3.de.png" group-title="Sky Select",Sky Select 3 x
+plugin://script.module.limitless-swiftstreamz/play/26/1316/play.pvr
+
+#EXTINF:-1 tvg-id="Sky Select 4" tvg-name="SKY SELECT 4" tvg-logo="http://static.iptv-epg.com/de/SkySelect3.de.png" group-title="Sky Select",Sky Select 4 x
+plugin://script.module.limitless-swiftstreamz/play/26/1317/play.pvr
+
+#EXTINF:-1 tvg-id="Sky Select 5" tvg-name="SKY SELECT 5 HD" tvg-logo="http://static.iptv-epg.com/de/SkySelect5.de.png" group-title="Sky Select",Sky Select 5 x
+plugin://script.module.limitless-swiftstreamz/play/26/1318/play.pvr
+
+#EXTINF:-1 tvg-id="Sky Select 6" tvg-name="SKY SELECT 6 HD" tvg-logo="http://static.iptv-epg.com/de/SkySelect6.de.png" group-title="Sky Select",Sky Select 6
+plugin://script.module.limitless-swiftstreamz/play/26/1318/play.pvr
+
+#EXTINF:-1 tvg-id="Sky Select 7" tvg-name="SKY SELECT 7 HD" tvg-logo="http://static.iptv-epg.com/de/SkySelect7.de.png" group-title="Sky Select",Sky Select 7
+plugin://script.module.limitless-swiftstreamz/play/26/1318/play.pvr
+
+#EXTINF:-1 tvg-id="Sky Select 8" tvg-name="SKY SELECT 8 HD" tvg-logo="http://static.iptv-epg.com/de/SkySelect8.de.png" group-title="Sky Select",Sky Select 8
+plugin://script.module.limitless-swiftstreamz/play/26/1318/play.pvr
+
+#EXTINF:-1 tvg-id="Sky Select 9" tvg-name="SKY SELECT 9 HD" tvg-logo="http://static.iptv-epg.com/de/SkySelect9.de.png" group-title="Sky Select",Sky Select 9
+plugin://
+
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="Das Erste" tvg-logo="https://bit.ly/2zwvZRq" group-title="Germany",ARD x
+https://mcdn.daserste.de/daserste/de/master_3744.m3u8
+
+#EXTINF:-1 tvg-id="ZDF" tvg-name="ZDF" tvg-logo="https://bit.ly/2DLcWXV" group-title="Germany",ZDF x
+https://zdf-hls-01.akamaized.net/hls/live/2002460/de/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-id="WDR" tvg-name="WDR Fernsehen" tvg-logo="https://bit.ly/2NHaq9s" group-title="Germany",WDR x
+http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/index_3776_av-p.m3u8
+
+#EXTINF:-1 tvg-id="NDR" tvg-name="NDR Fernsehen" tvg-logo="https://bit.ly/39uo3z6" group-title="Germany",NDR x
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Sylt1" tvg-name="Sylt 1" tvg-logo="ext" group-title="Germany",Sylt 1 x
+http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="MDR" tvg-name="MDR Fernsehen HD" tvg-logo="https://bit.ly/2AepW4m" group-title="Germany",MDR x
+http://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/index_3776_av-b.m3u8
+
+#EXTINF:-1 tvg-id="RBB" tvg-name="RBB Fernsehen tvg-logo="https://bit.ly/2Cn45Jp" group-title="Germany",RBB BERLIN x
+https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="HR" tvg-name="hr-fernsehen" tvg-logo="https://bit.ly/38sSPs3" group-title="Germany",HR Fernsehen x
+http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-b.m3u8
+
+#EXTINF:-1 tvg-id="SWR/SR" tvg-name="SWR Fernsehen HD" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/22612.png" group-title="Germany",SWR Fernsehen x
+http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8
+
+#EXTINF:-1 tvg-id="BR" tvg-name="BR Fernsehen" tvg-logo="https://bit.ly/2OSGCoN" group-title="Germany",BR Fernsehen x
+https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-id="3sat" tvg-name="3 Sat" tvg-logo="https://bit.ly/2N2ewUw" group-title="Germany",3 SAT x
+https://zdfhls18-i.akamaihd.net/hls/live/744751/dach/3/3.m3u8
+
+#EXTINF:-1 tvg-id="ARTE" tvg-name="arte" tvg-logo="https://bit.ly/37ocwjG" group-title="Germany",ARTE x
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-id="PHOENIX" tvg-name="PHOENIX" tvg-logo="https://bit.ly/2N6mSue" group-title="Germany",PHOENIX x
+https://zdfhls19-i.akamaihd.net/hls/live/744752/de/4/4.m3u8
+
+#EXTINF:-1 tvg-id="SRF 1" tvg-name="SRF 1" tvg-logo="https://bit.ly/2NC7cmS" group-title="Germany",SRF 1
+http://
+
+#EXTINF:-1 tvg-id="SRF zwei" tvg-name="SRF zwei" tvg-logo="https://bit.ly/2yoGTaT" group-title="Germany",SRF 2
+http://
+
+#EXTINF:-1 tvg-id="ORF 1" tvg-name="ORF 1" tvg-logo="https://bit.ly/2HnsGPE" group-title="Germany",ORF 1 x
+plugin://script.module.limitless-tvtap/play/391/play.pvr
+
+#EXTINF:-1 tvg-id="ORF 2" tvg-name="ORF 2" tvg-logo="https://bit.ly/2UPMcfB" group-title="Germany",ORF 2 x
+plugin://script.module.limitless-tvtap/play/390/play.pvr
+
+#EXTINF:-1 tvg-id="ARD ALPHA" tvg-name="ARD-alpha" tvg-logo="https://bit.ly/2P8Dqpx" group-title="Germany",ARD-alpha x
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-id="ONE" tvg-name="One" tvg-logo="https://bit.ly/2u0qfzu" group-title="Germany",One x
+https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="ZDFinfo" tvg-name="ZDFinfo" tvg-logo="https://bit.ly/2NNMVMd" group-title="Germany",ZDF INFO x
+https://zdfhls17-i.akamaihd.net/hls/live/744750/de/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-id="ZDFneo" tvg-name="ZDFneo" tvg-logo="https://bit.ly/2R2tJIr" group-title="Germany",ZDF NEO x
+https://zdf-hls-02.akamaized.net/hls/live/2002461/de/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-id="tagesschau24" tvg-name="tagesschau24" tvg-logo="https://bit.ly/2R2tJIr" group-title="Germany",tagesschau24 x
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+
+#EXTINF:-1 tvg-id="ServusTV Deutschland" tvg-name="ServusTV" tvg-logo="https://bit.ly/2J340vM" group-title="Doku",SERVUS x
+https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8
+
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX FHD" tvg-logo="https://bit.ly/2IiNO9f" group-title="Doku",DMAX x
+plugin://script.module.limitless-swiftstreamz/play/4/341/play.pvr
+
+#EXTINF:-1 tvg-id="n-tv" tvg-name="N-TV" tvg-logo="https://bit.ly/2OVs3Ph" group-title="Doku",N-TV x
+plugin://script.module.limitless-swiftstreamz/play/26/1308/play.pvr
+
+#EXTINF:-1 tvg-id="WELT" tvg-name="WELT" tvg-logo="https://bit.ly/2R6rAix" group-title="Doku",WELT x
+http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8
+
+#EXTINF:-1 tvg-id="N24 Doku" tvg-name="N24 Doku" tvg-logo="https://bit.ly/2ylbbv8" group-title="Doku",N24 DOKU x
+plugin://plugin.video.joyn/?video_id=n24-de&stream_type=LIVE&mode=play_video&mode=12
+
+#EXTINF:-1 tvg-id="euronews" tvg-name="euronews" tvg-logo="https://bit.ly/2xIlrNN" group-title="Doku",EURONEWS
+http://
+
+#EXTINF:-1 tvg-id="SAT.1" tvg-name="Sat.1" tvg-logo="https://bit.ly/2xT59RA" group-title="Germany",SAT.1 x
+plugin://script.module.limitless-swiftstreamz/play/26/1306/play.pvr
+
+#EXTINF:-1 tvg-id="SAT.1 Gold" tvg-name="Sat.1 Gold" tvg-logo="https://bit.ly/2ylcAlo" group-title="Germany",SAT 1 GOLD x
+plugin://plugin.video.joyn/?video_id=sat1gold-de&stream_type=LIVE&mode=play_video&mode=12
+
+#EXTINF:-1 tvg-id="SAT.1 emotions" tvg-name="SAT.1 emotions" tvg-logo="https://bit.ly/2ylcAlo" group-title="Germany",SAT.1 EMOTIONS x
+http://
+
+#EXTINF:-1 tvg-id="RTL" tvg-name="RTL" tvg-logo="https://bit.ly/2y2vEUP" group-title="Germany",RTL x
+plugin://script.module.limitless-swiftstreamz/play/26/1289/play.pvr
+
+#EXTINF:-1 tvg-id="RTL II" tvg-name="RTL 2" tvg-logo="https://bit.ly/2Qdj3VV" group-title="Germany",RTL 2 x
+plugin://script.module.limitless-swiftstreamz/play/26/1290/play.pvr
+
+#EXTINF:-1 tvg-id="SUPER RTL" tvg-name="Super RTL" tvg-logo="https://bit.ly/2DyQXD7" group-title="Germany",SUPER RTL x
+plugin://script.module.limitless-swiftstreamz/play/26/1291/play.pvr
+
+#EXTINF:-1 tvg-id="RTL Living" tvg-name="RTL Living" tvg-logo="https://bit.ly/2ra3wvt" group-title="Germany",RTL LIVING
+http://
+
+#EXTINF:-1 tvg-id="RTL Crime" tvg-name="RTL Crime" tvg-logo="https://bit.ly/2zzZthr" group-title="Germany",RTL CRIME x
+plugin://script.module.limitless-swiftstreamz/play/26/1294/play.pvr
+
+#EXTINF:-1 tvg-id="RTL Passion" tvg-name="RTL Passion" tvg-logo="https://bit.ly/2x7fNnW" group-title="Germany",RTL PASSION x
+plugin://script.module.limitless-swiftstreamz/play/26/1293/play.pvr
+
+#EXTINF:-1 tvg-id="RTLplus" tvg-name="RTL plus" tvg-logo="https://bit.ly/2MsGSqG" group-title="Germany",RTL PLUS
+http://
+
+#EXTINF:-1 tvg-id="NITRO" tvg-name="NITRO" tvg-logo="https://bit.ly/2QWAUkj" group-title="Germany",RTL NITRO x
+plugin://script.module.limitless-swiftstreamz/play/26/1292/play.pvr
+
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="ProSieben HD" tvg-logo="https://bit.ly/2N8poQC" group-title="Germany",PROSIEBEN x
+plugin://script.module.limitless-swiftstreamz/play/26/1303/play.pvr
+
+#EXTINF:-1 tvg-id="ProSieben MAXX" tvg-name="ProSieben MAXX HD" tvg-logo="https://bit.ly/2NWMn31" group-title="Germany",PRO 7 MAXX x
+plugin://script.module.limitless-tvtap/play/393/play.pvr
+
+#EXTINF:-1 tvg-id="ProSieben Fun" tvg-name="ProSieben Fun" tvg-logo="https://bit.ly/2NGoteK" group-title="Germany",PROSIEBEN FUN
+http://
+
+#EXTINF:-1 tvg-id="kabel eins" tvg-name="Kabel 1" tvg-logo="https://bit.ly/2Dy69An" group-title="Germany",KABEL 1 x
+plugin://
+
+#EXTINF:-1 tvg-id="kabel eins Doku" tvg-name="kabel eins Doku" tvg-logo="https://bit.ly/2Nau0pG" group-title="Doku",KABEL EINS DOKU x
+plugin://
+
+#EXTINF:-1 tvg-id="VOX" tvg-name="Vox" tvg-logo="https://bit.ly/2xIiCwe" group-title="Germany",VOX x
+plugin://script.module.limitless-swiftstreamz/play/26/1304/play.pvr
+
+#EXTINF:-1 tvg-id="TELE 5" tvg-name="Tele 5" tvg-logo="https://bit.ly/2QetV6i" group-title="Germany",TELE 5
+http://
+
+#EXTINF:-1 tvg-id="sixx" tvg-name="sixx" tvg-logo="https://bit.ly/2NKCE3i" group-title="Germany",SIXX
+http://
+
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://bit.ly/2CPREXK" group-title="Germany",TLC
+http://
+
+#EXTINF:-1 tvg-id="ANIXE" tvg-name="Anixe HD" tvg-logo="https://bit.ly/39wU0XB" group-title="Germany",ANIXE
+http://
+
+#EXTINF:-1 tvg-id="KiKA" tvg-name="KiKA HD" tvg-logo="https://bit.ly/2RVQdLu" group-title="Kids",KIKA x
+plugin://script.module.limitless-swiftstreamz/play/26/1302/play.pvr
+
+#EXTINF:-1 tvg-id="TOGGO plus" tvg-name="Toggo+" tvg-logo="https://bit.ly/2UVvoUF" group-title="Kids",TOGGO PLUS
+http://
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://bit.ly/2HDTEoT" group-title="Kids",DISNEY CHANNEL x
+plugin://script.module.limitless-swiftstreamz/play/26/1328/play.pvr
+
+#EXTINF:-1 tvg-id="Disney Cinemagic" tvg-name="Disney Cinemagic" tvg-logo="https://bit.ly/2I3rpiA" group-title="Kids",DISNEY CINEMAGIC x
+plugin://script.module.limitless-tvtap/play/634/play.pvr
+
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="https://bit.ly/2FuORA3" group-title="Kids",DISNEY XD x
+plugin://script.module.limitless-swiftstreamz/play/26/1329/play.pvr
+
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://bit.ly/2vYAMLA" group-title="Kids",DISNEY JUNIOR
+http://
+
+#EXTINF:-1 tvg-id="NICK" tvg-name="nickelodeon" tvg-logo="https://bit.ly/2KsuVkT" group-title="Kids",NICKELODEON x
+http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr. HD" tvg-logo="https://bit.ly/2KsuVkT" group-title="Kids",Nick Jr. HD
+http://
+
+#EXTINF:-1 tvg-id="Junior" tvg-name="JUNIOR HD" tvg-logo="https://bit.ly/2waxyoQ" group-title="Kids",JUNIOR
+http://
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK HD" tvg-logo="https://bit.ly/2I2tviW" group-title="Kids",CARTOON NETWORK x
+plugin://script.module.limitless-tvtap/play/651/play.pvr
+
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://bit.ly/2CNXHvZ" group-title="Kids",BOOMERANG x
+plugin://script.module.limitless-tvtap/play/381/play.pvr
+
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="Comedy Central" tvg-logo="https://bit.ly/2rcET0T" group-title="Kids",COMEDY CENTRAL
+http://
+
+#EXTINF:-1 tvg-id="Deutsches Musik Ferns." tvg-name="Deutsches Musik Fernsehen" tvg-logo="https://bit.ly/2SpCbEg" group-title="Kids",Deutsches Musik Fernsehen
+http://
+
+#EXTINF:-1 tvg-id="Heimatkanal" tvg-name="HEIMAT KANAL HD" tvg-logo="https://bit.ly/2JGHp7g" group-title="Sky",HEIMAT KANAL
+http://
+
+#EXTINF:-1 tvg-id="E! Entertainm." tvg-name="E! Entertainm." tvg-logo="https://bit.ly/2raVzGd" group-title="Sky",E! ENTERTAINEMENT
+http://
+
+#EXTINF:-1 tvg-id="Gute Laune TV" tvg-name="Gute Laune TV" tvg-logo="https://bit.ly/3bAKjJH" group-title="Sky",Gute Laune TV
+http://
+
+#EXTINF:-1 tvg-id="BonGusto" tvg-name="Bon Gusto" tvg-logo="https://bit.ly/37mua79" group-title="Sky",Bon Gusto
+http://
+
+#EXTINF:-1 tvg-id="GoldStar TV" tvg-name="Goldstar TV" tvg-logo="https://bit.ly/2OUNz98" group-title="Sky",Goldstar TV
+http://
+
+#EXTINF:-1 tvg-id="Welt der Wunder" tvg-name="Welt der Wunder TV" tvg-logo="https://bit.ly/2J154At" group-title="Germany",WELT DER WUNDER
+http://
+
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://bit.ly/2w1TvG7" group-title="Germany",MTV x
+plugin://script.module.limitless-swiftstreamz/play/4/299/play.pvr
+
+#EXTINF:-1 tvg-id="MTV Brand New" tvg-name="MTV Brand New" tvg-logo="https://bit.ly/38qOYvO" group-title="Germany",MTV Brand New x
+plugin://script.module.limitless-swiftstreamz/play/4/300/play.pvr
+
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="https://bit.ly/39wrrcT" group-title="Germany",MTV Hits x
+plugin://script.module.limitless-swiftstreamz/play/4/303/play.pvr
+
+#EXTINF:-1 tvg-id="MTV Base" tvg-name="MTV Base" tvg-logo="ext" group-title="Germany",MTV BASE x
+plugin://script.module.limitless-swiftstreamz/play/4/301/play.pvr
+
+#EXTINF:-1 tvg-id="MTV Dance" tvg-name="MTV Dance" tvg-logo="ext" group-title="Germany",MTV Dance x
+plugin://script.module.limitless-swiftstreamz/play/4/302/play.pvr
+
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="ext" group-title="Germany",VH1 x
+plugin://script.module.limitless-swiftstreamz/play/4/336/play.pvr
+
+#EXTINF:-1 tvg-id="VH1 Classic" tvg-name="VH1 Classic" tvg-logo="ext" group-title="Germany",VH1 CLASSIC x
+plugin://script.module.limitless-swiftstreamz/play/4/334/play.pvr
+
+#EXTINF:-1 tvg-id="DELUXE MUSIC" tvg-name="DELUXE MUSIC" tvg-logo="https://bit.ly/2rcPUAc" group-title="Germany",DELUXE MUSIC
+http://
+
+#EXTINF:-1 tvg-id="NRJ TV HD" tvg-name="NRJ TV HD" tvg-logo="https://bit.ly/2VgvF1T" group-title="Sky",NRJ TV
+http://
+
+#EXTINF:-1 tvg-id="Jukebox" tvg-name="JUKEBOX HD" tvg-logo="https://bit.ly/2BMGuzS" group-title="Sky",JUKEBOX
+http://
+
+#EXTINF:-1 tvg-id="Sky Sport News HD" tvg-name="Sky Sport News HD" tvg-logo="https://bit.ly/2VtQIy6" group-title="Sport",SKY SPORT NEWS
+https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
+
+#EXTINF:-1 tvg-id="Sky Sport HD 1" tvg-name="Sky Sport 1 HD" tvg-logo="https://bit.ly/2rgO4Of" group-title="Sport",SKY SPORT 1 x
+plugin://script.module.limitless-swiftstreamz/play/26/1319/play.pvr
+
+#EXTINF:-1 tvg-id="Sky Sport 2 HD" tvg-name="Sky Sport 2 HD" tvg-logo="https://bit.ly/2HKYlJy" group-title="Sport",SKY SPORT 2 x
+plugin://script.module.limitless-swiftstreamz/play/26/1320/play.pvr
+
+#EXTINF:-1 tvg-id="Sky Sport 3 HD" tvg-name="Sky Sport 3 HD" tvg-logo="https://bit.ly/2HGc20g" group-title="Sport",SKY SPORT 3 x
+plugin://script.module.limitless-swiftstreamz/play/26/1321/play.pvr
+
+#EXTINF:-1 tvg-id="Sky Sport 4 HD" tvg-name="SKY SPORT 4 HD" tvg-logo="https://bit.ly/2rb6iR6" group-title="Sport",SKY SPORT 4 x
+plugin://script.module.limitless-swiftstreamz/play/26/1322/play.pvr
+
+#EXTINF:-1 tvg-id="Sky Sport 5 HD" tvg-name="SKY SPORT 5 HD" tvg-logo="https://bit.ly/2rcUhKK" group-title="Sport",SKY SPORT 5 x
+plugin://script.module.limitless-swiftstreamz/play/26/1323/play.pvr
+
+#EXTINF:-1 tvg-id="Bundesliga HD 1" tvg-name="Sky Bundesliga HD 1" tvg-logo="https://bit.ly/2Fuj8z3" group-title="Sport",SKY SPORT BUNDESLIGA 1 x
+plugin://script.module.limitless-swiftstreamz/play/26/1326/play.pvr
+
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2 HD" tvg-name="Sky Bundesliga HD 2" tvg-logo="https://bit.ly/2I3oWEQ" group-title="Sport",SKY SPORT BUNDESLIGA 2 x
+plugin://script.module.limitless-swiftstreamz/play/26/1327/play.pvr
+
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 3 HD" tvg-name="Sky Bundesliga HD 3" tvg-logo="https://bit.ly/2w9tNzR" group-title="Sport",SKY SPORT BUNDESLIGA 3
+http://
+
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 4 HD" tvg-name="Sky Bundesliga HD 4" tvg-logo="http://static.iptv-epg.com/de/SkyBundesliga4.de.png" group-title="Sport",SKY SPORT BUNDESLIGA 4
+http://
+
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://bit.ly/31Tewiv" group-title="Sport",DAZN x
+plugin://script.module.limitless-tvtap/play/777/play.pvr
+
+#EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN2" tvg-logo="https://bit.ly/31Tewiv" group-title="Sport",DAZN 2 x
+plugin://script.module.limitless-tvtap/play/778/play.pvr
+
+#EXTINF:-1 tvg-id="EXTREME SPORTS" tvg-name="EXTREME SPORTS" tvg-logo="https://bit.ly/38qCxjr" group-title="Sport",EXTREME SPORTS
+http://
+
+#EXTINF:-1 tvg-id="MyTeamTVFussball1.de" tvg-name="TELEKOM FUSSBALL 1 HD" tvg-logo="https://bit.ly/2QlRbyF" group-title="Sport",TELEKOM FUSSBALL 1
+plugin://
+
+#EXTINF:-1 tvg-id="MyTeamTVFussball2.de" tvg-name="TELEKOM FUSSBALL 2 HD" tvg-logo="https://bit.ly/2QlRbyF" group-title="Sport",TELEKOM FUSSBALL 2
+plugin://
+
+#EXTINF:-1 tvg-id="MyTeamTVFussball3.de" tvg-name="TELEKOM FUSSBALL 3 HD" tvg-logo="https://bit.ly/2QlRbyF" group-title="Sport",TELEKOM FUSSBALL 3
+http://
+
+#EXTINF:-1 tvg-id="MyTeamTVFussball4.de" tvg-name="TELEKOM FUSSBALL 4 HD" tvg-logo="https://bit.ly/2QlRbyF" group-title="Sport",TELEKOM FUSSBALL 4
+http://
+
+#EXTINF:-1 tvg-name="MyTeamTVFussball5.de" tvg-name="TELEKOM FUSSBALL 5 HD" tvg-logo="https://bit.ly/2QlRbyF" group-title="Sport",TELEKOM FUSSBALL 5
+http://
+
+#EXTINF:-1 tvg-name="MyTeamTVFussball6.de" tvg-name="TELEKOM FUSSBALL 6 HD" tvg-logo="https://bit.ly/2QlRbyF" group-title="Sport",TELEKOM FUSSBALL 6
+http://
+
+#EXTINF:-1 tvg-id="Sky Sport Austria" tvg-name="Sky Sport Austria" tvg-logo="https://bit.ly/2xQUkPT" group-title="Sport",SKY SPORT AUSTRIA x
+plugin://script.module.limitless-swiftstreamz/play/26/1325/play.pvr
+
+#EXTINF:-1 tvg-id="SPORT1" tvg-name="Sport1 HD" tvg-logo="https://bit.ly/2w0fSvx" group-title="Sport",SPORT 1 x
+plugin://script.module.limitless-tvtap/play/405/play.pvr
+
+#EXTINF:-1 tvg-id="SPORT1+" tvg-name="sport1+ HD" tvg-logo="https://bit.ly/2I3lCtq" group-title="Sport",SPORT 1+
+http://
+
+#EXTINF:-1 tvg-id="sportdigital" tvg-name="sportdigital HD" tvg-logo="https://bit.ly/2xIdM22" group-title="Sport",SPORT 1 DIGITAL
+http://
+
+#EXTINF:-1 tvg-id="SPORT1 US" tvg-name="Sport1 US" tvg-logo="https://bit.ly/2SNReGG" group-title="Sport",SPORT1 US
+http://
+
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport" tvg-logo="https://bit.ly/2HF2wun" group-title="Sport",EUROSPORT 1 x
+plugin://script.module.limitless-tvtap/play/385/play.pvr
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://bit.ly/2r9XxHK" group-title="Sport",EUROSPORT 2
+http://
+
+#EXTINF:-1 tvg-id="Eurosport 2 HD Xtra" tvg-name="Eurosport 2 HD Xtra" tvg-logo="https://bit.ly/2Ag18cl" group-title="Sport",EUROSPORT 2 XTRA
+http://
+
+#EXTINF:-1 tvg-id="Auto Motor Sport Ch." tvg-name="Auto Motor Sport Ch." tvg-logo="https://bit.ly/2jh4SAP" group-title="Sport",AUTO MOTOR SPORT
+http://
+
+#EXTINF:-1 tvg-id="Motorvision TV" tvg-name="Motorvision" tvg-logo="https://bit.ly/2jh4SAP" group-title="Sport",MOTORVISON TV
+http://
+
+
+
+#EXTINF:-1 tvg-id="Sky Sport F1 HD" tvg-name="SKY SPORT F1" tvg-logo="https://bit.ly/2LPYzBL" group-title="Sport",SKY SPORT F1
+http://
+
+#EXTINF:-1 tvg-id="KOMBAT SPORTS" tvg-name="KOMBAT SPORTS" tvg-logo="https://bit.ly/39vsTfJ" group-title="Sport",KOMBAT SPORTS x 
+plugin://script.module.limitless-swiftstreamz/play/25/1260/play.pvr
+
+#EXTINF:-1 tvg-id="C+ Toros" tvg-name="C+ Toros" tvg-logo="https://bit.ly/2CONi1V" group-title="Sport",TOROS TV x
+plugin://script.module.limitless-swiftstreamz/play/32/1501/play.pvr
+
+#EXTINF:-1 tvg-id="Sport1Extra.nl" tvg-name="Sport1Extra.nl" tvg-logo="ext" group-title="Sport",ZIGGO SPORT EXTRA 1 x
+plugin://script.module.limitless-swiftstreamz/play/29/1390/play.pvr
+
+#EXTINF:-1 tvg-id="Sport1Extra2.nl" tvg-name="Sport1Extra2.nl" tvg-logo="ext" group-title="Sport",ZIGGO SPORT EXTRA 2 x
+plugin://script.module.limitless-swiftstreamz/play/29/1391/play.pvr
+
+#EXTINF:-1 tvg-id="Ziggo Sport Golf" tvg-name="Ziggo Sport Golf" tvg-logo="ext" group-title="Sport",ZIGGO SPORT GOLF x
+plugin://script.module.limitless-swiftstreamz/play/29/1392/play.pvr
+
+#EXTINF:-1 tvg-id="Ziggo Sport Racing" tvg-name="Ziggo Sport Racing" tvg-logo="ext" group-title="Sport",ZIGGO SPORT RACING x
+plugin://script.module.limitless-swiftstreamz/play/29/1393/play.pvr
+
+#EXTINF:-1 tvg-id="Ziggo Sport Voetbal" tvg-name="Ziggo Sport Voetbal" tvg-logo="ext" group-title="Sport",ZIGGO SPORT VOETBAL x
+plugin://script.module.limitless-swiftstreamz/play/29/1394/play.pvr
+
+#EXTINF:-1 tvg-id="Ziggo Sport Select HD" tvg-name="Ziggo Sport Select HD" tvg-logo="ext" group-title="Sport",ZIGGO SPORT SELECT x
+plugin://script.module.limitless-swiftstreamz/play/29/1395/play.pvr
+
+#EXTINF:-1 tvg-id="Eleven Sports 1 (Monitor)" tvg-name="Eleven Sports 1 (Monitor)" tvg-logo="https://bit.ly/2SHrVoM" group-title="Sport",ELEVEN SPORTS 1 x
+plugin://script.module.limitless-swiftstreamz/play/30/1417/play.pvr
+
+#EXTINF:-1 tvg-id="Eleven Sports 2 (Monitor)" tvg-name="Eleven Sports 2 (Monitor)" tvg-logo="https://bit.ly/2SHrVoM" group-title="Sport",ELEVEN SPORTS 2 x
+plugin://script.module.limitless-swiftstreamz/play/30/1419/play.pvr
+
+#EXTINF:-1, tvg-id="Fox Sports News HD" tvg-name="Fox Sports News HD" tvg-logo="ext" group-title="Sport",FOX SPORTS NEWS x
+plugin://script.module.limitless-swiftstreamz/play/24/1221/play.pvr
+
+#EXTINF:-1, tvg-id="SKY Racing" tvg-name="SKY Racing" tvg-logo="ext" group-title="Sport",SKY RACING 1 x
+plugin://script.module.limitless-swiftstreamz/play/24/1224/play.pvr
+
+#EXTINF:-1, tvg-id="SKY Racing 2" tvg-name="SKY Racing 2" tvg-logo="ext" group-title="Sport",SKY RACING 2 x
+plugin://script.module.limitless-swiftstreamz/play/24/1225/play.pvr
+
+#EXTINF:-1, tvg-id="Do It Yourself Network (Canada)" tvg-name="Do It Yourself Network (Canada)" tvg-logo="ext" group-title="Doku",DIY NETWORK x
+plugin://script.module.limitless-swiftstreamz/play/17/1055/play.pvr
+
+#EXTINF:-1 tvg-id="Movistar Fórmula1" tvg-name="Movistar Fórmula1" tvg-logo="ext" group-title="Sport",MOVISTAR FORMULA 1 x
+plugin://script.module.limitless-swiftstreamz/play/32/1493/play.pvr
+
+#EXTINF:-1 tvg-id="C+ Fútbol" tvg-name="C+ Fútbol" tvg-logo="ext" group-title="Sport",MOVISTAR FUTBOL x
+plugin://script.module.limitless-swiftstreamz/play/32/1494/play.pvr
+
+#EXTINF:-1 tvg-id="C+ Golf" tvg-name="C+ Golf" tvg-logo="ext" group-title="Sport",MOVISTAR GOLF x
+plugin://script.module.limitless-swiftstreamz/play/32/1502/play.pvr
+
+#EXTINF:-1 tvg-id="Movistar Moto GP" tvg-name="Movistar Moto GP" tvg-logo="ext" group-title="Sport",MOVISTAR MOTO GP x
+plugin://script.module.limitless-swiftstreamz/play/32/1491/play.pvr
+
+#EXTINF:-1 tvg-id="C+ Liga" tvg-name="C+ Liga" tvg-logo="ext" group-title="Sport",LIGA 123 x 
+plugin://script.module.limitless-swiftstreamz/play/32/1503/play.pvr
+
+#EXTINF:-1 tvg-id="C+ Liga Multi" tvg-name="C+ Liga Multi" tvg-logo="ext" group-title="Sport",LIGA DE CAMPEONES x 
+plugin://script.module.limitless-swiftstreamz/play/32/1505/play.pvr
+
+#EXTINF:-1 tvg-id="MILAN TV" tvg-name="MILAN TV" tvg-logo="ext" group-title="Sport",MILAN TV x
+plugin://script.module.limitless-swiftstreamz/play/27/1366/play.pvr
+
+#EXTINF:-1 tvg-id="SPORTING TV" tvg-name="SPORTING TV" tvg-logo="ext" group-title="Sport",SPORTING TV x
+plugin://script.module.limitless-swiftstreamz/play/25/1256/play.pvr
+
+#EXTINF:-1 tvg-id="TRAVEL CHANNEL" tvg-name="TRAVEL CHANNEL" tvg-logo="ext" group-title="Doku",TRAVEL CHANNEL x 
+plugin://script.module.limitless-swiftstreamz/play/25/1252/play.pvr
+
+
+
+
