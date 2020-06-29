@@ -77,7 +77,7 @@ else:
 if not os.path.isdir(dataPath):
 	os.makedirs(dataPath)
 
-if myTOKEN == 'AIzaSy.................................':
+if myTOKEN == 'AIzaSyA2msv9hCSCIhTAWXAMZOp33EOwvacf_uQ':
 	xbmc.executebuiltin('addon.openSettings({0})'.format(addon.getAddonInfo('id')))
 
 if cachePath == "":
