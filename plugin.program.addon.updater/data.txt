@@ -43,3 +43,4 @@ plugin.video.xcine.tv*https://github.com/KDC-Community/kdc_git_repo/raw/master/z
 repository.ctrl_esc*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/repository.ctrl_esc/repository.ctrl_esc-3.0.3.zip*Ctrl_Esc_Repo.png
 repository.takealug*https://github.com/DeBaschdi/repo/raw/master/repository.takealug-1.0.1.zip*takealug.png
 service.takealug.epg-grabber*https://github.com/DeBaschdi/repo/raw/master/service.takealug.epg-grabber/service.takealug.epg-grabber-0.3.8.zip*module.png
+plugin.video.spotitube*https://github.com/Collabsvito/Repo/raw/master/packages/plugin.video.spotitube/plugin.video.spotitube-2.1.7.zip*spotitube.png
