@@ -223,22 +223,18 @@ msgid "Billboard 200"
 msgstr ""
 
 msgctxt "#30632"
-msgid "Billboard ARCHIVE"
-msgstr ""
-
-msgctxt "#30633"
 msgid "Genres"
 msgstr ""
 
-msgctxt "#30634"
+msgctxt "#30633"
 msgid "Countries"
 msgstr ""
 
-msgctxt "#30635"
+msgctxt "#30634"
 msgid "More Choices"
 msgstr ""
 
-#empty strings from id 30636 to 30639
+#empty strings from id 30635 to 30639
 # DEUTSCHE-DJ-PLAYLIST - FOLDER
 
 msgctxt "#30640"
