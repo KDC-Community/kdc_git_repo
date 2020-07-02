@@ -90,9 +90,141 @@
       "video": "plugin://script.module.limitless-swiftstreamz/play/26/1329/play.pvr",
       "genre": "TV"
 	},
-    {
+	{
+	  "name": "3 SAT",
+      "thumb": "https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/3sat_1.png",
+      "video": "https://zdfhls18-i.akamaihd.net/hls/live/744751/dach/3/3.m3u8",
+      "genre": "TV"
+	},
+	{
+	  "name": "ARTE",
+      "thumb": "https://wp6-images-de-dynamic.horizon.tv/ChannelLogos/02/arte.png",
+      "video": "https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8",
+      "genre": "TV"
+	},
+	{
+	  "name": "SERVUS TV",
+      "thumb": "https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/servus_tv.png",
+      "video": "https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8",
+      "genre": "TV"
+	},
+	{
+	  "name": "WDR",
+      "thumb": "https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/wdr_koln.png",
+      "video": "http://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/index_3776_av-p.m3u8",
+      "genre": "TV"
+	},
+	{
+	  "name": "HR",
+      "thumb": "https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/hr_fernsehen_1.png",
+      "video": "http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-b.m3u8",
+      "genre": "TV"
+	},
+	{
+	  "name": "BR",
+      "thumb": "https://wp4-images-de-dynamic.horizon.tv/ChannelLogos/02/brf_sued.png",
+      "video": "https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/index_1_av-p.m3u8",
+      "genre": "TV"
+	},
+	{
+	  "name": "MDR",
+      "thumb": "https://wp23-images-de-dynamic.horizon.tv/ChannelLogos/02/mdr_sachsen.png",
+      "video": "http://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/index_3776_av-b.m3u8",
+      "genre": "TV"
+	},
+	{
+	  "name": "NDR",
+      "thumb": "https://wp12-images-de-dynamic.horizon.tv/ChannelLogos/02/ndr_fernsehen_hh.png",
+      "video": "https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-p.m3u8",
+      "genre": "TV"
+	},
+	{
+	  "name": "RBB",
+      "thumb": "https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/rbb_brandenburg.png",
+      "video": "https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_5_av-p.m3u8",
+      "genre": "TV"
+	},
+	{
+	  "name": "SWR",
+      "thumb": "https://wp3-images-de-dynamic.horizon.tv/ChannelLogos/02/swr_fs_bw.png",
+      "video": "http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8",
+      "genre": "TV"
+	},
+	{
+	  "name": "ZDF INFO",
+      "thumb": "https://wp10-images-de-dynamic.horizon.tv/ChannelLogos/02/zdf_info.png",
+      "video": "https://zdfhls17-i.akamaihd.net/hls/live/744750/de/veryhigh/master.m3u8",
+      "genre": "TV"
+	},
+	{
+	  "name": "ARD ALPHA",
+      "thumb": "https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/br-alpha.png",
+      "video": "https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/index_1_av-p.m3u8",
+      "genre": "TV"
+	},
+	{
+	  "name": "Nick/MTV+",
+      "thumb": "https://wp18-images-de-dynamic.horizon.tv/ChannelLogos/02/nick_mtvplus.png",
+      "video": "http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8",
+      "genre": "TV"
+	},
+	{
+	  "name": "ZDF NEO",
+      "thumb": "https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/zdf_neo_v2.png",
+      "video": "https://zdf-hls-02.akamaized.net/hls/live/2002461/de/veryhigh/master.m3u8",
+      "genre": "TV"
+	},
+	{
+	  "name": "SAT 1 GOLD",
+      "thumb": "https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/sat1_gold_1.png",
+      "video": "plugin://plugin.video.joyn/?video_id=sat1gold-de&stream_type=LIVE&mode=play_video&mode=12",
+      "genre": "TV"
+	},
+	{
+	  "name": "ONE",
+      "thumb": "https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/one_sd_1.png",
+      "video": "https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_5_av-p.m3u8",
+      "genre": "TV"
+	},
+	{
+	  "name": "SAT 1 GOLD",
+      "thumb": "https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/sat1_gold_1.png",
+      "video": "plugin://plugin.video.joyn/?video_id=sat1gold-de&stream_type=LIVE&mode=play_video&mode=12",
+      "genre": "TV"
+	},
+	{
+	  "name": "BOOMERANG",
+      "thumb": "https://wp10-images-de-dynamic.horizon.tv/ChannelLogos/02/boomerang_1.png",
+      "video": "plugin://script.module.limitless-tvtap/play/381/play.pvr",
+      "genre": "TV"
+	},
+	{
+	  "name": "SYLT 1",
+      "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8bawuwLuAFrUyD-R27cYha2S6d7Z4SdDBij5DN-z6hgpls3xg4qR0gSbGGPc&s",
+      "video": "http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8",
+      "genre": "TV"
+	},
+	{
+	  "name": "ORF 1",
+      "thumb": "https://bit.ly/2HnsGPE",
+      "video": "plugin://script.module.limitless-tvtap/play/391/play.pvr",
+      "genre": "TV"
+	},
+	{
+	  "name": "ORF 2",
+      "thumb": "https://bit.ly/2UPMcfB",
+      "video": "plugin://script.module.limitless-tvtap/play/390/play.pvr",
+      "genre": "TV"
+	},
+	{
+	  "name": "CARTOON NETWORK",
+      "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdZVWe2_vg_w4rAWNXZl6ZqJNx_ZlrhVWKicUtB8msin7gklqKuDfLGRKW3g&s",
+      "video": "plugin://script.module.limitless-tvtap/play/651/play.pvr",
+      "genre": "TV"
+	},
+	{
 	  "name": "PRO7 MAXX",
-      "thumb": "https://bit.ly/2NWMn31",
+      "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSajf53uvWgbY6Xgx3z2yl-U_E6S8L6FTsf1MbWelvFV5hvogqG-ruG3s4q9DY&s",
       "video": "plugin://script.module.limitless-swiftstreamz/play/26/1332/play.pvr",
       "genre": "TV"
 	}
@@ -156,6 +288,24 @@
 	  "name": "TNT SERIES",
       "thumb": "https://bit.ly/2vXmDhT",
       "video": "plugin://script.module.limitless-swiftstreamz/play/26/1331/play.pvr",
+      "genre": "SKY"
+	},
+    {
+	  "name": "SKY 1",
+      "thumb": "https://wp24-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_one_hd.png",
+      "video": "plugin://script.module.limitless-tvtap/play/597/play.pvr",
+      "genre": "SKY"
+	},
+    {
+	  "name": "TNT COMEDY",
+      "thumb": "https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/tnt_comedy.png",
+      "video": "plugin://script.module.limitless-tvtap/play/654/play.pvr",
+      "genre": "SKY"
+	},
+    {
+	  "name": "FOX",
+      "thumb": "https://wp22-images-de-dynamic.horizon.tv/ChannelLogos/02/fox_2.png",
+      "video": "plugin://script.module.limitless-tvtap/play/653/play.pvr",
       "genre": "SKY"
 	},
     {
@@ -265,6 +415,42 @@
       "genre": "DOKU"
 	},
 	{
+	  "name": "DMAX",
+      "thumb": "https://wp18-images-de-dynamic.horizon.tv/ChannelLogos/02/dmax.png",
+      "video": "plugin://script.module.limitless-swiftstreamz/play/4/341/play.pvr",
+      "genre": "DOKU"
+	},
+	{
+	  "name": "TAGESSCHAU 24",
+      "thumb": "https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/Tagesschau_24_1.png",
+      "video": "https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8",
+      "genre": "DOKU"
+	},
+	{
+	  "name": "WELT",
+      "thumb": "https://wp22-images-de-dynamic.horizon.tv/ChannelLogos/02/welt.png",
+      "video": "http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8",
+      "genre": "DOKU"
+	},
+	{
+	  "name": "PHOENIX",
+      "thumb": "https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/phoenix_das_ganze_bild.png",
+      "video": "https://zdfhls19-i.akamaihd.net/hls/live/744752/de/4/4.m3u8",
+      "genre": "DOKU"
+	},
+	{
+	  "name": "SPIEGEL GESCHICHTE",
+      "thumb": "https://wp5-images-de-dynamic.horizon.tv/ChannelLogos/02/spiegel_geschichte_1.png",
+      "video": "plugin://script.module.limitless-swiftstreamz/play/26/1335/play.pvr",
+      "genre": "DOKU"
+	},
+	{
+	  "name": "N24 DOKU",
+      "thumb": "https://wp6-images-de-dynamic.horizon.tv/ChannelLogos/02/n24_doku_2.png",
+      "video": "plugin://script.module.limitless-swiftstreamz/play/4/333/play.pvr",
+      "genre": "DOKU"
+	},
+	{
 	  "name": "DIY NETWORK",
       "thumb": "https://bit.ly/2VwxHdS",
       "video": "plugin://script.module.limitless-swiftstreamz/play/17/1055/play.pvr",
@@ -324,6 +510,36 @@
 	  "name": "SKY SP BUNDESLIGA 1",
       "thumb": "https://bit.ly/2Fuj8z3",
       "video": "plugin://script.module.limitless-swiftstreamz/play/26/1326/play.pvr",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "SPORT 1",
+      "thumb": "https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/sport1_1.png",
+      "video": "plugin://script.module.limitless-tvtap/play/405/play.pvr",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "EUROSPORT 1",
+      "thumb": "https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/eurosport_1.png",
+      "video": "plugin://script.module.limitless-tvtap/play/385/play.pvr",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "SKY SPORT NEWS",
+      "thumb": "https://wp18-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_news_v2.png",
+      "video": "https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "DAZN",
+      "thumb": "https://bit.ly/31Tewiv",
+      "video": "plugin://script.module.limitless-tvtap/play/777/play.pvr",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "DAZN 2",
+      "thumb": "https://bit.ly/31Tewiv",
+      "video": "plugin://script.module.limitless-tvtap/play/778/play.pvr",
       "genre": "SPORT"
 	},
     {
