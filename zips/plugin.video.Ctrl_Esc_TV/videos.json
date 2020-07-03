@@ -211,6 +211,12 @@
       "genre": "TV"
 	},
 	{
+	  "name": "ANIXE",
+      "thumb": "https://bit.ly/39wU0XB",
+      "video": "https://ma.anixa.tv/clips/stream/anixehd/index.m3u8",
+      "genre": "TV"
+	},
+	{
 	  "name": "PRO7 MAXX",
       "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSajf53uvWgbY6Xgx3z2yl-U_E6S8L6FTsf1MbWelvFV5hvogqG-ruG3s4q9DY&s",
       "video": "plugin://script.module.limitless-swiftstreamz/play/26/1332/play.pvr",
