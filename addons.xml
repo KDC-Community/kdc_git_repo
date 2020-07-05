@@ -1740,6 +1740,37 @@ You can clone the project and host it in your own server.
 </addon>
 
 
+<addon id="script.module.hsk.de"
+		name="[COLOR blue]MODULE HSK DE[/COLOR]"
+		version="1.1.3"
+		provider-name="[COLOR blue]Loki1979[/COLOR]">
+	<requires>
+		<import addon="xbmc.python" version="2.7.13" />
+	</requires>
+	<extension point="xbmc.python.module" library="resources/lib" />
+	<extension point="xbmc.addon.metadata">
+	<summary>[COLOR blue]030720200850[/COLOR]</summary>
+	<description></description>
+	<disclaimer></disclaimer>
+	<language></language>
+	<platform>all</platform>
+	<license></license>
+	<forum></forum>
+	<website></website>
+	<email></email>
+	<source></source>
+	<news></news>
+	<assets>
+		<icon>resources/icon.png</icon>
+		<fanart>resources/fanart.jpg</fanart>
+		<banner></banner>
+		<clearlogo></clearlogo>
+		<screenshot></screenshot>
+	</assets>
+	</extension>
+</addon>
+
+
 <addon id="script.module.idna"
        name="idna"
        version="2.8"
