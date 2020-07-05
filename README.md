@@ -18,7 +18,4 @@ https://bit.ly/2X0U2lq
 
 Ctrl_Esc Repo
 
-RaspberryPi Kodi Deutschland Community
-
-https://www.facebook.com/groups/raspikdc
 
