@@ -136,8 +136,8 @@ http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
 #EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="TOGGO plus" tvg-logo="https://wp19-images-de-dynamic.horizon.tv/ChannelLogos/02/toggo_plus.png" group-title="Kids",TOGGO plus
 http://
 
-#EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC" tvg-logo="https://wp17-images-de-dynamic.horizon.tv/ChannelLogos/02/ric.png" group-title="Kids",RiC
-http://
+#EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC" tvg-logo="https://wp17-images-de-dynamic.horizon.tv/ChannelLogos/02/ric.png" group-title="Kids",RiC x
+plugin://plugin.video.joyn/?video_id=ric&stream_type=LIVE&mode=play_video
 
 #EXTINF:-1 tvg-id="DisneyJunior.de" tvg-name="Disney Junior" tvg-logo="https://wp19-images-de-dynamic.horizon.tv/ChannelLogos/02/disney_junior_3.png" group-title="Kids",Disney Junior
 http://
@@ -459,7 +459,7 @@ plugin://script.module.limitless-tvtap/play/391/play.pvr
 plugin://script.module.limitless-tvtap/play/390/play.pvr
 
 #EXTINF:-1 tvg-id="ANIXE" tvg-name="Anixe HD" tvg-logo="https://bit.ly/39wU0XB" group-title="Germany",ANIXE
-http://
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Disney Cinemagic" tvg-name="Disney Cinemagic" tvg-logo="https://bit.ly/2I3rpiA" group-title="Kids",DISNEY CINEMAGIC x
