@@ -11,7 +11,7 @@ https://www.facebook.com/groups/raspikdc
 
 
 
-
+For the honor of a deceased person.
 In Memories of Aaron Swartz.
 
 https://de.wikipedia.org/wiki/Aaron_Swartz
