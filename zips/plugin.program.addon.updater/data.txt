@@ -31,7 +31,7 @@ script.module.t0mm0.common*https://github.com/KDC-Community/kdc_git_repo/raw/mas
 script.module.7of9-motherless*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/script.module.7of9-motherless/script.module.7of9-motherless-1.0.2c.zip*7of9-motherless.png
 script.module.7of9-pirateslife4me*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/script.module.7of9-pirateslife4me/script.module.7of9-pirateslife4me-1.3.zip*module.png
 script.module.7of9-videodevil*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/script.module.7of9-videodevil/script.module.7of9-videodevil-1.7.197b.zip*7of9-motherless.png
-script.module.hsk*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/script.module.hsk.de/script.module.hsk.de-1.1.2.zip*module.png
+script.module.hsk*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/script.module.hsk.de/script.module.hsk.de-1.1.3.zip*module.png
 script.module.hls.cache*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/script.module.hls.cache/script.module.hls.cache-1.0.8.zip*module.png
 plugin.video.live.streamspro*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/plugin.video.live.streamspro/plugin.video.live.streamspro-2.8.1.zip*LSPro.png
 plugin.video.f4mTester*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/plugin.video.f4mTester/plugin.video.f4mTester-2.7.1.zip*module.png
