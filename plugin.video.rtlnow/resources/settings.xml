@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="30000">
+		<setting label="Nachrichtenauswahl" type="enum" id="Notify_Select" values="Message 0|Message 1|Message 2|Message 3|Message 4" default="0" visible="false"/>
+		<setting label="30351" type="text" option="readable" visible="eq(-1,0)"/>
+		<setting label="30352" type="text" option="readable" visible="eq(-2,1)"/>
+		<setting label="30353" type="text" option="readable" visible="eq(-3,2)"/>
+		<setting label="30354" type="text" option="readable" visible="eq(-4,3)"/>
+		<setting label="30355" type="text" option="readable" visible="eq(-5,4)"/>
+		<setting type="sep"/>
+		<setting label="30230" type="lsep"/>
+		<setting label="30110" type="text" id="user" default=""/>
+		<setting label="30111" type="text" id="pass" default="" option="hidden"/>
+		<setting label="30356" type="text" id="license_ending" default="" enable="false" visible="!eq(-1,)+!eq(-2,)"/>
+		<setting label="30357" type="text" option="readable" visible="eq(-2,)+eq(-3,)"/>
+		<setting type="sep"/>
+		<setting label="30231" type="lsep"/>
+		<setting label="30112" type="slider" id="cacherhythm" range="4,4,72" default="4" option="int"/>
+		<setting type="sep"/>
+		<setting label="30232" type="lsep"/>
+		<setting label="30113" type="enum" id="force_best" values="High Quality|Standard" default="0"/>
+		<setting label="Only Freecontent" type="bool" id="freeonly" default="false" visible="false"/>
+		<setting label="Videoformat" type="bool" id="high_definition" default="true" visible="false"/>
+		<setting type="sep"/>
+		<setting label="30233" type="lsep"/>
+		<setting label="30114" type="bool" id="mark_movies" default="false"/>
+		<setting label="30115" type="bool" id="show_date" default="true"/>
+	</category>
+	<category label="30001">
+		<setting label="30234" type="lsep"/>
+		<setting label="30116" type="bool" id="cert" default="true"/>
+		<setting type="sep"/>
+		<setting label="30235" type="lsep"/>
+		<setting label="30117" type="bool" id="checkwidevine" default="true"/>
+		<setting type="sep"/>
+		<setting label="30236" type="lsep"/>
+		<setting label="30118" type="bool" id="show_settings" default="true"/>
+		<setting type="sep"/>
+		<setting label="30237" type="lsep"/>
+		<setting label="30119" type="bool" id="enableDebug" default="false"/>
+	</category>
+	<category label="30002">
+		<setting label="30238" type="lsep"/>
+		<setting label="30120" type="bool" id="tvnow_library" default="false"/>
+		<setting label="30121" type="folder" id="mediapath" default="" enable="eq(-1,true)"/>
+		<setting label="30122" type="slider" id="updatestd" range="12,4,72" default="24" option="int" enable="!eq(-1,)+eq(-2,true)"/>
+		<setting type="sep"/>
+		<setting label="30239" type="lsep"/>
+		<setting label="30358" type="text" option="readable"/>
+		<setting label="30359" type="text" option="readable"/>
+		<setting label="30360" type="text" option="readable"/>
+	</category>
+</settings>

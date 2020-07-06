@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<addon id="plugin.video.rtlnow" name="TVNOW - DE" version="2.1.0" provider-name="L0RE, realvito, mob">
+	<requires>
+		<import addon="xbmc.python" version="2.25.0"/>
+		<import addon="script.common.plugin.cache" version="2.6.0" optional="true"/>
+		<import addon="inputstream.adaptive" version="2.0.10"/>
+		<import addon="script.module.inputstreamhelper" version="0.4.0"/>
+		<import addon="service.cron.autobiblio" version="2.0.4" optional="true"/>
+		<import addon="script.module.requests" version="2.22.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="de_DE">Mediathek von TVNOW</summary>
+		<summary lang="en_GB">Mediathek of TVNOW</summary>
+		<description lang="de_DE">Bei TVNOW Serien, Shows und Filme online streamen.  Schau dir komplette Serien an, fiebere bei deinen liebsten Daily-Soaps mit oder staune bei spannenden Dokumentationen – alles wann und wo du willst auf Abruf.[CR]Viele Inhalte aus dem TV Programm siehst du bei TVNOW sogar schon vor TV-Aussstrahlung !</description>
+		<description lang="en_GB">Stream TVNOW series, shows and movies online. Watch complete series, enjoy your favorite daily soap operas or marvel at exciting documentaries - all when and where you want on demand.[CR]Many content from the TV program you see on TVNOW even before TV broadcast !</description>
+		<disclaimer lang="de_DE">Die von diesem Addon dargestellten Inhalte werden von den Erstellern des Addons weder gehostet oder verbreitet, noch stehen die Ersteller in irgendeiner Beziehung zu den Anbietern des Inhalts.</disclaimer>
+		<disclaimer lang="en_GB">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content providers.</disclaimer>
+		<language></language>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+		<forum>https://www.kodinerds.net/index.php/Thread/57646-Release-TVNow-RTL-Watchbox-Vox-NTV-NOWUS-RTL2-Nitro/</forum>
+		<website>https://www.tvnow.de/</website>
+		<email></email>
+		<source>https://github.com/kodinerds/repo/tree/master/plugin.video.rtlnow</source>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+		<news>[B][COLOR orangered]Version 2.1.0  (23.05.2020)[/COLOR][/B] by mob[CR]
+- fixed: TV NOW Auth URL aktualisiert.
+---------------------------------------------------------------------------------------------------------------------------------
+[B][COLOR orangered]Version 2.0.9  (20.03.2020)[/COLOR][/B] by realvito[CR]
+- fixed: Wenn in einer Episode einer Jahresrubrik kein Plot enthalten ist wird die Übersicht nicht geöffnet und ein Fehler wird angezeigt
+---------------------------------------------------------------------------------------------------------------------------------
+[B][COLOR orangered]Version 2.0.8  (02.03.2020)[/COLOR][/B] by realvito[CR]
+- fixed: Rubrik = Neue Sendungen werden nicht angezeigt
+- fixed: Letzter Ordner unter Rubrik = Themen wird nicht geöffnet
+---------------------------------------------------------------------------------------------------------------------------------
+[B][COLOR orangered]Version 2.0.7  (29.02.2020)[/COLOR][/B] by realvito[CR]
+- fixed: Vereinzelt können Episoden z.B. "Das perfekte Dinner" oder "GZSZ" nicht abgespielt werden
+---------------------------------------------------------------------------------------------------------------------------------
+[B][COLOR orangered]Version 2.0.6  (25.02.2020)[/COLOR][/B] by realvito[CR]
+- added: Es können jetzt auch einzelne Jahrgänge einer Serie zur KODI-Bibliothek hinzugefügt werden
+- fixed: Teilweise können Free-Videos aus der KODI-Bibliothek nicht abgespielt werden
+- optimized: Updatezyklus für Bibliothek jetzt unabhängig von Addonnutzung, da separater Hintergrund-Prozess
+---------------------------------------------------------------------------------------------------------------------------------
+[B][COLOR orangered]Version 2.0.5  (03.02.2020)[/COLOR][/B] by realvito[CR]
+- changed: Addon-Abhängigkeit für zugehörigen Service (old=service.L0RE.cron -> new=service.cron.autobiblio)
+* Comment: Zuvor mit diesem Addon erstellte Einträge in der KODI-Bibliothek funktionieren NICHT mehr und müssen über die KODI-Sytemeinstellungen gelöscht werden !!! *
+		</news>
+	</extension>
+</addon>

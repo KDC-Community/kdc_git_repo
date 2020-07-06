@@ -46,4 +46,9 @@ service.takealug.epg-grabber*https://github.com/DeBaschdi/repo/raw/master/servic
 plugin.video.spotitube*https://github.com/Collabsvito/Repo/raw/master/packages/plugin.video.spotitube/plugin.video.spotitube-2.1.5.zip*spotitube.png
 Youtube*https://github.com/jdf76/repository/raw/master/testing/official/zips/plugin.video.youtube/plugin.video.youtube-6.8.3%7Ealpha1.zip*youtube.png
 service.thoradia Pi3*https://github.com/thoradia/thoradia/raw/master/9.2.0/RPi2/arm/service.thoradia/service.thoradia-9.2.0.23.zip*module.png
+service.thoradia Pi4*https://github.com/thoradia/thoradia/raw/master/9.2.0/RPi4/arm/service.thoradia/service.thoradia-9.2.0.23.zip*module.png
+service.thoradia x86_64*https://github.com/thoradia/thoradia/raw/master/9.2.0/Generic/x86_64/service.thoradia/service.thoradia-9.2.0.23.zip*module.png
 repository.thoradia Pi3*https://github.com/thoradia/thoradia/raw/master/9.2.0/RPi2/arm*module.png
+
+
+

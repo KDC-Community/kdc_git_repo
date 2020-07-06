@@ -1,0 +1,394 @@
+﻿# Kodi Media Center language file
+# Addon Name: TVNOW - DE
+# Addon id: plugin.video.rtlnow
+# Addon Provider: L0RE, realvito
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI-Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@kodi.org\n"
+"POT-Creation-Date: 2019-11-02 10:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: realvito\n"
+"Language-Team: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_GB\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "Addon Summary"
+msgid "Mediathek of TVNOW"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Stream TVNOW series, shows and movies online. Watch complete series, enjoy your favorite daily soap operas or marvel at exciting documentaries - all when and where you want on demand.[CR]Many content from the TV program you see on TVNOW even before TV broadcast !"
+msgstr ""
+
+# strings start
+# SETTINGS-CATEGORIES
+
+msgctxt "#30000"
+msgid "General"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Advanced"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Media Library"
+msgstr ""
+
+# empty strings from id 30003 to 30109
+# SETTINGS-BUTTONS
+
+msgctxt "#30110"
+msgid "     Email"
+msgstr ""
+
+msgctxt "#30111"
+msgid "     Password"
+msgstr ""
+
+msgctxt "#30112"
+msgid "     Cache period in hours"
+msgstr ""
+
+msgctxt "#30113"
+msgid "     Preferred Videoquality [COLOR yellow](for Premium-Customers)[/COLOR]"
+msgstr ""
+
+msgctxt "#30114"
+msgid "     Specifically mark MOVIES respectively Specials [COLOR yellow](italics)[/COLOR]"
+msgstr ""
+
+msgctxt "#30115"
+msgid "     Show broadcastdate in title of the program"
+msgstr ""
+
+msgctxt "#30116"
+msgid "     Turn on web certificate validation"
+msgstr ""
+
+msgctxt "#30117"
+msgid "     Check widevine -Status and -Installation regularly"
+msgstr ""
+
+msgctxt "#30118"
+msgid "     Show Addon-Settings in the overview"
+msgstr ""
+
+msgctxt "#30119"
+msgid "     Detailed Addon-Debug (otherwise only Minimal-Log)"
+msgstr ""
+
+msgctxt "#30120"
+msgid "     Activate TVNOW-Media-Library"
+msgstr ""
+
+msgctxt "#30121"
+msgid "     TVNOW-Media-Folder (for .strm- and .nfo- Files)"
+msgstr ""
+
+msgctxt "#30122"
+msgid "     Update of the TVNOW-Library (in Hours)"
+msgstr ""
+
+# empty strings from id 30123 to 30229
+# SETTINGS-TITLES
+
+msgctxt "#30230"
+msgid "[B][COLOR ff0099ff]TVNOW - ACCOUNT[/COLOR][/B]"
+msgstr ""
+
+msgctxt "#30231"
+msgid "[B][COLOR ff0099ff]CACHE[/COLOR][/B]"
+msgstr ""
+
+msgctxt "#30232"
+msgid "[B][COLOR ff0099ff]QUALITY[/COLOR][/B]"
+msgstr ""
+
+msgctxt "#30233"
+msgid "[B][COLOR ff0099ff]TITLE[/COLOR][/B]"
+msgstr ""
+
+msgctxt "#30234"
+msgid "[B][COLOR ff0099ff]CERTIFICATE[/COLOR][/B]"
+msgstr ""
+
+msgctxt "#30235"
+msgid "[B][COLOR ff0099ff]WIDEVINE[/COLOR][/B]"
+msgstr ""
+
+msgctxt "#30236"
+msgid "[B][COLOR ff0099ff]SETTINGS[/COLOR][/B]"
+msgstr ""
+
+msgctxt "#30237"
+msgid "[B][COLOR ff0099ff]LOG[/COLOR][/B]"
+msgstr ""
+
+msgctxt "#30238"
+msgid "[B][COLOR ff0099ff]MEDIA[/COLOR][/B]"
+msgstr ""
+
+msgctxt "#30239"
+msgid "[B][COLOR ff0099ff]INFO[/COLOR][/B]"
+msgstr ""
+
+# empty strings from id 30240 to 30350
+# SETTINGS-DESCRIPTIONS
+
+msgctxt "#30351"
+msgid "[COLOR chartreuse]Please start Addon ... search KODI-Version[/COLOR]"
+msgstr ""
+
+msgctxt "#30352"
+msgid "[B][COLOR ff0099ff]***[/COLOR][/B] Your system is running KODI-19  [COLOR chartreuse](Your system is compatible with DRM-protected Videos) [/COLOR][B][COLOR ff0099ff]***[/COLOR][/B]"
+msgstr ""
+
+msgctxt "#30353"
+msgid "[B][COLOR ff0099ff]***[/COLOR][/B] Your system is running KODI-18  [COLOR chartreuse](Your system is compatible with DRM-protected Videos) [/COLOR][B][COLOR ff0099ff]***[/COLOR][/B]"
+msgstr ""
+
+msgctxt "#30354"
+msgid "[B][COLOR ff0099ff]***[/COLOR][/B] Your system is running KODI-17  [COLOR orangered](DRM-protected Videos are NOT playable) [/COLOR][B][COLOR ff0099ff]***[/COLOR][/B]"
+msgstr ""
+
+msgctxt "#30355"
+msgid "[B][COLOR ff0099ff]***[/COLOR][/B] Your system is running KODI < v.17  [COLOR orangered](Unfortunately NOT compatible with this Addon) [/COLOR][B][COLOR ff0099ff]***[/COLOR][/B]"
+msgstr ""
+
+msgctxt "#30356"
+msgid "     Your Account-License is valid until : ..."
+msgstr ""
+
+msgctxt "#30357"
+msgid "     * [COLOR yellow]For TVNOW-Premium- and HD-content, a Premium-Account is required ![/COLOR] *"
+msgstr ""
+
+msgctxt "#30358"
+msgid "     * [COLOR yellow]This function requires the "[/COLOR]service.cron.autobiblio[COLOR yellow]" ! [/COLOR]*"
+msgstr ""
+
+msgctxt "#30359"
+msgid "     [COLOR orangered]Attention: The update period affects only newly added items...[/COLOR]"
+msgstr ""
+
+msgctxt "#30360"
+msgid "     [COLOR chartreuse]In order to delete old data, the entry must be deleted and newly added in *service.cron.autobiblio* ![/COLOR]"
+msgstr ""
+
+# empty strings from id 30361 to 30500
+# WARNING/INFORMATION-MESSAGES-OK
+
+msgctxt "#30501"
+msgid "[COLOR orangered]ATTENTION : ... the required addon *[/COLOR][COLOR yellow]{0:s}[/COLOR][COLOR orangered]* is NOT installed !!![/COLOR]"
+msgstr ""
+
+msgctxt "#30502"
+msgid "[COLOR orangered]ATTENTION : ... DELETE Addon Cache !!![/COLOR][CR]The complete Cache of [COLOR green]* TVNOW - DE *[/COLOR] was deleted successfully !!!"
+msgstr ""
+
+msgctxt "#30503"
+msgid "[COLOR orangered]ATTENTION : ... The installed PYTHON VERSION : ***[/COLOR] {0:s} [COLOR orangered]*** is not compatible !!![/COLOR][CR]Clearing the Cache will be ABORTED [COLOR green]and the Cache will be DISABLED[/COLOR] !!!"
+msgstr ""
+
+msgctxt "#30504"
+msgid "[COLOR orangered]ATTENTION : ... This broadcast requires at least *KODI 18* !!![/COLOR][CR]Please update the existing KODI installation to at least KODI version 18 !!!"
+msgstr ""
+
+msgctxt "#30505"
+msgid "[COLOR orangered]ATTENTION : ... This video is only playable with *premium-access* !!![/COLOR][CR]Please choose another video without premium labeling !!!"
+msgstr ""
+
+msgctxt "#30506"
+msgid "[COLOR orangered]ATTENTION : ... LOGIN was not successful !!![/COLOR][CR]Please check your Login-Data !!!"
+msgstr ""
+
+msgctxt "#30507"
+msgid "[COLOR orangered]ATTENTION : ... there is NO folder to save Media appointed ![/COLOR][CR]Please select the desired folder in the addon settings !!!"
+msgstr ""
+
+# empty strings from id 30508 to 30520
+# WARNING/INFORMATION-MESSAGES-NOTIFICATION
+
+msgctxt "#30521"
+msgid "TVNOW - DE : [COLOR red]!!! {0:s} - ERROR !!![/COLOR]"
+msgstr ""
+
+msgctxt "#30522"
+msgid "TVNOW - DE : [COLOR red]!!! ID - [/COLOR][COLOR blue]{0:s}[/COLOR][COLOR red] - ERROR !!![/COLOR]"
+msgstr ""
+
+msgctxt "#30523"
+msgid "ERROR = [COLOR red]This Series is no longer in the Mediathek of TVNOW ![/COLOR]"
+msgstr ""
+
+msgctxt "#30524"
+msgid "[COLOR red]Unfortunately there are NO {0:s} :[/COLOR]"
+msgstr ""
+
+msgctxt "#30525"
+msgid "[COLOR red]An error has occured, please check *LOG* ![/COLOR]"
+msgstr ""
+
+msgctxt "#30526"
+msgid "* [COLOR blue]In the Category: {0:s}[/COLOR] * at TVNOW"
+msgstr ""
+
+msgctxt "#30527"
+msgid "ERROR = [COLOR red]Without Widevine, DRM content can not be played back ![/COLOR]"
+msgstr ""
+
+msgctxt "#30528"
+msgid "[COLOR orangered]Some functions of this Addon require a TOKEN ![/COLOR]"
+msgstr ""
+
+msgctxt "#30529"
+msgid "ERROR = [COLOR red]The transmitted *Dash-play-link* is BAD ![/COLOR]"
+msgstr ""
+
+msgctxt "#30530"
+msgid "[COLOR orangered]ATTENTION : ... This video is only playable with *premium-access* !!![/COLOR]"
+msgstr ""
+
+msgctxt "#30531"
+msgid "[COLOR red]Unfortunately NO suitable Video-Url found ![/COLOR]"
+msgstr ""
+
+msgctxt "#30532"
+msgid "[COLOR orangered]ATTENTION : ... This area requires *premium-access* !!![/COLOR]"
+msgstr ""
+
+msgctxt "#30533"
+msgid "My TVNOW-Favourites :"
+msgstr ""
+
+msgctxt "#30534"
+msgid "* [COLOR blue]{0:s}[/COLOR] *[COLOR FF008B00] successfully added !!![/COLOR]"
+msgstr ""
+
+msgctxt "#30535"
+msgid "* [COLOR blue]{0:s}[/COLOR] *[COLOR red] has been deleted !!![/COLOR]"
+msgstr ""
+
+msgctxt "#30536"
+msgid "[COLOR FF008B00]Added to TVNOW-Medialibrary :[/COLOR]"
+msgstr ""
+
+msgctxt "#30537"
+msgid "* [COLOR blue]{0:s}[/COLOR] | Update every: [COLOR blue]{1:s} Hrs.[/COLOR] *"
+msgstr ""
+
+# empty strings from id 30538 to 30600
+# PLUGIN-MAIN and SIDEMENU
+
+msgctxt "#30601"
+msgid "* My TVNOW-Favourites *"
+msgstr ""
+
+msgctxt "#30602"
+msgid "Sort by stations"
+msgstr ""
+
+msgctxt "#30603"
+msgid "Themes"
+msgstr ""
+
+msgctxt "#30604"
+msgid "Categories"
+msgstr ""
+
+msgctxt "#30605"
+msgid "Genres"
+msgstr ""
+
+msgctxt "#30606"
+msgid "New broadcasts"
+msgstr ""
+
+msgctxt "#30607"
+msgid "Search ..."
+msgstr ""
+
+msgctxt "#30608"
+msgid "LiveTV"
+msgstr ""
+
+msgctxt "#30609"
+msgid "--- Cache delete ---   [COLOR deepskyblue](autom. Updateintervall >> {0:s} Hours <<)[/COLOR]"
+msgstr ""
+
+msgctxt "#30610"
+msgid "TVNOW - DE Settings"
+msgstr ""
+
+msgctxt "#30611"
+msgid "Inputstream Settings"
+msgstr ""
+
+msgctxt "#30620"
+msgid "Year {0:s}"
+msgstr ""
+
+msgctxt "#30621"
+msgid "Mon"
+msgstr ""
+
+msgctxt "#30622"
+msgid "Tue"
+msgstr ""
+
+msgctxt "#30623"
+msgid "Wed"
+msgstr ""
+
+msgctxt "#30624"
+msgid "Thu"
+msgstr ""
+
+msgctxt "#30625"
+msgid "Fri"
+msgstr ""
+
+msgctxt "#30626"
+msgid "Sat"
+msgstr ""
+
+msgctxt "#30627"
+msgid "Sun"
+msgstr ""
+
+msgctxt "#30628"
+msgid "[COLOR deepskyblue]Season {0:s} • Episode {1:s} [/COLOR]| "
+msgstr ""
+
+msgctxt "#30629"
+msgid "[COLOR chartreuse]{0:s} o'clock[/COLOR]"
+msgstr ""
+
+msgctxt "#30630"
+msgid "From Age {0:s}"
+msgstr ""
+
+msgctxt "#30631"
+msgid "[COLOR chartreuse]  ({0:s})[/COLOR]"
+msgstr ""
+
+msgctxt "#30651"
+msgid "[COLOR chartreuse]Add to TVNOW-Favourites ...[/COLOR]"
+msgstr ""
+
+msgctxt "#30652"
+msgid "[COLOR orangered]... Remove from TVNOW-Favourites[/COLOR]"
+msgstr ""
+
+msgctxt "#30653"
+msgid "[COLOR cyan]* Save to TVNOW-Library *[/COLOR]"
+msgstr ""
+
+msgctxt "#30654"
+msgid "[COLOR yellow]Add to TVNOW-Playlist[/COLOR]"
+msgstr ""

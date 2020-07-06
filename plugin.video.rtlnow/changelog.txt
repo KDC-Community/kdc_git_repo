@@ -1,0 +1,38 @@
+﻿0.1 
+- Initial Source by L0RE
+
+...
+
+[B]Version 2.0.1  (01.12.2019)[/B] by realvito
+- optimized: Script komplett überarbeitet und wieder funktionsfähig gemacht, unnötige Passagen entfernt (läuft über die alte API v3) ...
+- added: Addon kompatibel mit PYTHON-Vers.3 gemacht (für KODI-19+) :-)
+*** für die volle Funktionsfähigkeit unter KODI-Matrix ist das Addon - script.common.plugin.cache - mindestens in der Version 2.6.0 erforderlich ***
+
+[B]Version 2.0.3  (23.12.2019)[/B] by realvito
+- fixed: In der Rubrik = LiveTV werden teilweise keine Bilder angezeigt
+- fixed: Error - wenn Serie in der Mediathek von TVNOW nicht mehr existiert
+
+[B]Version 2.0.4  (09.01.2020)[/B] by realvito
+- fixed: Free-Token zum Abspielen von Videos wird NICHT gefunden
+- added: Premium-Kennzeichnung im Plot
+- added: Addon-Debug Schalter
+
+[B]Version 2.0.5  (03.02.2020)[/B] by realvito
+- added: Filme bzw. Specials zur besseren Unterscheidung besonders kennzeichen (settings)
+- changed: Addon-Abhängigkeit für zugehörigen Service (old=service.L0RE.cron -> new=service.cron.autobiblio)
+* Comment: Zuvor mit diesem Addon erstellte Einträge in der KODI-Bibliothek funktionieren NICHT mehr und müssen über die KODI-Sytemeinstellungen gelöscht werden !!! *
+
+[B]Version 2.0.6  (25.02.2020)[/B] by realvito
+- added: Es können jetzt auch einzelne Jahrgänge einer Serie zur KODI-Bibliothek hinzugefügt werden
+- fixed: Teilweise können Free-Videos aus der KODI-Bibliothek nicht abgespielt werden
+- optimized: Updatezyklus für Bibliothek jetzt unabhängig von Addonnutzung, da separater Hintergrund-Prozess
+
+[B]Version 2.0.7  (29.02.2020)[/B] by realvito
+- fixed: Vereinzelt können Episoden z.B. "Das perfekte Dinner" oder "GZSZ" nicht abgespielt werden
+
+[B]Version 2.0.8  (02.03.2020)[/B] by realvito
+- fixed: Rubrik = Neue Sendungen werden nicht angezeigt
+- fixed: Letzter Ordner unter Rubrik = Themen wird nicht geöffnet
+
+[B]Version 2.0.9  (20.03.2020)[/B] by realvito
+- fixed: Wenn in einer Episode einer Jahresrubrik kein Plot enthalten ist wird die Übersicht nicht geöffnet und ein Fehler wird angezeigt
