@@ -1,0 +1,95 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+        <source>
+            <name>Videos</name>
+            <path pathversion="1">/storage/videos/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+        <source>
+            <name>Pictures</name>
+            <path pathversion="1">/storage/pictures/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>KDC Repo</name>
+            <path pathversion="1">http://kdc-repo.website/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>KDC Beta Repo</name>
+            <path pathversion="1">http://kdc-repo.website/repo-beta/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>TitanME</name>
+            <path pathversion="1">http://www.titanme.de/KODI/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>HSK-Kodiman</name>
+            <path pathversion="1">https://downloads.kodiman.net/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>HSK-Guido</name>
+            <path pathversion="1">https://downloads.guidos-skinbase.de/hsk_repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>KUS Repo</name>
+            <path pathversion="1">http://kodi.my-cydia-ig.de/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>El Turko Repo</name>
+            <path pathversion="1">http://absolut-kodi.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Matt Huisman SlyGuy Repo</name>
+            <path pathversion="1">https://k.slyguy.xyz</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>MrKodz Repo</name>
+            <path pathversion="1">https://mrkodz.github.io/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Psyco Repo</name>
+            <path pathversion="1">http://psyco.tv/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>cy4roots repo</name>
+            <path pathversion="1">https://cy4root2.github.io/zip/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>butter</name>
+            <path pathversion="1">http://j1wizard.net/butter/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Ghost Repo</name>
+            <path pathversion="1">http://ghost-repo.de/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+    <games>
+        <default pathversion="1"></default>
+    </games>
+</sources>
