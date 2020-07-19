@@ -6,6 +6,7 @@ provider-name="Ctrl_Esc">
 <requires>
     <import addon="xbmc.python" version="2.25.0"/>
     <import addon="script.module.limitless-swiftstreamz" />
+    <import addon="script.module.limitless-tvtap" />
     <import addon="script.module.requests" />
     <import addon="script.module.requests-cache" />
     <import addon="script.module.routing" />
