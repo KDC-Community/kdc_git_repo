@@ -460,8 +460,8 @@ http://
 
 
 
-#EXTINF:-1 tvg-id="Sky Sport F1 HD" tvg-name="SKY SPORT F1" tvg-logo="https://bit.ly/2LPYzBL" group-title="Sport",SKY SPORT F1
-http://
+#EXTINF:-1 tvg-id="Sky Sport F1 HD" tvg-name="SKY SPORT F1" tvg-logo="https://bit.ly/2LPYzBL" group-title="Sport",SKY SPORT F1 x
+http://cdn1.cr7.live/live/ch1_abr/live/ch1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="KOMBAT SPORTS" tvg-name="KOMBAT SPORTS" tvg-logo="https://bit.ly/39vsTfJ" group-title="Sport",KOMBAT SPORTS x 
 plugin://script.module.limitless-swiftstreamz/play/25/1260/play.pvr
