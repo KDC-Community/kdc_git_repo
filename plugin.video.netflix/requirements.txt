@@ -1,0 +1,10 @@
+codecov
+future
+mysql-connector-python
+polib
+pycrypto
+pycryptodomex==3.4.5
+pydes
+pylint
+requests
+tox-travis
