@@ -6,17 +6,11 @@ Control_Escape_REPOsitory
 
 For the honor of a deceased person.
 
-In Memories of Aaron Swartz.
 
 ... without him, some things would not be possible!
 
-https://de.wikipedia.org/wiki/Aaron_Swartz
-
-https://bit.ly/2X0U2lq
 
 
 
 Ctrl_Esc Repo
-
-https://www.facebook.com/groups/raspikdc
 
