@@ -2,7 +2,7 @@
 
 <img align="right" src="https://ibb.co/Zxppp5V">
 
-* [Download the latest release](https://bit.ly/2XnHiHa) 
+* [Download the latest release](https://bit.ly/2XnHiHa)
 
 
 You need the missing 
