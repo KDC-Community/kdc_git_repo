@@ -3,10 +3,10 @@ plugin.video.hanssettings
 
 KODI - Addon for Kanalenlijst Hans (but then only the streams)
 
-Kanalenlijst Hans - Watch free stream from collected lib 
-https://www.detransponder.nl/downloads-2/kanalenlijsten/
-My git version 
-https://github.com/Opvolger/plugin.video.hanssettings
+Kanalenlijst Hans - 
+* [Watch free stream from collected lib](https://www.detransponder.nl/downloads-2/kanalenlijsten/)
+
+* [My git version](https://github.com/Opvolger/plugin.video.hanssettings)
 
 * [Download the latest release](https://github.com/Opvolger/plugin.video.hanssettings/archive/master.zip) (`plugin.video.hanssettings.zip`)
 
