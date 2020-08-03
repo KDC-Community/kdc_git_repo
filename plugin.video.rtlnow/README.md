@@ -15,3 +15,8 @@ or
 * [Download the Ctrl_Esc_REPO Version](https://bit.ly/2PkEhmz)
 
 
+
+* [NEW REPO URL FOR KODINERDS!](https://repo.kodinerds.net/)
+
+
+
