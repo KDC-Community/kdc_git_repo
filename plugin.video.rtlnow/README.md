@@ -10,11 +10,6 @@ You need an original TV NOW account / login data.
 * [Download the latest original release](https://bit.ly/3k6bHDF)
 
 
-or 
-
-* [Download the Ctrl_Esc_REPO Version](https://bit.ly/2PkEhmz)
-
-
 -KODINERDS REPO-
 
 * [OLD KODINERDS REPO URL!](https://github.com/kodinerds/repo)
@@ -22,4 +17,7 @@ or
 * [NEW KODINERDS REPO URL!](https://repo.kodinerds.net/)
 
 
+or 
+
+* [Download the Ctrl_Esc_REPO Version](https://bit.ly/2PkEhmz)
 
