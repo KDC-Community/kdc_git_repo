@@ -1,6 +1,6 @@
 ![Control Escape TV](icon.png)
 
-<img align="right" src="https://ibb.co/Zxppp5V" alt="Ctrl_Esc">
+<img align="right" src="https://ibb.co/Zxppp5V">
 
 * [Download the latest release](https://bit.ly/2XnHiHa) 
 
