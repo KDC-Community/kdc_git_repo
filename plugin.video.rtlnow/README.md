@@ -16,7 +16,7 @@ or
 
 
 
-* [OLD KODINERDS REPO URL!](https://github.com/kodinerds/repo
+* [OLD KODINERDS REPO URL!](https://github.com/kodinerds/repo)
 
 * [NEW KODINERDS REPO URL!](https://repo.kodinerds.net/)
 
