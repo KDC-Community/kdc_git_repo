@@ -15,5 +15,3 @@ or
 * [Download the Ctrl_Esc_REPO Version](https://bit.ly/2PkEhmz)
 
 
-https://kdc-community.github.io/kdc_git_repo/plugin.video.rtlnow/plugin.video.rtlnow-2.1.0.zip
-
