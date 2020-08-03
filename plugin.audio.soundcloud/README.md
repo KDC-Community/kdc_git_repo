@@ -81,3 +81,9 @@ developed by [bromix](https://kodi.tv/addon-author/bromix) and [SLiX](https://gi
 ## Copyright and license
 
 This add-on is licensed under the MIT License - see `LICENSE.txt` for details.
+
+
+or
+
+* [Download the Ctrl_Esc_REPO Version](https://bit.ly/2BUBBca)
+
