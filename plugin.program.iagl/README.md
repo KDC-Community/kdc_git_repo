@@ -1,4 +1,4 @@
-<meta name=”robots” content=”noindex, nofollow”>
+
 
 ![](https://i.imgur.com/nQfTbZq.png?display=inline-block) Internet Archive Game Launcher
 ==========================
@@ -59,3 +59,10 @@ Support
 -------------------
 
 Support the internet archive by [donating](https://archive.org/donate/)!
+
+
+or 
+
+* [Download the Ctrl_Esc_REPO Version](https://bit.ly/31h0iIA)
+
+
