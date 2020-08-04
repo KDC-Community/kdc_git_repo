@@ -1,6 +1,6 @@
 ![Raute Radio Streams](icon.png)
 
-KODI - Audio Addon.
+KODI - Audio Addon for Raute Radio Streams.
 
 
 

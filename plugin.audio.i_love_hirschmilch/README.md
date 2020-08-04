@@ -1,6 +1,6 @@
 ![I Love Hirschmilch](icon.png)
 
-KODI - Audio Addon.
+KODI - Audio Addon for I Love Hirschmilch.
 
 
 

@@ -1,6 +1,6 @@
 ![MP3 Streams](icon.png)
 
-KODI - Audio Addon.
+KODI - Audio Addon for MP3 Streams.
 
 
 

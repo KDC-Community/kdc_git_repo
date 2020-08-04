@@ -1,6 +1,6 @@
 ![Radio Streams](icon.png)
 
-KODI - Audio Addon.
+KODI - Audio Addon for Radio Streams.
 
 
 

@@ -1,6 +1,6 @@
 ![F4M Tester Addon](icon.png)
 
-KODI - F4M Tester Addon.
+KODI - Video Addon for F4M Tester Addon.
 
 
 

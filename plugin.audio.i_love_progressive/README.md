@@ -1,6 +1,6 @@
 ![I Love Progressive](icon.png)
 
-KODI - Audio Addon.
+KODI - Audio Addon for I Love Progressive.
 
 
 

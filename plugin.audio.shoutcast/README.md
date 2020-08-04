@@ -1,6 +1,6 @@
 ![Shoutcast Streams](icon.png)
 
-KODI - Audio Addon.
+KODI - Audio Addon for Shoutcast Streams.
 
 
 

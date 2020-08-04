@@ -1,6 +1,6 @@
 ![Github Browser Addon](icon.png)
 
-KODI - Search tool for GitHub.
+KODI - Program Addon / Search tool for GitHub.
 
 
 

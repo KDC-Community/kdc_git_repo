@@ -1,6 +1,6 @@
 ![I Love Psytrance](icon.png)
 
-KODI - Audio Addon.
+KODI - Audio Addon for I Love Psytrance.
 
 
 

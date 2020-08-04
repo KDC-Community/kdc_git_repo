@@ -1,6 +1,6 @@
 ![I Love Chillout](icon.png)
 
-KODI - Audio Addon.
+KODI - Audio Addon for I LOve Chillout.
 
 
 

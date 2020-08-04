@@ -1,6 +1,6 @@
 ![HD-Filme Addon](icon.png)
 
-KODI - HD-Filme Addon.
+KODI - Video Addon for HD-Filme Addon.
 
 
 

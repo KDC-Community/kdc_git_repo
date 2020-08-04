@@ -1,6 +1,6 @@
 ![I Love Electronic](icon.png)
 
-KODI - Audio Addon.
+KODI - Audio Addon for I LOve Electronic.
 
 
 

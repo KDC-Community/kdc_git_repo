@@ -1,6 +1,6 @@
 ![Control Escape TV](icon.png)
 
-
+KODI - Video Addon for Control Escape TV.
 
 * [Download the latest release](https://bit.ly/2XnHiHa)
 

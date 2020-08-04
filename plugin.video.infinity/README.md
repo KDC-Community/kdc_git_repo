@@ -1,6 +1,6 @@
 ![Infinity Addon](icon.png)
 
-KODI - Infinity Addon.
+KODI - Video Addon for Infinity.
 
 
 

@@ -1,6 +1,6 @@
 ![Bones Skateboard Video Addon](icon.png)
 
-KODI - Skateboard Video Addon.
+KODI - Video Addon for Bones Skateboard Video Addon.
 
 
 
