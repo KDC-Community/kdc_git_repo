@@ -49,7 +49,7 @@ Youtube*https://github.com/jdf76/repository/raw/master/testing/official/zips/plu
 service.thoradia Pi3*https://github.com/thoradia/thoradia/raw/master/9.2.0/RPi2/arm/service.thoradia/service.thoradia-9.2.0.23.zip*module.png
 service.thoradia Pi4*https://github.com/thoradia/thoradia/raw/master/9.2.0/RPi4/arm/service.thoradia/service.thoradia-9.2.0.23.zip*module.png
 service.thoradia x86_64*https://github.com/thoradia/thoradia/raw/master/9.2.0/Generic/x86_64/service.thoradia/service.thoradia-9.2.0.23.zip*module.png
-repository.thoradia Pi3*https://github.com/thoradia/thoradia/raw/master/9.2.0/RPi2/arm*module.png
+
 
 
 
