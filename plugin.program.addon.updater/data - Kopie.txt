@@ -50,6 +50,10 @@ service.thoradia Pi3*https://github.com/thoradia/thoradia/raw/master/9.2.0/RPi2/
 service.thoradia Pi4*https://github.com/thoradia/thoradia/raw/master/9.2.0/RPi4/arm/service.thoradia/service.thoradia-9.2.0.23.zip*module.png
 service.thoradia x86_64*https://github.com/thoradia/thoradia/raw/master/9.2.0/Generic/x86_64/service.thoradia/service.thoradia-9.2.0.23.zip*module.png
 
+script.lastship.artwork 2.0.4*https://kdc-community.github.io/kdc_git_repo/script.lastship.artwork/script.lastship.artwork-2.0.4.zip*module.png
+
+
+
 
 
 

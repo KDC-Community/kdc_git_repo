@@ -19,6 +19,7 @@ script.module.metahandler*https://bit.ly/3fxayl5*module.png
 script.module.mutagen*https://bit.ly/2EWG1k9*module.png
 script.module.routing*https://bit.ly/3fqXRbf*module.png
 script.module.pycryptodome*https://bit.ly/2XutAlW*module.png
+script.lastship.artwork 2.0.4*https://bit.ly/3kf0tNi*module.png
 script.infinity.artwork*https://bit.ly/2DpBBBN*module.png
 repository.infinity*https://bit.ly/2EMNySg*module.png
 script.module.limitless-swiftstreamz*https://bit.ly/33xNsbx*module.png
