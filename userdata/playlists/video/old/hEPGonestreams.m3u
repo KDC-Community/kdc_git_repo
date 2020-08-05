@@ -1,0 +1,688 @@
+
+#EXTM3U
+
+
+
+
+
+#EXTINF:-1 tvg-id="Sky Cinema" tvg-name="SKY CINEMA FHD" tvg-logo="https://bit.ly/2DFO29P" group-title="Sky",SKY CINEMA x
+http://
+
+#EXTINF:-1 tvg-id="Sky Cinema +1" tvg-name="SKY CINEMA + 1 FHD" tvg-logo="https://bit.ly/2I9y8aG" group-title="Sky",SKY CINEMA + 1 x
+http://
+
+#EXTINF:-1 tvg-id="Sky Cinema +24" tvg-name="SKY CINEMA24 FHD" tvg-logo="https://bit.ly/2raRe6B" group-title="Sky",SKY CINEMA24 x
+http://
+
+#EXTINF:-1 tvg-id="Sky Action" tvg-name="SKY ACTION FHD" tvg-logo="https://bit.ly/2rbUBJJ" group-title="Sky",SKY ACTION x
+http://
+
+#EXTINF:-1 tvg-id="Sky Hits" tvg-name="Sky Cinema Hits" tvg-logo="https://bit.ly/2jjUjx8" group-title="Sky",SKY CINEMA HITS x
+http://
+
+#EXTINF:-1 tvg-id="Sky Comedy" tvg-name="SKY COMEDY HD" tvg-logo="https://bit.ly/2HDK1Gr" group-title="Sky",SKY COMEDY x
+http://
+
+#EXTINF:-1 tvg-id="Sky Atlantic" tvg-name="Sky Atlantic HD" tvg-logo="https://bit.ly/2FtzyHZ" group-title="Sky",SKY ATLANTIC x
+http://
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="https://bit.ly/2I74zXD" group-title="Sky",AXN x
+http://
+
+#EXTINF:-1 tvg-id="Sky Select 1" tvg-name="SKY SELECT 1 HD" tvg-logo="http://static.iptv-epg.com/de/SkySelect1.de.png" group-title="Sky Select",Sky Select 1 x
+http://
+
+#EXTINF:-1 tvg-id="Sky Select 2" tvg-name="SKY SELECT 2 HD" tvg-logo="http://static.iptv-epg.com/de/SkySelect2.de.png" group-title="Sky Select",Sky Select 2 x
+http://
+
+#EXTINF:-1 tvg-id="Sky Select 3" tvg-name="SKY SELECT 3 HD" tvg-logo="http://static.iptv-epg.com/de/SkySelect3.de.png" group-title="Sky Select",Sky Select 3 x
+http://
+
+#EXTINF:-1 tvg-id="Sky Select 4" tvg-name="SKY SELECT 4" tvg-logo="http://static.iptv-epg.com/de/SkySelect3.de.png" group-title="Sky Select",Sky Select 4 x
+http://
+
+#EXTINF:-1 tvg-id="Sky Select 5" tvg-name="SKY SELECT 5 HD" tvg-logo="http://static.iptv-epg.com/de/SkySelect5.de.png" group-title="Sky Select",Sky Select 5 x
+http://
+
+#EXTINF:-1 tvg-id="Sky Select 6" tvg-name="SKY SELECT 6 HD" tvg-logo="http://static.iptv-epg.com/de/SkySelect6.de.png" group-title="Sky Select",Sky Select 6
+http://
+
+#EXTINF:-1 tvg-id="Sky Select 7" tvg-name="SKY SELECT 7 HD" tvg-logo="http://static.iptv-epg.com/de/SkySelect7.de.png" group-title="Sky Select",Sky Select 7
+http://
+
+#EXTINF:-1 tvg-id="Sky Select 8" tvg-name="SKY SELECT 8 HD" tvg-logo="http://static.iptv-epg.com/de/SkySelect8.de.png" group-title="Sky Select",Sky Select 8
+http://
+
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY FHD" tvg-logo="https://bit.ly/2HIan6j" group-title="Doku",DISCOVERY x
+http://
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="https://bit.ly/2HF93oU" group-title="Doku",Animal Planet x
+http://
+
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="National Geographic Wildlife" tvg-logo="https://bit.ly/2jjTyUJ" group-title="Doku",NAT GEO WILD x
+http://
+
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="NAT GEOGRAPHIC HD" tvg-logo="https://bit.ly/2jjALZO" group-title="Doku",NAT GEOGRAPHIC x
+http://
+
+#EXTINF:-1 tvg-id="TNT Film" tvg-name="TNT FILM HD" tvg-logo="https://bit.ly/2jjJACz" group-title="Sky",TNT FILM x
+http://
+
+#EXTINF:-1 tvg-id="TNT Serie" tvg-name="TNT SERIES FHD" tvg-logo="https://bit.ly/2vXmDhT" group-title="Sky",TNT SERIES x
+http://
+
+#EXTINF:-1 tvg-id="Sky 1" tvg-name="Sky 1 HD" tvg-logo="https://bit.ly/2rfopWa" group-title="Sky",Sky 1
+http://
+
+#EXTINF:-1 tvg-id="MGM" tvg-name="MGM" tvg-logo="ext" group-title="Sky",MGM
+http://
+
+#EXTINF:-1 tvg-id="Silverline" tvg-name="Silverline" tvg-logo="ext" group-title="Sky",SILVERLINE
+http://
+
+#EXTINF:-1 tvg-id="Sky Family" tvg-name="Sky Cinema Family" tvg-logo="https://bit.ly/2r6JjGK" group-title="Sky",SKY CINEMA FAMILY
+http://
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Sky Emotion" tvg-name="SKY EMOTION HD" tvg-logo="https://bit.ly/2HBUt17" group-title="Sky",SKY EMOTION
+http://
+
+
+
+#EXTINF:-1 tvg-id="Sky Krimi" tvg-name="SKY KRIMI HD" tvg-logo="https://bit.ly/2I1Jv4t" group-title="Sky",SKY KRIMI
+http://
+
+
+
+#EXTINF:-1 tvg-id="Sky Nostalgie" tvg-name="SKY NOSTALGIE HD" tvg-logo="https://bit.ly/2jhM0BG" group-title="Sky",SKY NOSTALGIE
+http://
+
+
+
+
+
+#EXTINF:-1 tvg-id="SKY Arts HD" tvg-name="Sky ARTS HD" tvg-logo="https://bit.ly/2IZ0Hpn" group-title="Doku",SKY ARTS
+http://
+
+
+
+#EXTINF:-1 tvg-id="Sony E. Television" tvg-name="Sony Entertainment TV HD" tvg-logo="https://bit.ly/2rbLAk6" group-title="Sky",SONY ENTERTAINMENT TV
+http://
+
+
+
+#EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="Universal Channel" tvg-logo="https://bit.ly/2HEZRAI" group-title="Sky",SKY UNIVERSAL
+http://
+
+
+
+#EXTINF:-1 tvg-id="KinoweltTV" tvg-name="Kinowelt.tv" tvg-logo="https://bit.ly/2rborhE" group-title="Sky",SKY KINOWELT
+http://
+
+
+
+
+#EXTINF:-1 tvg-id="FOX" tvg-name="Fox HD" tvg-logo="https://bit.ly/2KrkHS6" group-title="Sky",FOX
+http://
+
+
+
+#EXTINF:-1 tvg-id="Fox Serie" tvg-name="FOX Serie HD" tvg-logo="https://bit.ly/2KrkHS6" group-title="Sky",FOX Serie
+http://
+
+
+
+
+#EXTINF:-1 tvg-id="TNT Comedy" tvg-name="TNT COMEDY FHD" tvg-logo="https://bit.ly/2w2tre8" group-title="Sky",TNT COMEDY
+http://
+
+
+#EXTINF:-1 tvg-id="13th Street" tvg-name="Sky 13TH Street" tvg-logo="https://bit.ly/2jizj9Z" group-title="Sky",13TH STREET
+http://
+
+
+
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy HD" tvg-logo="https://bit.ly/2rbdAoN" group-title="Sky",SYFY
+http://
+
+
+#EXTINF:-1 tvg-id="E! Entertainment" tvg-name="E! ENTERTAINMENT HD" tvg-logo="https://bit.ly/2raVzGd" group-title="Sky",E! ENTERTAINEMENT
+http://
+
+
+
+#EXTINF:-1 tvg-id="Heimatkanal" tvg-name="HEIMAT KANAL HD" tvg-logo="https://bit.ly/2JGHp7g" group-title="Sky",HEIMAT KANAL
+http://
+
+
+#EXTINF:-1 tvg-id="kabel eins CLASSICS" tvg-name="Kabel 1 Classics" tvg-logo="https://bit.ly/2I4hNUN" group-title="Sky",KABEL EINS CLASSICA
+http://
+
+
+#EXTINF:-1 tvg-id="Romance TV" tvg-name="SKY ROMANCE TV HD" tvg-logo="https://bit.ly/2xTz5go" group-title="Sky",SKY ROMANCE TV
+http://
+
+
+
+#EXTINF:-1 tvg-id="HISTORY" tvg-name="History Channel" tvg-logo="https://bit.ly/2FygMze" group-title="Doku",HISTORY x
+http://
+
+
+#EXTINF:-1 tvg-id="Spiegel Geschichte" tvg-name="SPIEGEL GESCHICHTE FHD" tvg-logo="https://bit.ly/2N38djy" group-title="Doku",SPIEGEL GESCHICHTE x
+http://
+
+
+
+#EXTINF:-1 tvg-id="SPIEGEL TV WISSEN" tvg-name="Spiegel TV Wissen HD" tvg-logo="https://bit.ly/2FxbMum" group-title="Doku",SPIEGEL WISSEN
+http://
+
+
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="PLANET A&E HD" tvg-logo="https://bit.ly/2w2gEZf" group-title="Doku",A&E
+http://
+
+
+#EXTINF:-1 tvg-id="PLANET" tvg-name="PLANET HD" tvg-logo="https://bit.ly/2HCwKOB" group-title="Doku",PLANET
+http://
+
+
+
+#EXTINF:-1 tvg-id="Jukebox" tvg-name="JUKEBOX HD" tvg-logo="https://bit.ly/2BMGuzS" group-title="Sky",JUKEBOX
+http://
+
+
+
+#EXTINF:-1 tvg-id="NRJ TV HD" tvg-name="NRJ TV HD" tvg-logo="https://bit.ly/2VgvF1T" group-title="Sky",NRJ TV
+http://
+
+
+#EXTINF:-1 tvg-id="KiKA" tvg-name="KiKA HD" tvg-logo="https://bit.ly/2RVQdLu" group-title="Kids",KIKA x
+http://
+
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="nickelodeon" tvg-logo="https://bit.ly/2KsuVkT" group-title="Kids",NICKELODEON
+http://
+
+
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://bit.ly/2CNXHvZ" group-title="Kids",BOOMERANG
+http://
+
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK HD" tvg-logo="https://bit.ly/2I2tviW" group-title="Kids",CARTOON NETWORK
+http://
+
+
+#EXTINF:-1 tvg-id="COMEDY CENTRAL/VIVA HD" tvg-name="Comedy Central" tvg-logo="https://bit.ly/2rcET0T" group-title="Kids",COMEDY CENTRAL
+http://
+
+
+
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://bit.ly/2HDTEoT" group-title="Kids",DISNEY CHANNEL x
+http://
+
+#EXTINF:-1 tvg-id="Disney Cinemagic" tvg-name="DISNEY CINEMAGIC FHD" tvg-logo="https://bit.ly/2I3rpiA" group-title="Kids",DISNEY CINEMAGIC
+http://
+
+#EXTINF:-1 tvg-id="Disney Jr. HD" tvg-name="Disney Junior" tvg-logo="https://bit.ly/2vYAMLA" group-title="Kids",DISNEY JUNIOR
+http://
+
+
+
+#EXTINF:-1 tvg-id="Disney XD HD" tvg-name="Disney XD" tvg-logo="https://bit.ly/2FuORA3" group-title="Kids",DISNEY XD x
+http://
+
+
+
+#EXTINF:-1 tvg-id="Junior" tvg-name="JUNIOR HD" tvg-logo="https://bit.ly/2CDKtk4" group-title="Kids",JUNIOR
+http://
+
+
+
+#EXTINF:-1 tvg-id="TOGGO plus" tvg-name="Toggo+" tvg-logo="ext" group-title="Kids",TOGGO PLUS
+http://
+
+
+
+#EXTINF:-1 tvg-id="SRF 1" tvg-name="SRF 1" tvg-logo="https://bit.ly/2NC7cmS" group-title="Germany",SRF 1
+http://
+
+
+#EXTINF:-1 tvg-id="SRF zwei" tvg-name="SRF zwei" tvg-logo="https://bit.ly/2yoGTaT" group-title="Germany",SRF 2
+http://
+
+
+#EXTINF:-1 tvg-id="ORF eins" tvg-name="ORF 1" tvg-logo="https://bit.ly/2Q82hHv" group-title="Germany",ORF 1
+http://
+
+
+#EXTINF:-1 tvg-id="ORF 2" tvg-name="ORF 2" tvg-logo="https://bit.ly/2EUwOaM" group-title="Germany",ORF 2
+http://
+
+
+
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="Das Erste" tvg-logo="https://bit.ly/2zwvZRq" group-title="Germany",ARD x
+http://
+
+
+#EXTINF:-1 tvg-id="ZDF" tvg-name="ZDF" tvg-logo="https://bit.ly/2DLcWXV" group-title="Germany",ZDF x
+http://
+
+
+#EXTINF:-1 tvg-id="WDR Köln" tvg-name="WDR Fernsehen" tvg-logo="https://bit.ly/2NHaq9s" group-title="Germany",WDR
+http://
+
+
+#EXTINF:-1 tvg-id="NDR FS HH" tvg-name="NDR Fernsehen" tvg-logo="https://bit.ly/2N4MkAn" group-title="Germany",NDR HD
+http://
+
+
+
+#EXTINF:-1 tvg-id="rbb Berlin" tvg-name="RBB Fernsehen tvg-logo="https://bit.ly/2Cn45Jp" group-title="Germany",RBB BERLIN
+http://
+
+
+#EXTINF:-1 tvg-id="MDR Sachsen" tvg-name="MDR Fernsehen HD" tvg-logo="https://bit.ly/2AepW4m" group-title="Germany",MDR 
+http://
+
+#EXTINF:-1 tvg-id="SWR Fernsehen RP" tvg-name="SWR Fernsehen HD" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/22612.png" group-title="Germany",SWR Fernsehen HD
+http://
+
+#EXTINF:-1 tvg-id="hr-fernsehen" tvg-name="hr-fernsehen" tvg-logo="https://www.tvtv.de/images/senderlogos/hr3.svg" group-title="Germany",HR Fernsehen
+http://
+
+#EXTINF:-1 tvg-id="BR Fernsehen Süd" tvg-name="BR Fernsehen" tvg-logo="https://www.tvtv.de/images/senderlogos/ba3.svg" group-title="Germany",BR Fernsehen
+http://
+
+
+#EXTINF:-1 tvg-id="ZDFinfo" tvg-name="ZDFinfo" tvg-logo="https://bit.ly/2NNMVMd" group-title="Germany",ZDF INFO
+http://
+
+
+#EXTINF:-1 tvg-id="ZDFneo" tvg-name="ZDFneo" tvg-logo="https://bit.ly/2R2tJIr" group-title="Germany",ZDF NEO
+http://
+
+
+
+
+
+#EXTINF:-1 tvg-id="3sat" tvg-name="3 Sat" tvg-logo="https://bit.ly/2N2ewUw" group-title="Germany",3 SAT
+http://
+
+
+
+#EXTINF:-1 tvg-id="ARTE" tvg-name="arte" tvg-logo="https://bit.ly/2Of9zwa" group-title="Germany",ARTE
+http://
+
+#EXTINF:-1 tvg-id="PHOENIX" tvg-name="PHOENIX" tvg-logo="https://bit.ly/2N6mSue" group-title="Germany",PHOENIX
+http://
+
+
+#EXTINF:-1 tvg-id="N24 Doku" tvg-name="N24 Doku" tvg-logo="https://bit.ly/2ylbbv8" group-title="Doku",N24 DOKU
+http://
+
+
+#EXTINF:-1 tvg-id="N24" tvg-name="N24" tvg-logo="https://bit.ly/2R6rAix" group-title="Doku",WELT x
+http://
+
+
+#EXTINF:-1 tvg-id="n-tv" tvg-name="N-TV" tvg-logo="https://bit.ly/2OVs3Ph" group-title="Doku",N-TV x
+http://
+
+
+#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-logo="https://bit.ly/2xIlrNN" group-title="Doku",EURONEWS
+http://
+
+
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX FHD" tvg-logo="https://bit.ly/2IiNO9f" group-title="Doku",DMAX x
+http://
+
+
+#EXTINF:-1 tvg-id="kabel eins Doku" tvg-name="Kabel 1 Doku" tvg-logo="https://bit.ly/2Nau0pG" group-title="Doku",KABEL EINS DOKU
+http://
+
+#EXTINF:-1 tvg-id="kabel eins" tvg-name="Kabel 1" tvg-logo="https://bit.ly/2Dy69An" group-title="Germany",KABEL 1
+http://
+
+
+#EXTINF:-1 tvg-id="VOX" tvg-name="Vox" tvg-logo="https://bit.ly/2xIiCwe" group-title="Germany",VOX x
+http://
+
+
+
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="ProSieben HD" tvg-logo="https://bit.ly/2N8poQC" group-title="Germany",PROSIEBEN x
+http://
+
+#EXTINF:-1 tvg-id="ProSieben MAXX" tvg-name="ProSieben MAXX HD" tvg-logo="https://bit.ly/2NWMn31" group-title="Germany",PRO 7 MAXX
+http://
+
+
+#EXTINF:-1 tvg-id="ProSieben Fun" tvg-name="ProSieben Fun HD" tvg-logo="https://bit.ly/2NGoteK" group-title="Germany",PROSIEBEN FUN
+http://
+
+
+#EXTINF:-1 tvg-id="RTL Living" tvg-name="RTL Living" tvg-logo="https://bit.ly/2ra3wvt" group-title="Germany",RTL LIVING
+http://
+
+
+
+
+#EXTINF:-1 tvg-id="RTL NITRO" tvg-name="Nitro" tvg-logo="https://bit.ly/2QWAUkj" group-title="Germany",RTL NITRO x
+http://
+
+
+#EXTINF:-1 tvg-id="RTL II" tvg-name="RTL 2" tvg-logo="https://bit.ly/2Qdj3VV" group-title="Germany",RTL 2 x
+http://
+
+
+
+#EXTINF:-1 tvg-id="RTL Crime" tvg-name="RTL Crime" tvg-logo="https://bit.ly/2zzZthr" group-title="Germany",RTL CRIME x
+http://
+
+
+#EXTINF:-1 tvg-id="RTL" tvg-name="RTL" tvg-logo="https://bit.ly/2y2vEUP" group-title="Germany",RTL x
+http://
+
+
+
+#EXTINF:-1 tvg-id="SUPER RTL HD" tvg-name="Super RTL" tvg-logo="https://bit.ly/2DyQXD7" group-title="Germany",SUPER RTL x
+http://
+
+
+#EXTINF:-1 tvg-id="RTL Passion" tvg-name="RTL Passion" tvg-logo="https://bit.ly/2x7fNnW" group-title="Germany",RTL PASSION x
+http://
+
+
+#EXTINF:-1 tvg-id="RTLplus" tvg-name="RTL plus" tvg-logo="https://bit.ly/2MsGSqG" group-title="Germany",RTL PLUS
+http://
+
+
+
+
+#EXTINF:-1 tvg-id="SAT.1" tvg-name="Sat.1" tvg-logo="https://bit.ly/2xT59RA" group-title="Germany",SAT.1 x
+http://
+
+
+
+#EXTINF:-1 tvg-id="SAT.1 Gold" tvg-name="Sat.1 Gold" tvg-logo="https://bit.ly/2ylcAlo" group-title="Germany",SAT 1 GOLD
+http://
+
+
+
+#EXTINF:-1 tvg-id="SAT.1 emotions" tvg-name="Sat.1 Emotions" tvg-logo="https://bit.ly/2ylcAlo" group-title="Germany",SAT.1 EMOTIONS
+http://
+
+
+
+#EXTINF:-1 tvg-id="ServusTV" tvg-name="ServusTV" tvg-logo="https://bit.ly/2J340vM" group-title="Doku",SERVUS
+http://
+
+
+
+#EXTINF:-1 tvg-id="sixx" tvg-name="sixx" tvg-logo="https://bit.ly/2NKCE3i" group-title="Germany",SIXX
+http://
+
+
+
+
+#EXTINF:-1 tvg-id="TELE 5 HD" tvg-name="Tele 5" tvg-logo="https://bit.ly/2QetV6i" group-title="Germany",TELE 5
+http://
+
+
+
+#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV" tvg-logo="https://bit.ly/2w1TvG7" group-title="Germany",MTV x
+http://
+
+#EXTINF:-1 tvg-id="MTV Brand New" tvg-name="MTV Brand New" tvg-logo="https://tv-manager.vodafone.de/tv-manager/backend/epg_images_channels/4291.png" group-title="Germany",MTV Brand New x
+http://
+
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="MTV Hits" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24502.png" group-title="Germany",MTV Hits x
+http://
+
+#EXTINF:-1 tvg-id="MTV Base" tvg-name="MTV Base" tvg-logo="ext" group-title="Germany",MTV BASE x
+http://
+
+#EXTINF:-1 tvg-id="MTV Dance" tvg-name="MTV Dance" tvg-logo="ext" group-title="Germany",MTV Dance x
+http://
+
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="ext" group-title="Germany",VH1 x
+http://
+
+#EXTINF:-1 tvg-id="VH1 Classic" tvg-name="VH1 CLASSIC" tvg-logo="ext" group-title="Germany",VH1 CLASSIC x
+http://
+
+
+#EXTINF:-1 tvg-id="DELUXE MUSIC" tvg-name="DELUXE MUSIC" tvg-logo="https://bit.ly/2rcPUAc" group-title="Germany",DELUXE MUSIC
+http://
+
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://bit.ly/2CPREXK" group-title="Germany",TLC
+http://
+
+
+
+#EXTINF:-1 tvg-id="Welt der Wunder" tvg-name="Welt der Wunder TV" tvg-logo="https://bit.ly/2J154At" group-title="Germany",WELT DER WUNDER
+http://
+
+
+
+#EXTINF:-1 tvg-id="ANIXE SD" tvg-name="Anixe HD" tvg-logo="https://bit.ly/2Q5TCVX" group-title="Germany",ANIXE
+http://
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Auto Motor Sport Channel" tvg-name="Auto Motor Sport" tvg-logo="https://bit.ly/2jh4SAP" group-title="Sport",AUTO MOTOR SPORT
+http://
+
+
+
+#EXTINF:-1 tvg-id="Motorvision TV" tvg-name="Motorvision" tvg-logo="https://bit.ly/2jh4SAP" group-title="Sport",MOTORVISON TV
+http://
+
+
+
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport" tvg-logo="https://bit.ly/2HF2wun" group-title="Sport",EUROSPORT 1
+http://
+
+
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://bit.ly/2r9XxHK" group-title="Sport",EUROSPORT 2
+http://
+
+#EXTINF:-1 tvg-id="Eurosport 2 HD Xtra" tvg-name="Eurosport 2 HD Xtra" tvg-logo="https://bit.ly/2Ag18cl" group-title="Sport",EUROSPORT 2 XTRA
+http://
+
+
+
+#EXTINF:-1 tvg-id="Sky Sport F1 HD" tvg-name="SKY SPORT F1" tvg-logo="https://bit.ly/2LPYzBL" group-title="Sport",SKY SPORT F1
+http://
+
+
+#EXTINF:-1 tvg-id="Sky Sport 1 HD" tvg-name="Sky Sport 1 HD" tvg-logo="https://bit.ly/2rgO4Of" group-title="Sport",SKY SPORT 1 x
+http://
+
+
+#EXTINF:-1 tvg-id="Sky Sport 2 HD" tvg-name="Sky Sport 2 HD" tvg-logo="https://bit.ly/2HKYlJy" group-title="Sport",SKY SPORT 2 x
+http://
+
+#EXTINF:-1 tvg-id="Sky Sport 3 HD" tvg-name="Sky Sport 3 HD" tvg-logo="https://bit.ly/2HGc20g" group-title="Sport",SKY SPORT 3 x
+http://
+
+#EXTINF:-1 tvg-id="Sky Sport 4 HD" tvg-name="SKY SPORT 4 HD" tvg-logo="https://bit.ly/2rb6iR6" group-title="Sport",SKY SPORT 4 x
+http://
+
+#EXTINF:-1 tvg-id="Sky Sport 5 HD" tvg-name="SKY SPORT 5 HD" tvg-logo="https://bit.ly/2rcUhKK" group-title="Sport",SKY SPORT 5 x
+http://
+
+#EXTINF:-1 tvg-id="Sky Sport 6 HD" tvg-name="SKY SPORT 6 HD" tvg-logo="https://bit.ly/2ErWFr9" group-title="Sport",SKY SPORT 6 x
+http://
+
+#EXTINF:-1 tvg-id="Sky Sport Austria" tvg-name="Sky Sport Austria" tvg-logo="https://bit.ly/2xQUkPT" group-title="Sport",SKY SPORT AUSTRIA x
+http://
+
+
+#EXTINF:-1 tvg-id="Sky Sport News" tvg-name="Sky Sport News HD" tvg-logo="https://bit.ly/2VtQIy6" group-title="Sport",SKY SPORT NEWS
+http://
+
+
+
+
+#EXTINF:-1 tvg-id="SPORT1 HD" tvg-name="Sport1 HD" tvg-logo="https://bit.ly/2w0fSvx" group-title="Sport",SPORT 1
+http://
+
+
+
+#EXTINF:-1 tvg-id="SPORT1+" tvg-name="sport1+ HD" tvg-logo="https://bit.ly/2I3lCtq" group-title="Sport",SPORT 1+
+http://
+
+
+#EXTINF:-1 tvg-id="Sport1 US" tvg-name="sport1 US HD" group-title="Sport",SPORT1 US
+http://
+
+
+#EXTINF:-1 tvg-id="sportdigital HD" tvg-name="sportdigital HD" tvg-logo="https://bit.ly/2xIdM22" group-title="Sport",SPORT 1 DIGITAL
+http://
+
+
+
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 HD" tvg-name="Sky Bundesliga HD 1" tvg-logo="https://bit.ly/2Fuj8z3" group-title="Sport",SKY SPORT BUNDESLIGA 1 x
+http://
+
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2 HD" tvg-name="Sky Bundesliga HD 2" tvg-logo="https://bit.ly/2I3oWEQ" group-title="Sport",SKY SPORT BUNDESLIGA 2 x
+http://
+
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 3 HD" tvg-name="Sky Bundesliga HD 3" tvg-logo="https://bit.ly/2w9tNzR" group-title="Sport",SKY SPORT BUNDESLIGA 3
+http://
+
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 4 HD" tvg-name="Sky Bundesliga HD 4" tvg-logo="http://static.iptv-epg.com/de/SkyBundesliga4.de.png" group-title="Sport",SKY SPORT BUNDESLIGA 4
+http://
+
+
+
+#EXTINF:-1 tvg-id="Telekom Sport 1" tvg-name="TELEKOM FUSSBALL 1 HD" tvg-logo="https://bit.ly/2QlRbyF" group-title="Sport",TELEKOM FUSSBALL 1
+http://
+
+#EXTINF:-1 tvg-id="Telekom Sport 2" tvg-name="TELEKOM FUSSBALL 2 HD" tvg-logo="https://bit.ly/2QlRbyF" group-title="Sport",TELEKOM FUSSBALL 2
+http://
+
+#EXTINF:-1 tvg-id="Telekom Sport 3" tvg-name="TELEKOM FUSSBALL 3 HD" tvg-logo="https://bit.ly/2QlRbyF" group-title="Sport",TELEKOM FUSSBALL 3
+http://
+
+#EXTINF:-1 tvg-id="Telekom Sport 4" tvg-name="TELEKOM FUSSBALL 4 HD" tvg-logo="https://bit.ly/2QlRbyF" group-title="Sport",TELEKOM FUSSBALL 4
+http://
+
+#EXTINF:-1 tvg-name="Telekom Sport 5" tvg-name="TELEKOM FUSSBALL 5 HD" tvg-logo="https://bit.ly/2QlRbyF" group-title="Sport",TELEKOM FUSSBALL 5
+http://
+
+#EXTINF:-1 tvg-name="Telekom Sport 6" tvg-name="TELEKOM FUSSBALL 6 HD" tvg-logo="https://bit.ly/2QlRbyF" group-title="Sport",TELEKOM FUSSBALL 6
+http://
+
+
+#EXTINF:-1 tvg-id="KOMBAT SPORTS" tvg-name="KOMBAT SPORTS" tvg-logo="ext" group-title="Sport",KOMBAT SPORTS x 
+http://
+
+
+#EXTINF:-1 tvg-id="Canal+ Toros" tvg-name="Canal+ Toros" tvg-logo="https://bit.ly/2CONi1V" group-title="Sport",TOROS TV x
+http://
+
+#EXTINF:-1 tvg-id="Sport1 Extra - 1" tvg-name="ZIGGO SPORT EXTRA 1" tvg-logo="ext" group-title="Sport",ZIGGO SPORT EXTRA 1 x
+http://
+
+#EXTINF:-1 tvg-id="Sport1 Extra - 2" tvg-name="ZIGGO SPORT EXTRA 2" tvg-logo="ext" group-title="Sport",ZIGGO SPORT EXTRA 2 x
+http://
+
+#EXTINF:-1 tvg-id="Sport1 Golf" tvg-name="ZIGGO SPORT GOLF" tvg-logo="ext" group-title="Sport",ZIGGO SPORT GOLF x
+http://
+
+#EXTINF:-1 tvg-id="Sky Sport F1 HD" tvg-name="ZIGGO SPORT RACING" tvg-logo="ext" group-title="Sport",ZIGGO SPORT RACING x
+http://
+
+#EXTINF:-1 tvg-id="Sport1 Voetbal" tvg-name="ZIGGO SPORT VOETBAL" tvg-logo="ext" group-title="Sport",ZIGGO SPORT VOETBAL x
+http://
+
+#EXTINF:-1 tvg-id="Sport1 Select (HD)" tvg-name="ZIGGO SPORT SELECT HD" tvg-logo="ext" group-title="Sport",ZIGGO SPORT SELECT x
+http://
+
+
+
+#EXTINF:-1 tvg-id="Eleven HD Sports" tvg-name="ELEVEN SPORTS HD" tvg-logo="https://bit.ly/2SHrVoM" group-title="Sport",ELEVEN SPORTS 1 x
+http://
+
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="ELEVEN SPORTS HD" tvg-logo="https://bit.ly/2SHrVoM" group-title="Sport",ELEVEN SPORTS 2 x
+http://
+
+
+#EXTINF:-1, tvg-id="Fox Sports News HD" tvg-name="Fox Sports News HD" tvg-logo="ext" group-title="Sport",FOX SPORTS NEWS x
+http://
+#EXTINF:-1, tvg-id="SKY Racing" tvg-name="SKY Racing" tvg-logo="ext" group-title="Sport",SKY RACING 1 x
+http://
+#EXTINF:-1, tvg-id="SKY Racing 2" tvg-name="SKY Racing 2" tvg-logo="ext" group-title="Sport",SKY RACING 2 x
+http://
+
+
+
+#EXTINF:-1, tvg-id="Do It Yourself Network (Canada)" tvg-name="Do It Yourself Network (Canada)" tvg-logo="ext" group-title="Doku",DIY NETWORK x
+http://
+
+
+
+
+
+#EXTINF:-1 tvg-id="Movistar Fórmula1" tvg-name="MOVISTAR FORMULA HD" tvg-logo="ext" group-title="Sport",MOVISTAR FORMULA 1 x
+http://
+
+
+
+#EXTINF:-1 tvg-id="Canal+ Fútbol" tvg-name="MOVISTARFUTBOL HD" tvg-logo="ext" group-title="Sport",MOVISTAR FUTBOL x
+http://
+
+
+#EXTINF:-1 tvg-id="Canal+ Golf" tvg-name="MOVISTARGOLF HD" tvg-logo="ext" group-title="Sport",MOVISTAR GOLF x
+http://
+
+#EXTINF:-1 tvg-id="Movistar Moto GP" tvg-name="MOVISTAR MOTO GP HD" tvg-logo="ext" group-title="Sport",MOVISTAR MOTO GP x
+http://
+
+
+#EXTINF:-1 tvg-id="Canal + Liga HD" tvg-name="Canal + Liga HD" tvg-logo="ext" group-title="Sport",LIGA 123 x 
+http://
+
+#EXTINF:-1 tvg-id="beIN Sports" tvg-name="LIGA DE CAMPEONES" tvg-logo="ext" group-title="Sport",LIGA DE CAMPEONES x 
+http://
+
+
+#EXTINF:-1 tvg-id="MILAN TV" tvg-name="MILAN TV" tvg-logo="ext" group-title="Sport",MILAN TV x
+http://
+
+#EXTINF:-1 tvg-id="SPORTING TV" tvg-name="SPORTING TV" tvg-logo="ext" group-title="Sport",SPORTING TV x
+http://
+
+
+#EXTINF:-1 tvg-id="TRAVEL CHANNEL" tvg-name="TRAVEL CHANNEL" tvg-logo="ext" group-title="Doku",TRAVEL CHANNEL x 
+http://
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

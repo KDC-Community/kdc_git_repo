@@ -1,0 +1,18 @@
+<items>
+    <item>
+        <title>DAVOR</title>
+        <link>$doregex[get-menu]</link>
+        <regex>
+            <name>get-menu</name>
+            <listrepeat><![CDATA[<title>[get-menu.param1]</title><link>$doregex[get-playlist]</link><thumbnail>[get-menu.param2]</thumbnail>]]></listrepeat>
+            <expres>\s*.title.(.*?)./title.\s*.thumbnail.(.*?)./thumbnail.\s*.link.(.*?)./link.\s*.externallink.(.*?)./externallink.</expres>
+            <page>http://davor.live/Addon/tv/world/Germany/MENI.mp4</page>
+        </regex>
+        <regex>
+            <name>get-playlist</name>
+            <listrepeat><![CDATA[<title>[get-playlist.param1]</title><link>[get-playlist.param2]</link>]]></listrepeat>
+            <expres>#EXTINF.*,(.*)\s(.*)</expres>
+            <page>[get-menu.param4]</page>
+        </regex>
+    </item>
+</items>

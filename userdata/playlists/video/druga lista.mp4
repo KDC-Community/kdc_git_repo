@@ -1,0 +1,489 @@
+#EXTM3U
+
+
+
+
+#EXTINF:-1 ,A1 Now
+https://vipottbpkstream.vip.hr/Content/a1-hls-vmx/Live/Channel(A1_Now_HD)/index.m3u8
+#EXTINF:-1 ,Allgäu TV
+http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
+#EXTINF:-1 ,Augsburg TV
+http://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1 ,Augsburg TV
+http://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Baden TV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 ,Baden TV
+https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 ,Bibel TV
+http://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8
+#EXTINF:-1 ,Bibel TV HD
+https://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,BLK TV
+http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
+#EXTINF:-1 ,BR Event 1
+http://brevent1hds-lh.akamaihd.net/i/br_event01isma@86390/index_1_av-p.m3u8
+#EXTINF:-1 ,BR Event 2
+http://brevent1hds-lh.akamaihd.net/i/br_event02isma@111248/index_1_av-p.m3u8
+#EXTINF:-1 ,BR Event 3
+http://brevent1hds-lh.akamaihd.net/i/br_event03isma@111249/index_1_av-p.m3u8
+#EXTINF:-1 ,BR FERNSEHEN
+https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/master.m3u8
+#EXTINF:-1 ,BR Fernsehen Germany
+http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
+#EXTINF:-1 ,BR Fernsehen Nord
+http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
+#EXTINF:-1 ,BR Fernsehen Worldwide
+https://br_hdslive-f.akamaihd.net/i/bfssued_worldwide@119891/index_3776_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,BR Süd
+https://brlive-lh.akamaihd.net/i/bfssued_worldwide@119891/index_3776_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,Campus TV Magdeburg
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8
+#EXTINF:-1 ,Campus TV Magdeburg
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1 ,Chemnitz Fernsehen
+http://chemnitz.iptv-playoutcenter.de:1935/chemnitz/chemnitzfernsehen.stream_2/playlist.m3u8
+#EXTINF:-1 ,Das Erste
+https://daserstehdde-lh.akamaihd.net/i/daserstehd_de@629196/index_3776_av-p.m3u8
+#EXTINF:-1 ,Das Erste
+https://daserstehdint-lh.akamaihd.net/i/daserstehd_int@629195/index_3776_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,Das Erste
+https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
+#EXTINF:-1 ,Das Erste
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 group-title="Music",Deluxe Music
+http://streaming-02.mivitec.net/live/smil:test.smil/chunklist_w1073861416_b879931_slDE.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Music",Deutsches Musik Fernsehen
+http://tv.artcom-venture.de:1322/dmf/tv_360.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Music",Deutsches Musik Fernsehen
+http://tv.artcom-venture.de:1322/dmf/tv_720.m3u8
+#EXTINF:-1 group-title="Music",Deutsches Musik Fernsehen
+https://tv.artcom-venture.de/dmf/tv_720.m3u8
+#EXTINF:-1 ,Donau TV
+http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_1/playlist.m3u8
+#EXTINF:-1 ,Donau TV
+http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2/playlist.m3u8
+#EXTINF:-1 ,Donau TV
+http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Dresden Fernsehen
+http://dresden.iptv-playoutcenter.de:1935/dresden/dresdenfernsehen.stream_2/playlist.m3u8
+#EXTINF:-1 ,DRF1
+http://62.67.13.54:1935/drf1/drf1_livestream_1/playlist.m3u8
+#EXTINF:-1 ,DRF1
+http://62.67.13.54:1935/drf1/drf1_livestream_3/playlist.m3u8
+#EXTINF:-1 group-title="News",DW
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+#EXTINF:-1 group-title="News",DW
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
+#EXTINF:-1 group-title="News",DW
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+#EXTINF:-1 group-title="News",DW
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.m3u8
+#EXTINF:-1 ,DW
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="News",DW
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="News",DW
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
+#EXTINF:-1 ,DW
+https://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
+#EXTINF:-1 group-title="News",DW Arabia
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="News",DW Arabia
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_2_av-b.m3u8
+#EXTINF:-1 group-title="News",DW Arabia
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+#EXTINF:-1 group-title="News",DW Arabia
+https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="News",DW English
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="News",DW English
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="News",DW English
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+#EXTINF:-1 group-title="News",DW English
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10&rebase;=on
+#EXTINF:-1 group-title="News",DW English
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:-1 group-title="News",DW English
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+#EXTINF:-1 group-title="News",DW English
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:-1 group-title="News",DW English
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="News",DW English
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 group-title="News",DW Español
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="News",DW Español
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1 group-title="News",DW Español
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,ELBEKANAL
+http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
+#EXTINF:-1 ,Erz-TV Stollberg
+http://62.67.13.53:1935/kabeljournal/live.stream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Filstalwelle
+http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/chunklist_w660034089.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Folx TV
+http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
+#EXTINF:-1 ,Folx TV
+http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8
+#EXTINF:-1 ,Franken Fernsehen
+http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1 ,FRF1
+http://58e5fdd27293a.streamlock.net:1935/friesischerRundfunk-live/_definst_/mp4:friesischerrundfunk/playlist.m3u8
+#EXTINF:-1 ,H1
+http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_HQ.m3u8
+#EXTINF:-1 ,H1
+http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_LQ.m3u8
+#EXTINF:-1 ,Halle
+http://62.113.210.250/medienasa-live/tvhalle_high/HasBahCa.m3u8
+#EXTINF:-1 ,HR
+http://livestream-1.hr.de/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1 ,HR Event 2
+http://hrevent2-lh.akamaihd.net/i/hr_event2@309240/master.m3u8
+#EXTINF:-1 ,HR Fernsehen
+http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-b.m3u8
+#EXTINF:-1 ,HR Fernsehen
+http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1 ,HR Fernsehen
+http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,HR HD
+http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8
+#EXTINF:-1 ,HR HD
+http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1 ,HR HD
+http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,HR HD
+http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1 ,Isar TV
+http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
+#EXTINF:-1 ,KabelJournal
+http://62.67.13.53:1935/kabeljournal/live.stream/playlist.m3u8
+#EXTINF:-1 ,Kultur MD
+http://62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
+#EXTINF:-1 ,L-TV
+http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream3.stream/chunklist_w2029534871.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,L-TV
+http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream3.stream/playlist.m3u8
+#EXTINF:-1 ,Light Channel
+http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
+#EXTINF:-1 group-title="Music",MagentaMusik 360
+http://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/magentamusik1_1/magentamusik1.m3u8
+#EXTINF:-1 ,MDF 1
+http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
+#EXTINF:-1 ,MDF 1
+http://62.113.210.250/medienasa-live/mdf1_high/HasBahCa.m3u8
+#EXTINF:-1 ,MDF 1
+http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1 ,München TV
+http://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/chunklist_w146192926.m3u8
+#EXTINF:-1 ,München TV
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/.m3u8
+#EXTINF:-1 ,München TV
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/chunklist_w1585276943.m3u8
+#EXTINF:-1 ,München TV
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1 ,München TV
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/.m3u8
+#EXTINF:-1 ,München TV
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/hasbahca.m3u8
+#EXTINF:-1 ,München TV
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
+#EXTINF:-1 ,NDR Fernsehen
+http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
+#EXTINF:-1 ,NDR Hamburg
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-b.m3u8?sd=10&rebase=on&id=
+#EXTINF:-1 ,NDR Hamburg
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
+#EXTINF:-1 ,NDR Mecklenburg-Vorpommern
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/index_3776_av-b.m3u8?sd=10&rebase=on&id=
+#EXTINF:-1 ,NDR Mecklenburg-Vorpommern
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
+#EXTINF:-1 ,NDR Niedersachsen
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_1992_av-p.m3u8
+#EXTINF:-1 ,NDR Niedersachsen
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
+#EXTINF:-1 ,NDR Schleswig-Holstein
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-b.m3u8?sd=10&rebase=on&id=
+#EXTINF:-1 ,NDR Schleswig-Holstein
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
+#EXTINF:-1 ,Noa 4 Hamburg
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 ,Noa 4 Norderstedt
+http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1 ,NRD Niedersachsen
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-b.m3u8?sd=10&rebase=on&id=
+#EXTINF:-1 ,NRWision
+https://fms.nrwision.de/live/livestreamHD.stream_1080p/chunklist.m3u8
+#EXTINF:-1 ,NRWision
+https://fms.nrwision.de/live/livestreamHD.stream_360p/chunklist.m3u8
+#EXTINF:-1 ,NRWision
+https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8
+#EXTINF:-1 ,Oberpfalz TV
+http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8
+#EXTINF:-1 ,Offener Kanal Dessau
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8
+#EXTINF:-1 ,Offener Kanal Dessau
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1 ,Offener Kanal Magdeburg
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Offener Kanal Magdeburg
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8
+#EXTINF:-1 ,Offener Kanal Magdeburg
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1 ,Offener Kanal Salzwedel
+http://62.113.210.250/medienasa-live/ok-salzwedel_high/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Offener Kanal Salzwedel
+http://62.113.210.250/medienasa-live/ok-salzwedel_high/HasBahCa.m3u8?bitrate=800
+#EXTINF:-1 ,OK-Stendal
+http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8
+#EXTINF:-1 ,OK-Stendal
+http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1 ,OK54
+http://stream-cdn.ok54.de/hls/ok54.m3u8
+#EXTINF:-1 ,Oldenburg Eins
+http://oeins.de:1935/live/studio/playlist.m3u8
+#EXTINF:-1 ,Parlamentsfernsehen 1
+https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
+#EXTINF:-1 ,Parlamentsfernsehen 2
+https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
+#EXTINF:-1 group-title="Music",Radio Weser TV Bremen
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1 ,RAN1 Regionalfernsehen
+http://62.113.210.250:1935/medienasa-live/ran1_high/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Regio TV Bodensee
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/chunklist.m3u8
+#EXTINF:-1 ,Regio TV Schwaben
+http://regiotv.iptv-playoutcenter.de:1935/regiotv/regiotv.stream_1/playlist.m3u8
+#EXTINF:-1 ,Regio TV Stuttgart
+https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/chunklist.m3u8
+#EXTINF:-1 ,RFO
+http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
+#EXTINF:-1 ,RNF
+http://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
+#EXTINF:-1 ,RNF
+http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/playlist.m3u8
+#EXTINF:-1 ,Saarland Fernsehen 1
+http://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Saarland Fernsehen 2
+http://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
+#EXTINF:-1 ,Sonnenklar.TV
+http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
+#EXTINF:-1 ,Sonus FM
+http://streaming.sonus.fm/public/stream_720p/playlist.m3u8
+#EXTINF:-1 ,Sonus FM TV
+http://www.sonus.fm:1935/public/stream_240p/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Sophia TV
+https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8
+#EXTINF:-1 ,SYLT1
+http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
+#EXTINF:-1 ,Südthüringer Regionalfernsehen
+http://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
+#EXTINF:-1 ,tagesschau 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+#EXTINF:-1 ,tagesschau 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,tagesschau 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1 ,tagesschau24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,Tele Regional Passau 1
+http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Telebasel
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/hasbahca.m3u8
+#EXTINF:-1 ,Telebasel
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
+#EXTINF:-1 ,TRP1
+http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/playlist.m3u8
+#EXTINF:-1 ,TV Aktuell
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_3/playlist.m3u8
+#EXTINF:-1 ,TV Halle
+http://62.113.210.250/medienasa-live/tvhalle_high/hasbahca.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,TV Mainfranken
+http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/chunklist_w893326909.m3u8
+#EXTINF:-1 ,TV Mainfranken
+http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1 ,TV Oberfranken
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w1654226206.m3u8
+#EXTINF:-1 ,TV Oberfranken
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w1855878409.m3u8
+#EXTINF:-1 ,TV Oberfranken
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1 ,TVA Ostbayern
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w639935191.m3u8
+#EXTINF:-1 ,TVA Ostbayern
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w670613508.m3u8
+#EXTINF:-1 ,TVA Ostbayern
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/hasbahca.m3u8
+#EXTINF:-1 ,TVA Ostbayern
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8
+#EXTINF:-1 ,TVA Ostbayern
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:-1 ,Unserding
+http://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/index_1662_av-b.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,WDR
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-b.m3u8
+#EXTINF:-1 ,WDR
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-p.m3u8
+#EXTINF:-1 ,WDR
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+#EXTINF:-1 group-title="Sport",World Of Free Sports TV
+https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: A TV AUGSBURG NEW
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: ALLGAU TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: ARD-alpha
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=livestreams.br.de/i/bralpha_germany@119899/master.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: AUGSBURG TV HD
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_2/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: BADEN TV OPT 1
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: BADEN TV OPT 2
+http://tvpremiumhd.club/lista-gratuita/213017/on/lives.php?id=cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: BR Nord
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: BR NORD
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=livestreams.br.de/i/bfsnord_germany@119898/master.ts
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: BR Sued
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=livestreams.br.de/i/bfssued_germany@119890/master.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: BR SUED
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=livestreams.br.de/i/bfssued_germany@119890/master.ts
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: BR Worldwide
+http://tvpremiumhd.club/lista-gratuita/213017/on/lives.php?id=br_hdslive-f.akamaihd.net/i/bfssued_worldwide@119891/index_3776_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: Campus TV Magdeburg
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: CHEMNITZ FERNSEHEN
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=chemnitz.iptv-playoutcenter.de:1935/chemnitz/chemnitzfernsehen.stream_2/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: DAS ERSTE (1+)
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.ts
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: Das Erste Int'l
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=daserste_live-lh.akamaihd.net/i/daserste_int@91203/master.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: DER AKTIONAR TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: DEUTSCHE WELLE OPT 1
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: DEUTSCHE WELLE OPT 2
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: DEUTSCHE WELLE OPT 3
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: Deutsche Welle***
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=ott-cdn.ucom.am/s26/index.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: Deutsches Musik Fernsehen
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=tv.artcom-venture.de:1322/dmf/tv.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: DONAU TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: DRESDEN FERNSEHEN
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=dresden.iptv-playoutcenter.de:1935/dresden/dresdenfernsehen.stream_2/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: DW Arabic
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: DW TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/lives.php?id=dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-p.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: Elbekanal
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: FERNSEHEN MAGDEBURG
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: FOLX TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: FRANKEN FERNSEHEN
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: FRANKEN FERNSEHEN TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_2/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: h1
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=livestream.htp.tv/livestream.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: ISAR TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: ISAR TV (1+)
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_2/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: K TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: KULTURMDTV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: L TV FERNSEHEN
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=62.113.221.4/tv2000plus-live/_definst_/mp4:livestream3.stream/chunklist_w2029534871.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: LEIPZIG FERNSEHEN
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=leipzig.iptv-playoutcenter.de:1935/leipzig/leipzigfernsehen.stream_2/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: LIGHT CHANNEL TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: MUNCHEN TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: NDR HAMBURG
+http://tvpremiumhd.club/lista-gratuita/213017/on/lives.php?id=ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: NDR Mecklenburg-Vorpommern
+http://tvpremiumhd.club/lista-gratuita/213017/on/lives.php?id=ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: NDR NIEDERSACHSEN
+http://tvpremiumhd.club/lista-gratuita/213017/on/lives.php?id=ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: NDR SCHLESWIG HOLSTEIN
+http://tvpremiumhd.club/lista-gratuita/213017/on/lives.php?id=ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: NOA 4 HAMBURG
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: OBERPFALZ TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: OBERPFALZ TV (1+)
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_2/chunklist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: OFFENER KANAL DESSAU
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: Offener Kanal Magdeburg
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: OFFENER KANAL MAGDEBURG
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=62.113.210.250/medienasa-live/ok-magdeburg_high/FluxusTV.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: OFFENER KANAL MAGDEBURG (1+)
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: OFFENER KANAL MERSEBURG NEW
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=62.113.210.250:1935/medienasa-live/ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: OFFENER KANAL SALZWEDEL
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=62.113.210.250/medienasa-live/ok-salzwedel_high/FluxusTV.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: P3 TV HD
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=p3-6.mov.at:1935/live/weekstream/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: pop10
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: POP10
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: RAN1 REGIONALFERNSEHEN NEW
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=62.113.210.250:1935/medienasa-live/ran1_high/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: RFO
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: RNF
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: RTS SALZBURG NEW
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=lb.hd-livestream.de:1935/live/RTS2015/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: SAARLAND FERNSEHEN 1 NEW
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: SANTUARIO FATIMA PORTUGAL
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: SYLT1
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: TAGESSCHAU24
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: TIROL TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=lb.hd-livestream.de:1935/live/TirolTV/master.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: TRP1
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_2/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: TV HALLE
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=62.113.210.250/medienasa-live/tvhalle_high/hasbahca.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: TV KUJAWY OPT 1
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: TV OBERFRANKEN
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_2/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: TV TORUN
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: TV TOURING WURZBURG
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: TVA HD
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_2/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: TVA OSTBAYERN
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: TVO OPT 1
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: TVO OPT 2
+http://tvpremiumhd.club/lista-gratuita/213017/on/lives.php?id=tvo.vedge.infomaniak.com/livecast/tvo/master.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: Unserding
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=srunserding-lh.akamaihd.net/i/visualradio_ud@197013/index_1662_av-b.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: WDR FERNSEHEN
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+#EXTINF:-1 group-title="ALEMANIA",ALEMANIA: WTV WETTIN NEW
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=62.113.210.250:1935/medienasa-live/ok-wettin_high/playlist.m3u8
