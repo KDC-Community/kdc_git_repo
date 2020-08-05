@@ -4,7 +4,6 @@ Die Addons sind in der data.txt einzutragen
 
 Die schreibweise URLResolver ist für private Github Repo Branchen.
 Urlresolver*https://api.github.com/repos/streamxstream/script.module.urlresolver/zipball/master?access_token=30d93d60b79c234912b413c19fd6daa75d162c17*urlresolver.png
-
 Die folgende Schreibweise für ein öffentliches Github (z.B Joyn):
 Joyn*https://github.com/fayer3/plugin.video.joyn_app/archive/master.zip*joyn.png
 
