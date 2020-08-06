@@ -1,0 +1,15 @@
+<?xml version="1.1" encoding="UTF-8" standalone="yes"?>
+<app version="1.2">
+  <name>Visual Controller Test</name>
+  <coder>Mr. Reaper</coder>
+  <version>1.2</version>
+  <short_description>Test all your controllers</short_description> 
+  <long_description> 
+  If you like pressing buttons, then this app is for you!!!
+  
+  You can test the features of all your controllers on your Wii.
+  
+  Useful for determining which controllers are spazzy.
+  </long_description> 
+</app>
+

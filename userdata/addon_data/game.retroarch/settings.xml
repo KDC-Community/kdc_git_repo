@@ -1,0 +1,4 @@
+<settings version="2">
+    <setting id="ask">true</setting>
+    <setting id="retroplayer" default="true">false</setting>
+</settings>

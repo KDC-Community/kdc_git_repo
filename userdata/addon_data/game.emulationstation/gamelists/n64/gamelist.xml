@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<gameList sortid="0">
+	<game>
+		<path>./Bomber Man Hero - Mirian Oujo o Sukue! (Japan).n64</path>
+		<name>Bomber Man Hero - Mirian Oujo o Sukue! (Japan)</name>
+		<playcount>1</playcount>
+		<lastplayed>20190816T125931</lastplayed>
+	</game>
+	<game>
+		<path>./Gex 64 - Enter the Gecko (USA).n64</path>
+		<name>Gex 64 - Enter the Gecko (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20190816T125142</lastplayed>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (Debug Edition).n64</path>
+		<name>Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (Debug Edition)</name>
+		<playcount>1</playcount>
+		<lastplayed>20190816T125500</lastplayed>
+	</game>
+	<game>
+		<path>./Nintendo All-Star! Dairantou Smash Brothers (Japan).n64</path>
+		<name>Nintendo All-Star! Dairantou Smash Brothers (Japan)</name>
+		<playcount>1</playcount>
+		<lastplayed>20190816T120029</lastplayed>
+	</game>
+</gameList>

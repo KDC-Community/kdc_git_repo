@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "/storage/emulators/roms/psx/Wipeout XL (Japan)/WIPEOUT2.cue",
+      "label": "Wipeout XL (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/psx/Mortal Kombat Trilogy Japan/Mortal Kombat Trilogy (Japan).cue",
+      "label": "Mortal Kombat Trilogy (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "Sony - PlayStation.lpl"
+    }
+  ]
+}

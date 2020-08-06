@@ -1,0 +1,69 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "/storage/emulators/roms/snes/Mortal Kombat (J).smc",
+      "label": "Mortal Kombat - Shinken Kourin Densetsu (Japan) (En)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0BD8EC55|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/snes/Super Mario - Yoshi Island (J) (V1.2).smc",
+      "label": "Super Mario - Yossy Island (Japan) (Rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F1063FAD|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/snes/Super Mario - Yoshi Island (J) (V1.1) [!].smc",
+      "label": "Super Mario - Yossy Island (Japan) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0F66698B|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/snes/Super Donkey Kong 3 - Nazo no Krems Shima (J) (V1.0).smc",
+      "label": "Super Donkey Kong 3 - Nazo no Kremis-tou (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0F712928|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/snes/Donkey Kong Country (U) (V1.2) [!].smc",
+      "label": "Donkey Kong Country (USA) (Rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "762AF827|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/snes/Super Mario - Yoshi Island (J) (V1.0).smc",
+      "label": "Super Mario - Yossy Island (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "343E0DFB|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/snes/Super Mario World 2 - Yoshi's Island (E) (V1.0) [!].smc",
+      "label": "Super Mario World 2 - Yoshi's Island (Europe) (En,Fr,De)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "857980B2|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/snes/Super Bomberman 3 (J) (35326).smc",
+      "label": "Super Bomber Man 3 (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9ECB0FE6|crc",
+      "db_name": "Nintendo - Super Nintendo Entertainment System.lpl"
+    }
+  ]
+}

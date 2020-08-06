@@ -1,0 +1,61 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "/storage/.kodi/userdata/addon_data/game.retroarch/screenshots/Pinball Fantasies (1992)(21st Century)-191006-113203.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/.kodi/userdata/addon_data/game.retroarch/screenshots/Pinball Fantasies (1992)(21st Century)-191006-113112.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/.kodi/userdata/addon_data/game.retroarch/screenshots/Pinball Fantasies (1992)(21st Century)-191006-113103.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/.kodi/userdata/addon_data/game.retroarch/screenshots/Acro Jet (1986)(U.S. Gold)-190918-132437.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/.kodi/userdata/addon_data/game.retroarch/screenshots/Dixie Kong's Double Trouble (U)-190909-220422.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/.kodi/userdata/addon_data/game.retroarch/screenshots/3-D Pinball - Pinball Power-190907-035929.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/.kodi/userdata/addon_data/game.retroarch/screenshots/R-Type-190905-020016.png",
+      "label": "",
+      "core_path": "builtin",
+      "core_name": "imageviewer",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

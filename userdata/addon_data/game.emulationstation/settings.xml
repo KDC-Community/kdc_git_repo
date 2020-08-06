@@ -1,0 +1,43 @@
+<settings version="2">
+    <setting id="amiga">puae</setting>
+    <setting id="amstradcpc" default="true">cap32</setting>
+    <setting id="ask">true</setting>
+    <setting id="atari2600" default="true">stella</setting>
+    <setting id="atari7800" default="true">prosystem</setting>
+    <setting id="atarilynx" default="true">handy</setting>
+    <setting id="atarist" default="true">hatari</setting>
+    <setting id="dreamcast" default="true">reicast</setting>
+    <setting id="fba" default="true">fbalpha</setting>
+    <setting id="gamegear" default="true">genesis_plus_gx</setting>
+    <setting id="gb" default="true">gambatte</setting>
+    <setting id="gba" default="true">gpsp</setting>
+    <setting id="gw" default="true">gw</setting>
+    <setting id="lutro" default="true">lutro</setting>
+    <setting id="mame" default="true">mame2003</setting>
+    <setting id="mastersystem" default="true">genesis_plus_gx</setting>
+    <setting id="megadrive" default="true">genesis_plus_gx</setting>
+    <setting id="msx" default="true">bluemsx</setting>
+    <setting id="n64" default="true">mupen64plus</setting>
+    <setting id="nds" default="true">drastic</setting>
+    <setting id="neogeo" default="true">fbalpha</setting>
+    <setting id="nes" default="true">fceumm</setting>
+    <setting id="ngp" default="true">mednafen_ngp</setting>
+    <setting id="pcengine" default="true">mednafen_pce_fast</setting>
+    <setting id="ports" default="true">ports</setting>
+    <setting id="psp" default="true">ppsspp</setting>
+    <setting id="psx" default="true">pcsx_rearmed</setting>
+    <setting id="romspath" default="true">/storage/emulators/roms/</setting>
+    <setting id="saturn" default="true">yabause</setting>
+    <setting id="scummvm" default="true">scummvm</setting>
+    <setting id="sega32" default="true">picodrive</setting>
+    <setting id="segacd" default="true">genesis_plus_gx</setting>
+    <setting id="sg1000" default="true">picodrive</setting>
+    <setting id="snes" default="true">snes9x2010</setting>
+    <setting id="supergrafx" default="true">mednafen_supergrafx</setting>
+    <setting id="vectrex" default="true">vecx</setting>
+    <setting id="videopac" default="true">o2em</setting>
+    <setting id="virtualboy" default="true">mednafen_vb</setting>
+    <setting id="wonderswan" default="true">mednafen_wswan</setting>
+    <setting id="zx81" default="true">81</setting>
+    <setting id="zxspectrum" default="true">fuse</setting>
+</settings>

@@ -1,0 +1,805 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "/storage/emulators/roms/mame/roms/1942.zip",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/mame2003_libretro.so",
+      "core_name": "Arcade (MAME 2003)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/psx/Crash Bandicoot.bin",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/pcsx_rearmed_libretro.so",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/snes/Donkey Kong Country (U) (V1.2) [!].smc",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/snes9x2010_libretro.so",
+      "core_name": "Nintendo - SNES / Famicom (Snes9x 2010)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/atari7800/Ace of Aces (1988) (Atari).a78",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/prosystem_libretro.so",
+      "core_name": "Atari - 7800 (ProSystem)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/atari7800/Asteroids (1987) (Atari).a78",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/prosystem_libretro.so",
+      "core_name": "Atari - 7800 (ProSystem)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/amiga/config/Alcatraz.uae",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (P-UAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/amiga/config/Jaguar_XJ220.uae",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (P-UAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/atari7800/Motor Psycho (1990) (Atari).a78",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/prosystem_libretro.so",
+      "core_name": "Atari - 7800 (ProSystem)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/atari7800/Commando (1989) (Atari).a78",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/prosystem_libretro.so",
+      "core_name": "Atari - 7800 (ProSystem)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/atari7800/Centipede (1987) (Atari).a78",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/prosystem_libretro.so",
+      "core_name": "Atari - 7800 (ProSystem)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/fba/bankp.zip",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/fbalpha_libretro.so",
+      "core_name": "Arcade (FB Alpha)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/zxspectrum/Skateball (1988)(Ubi Soft).z80",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/fuse_libretro.so",
+      "core_name": "ZX Spectrum (Fuse)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/snes/California Games II (USA).sfc",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/snes9x2010_libretro.so",
+      "core_name": "Nintendo - SNES / Famicom (Snes9x 2010)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/amiga/config/Worms_The_Directors_Cut_AGA.uae",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (P-UAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/atari7800/Pole Position II (1987) (Atari).a78",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/prosystem_libretro.so",
+      "core_name": "Atari - 7800 (ProSystem)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/amiga/config/Ultimate_Pinball_Quest_The.uae",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (P-UAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/amiga/config/Pinball Fantasies (1992)(21st Century).uae",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (P-UAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/mame/roms/dkong.zip",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/mame2003_libretro.so",
+      "core_name": "Arcade (MAME 2003)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/snes/Super Mario Kart (U) [!].smc",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/snes9x2010_libretro.so",
+      "core_name": "Nintendo - SNES / Famicom (Snes9x 2010)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/zxspectrum/Winter Sports (1985)(Electric Dreams Software).z80",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/fuse_libretro.so",
+      "core_name": "ZX Spectrum (Fuse)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/zxspectrum/Super Soccer (1986)(Imagine Software).z80",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/fuse_libretro.so",
+      "core_name": "ZX Spectrum (Fuse)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/megadrive/Winter Olympic Games/Winter Olympic Games.md",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/atari5200/Track and Field (USA) (Proto).a52",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/atari800_libretro.so",
+      "core_name": "Atari - 5200 (Atari800)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/atari5200/Activision Decathlon, The (USA).a52",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/atari800_libretro.so",
+      "core_name": "Atari - 5200 (Atari800)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/atari7800/Summer Games (1987) (Atari) [!].a78",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/prosystem_libretro.so",
+      "core_name": "Atari - 7800 (ProSystem)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/mame/roms/spbactn.zip",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/mame2003_libretro.so",
+      "core_name": "Arcade (MAME 2003)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/C64/Aztec Challenge.d64",
+      "label": "",
+      "core_path": "/storage/.kodi/addons/game.libretro.vice/game.libretro.vice.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/amiga/config/Pinball Dreams (1992).uae",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (P-UAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/amiga/config/Sex_Olympics.uae",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (P-UAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/C64/Pinball Wizard.d64",
+      "label": "",
+      "core_path": "/storage/.kodi/addons/game.libretro.vice/game.libretro.vice.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/megadrive/Olympic Gold (Europe)/Olympic Gold (Europe).md",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/fba/popeye.zip",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/fbalpha_libretro.so",
+      "core_name": "Arcade (FB Alpha)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/megadrive/Best of the Best - Championship Karate/Best of the Best - Championship Karate.bin",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/amiga/config/Franko_The_Crazy_Revenge.uae",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (P-UAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/zxspectrum/Acro Jet (1986)(U.S. Gold).z80",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/fuse_libretro.so",
+      "core_name": "ZX Spectrum (Fuse)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/mame/roms/elevator.zip",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/mame2003_libretro.so",
+      "core_name": "Arcade (MAME 2003)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/fba/cabal.zip",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/fbalpha_libretro.so",
+      "core_name": "Arcade (FB Alpha)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/.kodi/userdata/addon_data/game.retroarch/downloads/240pPVR.cdi",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/reicast_libretro.so",
+      "core_name": "Sega - Dreamcast (Reicast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/psx/Crash Bandicoot - Warped.bin",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/pcsx_rearmed_libretro.so",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/snes/Dixie Kong's Double Trouble (U).smc",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/snes9x2010_libretro.so",
+      "core_name": "Nintendo - SNES / Famicom (Snes9x 2010)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/snes/Donkey Kong Country 3 - Dixie Kong's Double Trouble (E) [!].smc",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/mednafen_snes_libretro.so",
+      "core_name": "Nintendo - SNES / Famicom (Beetle bsnes)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/amiga/config/Last_Ninja_Remix.uae",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (P-UAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/C64/Shaolin.d64",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/vice_x128_libretro.so",
+      "core_name": "Commodore - C128 (VICE x128)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/atari7800/Kung-Fu_Master_1989_Absolute_Entertainment_NTSC.a78",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/prosystem_libretro.so",
+      "core_name": "Atari - 7800 (ProSystem)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/atarijaguar/Kasumi Ninja (World).j64",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/virtualjaguar_libretro.so",
+      "core_name": "Atari - Jaguar (Virtual Jaguar)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/C64/911 Tiger Shark.t64",
+      "label": "",
+      "core_path": "/storage/.kodi/addons/game.libretro.vice/game.libretro.vice.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/C64/3-D Pinball - Pinball Power.d64",
+      "label": "",
+      "core_path": "/storage/.kodi/addons/game.libretro.vice/game.libretro.vice.so",
+      "core_name": "VICE x64",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/amiga/config/Chase_HQ_II_Special_Criminal_Investigation.uae",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (P-UAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/atarilynx/calgames.lnx",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/handy_libretro.so",
+      "core_name": "Atari - Lynx (Handy)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/dreamcast/Frogger_2_Swampys_Revenge_USA/Frogger 2 - Swampy's Revenge (USA).gdi",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/reicast_libretro.so",
+      "core_name": "Sega - Dreamcast (Reicast)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/atarilynx/lemmings.lnx",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/handy_libretro.so",
+      "core_name": "Atari - Lynx (Handy)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/.kodi/addons/game.retroarch/launchTemp.uae",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/uae4arm_libretro.so",
+      "core_name": "Commodore - Amiga (UAE4ARM)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/megadrive/Final Fight CD/Final Fight CD.iso",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/n64/Gex 64 - Enter the Gecko (USA).n64",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/mupen64plus_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/amiga/config/Roll_or_Die.uae",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (P-UAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/amiga/config/Wings of Fury.uae",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (P-UAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/amiga/config/Elf_Ocean.uae",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (P-UAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/amiga/config/BC_Kid.uae",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (P-UAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/amiga/adf/Wings of Fury/Wings of Fury.adf",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (P-UAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/amiga/config/Shadow_Fighter_AGA.uae",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (P-UAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/amiga/config/First_Samurai_The.uae",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (P-UAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/amiga/config/Wings.uae",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (P-UAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/amiga/config/Lost Patrol.uae",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (P-UAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/amiga/config/R-Type.uae",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/puae_libretro.so",
+      "core_name": "Commodore - Amiga (P-UAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/amiga/config/R-Type.uae",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/uae4arm_libretro.so",
+      "core_name": "Commodore - Amiga (UAE4ARM)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/amiga/adf/R-Type.zip",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/uae4arm_libretro.so",
+      "core_name": "Commodore - Amiga (UAE4ARM)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/amiga/adf/R-Type.zip",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/fsuae_libretro.so",
+      "core_name": "Commodore - Amiga (FS-UAE)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/amiga/config/Wings of Fury.uae",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/uae4arm_libretro.so",
+      "core_name": "Commodore - Amiga (UAE4ARM)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/snes/Final Fight 2 (U).smc",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/snes9x2010_libretro.so",
+      "core_name": "Nintendo - SNES / Famicom (Snes9x 2010)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/snes/Beginning of Mithareio, The Demo Version (SMW 1 Hack).smc",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/snes9x2010_libretro.so",
+      "core_name": "Nintendo - SNES / Famicom (Snes9x 2010)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/snes/Archie 2K's World (SMW 1 Hack).smc",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/snes9x2010_libretro.so",
+      "core_name": "Nintendo - SNES / Famicom (Snes9x 2010)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/zxspectrum/Bionic Ninja (1989)(Zeppelin Games).z80",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/fuse_libretro.so",
+      "core_name": "ZX Spectrum (Fuse)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/segasaturn/Shinobi Legions (U)(Saturn).zip",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/yabause_libretro.so",
+      "core_name": "Sega - Saturn (Yabause)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/psx/Worms_Armageddon_USA/Worms Armageddon (USA).bin",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/pcsx_rearmed_libretro.so",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/psx/Mortal Kombat 4.bin",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/pcsx_rearmed_libretro.so",
+      "core_name": "Sony - PlayStation (PCSX ReARMed)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/snes/Mortal Kombat (E) (Blood Patch) [h1].smc",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/snes9x2010_libretro.so",
+      "core_name": "Nintendo - SNES / Famicom (Snes9x 2010)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/megadrive/Mortal Kombat 2/Mortal Kombat 2.bin",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/megadrive/Aladdin/Aladdin.bin",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/genesis_plus_gx_libretro.so",
+      "core_name": "Sega - MS/GG/MD/CD (Genesis Plus GX)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/atari2600/Winter Games (USA).a26",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/stella_libretro.so",
+      "core_name": "Atari - 2600 (Stella)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/segasaturn/Sonic R/Sonic R.cue",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/yabause_libretro.so",
+      "core_name": "Sega - Saturn (Yabause)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/zxspectrum/BMX Ninja (1988)(Alternative Software).z80",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/fuse_libretro.so",
+      "core_name": "ZX Spectrum (Fuse)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/n64/Bomber Man Hero - Mirian Oujo o Sukue! (Japan).n64",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/mupen64plus_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/gbc/1942 (USA, Europe).gbc",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/gambatte_libretro.so",
+      "core_name": "Nintendo - Game Boy / Color (Gambatte)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/gb/Super Mario Land (World) (Rev A).gb",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/gambatte_libretro.so",
+      "core_name": "Nintendo - Game Boy / Color (Gambatte)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/fba/bagman.zip",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/fbalpha_libretro.so",
+      "core_name": "Arcade (FB Alpha)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/nes/Elevator Action/ElevatorAction.nes",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/fceumm_libretro.so",
+      "core_name": "Nintendo - NES / Famicom (FCEUmm)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/msx/Dynamite Bowl (Japan).rom",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/bluemsx_libretro.so",
+      "core_name": "MSX/SVI/ColecoVision/SG-1000 (blueMSX)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/msx/Out Run (Japan).rom",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/bluemsx_libretro.so",
+      "core_name": "MSX/SVI/ColecoVision/SG-1000 (blueMSX)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/msx/1942 (Japan).rom",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/bluemsx_libretro.so",
+      "core_name": "MSX/SVI/ColecoVision/SG-1000 (blueMSX)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/X68000/Door Door (19xx)(-)[p].dim",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/px68k_libretro.so",
+      "core_name": "Sharp - X68000 (PX68k)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/zxspectrum/ACE 2 - The Ultimate Head to Head Conflict (1987)(Cascade Games).z80",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/fuse_libretro.so",
+      "core_name": "ZX Spectrum (Fuse)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/zxspectrum/720 Degrees (1986)(U.S. Gold).z80",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/fuse_libretro.so",
+      "core_name": "ZX Spectrum (Fuse)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/atarijaguar/Atari Karts (World).j64",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/virtualjaguar_libretro.so",
+      "core_name": "Atari - Jaguar (Virtual Jaguar)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/atarijaguar/Super Burnout (World).j64",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/virtualjaguar_libretro.so",
+      "core_name": "Atari - Jaguar (Virtual Jaguar)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/atari2600/Elevator Action (USA) (Proto).a26",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/stella_libretro.so",
+      "core_name": "Atari - 2600 (Stella)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/fba/bublbobl.zip",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/fbalpha_libretro.so",
+      "core_name": "Arcade (FB Alpha)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/nds/Super Mario 64 DS (Europe) (En,Fr,De,Es,It).nds",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/desmume_libretro.so",
+      "core_name": "Nintendo - DS (DeSmuME)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/mame/roms/mugsmash.zip",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/mame2003_libretro.so",
+      "core_name": "Arcade (MAME 2003)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/mame/MAME 0.37b5 mame2000/ridgeraj.zip",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/mame2003_libretro.so",
+      "core_name": "Arcade (MAME 2003)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/storage/emulators/roms/mame/MAME 0.37b5 mame2000/mugsmash.zip",
+      "label": "",
+      "core_path": "/storage/.kodi/userdata/addon_data/game.retroarch/cores/mame2003_libretro.so",
+      "core_name": "Arcade (MAME 2003)",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

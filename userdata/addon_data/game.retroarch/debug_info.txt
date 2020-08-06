@@ -1,0 +1,360 @@
+Log Date/Time: 2019-09-09 22:04:21
+RetroArch Version: 1.7.7
+RetroArch Build Date: May 17 2019
+RetroArch Git Commit: 56396f6
+
+CPU Capabilities: NEON VFPv3 VFPv4 
+CPU Architecture: ARMv7
+CPU Cores: 4
+Memory: 189/747 MB
+GPU Device: Broadcom VideoCore IV HW
+GPU API/Driver Version: OpenGL ES 2.0
+
+Window Resolution: 1920 x 1080
+Monitor Resolution: 0 x 0 @ 0.00 Hz (configured for 37.77 Hz)
+
+Compiler: GCC (7.3.0) 32-bit
+Frontend Identifier: unix
+Frontend OS: Linux (v4.19)
+
+Input Devices (autoconfig is enabled):
+  - Port #0 autoconfigured:
+      - Device name: Sony PLAYSTATION(R)3 Controller (#0)
+      - Display name: Sony PLAYSTATION(R)3 Controller
+      - Config path: udev/Sony-PlayStation3-DualShock3-Controller-USB.cfg
+      - VID/PID: 1356/616 (0x054C/0x0268)
+  - Port #1 not autoconfigured
+  - Port #2 not autoconfigured
+  - Port #3 not autoconfigured
+
+Drivers:
+  - Menu: n/a (configured for xmb)
+  - Video: gl
+  - Video Context: videocore
+  - Audio: alsa
+  - Input: udev
+  - Joypad: udev
+
+Configuration related settings:
+  - Save on exit: yes
+  - Load content-specific core options automatically: yes
+  - Load override files automatically: yes
+  - Load remap files automatically: yes
+  - Sort saves in folders: no
+  - Sort states in folders: no
+  - Write saves in content dir: no
+  - Write savestates in content dir: no
+
+Auto load state: no
+Auto save state: no
+
+Buildbot cores URL: http://buildbot.libretro.com/nightly/linux/armhf/latest/
+Auto-extract downloaded archives: yes
+Core info: 122 entries
+Databases: 118 entries
+
+Performance and latency-sensitive features (may have a large impact depending on the core):
+  - Video:
+      - Runahead: no
+      - Rewind: no
+      - Hard GPU Sync: no
+      - Frame Delay: 0 frames
+      - Max Swapchain Images: 3
+      - Max Run Speed: 0.0 x
+      - Sync to exact content framerate: no
+      - Fullscreen: no
+      - Windowed Fullscreen: yes
+      - Threaded Video: no
+      - Vsync: yes
+      - Vsync Swap Interval: 1 frames
+      - Black Frame Insertion: no
+      - Bilinear Filtering: yes
+      - Video CPU Filter: n/a
+      - CRT SwitchRes: no
+      - Video Shared Context: yes
+      - Video Shader: n/a
+  - Audio:
+      - Audio Enabled: yes
+      - Audio Sync: yes
+      - Resampler Quality: Lower
+      - Audio Latency: 64 ms
+      - Dynamic Rate Control (DRC): 0.005
+      - Max Timing Skew: 0.05
+      - Output Rate: 48000 Hz
+      - DSP Plugin: n/a
+
+Firmware files found:
+  - Beetle PCE Fast:
+      - syscard3.pce (optional)
+      - syscard2.pce (optional)
+      - syscard1.pce (optional)
+      - gexpress.pce (optional)
+  - DeSmuME:
+      - firmware.bin (optional)
+      - bios7.bin (optional)
+      - bios9.bin (optional)
+  - 4DO:
+      - panafz10.bin (optional)
+  - Snes9x:
+      - BS-X.bin (optional)
+  - PPSSPP:
+      - PPSSPP/ppge_atlas.zim (required)
+  - Beetle PSX:
+      - scph5500.bin (optional)
+      - scph5501.bin (optional)
+      - scph5502.bin (optional)
+  - nSide (Super Famicom Balanced):
+      - dsp1.data.rom (optional)
+      - dsp1.program.rom (optional)
+      - dsp1b.data.rom (optional)
+      - dsp1b.program.rom (optional)
+      - dsp2.data.rom (optional)
+      - dsp2.program.rom (optional)
+      - dsp3.data.rom (optional)
+      - dsp3.program.rom (optional)
+      - dsp4.data.rom (optional)
+      - dsp4.program.rom (optional)
+      - cx4.data.rom (optional)
+      - st010.data.rom (optional)
+      - st010.program.rom (optional)
+      - st011.data.rom (optional)
+      - st011.program.rom (optional)
+      - st018.data.rom (optional)
+      - st018.program.rom (optional)
+      - SGB1.sfc/sgb1.boot.rom (optional)
+      - SGB1.sfc/program.rom (optional)
+      - SGB2.sfc/sgb2.boot.rom (optional)
+      - SGB2.sfc/program.rom (optional)
+  - Handy:
+      - lynxboot.img (optional)
+  - mGBA:
+      - gba_bios.bin (optional)
+      - gb_bios.bin (optional)
+      - gbc_bios.bin (optional)
+      - sgb_bios.bin (optional)
+  - Yabause:
+      - saturn_bios.bin (optional)
+  - SameBoy:
+      - dmg_boot.bin (optional)
+      - cgb_boot.bin (optional)
+  - gpSP:
+      - gba_bios.bin (required)
+  - bsnes-mercury Accuracy:
+      - dsp1.data.rom (optional)
+      - dsp1.program.rom (optional)
+      - dsp1b.data.rom (optional)
+      - dsp1b.program.rom (optional)
+      - dsp2.data.rom (optional)
+      - dsp2.program.rom (optional)
+      - dsp3.data.rom (optional)
+      - dsp3.program.rom (optional)
+      - dsp4.data.rom (optional)
+      - dsp4.program.rom (optional)
+      - cx4.data.rom (optional)
+      - st010.data.rom (optional)
+      - st010.program.rom (optional)
+      - st011.data.rom (optional)
+      - st011.program.rom (optional)
+      - st018.data.rom (optional)
+      - st018.program.rom (optional)
+      - sgb.boot.rom (optional)
+  - Atari800:
+      - 5200.rom (required)
+  - ParaLLEl N64:
+      - 64DD_IPL.bin (optional)
+  - Beetle SGX:
+      - syscard3.pce (optional)
+      - syscard2.pce (optional)
+      - syscard1.pce (optional)
+      - gexpress.pce (optional)
+  - Genesis Plus GX:
+      - bios_MD.bin (optional)
+      - bios_CD_E.bin (optional)
+      - bios_CD_U.bin (optional)
+      - bios_CD_J.bin (optional)
+      - bios_E.sms (optional)
+      - bios_U.sms (optional)
+      - bios_J.sms (optional)
+      - bios.gg (optional)
+      - sk.bin (optional)
+      - sk2chip.bin (optional)
+      - areplay.bin (optional)
+      - ggenie.bin (optional)
+  - Beetle PCE:
+      - syscard3.pce (optional)
+      - syscard2.pce (optional)
+      - syscard1.pce (optional)
+      - gexpress.pce (optional)
+  - PUAE:
+      - kick34005.A500 (required)
+      - kick40063.A600 (required)
+      - kick40068.A1200 (required)
+  - fMSX:
+      - MSX.ROM (required)
+      - MSX2.ROM (required)
+      - MSX2EXT.ROM (required)
+      - MSX2P.ROM (required)
+      - MSX2PEXT.ROM (required)
+      - DISK.ROM (optional)
+      - FMPAC.ROM (optional)
+      - MSXDOS2.ROM (optional)
+      - PAINTER.ROM (optional)
+      - KANJI.ROM (optional)
+  - bsnes/higan Performance:
+      - dsp1.data.rom (optional)
+      - dsp1.program.rom (optional)
+      - dsp1b.data.rom (optional)
+      - dsp1b.program.rom (optional)
+      - dsp2.data.rom (optional)
+      - dsp2.program.rom (optional)
+      - dsp3.data.rom (optional)
+      - dsp3.program.rom (optional)
+      - dsp4.data.rom (optional)
+      - dsp4.program.rom (optional)
+      - st010.data.rom (optional)
+      - st010.program.rom (optional)
+      - st011.data.rom (optional)
+      - st011.program.rom (optional)
+      - st018.data.rom (optional)
+      - st018.program.rom (optional)
+      - sgb.boot.rom (optional)
+  - bsnes/higan Balanced:
+      - dsp1.data.rom (optional)
+      - dsp1.program.rom (optional)
+      - dsp1b.data.rom (optional)
+      - dsp1b.program.rom (optional)
+      - dsp2.data.rom (optional)
+      - dsp2.program.rom (optional)
+      - dsp3.data.rom (optional)
+      - dsp3.program.rom (optional)
+      - dsp4.data.rom (optional)
+      - dsp4.program.rom (optional)
+      - cx4.data.rom (optional)
+      - st010.data.rom (optional)
+      - st010.program.rom (optional)
+      - st011.data.rom (optional)
+      - st011.program.rom (optional)
+      - st018.data.rom (optional)
+      - st018.program.rom (optional)
+      - sgb.boot.rom (optional)
+  - ProSystem:
+      - 7800 BIOS (U).rom (optional)
+  - Beetle PSX:
+      - scph5500.bin (required)
+      - scph5501.bin (required)
+      - scph5502.bin (required)
+  - Beetle GBA:
+      - gba_bios.bin (optional)
+  - Nestopia:
+      - NstDatabase.xml (optional)
+      - disksys.rom (optional)
+  - bsnes-mercury Performance:
+      - dsp1.data.rom (optional)
+      - dsp1.program.rom (optional)
+      - dsp1b.data.rom (optional)
+      - dsp1b.program.rom (optional)
+      - dsp2.data.rom (optional)
+      - dsp2.program.rom (optional)
+      - dsp3.data.rom (optional)
+      - dsp3.program.rom (optional)
+      - dsp4.data.rom (optional)
+      - dsp4.program.rom (optional)
+      - st010.data.rom (optional)
+      - st010.program.rom (optional)
+      - st011.data.rom (optional)
+      - st011.program.rom (optional)
+      - st018.data.rom (optional)
+      - st018.program.rom (optional)
+      - sgb.boot.rom (optional)
+  - Gambatte:
+      - gb_bios.bin (optional)
+      - gbc_bios.bin (optional)
+  - melonDS:
+      - firmware.bin (required)
+      - bios7.bin (required)
+      - bios9.bin (required)
+  - Beetle PC-FX:
+      - pcfx.rom (required)
+  - FreeIntv:
+      - exec.bin (required)
+      - grom.bin (required)
+  - Reicast:
+      - dc/dc_boot.bin (required)
+      - dc/dc_flash.bin (required)
+  - PCSX-ReARMed:
+      - scph5500.bin (optional)
+      - scph5501.bin (optional)
+      - scph5502.bin (optional)
+  - higan (Super Famicom Accuracy):
+      - dsp1.data.rom (optional)
+      - dsp1.program.rom (optional)
+      - dsp1b.data.rom (optional)
+      - dsp1b.program.rom (optional)
+      - dsp2.data.rom (optional)
+      - dsp2.program.rom (optional)
+      - dsp3.data.rom (optional)
+      - dsp3.program.rom (optional)
+      - dsp4.data.rom (optional)
+      - dsp4.program.rom (optional)
+      - cx4.data.rom (optional)
+      - st010.data.rom (optional)
+      - st010.program.rom (optional)
+      - st011.data.rom (optional)
+      - st011.program.rom (optional)
+      - st018.data.rom (optional)
+      - st018.program.rom (optional)
+      - SGB1.sfc/sgb1.boot.rom (optional)
+      - SGB1.sfc/program.rom (optional)
+      - SGB2.sfc/sgb2.boot.rom (optional)
+      - SGB2.sfc/program.rom (optional)
+  - FCEUmm:
+      - disksys.rom (optional)
+  - Beetle PSX HW:
+      - scph5500.bin (optional)
+      - scph5501.bin (optional)
+      - scph5502.bin (optional)
+  - Beetle Lynx:
+      - lynxboot.img (required)
+  - Mesen:
+      - disksys.rom (optional)
+  - VBA-M:
+      - gba_bios.bin (optional)
+      - gb_bios.bin (optional)
+      - gbc_bios.bin (optional)
+  - bsnes/higan Accuracy:
+      - dsp1.data.rom (optional)
+      - dsp1.program.rom (optional)
+      - dsp1b.data.rom (optional)
+      - dsp1b.program.rom (optional)
+      - dsp2.data.rom (optional)
+      - dsp2.program.rom (optional)
+      - dsp3.data.rom (optional)
+      - dsp3.program.rom (optional)
+      - dsp4.data.rom (optional)
+      - dsp4.program.rom (optional)
+      - cx4.data.rom (optional)
+      - st010.data.rom (optional)
+      - st010.program.rom (optional)
+      - st011.data.rom (optional)
+      - st011.program.rom (optional)
+      - st018.data.rom (optional)
+      - st018.program.rom (optional)
+      - sgb.boot.rom (optional)
+  - PX68k:
+      - keropi/iplrom.dat (required)
+      - keropi/cgrom.dat (required)
+      - keropi/iplrom30.dat (optional)
+  - Hatari:
+      - tos.img (required)
+  - Flycast:
+      - dc/dc_boot.bin (optional)
+      - dc/dc_flash.bin (optional)
+  - PicoDrive:
+      - bios_CD_E.bin (optional)
+      - bios_CD_U.bin (optional)
+      - bios_CD_J.bin (optional)
+  - O2EM:
+      - o2rom.bin (required)
+      - c52.bin (required)
+      - g7400.bin (required)
+      - jopac.bin (required)

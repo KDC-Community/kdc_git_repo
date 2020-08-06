@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "/storage/emulators/roms/nes/Elevator Action (USA)/Elevator Action (USA).nes",
+      "label": "Elevator Action (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D415571F|crc",
+      "db_name": "Nintendo - Nintendo Entertainment System.lpl"
+    }
+  ]
+}

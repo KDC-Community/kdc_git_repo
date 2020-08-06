@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<gameList sortid="0">
+	<game>
+		<path>./MAME 0.193 ROMs (bios-devices)/cga.zip</path>
+		<name>cga</name>
+		<playcount>1</playcount>
+		<lastplayed>20190816T115656</lastplayed>
+	</game>
+	<game>
+		<path>./MAME 0.193 ROMs (bios-devices)/cpc_mface2.zip</path>
+		<name>cpc_mface2</name>
+		<playcount>1</playcount>
+		<lastplayed>20190816T115710</lastplayed>
+	</game>
+	<game>
+		<path>./MAME 0.37b5 mame2000/MAME0.37b5_MAME2000_Reference_Set_Update_2_ROMs_Samples.zip</path>
+		<name>MAME0.37b5_MAME2000_Reference_Set_Update_2_ROMs_Samples</name>
+		<playcount>1</playcount>
+		<lastplayed>20190816T115636</lastplayed>
+	</game>
+	<game>
+		<path>./roms/spbactn.zip</path>
+		<name>Super Pinball Action (US)</name>
+		<playcount>1</playcount>
+		<lastplayed>20190816T115511</lastplayed>
+	</game>
+</gameList>

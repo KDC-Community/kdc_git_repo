@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gameList sortid="0">
+	<game>
+		<path>./calgames.lnx</path>
+		<name>calgames</name>
+		<playcount>1</playcount>
+		<lastplayed>20190906T152833</lastplayed>
+	</game>
+	<game>
+		<path>./lemmings.lnx</path>
+		<name>lemmings</name>
+		<playcount>1</playcount>
+		<lastplayed>20190906T152709</lastplayed>
+	</game>
+</gameList>

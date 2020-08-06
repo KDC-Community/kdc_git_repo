@@ -1,0 +1,165 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "/storage/emulators/roms/megadrive/Super Hang-On/Super Hang-On.bin",
+      "label": "Super Hang-On (World) (En,Ja)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CB2201A3|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/megadrive/Sonic and Knuckles & Sonic 3/Sonic and Knuckles & Sonic 3.bin",
+      "label": "Sonic & Knuckles + Sonic The Hedgehog 3 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "63522553|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/megadrive/Olympic Gold - Barcelona '92/Olympic Gold - Barcelona '92.bin",
+      "label": "Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "924E57D3|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/megadrive/Mortal Kombat 2/Mortal Kombat 2.bin",
+      "label": "Mortal Kombat II (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A9E013D8|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/megadrive/Street Fighter II' Plus (Japan, Asia)/Street Fighter II' Plus (Japan, Asia).bin",
+      "label": "Street Fighter II' Plus - Champion Edition (Japan, Korea, Asia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2E487EE3|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/megadrive/Kick Boxing (Japan)/Kick Boxing (Japan).bin",
+      "label": "Kick Boxing, The (Japan, Korea)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9BDC230C|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/megadrive/Shinobi III - Return of the Ninja Master/Shinobi III - Return of the Ninja Master.bin",
+      "label": "Shinobi III - Return of the Ninja Master (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5381506F|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/megadrive/Sunset Riders (Europe)/Sunset Riders (Europe).md",
+      "label": "Sunset Riders (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "0FF33054|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/megadrive/Lotus II/Lotus II.md",
+      "label": "Lotus II (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "1D8EE010|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/megadrive/Sonic The Hedgehog 2 (World) (Rev A)/Sonic The Hedgehog 2 (World) (Rev A).md",
+      "label": "Sonic The Hedgehog 2 (World) (Rev A)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7B905383|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/megadrive/Aladdin/Aladdin.bin",
+      "label": "Aladdin (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "ED427EA9|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/megadrive/Olympic Gold (Europe)/Olympic Gold (Europe).md",
+      "label": "Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "924E57D3|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/megadrive/Sonic the Hedgehog/Sonic the Hedgehog.bin",
+      "label": "Sonic The Hedgehog (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "F9394E97|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/megadrive/Street Fighter 2 Turbo/Street Fighter 2 Turbo.bin",
+      "label": "ST II' Turbo (USA) (Proto) (Unl) (Pirate) [b]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A85491AE|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/megadrive/Street Fighter II' - Special Champion Edition/Street Fighter II' - Special Champion Edition.smd",
+      "label": "Street Fighter II' - Special Champion Edition (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "56D41136|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/megadrive/Jungle Book, The (Europe)/Jungle Book, The (Europe).md",
+      "label": "Jungle Book, The (Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B9709A99|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/megadrive/Winter Olympic Games/Winter Olympic Games.md",
+      "label": "Winter Olympic Games (USA) (En,Fr,De,Es,It,Pt,Sv,No)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C5834437|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/megadrive/Best of the Best - Championship Karate/Best of the Best - Championship Karate.bin",
+      "label": "Best of the Best - Championship Karate (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "C3D6A5D4|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/megadrive/Lotus Turbo Challenge/Lotus Turbo Challenge.bin",
+      "label": "Lotus Turbo Challenge (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "A3CF6E9C|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/megadrive/Revenge of Shinobi/Revenge of Shinobi.bin",
+      "label": "Super Shinobi, The (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5C7E5EA6|crc",
+      "db_name": "Sega - Mega Drive - Genesis.lpl"
+    }
+  ]
+}

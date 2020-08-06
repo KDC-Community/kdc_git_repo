@@ -1,0 +1,45 @@
+{
+  "version": "1.0",
+  "items": [
+    {
+      "path": "/storage/emulators/roms/mame/MAME 0.37b5 mame2000/MAME0.37b5_MAME2000_Reference_Set_Update_2_ROMs_Samples/roms/64street.zip",
+      "label": "64th. Street - A Detective Story (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "5AB8660E|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/mame/MAME 0.37b5 mame2000/MAME0.37b5_MAME2000_Reference_Set_Update_2_ROMs_Samples/roms/64streej.zip",
+      "label": "64th. Street - A Detective Story (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "38192B3D|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/mame/MAME 0.37b5 mame2000/MAME0.37b5_MAME2000_Reference_Set_Update_2_ROMs_Samples/roms/1941.zip",
+      "label": "1941 - Counter Attack (World)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "9389CD2E|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/mame/MAME 0.37b5 mame2000/MAME0.37b5_MAME2000_Reference_Set_Update_2_ROMs_Samples/roms/005.zip",
+      "label": "005",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "2BBD8481|crc",
+      "db_name": "MAME.lpl"
+    },
+    {
+      "path": "/storage/emulators/roms/mame/roms/1941j.zip",
+      "label": "1941: Counter Attack (Japan)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "7A31B0E2|crc",
+      "db_name": "MAME.lpl"
+    }
+  ]
+}
