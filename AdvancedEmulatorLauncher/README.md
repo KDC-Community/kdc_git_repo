@@ -1,10 +1,10 @@
-![Hear_This_At Music Addon](icon.png)
+![AEL Launcher](icon.png)
 
-KODI - Audio Addon for Hearthis_at.
+KODI - Advanced Emulator Launcher Addon Config Files.
 
-* [Download the official Version](https://bit.ly/3fv0LvJ)
+Download these files to your system and when you open AEL launcher and it ask for, then show AEL the AEL_configuration file!
 
-* [Download the Ctrl_Esc_REPO Version](https://bit.ly/3gr9SyU)
+Credits to TOXYNTH
 
 
 
