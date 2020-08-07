@@ -1,0 +1,16 @@
+use_gui=no
+show_leds=true
+chipmem_size=1
+bogomem_size=0
+fastmem_size=2
+gfx_center_vertical=simple
+gfx_center_horizontal=simple
+gfx_width=640
+gfx_height=420
+sound_channels=mixed
+kickstart_rom_file=/storage/emulators/bios/kickstart/kick31.rom
+nr_floppies=4
+floppy0=/storage/emulators/roms/amiga/adf/Espana_The_Games_92/Espana - The Games '92.Disk1.adf
+floppy1=/storage/emulators/roms/amiga/adf/Espana_The_Games_92/Espana - The Games '92.Disk2.adf
+floppy2=/storage/emulators/roms/amiga/adf/Espana_The_Games_92/Espana - The Games '92.Disk3.adf
+floppy3=/storage/emulators/roms/amiga/adf/Espana_The_Games_92/Espana - The Games '92.Disk4.adf

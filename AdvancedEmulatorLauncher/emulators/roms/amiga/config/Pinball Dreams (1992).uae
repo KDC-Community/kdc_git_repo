@@ -1,0 +1,14 @@
+use_gui=no
+show_leds=true
+chipmem_size=1
+bogomem_size=0
+fastmem_size=2
+gfx_center_vertical=simple
+gfx_center_horizontal=simple
+gfx_width=640
+gfx_height=420
+sound_channels=mixed
+kickstart_rom_file=/storage/emulators/bios/kickstart/kick31.rom
+nr_floppies=2
+floppy0=/storage/emulators/roms/amiga/adf/Pinball Dreams/Pinball Dreams (1992) (Disk 1 of 2).adf
+floppy1=/storage/emulators/roms/amiga/adf/Pinball Dreams/Pinball Dreams (1992) (Disk 2 of 2).adf

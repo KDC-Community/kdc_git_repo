@@ -1,0 +1,18 @@
+use_gui=no
+show_leds=true
+chipmem_size=1
+bogomem_size=0
+fastmem_size=2
+gfx_center_vertical=simple
+gfx_center_horizontal=simple
+gfx_width=640
+gfx_height=420
+sound_channels=mixed
+kickstart_rom_file=/storage/.kodi/addons/game.retroarch/kick31.rom
+nr_floppies=5
+floppy0=/storage/emulators/roms/amiga/adf/Dune_II_The_Battle_for_Arrakis/Dune II - The Battle for Arrakis.Disk1.adf
+floppy1=/storage/emulators/roms/amiga/adf/Dune_II_The_Battle_for_Arrakis/Dune II - The Battle for Arrakis.Disk2.adf
+floppy2=/storage/emulators/roms/amiga/adf/Dune_II_The_Battle_for_Arrakis/Dune II - The Battle for Arrakis.Disk3.adf
+floppy3=/storage/emulators/roms/amiga/adf/Dune_II_The_Battle_for_Arrakis/Dune II - The Battle for Arrakis.Disk4.adf
+floppy4=/storage/emulators/roms/amiga/adf/Dune_II_The_Battle_for_Arrakis/Dune II - The Battle for Arrakis.Disk5.adf
+

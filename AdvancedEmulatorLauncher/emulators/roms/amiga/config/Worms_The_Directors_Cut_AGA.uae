@@ -1,0 +1,15 @@
+use_gui=no
+show_leds=true
+chipmem_size=2
+bogomem_size=2
+fastmem_size=2
+gfx_center_vertical=simple
+gfx_center_horizontal=simple
+gfx_width=640
+gfx_height=420
+sound_channels=mixed
+kickstart_rom_file=/storage/emulators/bios/kickstart/kick40.rom
+nr_floppies=3
+floppy0=/storage/emulators/roms/amiga/adf/Worms_The_Directors_Cut_AGA/Worms - The Director's Cut (AGA).Disk1.adf
+floppy1=/storage/emulators/roms/amiga/adf/Worms_The_Directors_Cut_AGA/Worms - The Director's Cut (AGA).Disk2.adf
+floppy2=/storage/emulators/roms/amiga/adf/Worms_The_Directors_Cut_AGA/Worms - The Director's Cut (AGA).Disk3.adf
