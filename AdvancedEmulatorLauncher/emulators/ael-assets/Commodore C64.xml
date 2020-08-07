@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<advanced_emulator_launcher_configuration>
+<launcher>
+  <name>Commodore C64</name>
+  <category>GAMESTARTER</category>
+  <year>1987</year>
+  <genre>Personal computer</genre>
+  <developer>Commodore International</developer>
+  <rating></rating>
+  <plot>The Commodore 64, also known as the C64, C-64, C= 64, or occasionally CBM 64 or VIC-64 in Sweden, is an 8-bit home computer introduced in January 1982 by Commodore International. It is listed in the Guinness World Records as the highest-selling single computer model of all time, with independent estimates placing the number sold between 10 and 17 million units. Volume production started in early 1982, with machines being released on to the market in August at a price of US$595 (equivalent to US $1,481.25 in 2016). Preceded by the Commodore VIC-20 and Commodore PET, the C64 takes its name from its 64 kilobytes (65,536 bytes) of RAM, and has technologically superior sound and graphical specifications when compared to some earlier systems such as the Apple II and Atari 800, with multi-color sprites and a more advanced sound processor.</plot>
+  <platform>Commodore 64</platform>
+  <application>/storage/.kodi/addons/game.retroarch/addon.sh</application>
+  <args>&quot;%rom%&quot; $categoryID$ $launcherID$ $romID$</args>
+  <args_extra></args_extra>
+  <Asset_Prefix>Commodore C64</Asset_Prefix>
+  <ROM_path>/storage/emulators/roms/C64</ROM_path>
+  <ROM_ext>adf|zip|uae</ROM_ext>
+  <ROM_asset_path>/storage/emulators/ael-assets/C64/</ROM_asset_path>
+</launcher>
+</advanced_emulator_launcher_configuration>

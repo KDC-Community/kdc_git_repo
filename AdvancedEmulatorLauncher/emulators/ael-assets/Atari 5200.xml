@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<advanced_emulator_launcher_configuration>
+<launcher>
+  <name>Atari 5200</name>
+  <category>GAMESTARTER</category>
+  <year>1982</year>
+  <genre>Second generation console</genre>
+  <developer>Atari</developer>
+  <rating></rating>
+  <plot>The Atari 5200 SuperSystem, commonly known as the Atari 5200, is a home video game console that was introduced in 1982 by Atari Inc. as a higher-end complementary console for the popular Atari 2600. The 5200 was created to compete with the Intellivision, but wound up more directly competing with the ColecoVision shortly after its release. The 5200's internal hardware is almost identical that of Atari's 8-bit computers, although software is not directly compatible between the two systems. The 5200's controllers have an analog joystick and a numeric keypad along with start, pause and reset buttons. The 360-degree non-centering joystick was touted as offering more control than the eight-way joystick controller offered with the Atari 2600.</plot>
+  <platform>Atari 5200</platform>
+  <application>/storage/.kodi/addons/game.retroarch/addon.sh</application>
+  <args>atari800 &quot;%rom%&quot; $categoryID$ $launcherID$ $romID$</args>
+  <args_extra></args_extra>
+  <Asset_Prefix>Atari 5200</Asset_Prefix>
+  <ROM_path>/storage/emulators/roms/atari5200/</ROM_path>
+  <ROM_ext>a52|bin|zip|xfd|ATR|atr|dcm|car|xex|7z</ROM_ext>
+  <ROM_asset_path>/storage/emulators/ael-assets/atari5200/</ROM_asset_path>
+</launcher>
+</advanced_emulator_launcher_configuration>

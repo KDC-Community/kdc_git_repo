@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<advanced_emulator_launcher_configuration>
+<launcher>
+  <name>Panasonic 3DO</name>
+  <category>GAMESTARTER</category>
+  <year>1993</year>
+  <genre>Fifth generation console</genre>
+  <developer>Panasonic</developer>
+  <rating></rating>
+  <plot>The 3DO Interactive Multiplayer, often called simply the 3DO, is a home video game console platform developed by The 3DO Company. Conceived by entrepreneur and Electronic Arts founder Trip Hawkins, the 3DO was not a console manufactured by the company itself, but a series of specifications, originally designed by Dave Needle and R. J. Mical of New Technologies Group, that could be licensed by third parties. Panasonic produced the first models in 1993, and further renditions of the hardware were released in 1994 by Sanyo and GoldStar (now LG Corp). Despite a highly promoted launch (including being named Time magazine's "1993 Product of the Year") and a host of cutting-edge technologies, the 3DO's high price and an oversaturated console market prevented the system from achieving success comparable to veteran competitors Sega and Nintendo. As a result, it was discontinued in late 1996, three years after its first release.</plot>
+  <platform>Panaconic 3DO</platform>
+  <application>/storage/.kodi/addons/game.retroarch/addon.sh</application>
+  <args>4do &quot;%rom%&quot; $categoryID$ $launcherID$ $romID$</args>
+  <args_extra></args_extra>
+  <Asset_Prefix>Panasonic 3DO</Asset_Prefix>
+  <ROM_path>/storage/emulators/roms/3do/</ROM_path>
+  <ROM_ext>iso|cue</ROM_ext>
+  <ROM_asset_path>/storage/emulators/ael-assets/3do/</ROM_asset_path>
+</launcher>
+</advanced_emulator_launcher_configuration>
