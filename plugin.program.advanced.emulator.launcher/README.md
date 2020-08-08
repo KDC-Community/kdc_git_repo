@@ -40,3 +40,12 @@ It is important that you follow this instructions or Advanced Emulator Launcher 
      --> `Install from ZIP file`.
 
   6) You are done!
+  
+  
+  or
+
+
+* [Download the Ctrl_Esc_REPO Version](https://bit.ly/3klU2b7)
+
+and take a look at the confic and bios files!
+
