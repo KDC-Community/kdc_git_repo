@@ -2,11 +2,6 @@
 <addon id="plugin.program.advanced.emulator.launcher" name="Advanced Emulator Launcher"
        version="0.9.7" provider-name="Wintermute0110">
   <requires>
-    <!-- See https://github.com/xbmc/xbmc/blob/master/addons/xbmc.python/addon.xml
-         2.25.0  Krypton 17.x
-         x.yy.z  Leia 18.x
-         x.yy.z  M**** 19.x
-    -->
     <import addon="xbmc.python" version="2.25.0" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="addon.py">
