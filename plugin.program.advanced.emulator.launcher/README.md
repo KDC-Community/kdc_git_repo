@@ -1,3 +1,4 @@
+![Advanced Emulator Launcher](icon.png)
 # Advanced Emulator Launcher #
 
 Multi-emulator front-end and general application launcher for Kodi. Includes offline scrapers for 
@@ -47,7 +48,7 @@ It is important that you follow this instructions or Advanced Emulator Launcher 
 
 * [Download the Ctrl_Esc_REPO Version](https://bit.ly/3klU2b7)
 
-and take a look at the confic and bios files!
+and take a look at the config and bios files!
 
 
 
