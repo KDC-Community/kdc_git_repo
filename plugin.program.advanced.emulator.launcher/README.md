@@ -8,12 +8,12 @@ Download the AEL_configuration file to your system and when you open AEL launche
 
 * [Download the Ctrl_Esc_REPO Version](https://bit.ly/3klU2b7)
 
-and take a look at the config and bios files!
+and take a look at the config files:
 
 
 * [Download the Ctrl_Esc_Config_File](https://bit.ly/30LjwXQ)
 
-or
+and bios files:
 
 * [Download the Ctrl_Esc_BIOS_Files](https://bit.ly/31ydngG)
 
