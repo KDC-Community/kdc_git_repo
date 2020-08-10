@@ -10,11 +10,11 @@ or download repository.yt.testing_official-2.0.0
 
 or download repository.yt.testing_unofficial-2.0.0
 
-* [Download repository.yt.testing_unofficial-2.0.0.zip](https://bit.ly/3fI0cyV)
+* [Download repository.yt.testing_unofficial-2.0.0](https://bit.ly/3fI0cyV)
 
 or download repository.yt.unofficial-2.0.0
 
-* [Download repository.yt.unofficial-2.0.0.zip](https://bit.ly/2XPMMdX)
+* [Download repository.yt.unofficial-2.0.0](https://bit.ly/2XPMMdX)
 
 or
 
