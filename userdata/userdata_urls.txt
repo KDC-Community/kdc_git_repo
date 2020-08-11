@@ -1,5 +1,5 @@
 
-Joyn (knaerzche)*https://github.com/knaerzche/plugin.video.joyn/archive/master.zip*joyn_knaerzche.png
+EPG_Userdata*https://github.com/KDC-Community/kdc_git_repo/tree/master/EPG/userdata/addon_data/service.takealug.epg-grabber.zip
 
 
 
