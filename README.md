@@ -15,6 +15,7 @@ some things would not be possible in the "XBMC / KODI World"!
 In honor of a deceased person!
 
 
+We have understood!°
 
 Ctrl_Esc Repo
 
