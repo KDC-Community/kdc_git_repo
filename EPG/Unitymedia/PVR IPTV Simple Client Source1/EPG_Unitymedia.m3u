@@ -19,8 +19,8 @@ plugin://script.module.limitless-swiftstreamz/play/26/1303/play.pvr
 #EXTINF:-1 tvg-id="Vox.de" tvg-name="Vox" tvg-logo="https://wp5-images-de-dynamic.horizon.tv/ChannelLogos/02/vox_2.png" group-title="Germany",VOX x
 plugin://script.module.limitless-swiftstreamz/play/26/1304/play.pvr
 
-#EXTINF:-1 tvg-id="Kabel.de" tvg-name="kabel eins" tvg-logo="https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/kabel_1.png" group-title="Germany",Kabel 1
-plugin://
+#EXTINF:-1 tvg-id="Kabel.de" tvg-name="kabel eins" tvg-logo="https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/kabel_1.png" group-title="Germany",Kabel 1 x
+plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=LIVE&amp;season_id=&amp;client_data=%7B%22genre%22%3A+%5B%5D%2C+%22brand%22%3A+%22%22%2C+%22channelId%22%3A+%22kabeleins-de%22%2C+%22videoId%22%3A+null%2C+%22startTime%22%3A+0%7D&amp;viewtype=&amp;compilation_id=&amp;title=%5BB%5DKabel+Eins%5B%2FB%5D+-+Navy+CIS&amp;fav_type=&amp;video_id=kabeleins-de&amp;channel_id=&amp;mode=play_video&amp;channel_path=&quot;)
 
 #EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTLZWEI" tvg-logo="https://wp27-images-de-dynamic.horizon.tv/ChannelLogos/02/rtlzwei.png" group-title="Germany",RTL 2 x
 plugin://script.module.limitless-swiftstreamz/play/26/1290/play.pvr
@@ -64,20 +64,20 @@ plugin://script.module.limitless-swiftstreamz/play/4/341/play.pvr
 #EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo" tvg-logo="https://wp10-images-de-dynamic.horizon.tv/ChannelLogos/02/zdf_info.png" group-title="Germany",ZDFinfo x
 https://zdfhls17-i.akamaihd.net/hls/live/744750/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC" tvg-logo="https://wp22-images-de-dynamic.horizon.tv/ChannelLogos/02/tlc_2.png" group-title="Doku",TLC
-http://
+#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC" tvg-logo="https://wp22-images-de-dynamic.horizon.tv/ChannelLogos/02/tlc_2.png" group-title="Doku",TLC x
+plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=LIVE&amp;season_id=&amp;client_data=%7B%22genre%22%3A+%5B%5D%2C+%22brand%22%3A+%22%22%2C+%22channelId%22%3A+%22tlc-de%22%2C+%22videoId%22%3A+null%2C+%22startTime%22%3A+0%7D&amp;viewtype=&amp;compilation_id=&amp;title=%5BB%5DTLC%5B%2FB%5D+-+Mein+Leben+mit+300+kg&amp;fav_type=&amp;video_id=tlc-de&amp;channel_id=&amp;mode=play_video&amp;channel_path=&quot;)
 
-#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="kabel eins Doku" tvg-logo="https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/kabel1_doku_1.png" group-title="Doku",kabel eins Doku
-plugin://
+#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="kabel eins Doku" tvg-logo="https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/kabel1_doku_1.png" group-title="Doku",kabel eins Doku x
+plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=LIVE&amp;season_id=&amp;client_data=%7B%22genre%22%3A+%5B%5D%2C+%22brand%22%3A+%22%22%2C+%22channelId%22%3A+%22kabeleinsdoku-de%22%2C+%22videoId%22%3A+null%2C+%22startTime%22%3A+0%7D&amp;viewtype=&amp;compilation_id=&amp;title=%5BB%5DKabel+Eins+Doku%5B%2FB%5D+-+Unerkl%C3%A4rliche+Ph%C3%A4nomene+-+Ancient+Aliens&amp;fav_type=&amp;video_id=kabeleinsdoku-de&amp;channel_id=&amp;mode=play_video&amp;channel_path=&quot;)
 
 #EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24 Doku" tvg-logo="https://wp6-images-de-dynamic.horizon.tv/ChannelLogos/02/n24_doku_2.png" group-title="Doku",N24 DOKU x
-plugin://plugin.video.joyn/?video_id=n24-de&stream_type=LIVE&mode=play_video&mode=12
+plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=LIVE&amp;season_id=&amp;client_data=%7B%22genre%22%3A+%5B%5D%2C+%22brand%22%3A+%22%22%2C+%22channelId%22%3A+%22n24-de%22%2C+%22videoId%22%3A+null%2C+%22startTime%22%3A+0%7D&amp;viewtype=&amp;compilation_id=&amp;title=%5BB%5DN24+Doku%5B%2FB%5D+-+Strip+the+Cosmos&amp;fav_type=&amp;video_id=n24-de&amp;channel_id=&amp;mode=play_video&amp;channel_path=&quot;)
 
 #EXTINF:-1 tvg-id="ARD-alpha.de" tvg-name="ARD-alpha" tvg-logo="https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/br-alpha.png" group-title="Germany",ARD-alpha x
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/index_1_av-p.m3u8
 
-#EXTINF:-1 tvg-id="Home &amp; Garden TV" tvg-name="Home &amp; Garden TV" tvg-logo="https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/hgtv.png" group-title="Germany",Home & Garden TV
-http://
+#EXTINF:-1 tvg-id="Home &amp; Garden TV" tvg-name="Home &amp; Garden TV" tvg-logo="https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/hgtv.png" group-title="Germany",Home & Garden TV x
+plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=LIVE&amp;season_id=&amp;client_data=%7B%22genre%22%3A+%5B%5D%2C+%22brand%22%3A+%22%22%2C+%22channelId%22%3A+%22hgtv-de%22%2C+%22videoId%22%3A+null%2C+%22startTime%22%3A+0%7D&amp;viewtype=&amp;compilation_id=&amp;title=%5BB%5DHGTV%5B%2FB%5D+-+M%C3%A4nner%28t%29r%C3%A4ume&amp;fav_type=&amp;video_id=hgtv-de&amp;channel_id=&amp;mode=play_video&amp;channel_path=&quot;)
 
 #EXTINF:-1 tvg-id="NatGeo.de" tvg-name="National Geographic" tvg-logo="https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/nat_geo_1.png" group-title="Doku",National Geographic x
 plugin://script.module.limitless-swiftstreamz/play/26/1334/play.pvr
@@ -100,17 +100,17 @@ plugin://script.module.limitless-swiftstreamz/play/26/1312/play.pvr
 #EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="Animal Planet" tvg-logo="https://wp11-images-de-dynamic.horizon.tv/ChannelLogos/02/animal_planet_2.png" group-title="Doku",Animal Planet x
 plugin://script.module.limitless-swiftstreamz/play/26/1333/play.pvr
 
-#EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="RTL Living" tvg-logo="https://wp10-images-de-dynamic.horizon.tv/ChannelLogos/02/rtl_living_1.png" group-title="Germany",RTL Living
-http://
+#EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="RTL Living" tvg-logo="https://wp10-images-de-dynamic.horizon.tv/ChannelLogos/02/rtl_living_1.png" group-title="Germany",RTL Living x
+plugin://plugin.video.rtlnow/?mode=playChannel&amp;url=https%3A%2F%2Fplivenowusodash.secure.footprint.net%2Flive%2Flivinghdlive%2Flivinghdlive.isml%2F.mpd&amp;name=[COLOR lime]LIVING:  [/COLOR]Rach, der Restauranttester - \&quot;El Italiano\&quot; in Spanien  (16:45 - 17:35)&amp;image=https://aistvnow-a.akamaihd.net/tvnow/epg/3985011/960x0/image.jpg&quot;)
 
 #EXTINF:-1 tvg-id="CrimeInvestigation.de" tvg-name="Crime&amp;Investigation" tvg-logo="https://wp5-images-de-dynamic.horizon.tv/ChannelLogos/02/crime_u_i.png" group-title="Germany",Crime & Investigation
 http://
 
-#EXTINF:-1 tvg-id="ComedyCentral/VIVA.de" tvg-name="COMEDY CENTRAL" tvg-logo="https://wp19-images-de-dynamic.horizon.tv/ChannelLogos/02/comedy_central.png" group-title="Kids",COMEDY CENTRAL
-http://
+#EXTINF:-1 tvg-id="ComedyCentral/VIVA.de" tvg-name="COMEDY CENTRAL" tvg-logo="https://wp19-images-de-dynamic.horizon.tv/ChannelLogos/02/comedy_central.png" group-title="Kids",COMEDY CENTRAL x
+plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=LIVE&amp;season_id=&amp;client_data=%7B%22genre%22%3A+%5B%5D%2C+%22brand%22%3A+%22%22%2C+%22channelId%22%3A+%22comedy-central-de%22%2C+%22videoId%22%3A+null%2C+%22startTime%22%3A+0%7D&amp;viewtype=&amp;compilation_id=&amp;title=%5BB%5DComedy+Central%5B%2FB%5D+-+American+Dad&amp;fav_type=&amp;video_id=comedy-central-de&amp;channel_id=&amp;mode=play_video&amp;channel_path=&quot;)
 
-#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="DELUXE MUSIC" tvg-logo="https://wp28-images-de-dynamic.horizon.tv/ChannelLogos/02/deluxe_music.png" group-title="Germany",DELUXE MUSIC
-http://
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="DELUXE MUSIC" tvg-logo="https://wp28-images-de-dynamic.horizon.tv/ChannelLogos/02/deluxe_music.png" group-title="Germany",DELUXE MUSIC x
+plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=LIVE&amp;season_id=&amp;client_data=%7B%22genre%22%3A+%5B%5D%2C+%22brand%22%3A+%22%22%2C+%22channelId%22%3A+%22deluxe-de%22%2C+%22videoId%22%3A+null%2C+%22startTime%22%3A+0%7D&amp;viewtype=&amp;compilation_id=&amp;title=%5BB%5DDeluxe+Music%5B%2FB%5D+-+Hits+Only&amp;fav_type=&amp;video_id=deluxe-de&amp;channel_id=&amp;mode=play_video&amp;channel_path=&quot;)
 
 #EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen" tvg-logo="https://wp26-images-de-dynamic.horizon.tv/ChannelLogos/02/deutsches_musik_fernsehen.png" group-title="Germany",Deutsches Musik Fernsehen
 http://
@@ -136,8 +136,8 @@ http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
 #EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="TOGGO plus" tvg-logo="https://wp19-images-de-dynamic.horizon.tv/ChannelLogos/02/toggo_plus.png" group-title="Kids",TOGGO plus
 http://
 
-#EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC" tvg-logo="https://wp17-images-de-dynamic.horizon.tv/ChannelLogos/02/ric.png" group-title="Kids",RiC x
-plugin://plugin.video.joyn/?video_id=ric&stream_type=LIVE&mode=play_video
+#EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC" tvg-logo="https://wp17-images-de-dynamic.horizon.tv/ChannelLogos/02/ric.png" group-title="Kids",RiC
+http://
 
 #EXTINF:-1 tvg-id="DisneyJunior.de" tvg-name="Disney Junior" tvg-logo="https://wp19-images-de-dynamic.horizon.tv/ChannelLogos/02/disney_junior_3.png" group-title="Kids",Disney Junior
 http://
@@ -160,14 +160,14 @@ plugin://script.module.limitless-swiftstreamz/play/26/1292/play.pvr
 #EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="SAT.1 GOLD" tvg-logo="https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/sat1_gold_1.png" group-title="Germany",SAT.1 GOLD x
 plugin://plugin.video.joyn/?video_id=sat1gold-de&stream_type=LIVE&mode=play_video&mode=12
 
-#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5" tvg-logo="https://wp24-images-de-dynamic.horizon.tv/ChannelLogos/02/tele5_1.png" group-title="Germany",Tele 5
-http://
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5" tvg-logo="https://wp24-images-de-dynamic.horizon.tv/ChannelLogos/02/tele5_1.png" group-title="Germany",Tele 5 x
+plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=LIVE&amp;season_id=&amp;client_data=%7B%22genre%22%3A+%5B%5D%2C+%22brand%22%3A+%22%22%2C+%22channelId%22%3A+%22tele5-de%22%2C+%22videoId%22%3A+null%2C+%22startTime%22%3A+0%7D&amp;viewtype=&amp;compilation_id=&amp;title=%5BB%5DTele+5%5B%2FB%5D+-+Star+Trek%3A+Das+n%C3%A4chste+Jahrhundert&amp;fav_type=&amp;video_id=tele5-de&amp;channel_id=&amp;mode=play_video&amp;channel_path=&quot;)
 
 #EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney SD" tvg-logo="https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/disney_channel_1.png" group-title="Kids",Disney SD x
 plugin://script.module.limitless-swiftstreamz/play/26/1328/play.pvr
 
-#EXTINF:-1 tvg-id="Sixx.de" tvg-name="SIXX" tvg-logo="https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/sixx.png" group-title="Germany",SIXX
-http://
+#EXTINF:-1 tvg-id="Sixx.de" tvg-name="SIXX" tvg-logo="https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/sixx.png" group-title="Germany",SIXX x
+plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=LIVE&amp;season_id=&amp;client_data=%7B%22genre%22%3A+%5B%5D%2C+%22brand%22%3A+%22%22%2C+%22channelId%22%3A+%22sixx-de%22%2C+%22videoId%22%3A+null%2C+%22startTime%22%3A+0%7D&amp;viewtype=&amp;compilation_id=&amp;title=%5BB%5Dsixx%5B%2FB%5D+-+Promi+Big+Brother&amp;fav_type=&amp;video_id=sixx-de&amp;channel_id=&amp;mode=play_video&amp;channel_path=&quot;)
 
 #EXTINF:-1 tvg-id="ProSiebenMAXX.de" tvg-name="ProSieben MAXX" tvg-logo="https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/prosieben_maxx.png" group-title="Germany",ProSieben MAXX x
 plugin://script.module.limitless-tvtap/play/393/play.pvr
@@ -535,8 +535,8 @@ http://
 
 
 
-#EXTINF:-1 tvg-id="Sky Sport F1 HD" tvg-name="SKY SPORT F1" tvg-logo="https://bit.ly/2LPYzBL" group-title="Sport",SKY SPORT F1 x
-http://cdn1.cr7.live/live/ch1_abr/live/ch1/chunks.m3u8
+#EXTINF:-1 tvg-id="Sky Sport F1 HD" tvg-name="SKY SPORT F1" tvg-logo="https://bit.ly/2LPYzBL" group-title="Sport",SKY SPORT F1
+http://
 
 #EXTINF:-1 tvg-id="KOMBAT SPORTS" tvg-name="KOMBAT SPORTS" tvg-logo="https://bit.ly/39vsTfJ" group-title="Sport",KOMBAT SPORTS x 
 plugin://script.module.limitless-swiftstreamz/play/25/1260/play.pvr
