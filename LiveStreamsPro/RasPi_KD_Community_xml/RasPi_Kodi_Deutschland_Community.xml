@@ -65,7 +65,7 @@
 <item>
 <title>[B][COLOR antiquewhite]===  SGK [COLOR darkred] Portal [COLOR antiquewhite]===[/COLOR][/B]<title>
 <link>http://ignorame<link><thumbnail>ext</thumbnail>
-<externallink>http://sgkodi.de/SGK-Portal/portal1.xml</externallink>
+<externallink>http://sgkodi.de/SGK-Portal/portal_main.xml</externallink>
 <fanart>https://i.imgur.com/5LelUfo.jpg</fanart>
 <info>[B][I][COLOR darkred] RaspberryPi KODI DEUTSCHLAND COMMUNITY [/B][/I][/COLOR]</info>
 <item>
@@ -405,6 +405,13 @@
 <item>
 
 
+<item>
+<title>[B][COLOR antiquewhite]===  KDC [COLOR darkred] TV [COLOR antiquewhite]===[/B][/COLOR]<title>
+<link>http://ignorame<link><thumbnail>ext</thumbnail>
+<externallink>https://kdc-repo.website/repo-beta/TV/KDC_DE_TV.m3u</externallink>
+<fanart>https://i.imgur.com/5LelUfo.jpg</fanart>
+<info>[B][I][COLOR darkred] RaspberryPi KODI DEUTSCHLAND COMMUNITY [/B][/I][/COLOR]</info>
+<item>
 
 <item>
 <title>[B][COLOR limered]============================================= [/B][/COLOR]<title>
