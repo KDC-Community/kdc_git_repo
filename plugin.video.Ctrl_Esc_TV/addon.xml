@@ -7,6 +7,8 @@ provider-name="Ctrl_Esc">
     <import addon="xbmc.python" version="2.25.0"/>
     <import addon="script.module.limitless-swiftstreamz" />
     <import addon="script.module.limitless-tvtap" />
+    <import addon="script.module.ctrl" />
+    <import addon="script.module.esc" />
     <import addon="script.module.requests" />
     <import addon="script.module.requests-cache" />
     <import addon="script.module.routing" />
@@ -15,7 +17,7 @@ provider-name="Ctrl_Esc">
   <provides>video</provides>
 </extension>
 <extension point="xbmc.addon.metadata">
-  <summary lang="de">RaspberryPi_Kodi_Deutschland_Community</summary>
+  <summary lang="de"></summary>
   <description lang="de_DE">Control Escape Televison
 ist eine Linksammlung aus der Galaxy des Uni www: ersum. 
 
