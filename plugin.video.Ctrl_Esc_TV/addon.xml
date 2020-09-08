@@ -8,7 +8,6 @@ provider-name="Ctrl_Esc">
     <import addon="script.module.limitless-swiftstreamz" />
     <import addon="script.module.limitless-tvtap" />
     <import addon="script.module.ctrl" />
-    <import addon="script.module.esc" />
     <import addon="script.module.requests" />
     <import addon="script.module.requests-cache" />
     <import addon="script.module.routing" />
