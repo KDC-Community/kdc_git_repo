@@ -34,8 +34,21 @@ or
 
 * [Download the Ctrl_Esc_REPO Version 4.0.7.1.1 unofficial](https://bit.ly/30i4qIB)
 
+and
+
+* [Download the REPO 1.0.2](https://bit.ly/3kXxWep)
 
 
-Meldet Euch doch bitte im Chat!°
+
+..fehlende Dependencies / Abhängigkeiten
+könnte man hier finden:
+https://mirrors.kodi.tv/addons/
+
+
+Meldet Euch doch mal im Chat!°
 
 https://gitter.im/Lastship_Chat/Lobby
+
+
+Install die repo, daraus dann die official Version, danach die unofficial.
+Falls nötig, den Inhalt "per Hand" ins system schubsen.
