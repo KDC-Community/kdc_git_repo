@@ -38,20 +38,21 @@ and
 
 * [Download the REPO 1.0.2](https://bit.ly/3kXxWep)
 
-Install die repo, daraus dann die official Version, danach die unofficial.
-Falls nötig, den Inhalt "per Hand" ins system schubsen.
+Install die repo, daraus dann die official Version, 
+danach erst die unofficial.
+Falls nötig, den Inhalt "per Hand" ins system schubsen und aktivieren.
 
 and
 
 ..fehlende Dependencies / Abhängigkeiten für euer System
 könnte man hier finden:
-* [Search 4 Dependencies / Abhängigkeiten] (https://bit.ly/349ghd8)
+* [Search 4 Dependencies / Abhängigkeiten](https://bit.ly/349ghd8)
 
 oder
 
 Meldet Euch doch mal im Chat!°
 
-* [hier gehts lang...--->] (https://bit.ly/30l5qLX)
+* [hier gehts lang...--->](https://bit.ly/30l5qLX)
 
 
 
