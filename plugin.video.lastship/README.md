@@ -1,4 +1,3 @@
-![Lastship icon](https://raw.githubusercontent.com/lastship/Lastship-Repo/master/plugin.video.lastship/icon.png)
 
 ## Willkommen bei Lastship für Kodi!
 
