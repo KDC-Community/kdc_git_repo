@@ -18,11 +18,14 @@ Lastship dient nur als Suchmaschine und hostet selbst kein Daten!
 
 ![Lastship](icon.png)
 
-Da das Addon nicht weiter entwickelt wird, ist der Funktionsumfang von Lastship eingeschränt.
+Da das Addon nicht weiter entwickelt wird, ist der Funktionsumfang von Lastship eingeschränkt.
 
-Einige Funktionen sind defekt, auch mache Indexseiten funktionieren nicht mehr.
+Einige Funktionen sind daher defekt, auch mache Indexseiten funktionieren leider nicht mehr.....
 
-Um dem Projekt wieder leben einzuhauchen, werden Python Entwickler, die am Project mitwirken wollen, gesucht.
+
+
+
+Um dem Projekt wieder leben einzuhauchen, werden Python Entwickler, die am Projekt mitwirken wollen, gesucht.
 
 
 
