@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.ctrl_esc.dependencies_k18"
+    name="[B][COLOR antiquewhite]Ctrl_Esc Abhängigkeiten K-18[/B][/COLOR]" version="0.0.2"
+	provider-name="[B][COLOR antiquewhite]Ctrl_Esc[/B][/COLOR]">
+    <requires>
+		<!--copy py2 compliant for kodi 18 leia-->
+        <import addon="xbmc.python" version="2.1.0"/>
+		<!--copy py3 compliant for kodi 19 matrix-->
+		<!--import addon="xbmc.python" version="3.0.0"/>-->
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="resources/pys/updater.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+       <summary>Dependencie And Update Installer</summary>
+        <description>Addon Abhängigkeiten / Dependencie Installer Updater für Kodi 18.
+Installiere die Scripte der Reihe nach und erst dann "ein Addon"!!!
+See README!!!
+
+
+
+</description>
+        <platform>all</platform>
+        <language>DE</language>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
+        <source></source>
+        <email></email>
+        <assets>
+            <icon>resources/icon.png</icon>
+            <fanart>resources/fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
