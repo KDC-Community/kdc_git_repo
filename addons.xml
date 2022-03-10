@@ -140,38 +140,6 @@ https://www.facebook.com/groups/raspikdc
 </addon>
 
 
-<addon id="plugin.audio.i_love_proghouse"
-    name="I Love Prog-House" version="2019.10.10"
-	provider-name="Ctrl_Esc">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-    </requires>
-    <extension point="xbmc.python.script" library="default.py">
-        <provides>audio</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-       <summary>Radio Online Stream</summary>
-        <description>Hirschmilch Progressive-House 
-
-https://hirschmilch.de/
-
-
-Visit us:
-
-RaspberryPi_Kodi_Deutschland_Community
-https://www.facebook.com/groups/raspikdc
-
-</description>
-        <platform>all</platform>
-        <language>DE</language>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://hirschmilch.de/</website>
-        <source></source>
-        <email></email>
-    </extension>
-</addon>
-
-
 <addon id="plugin.audio.i_love_progressive"
     name="I Love Progressive" version="2019.10.10"
 	provider-name="Ctrl_Esc">

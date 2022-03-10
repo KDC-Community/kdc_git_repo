@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.audio.i_love_hirschmilch"
-    name="Hirschmilch" version="19.2.0"
+    name="Hirschmilch" version="18.1.3"
 	provider-name="Ctrl_Esc">
     <requires>
 		<!--copy py2 compliant for kodi 18 leia-->
-        <!--import addon="xbmc.python" version="2.1.0"/>
+        <import addon="xbmc.python" version="2.1.0"/>
 		<!--copy py3 compliant for kodi 19 matrix-->
-		<import addon="xbmc.python" version="3.0.0"/>-->
+		<!--import addon="xbmc.python" version="3.0.0"/>-->
     </requires>
     <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>audio</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
        <summary>Radio Online Streams</summary>
-        <description>Itsche Audio Streams für Kodi 19.
+        <description>Itsche Audio Streams für Kodi 18.
 
 
 
