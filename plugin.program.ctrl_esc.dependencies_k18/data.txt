@@ -4,7 +4,7 @@ script.module.backports.functools_lru_cache*https://github.com/KDC-Community/kdc
 script.module.soupsieve*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/script.module.soupsieve/script.module.soupsieve-1.9.6+leia.1.zip*module.png
 script.module.brotli*https://bit.ly/3idgxgm*module.png
 script.module.beautifulsoup*https://bit.ly/2XvhhWC*module.png
-script.module.beautifulsoup4*https://kdc-community.github.io/kdc_git_repo/script.module.beautifulsoup4/script.module.beautifulsoup4-4.9.3.zip*module.png
+script.module.beautifulsoup4-4.9.3*https://kdc-community.github.io/kdc_git_repo/script.module.beautifulsoup4/script.module.beautifulsoup4-4.9.3.zip*module.png
 script.module.urllib3*https://bit.ly/33uZpyU*module.png
 script.module.xmltodict*https://bit.ly/2XxB7At*module.png
 script.module.chardet*https://bit.ly/2Dy8M5Z*module.png
