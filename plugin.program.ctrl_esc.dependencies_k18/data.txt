@@ -1,13 +1,14 @@
-Ctrl_Esc Dependencie Installer*https://bit.ly/2ET5quV*Ctrl_Esc_Dependencies.png
+Ctrl_Esc Repository*https://bit.ly/3khkjqU*Ctrl_Esc_Repo.png
 Ctrl_Esc Abhängigkeiten K-18*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/plugin.program.ctrl_esc.dependencies_k18/plugin.program.ctrl_esc.dependencies_k18-0.0.2.zip*Ctrl_Esc_Dependencies.png
+Ctrl_Esc Dependencie Installer*https://bit.ly/2ET5quV*Ctrl_Esc_Dependencies.png
 script.module.backports.functools_lru_cache*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/script.module.backports.functools_lru_cache/script.module.backports.functools_lru_cache-1.6.1.zip*module.png
 script.module.soupsieve*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/script.module.soupsieve/script.module.soupsieve-1.9.6+leia.1.zip*module.png
-script.module.brotli*https://bit.ly/3idgxgm*module.png
-script.module.beautifulsoup*https://bit.ly/2XvhhWC*module.png
+script.module.brotli*https://kdc-community.github.io/kdc_git_repo/script.module.brotli/script.module.brotli.zip*module.png
+script.module.beautifulsoup*https://kdc-community.github.io/kdc_git_repo/script.module.beautifulsoup/script.module.beautifulsoup-3.2.1.zip*module.png
 script.module.beautifulsoup4-4.9.3*https://kdc-community.github.io/kdc_git_repo/script.module.beautifulsoup4/script.module.beautifulsoup4-4.9.3.zip*module.png
-script.module.urllib3*https://bit.ly/33uZpyU*module.png
-script.module.xmltodict*https://bit.ly/2XxB7At*module.png
-script.module.chardet*https://bit.ly/2Dy8M5Z*module.png
+script.module.urllib3*https://kdc-community.github.io/kdc_git_repo/script.module.urllib3/script.module.urllib3-1.25.3.zip*module.png
+script.module.xmltodict*https://kdc-community.github.io/kdc_git_repo/script.module.xmltodict/script.module.xmltodict-0.11.0.zip*module.png
+script.module.chardet*https://kdc-community.github.io/kdc_git_repo/script.module.chardet/script.module.chardet-3.0.4.zip*module.png
 script.module.idna*https://bit.ly/2XvhBoi*module.png
 script.module.certifi*https://bit.ly/3iekgKX*module.png
 script.module.requests*https://bit.ly/39XWlw6*module.png
@@ -37,18 +38,12 @@ script.module.pydes*https://bit.ly/3keBoSx*module.png
 script.module.future*https://bit.ly/3kbcgvU*module.png
 script.module.kodi-six*https://bit.ly/3gu9nE8*module.png
 script.module.t0mm0.common*https://bit.ly/3kdDxxD*module.png
-script.module.7of9-motherless*https://bit.ly/30uSoMD*7of9-motherless.png
-script.module.7of9-pirateslife4me*https://bit.ly/3khiABW*module.png
-script.module.7of9-videodevil*https://bit.ly/3fwVKD0*7of9-motherless.png
-script.module.hsk 1.1.4*https://bit.ly/33pYEqN*module.png
-script.module.hls.cache 1.0.9*https://bit.ly/2XLPod1*module.png
+
 plugin.video.live.streamspro*https://bit.ly/3gwEA9U*LSPro.png
-Joyn (knaerzche)*https://github.com/knaerzche/plugin.video.joyn/archive/master.zip*joyn_knaerzche.png
-Joyn (Maven85)*https://github.com/Maven85/plugin.video.joyn/archive/master.zip*joyn_knaerzche.png
 Ctrl_Esc_TV*https://bit.ly/2DmiEzR*Ctrl_Esc_TV.png
 Infinity*https://bit.ly/3gwyBBW*Infinity.png
-plugin.video.hdfilme.cc*https://bit.ly/2BYUhrd*HD-Filme.png
-repository.ctrl_esc*https://bit.ly/3khkjqU*Ctrl_Esc_Repo.png
+
+
 service.takealug.epg-grabber*https://github.com/DeBaschdi/repo/raw/master/service.takealug.epg-grabber/service.takealug.epg-grabber-0.3.8.zip*module.png
 plugin.video.spotitube*https://github.com/Collabsvito/Repo/raw/master/packages/plugin.video.spotitube/plugin.video.spotitube-2.1.7.zip*spotitube.png
 Youtube*https://github.com/jdf76/repository/raw/master/testing/official/zips/plugin.video.youtube/plugin.video.youtube-6.8.3%7Ealpha1.zip*youtube.png
