@@ -1,3 +1,4 @@
+Ctrl_Esc I Love Hirschmilch*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/plugin.program.ctrl_esc.dependencies_k18/plugin.program.ctrl_esc.dependencies_k18-0.0.2.zip*Ctrl_Esc_Dependencies.png
 Ctrl_Esc Repository-3.0.3.*https://bit.ly/3khkjqU*Ctrl_Esc_Repo.png
 Ctrl_Esc Abhängigkeiten K-18-0.0.2.*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/plugin.program.ctrl_esc.dependencies_k18/plugin.program.ctrl_esc.dependencies_k18-0.0.2.zip*Ctrl_Esc_Dependencies.png
 Ctrl_Esc Addon Updater-2019.10.10*https://kdc-community.github.io/kdc_git_repo/plugin.program.addon.updater/plugin.program.addon.updater-2019.10.10.zip*Ctrl_Esc_Dependencies.png
