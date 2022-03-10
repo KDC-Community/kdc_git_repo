@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.ctrl_esc" name="[B][COLOR antiquewhite] Control [/B][/COLOR][B][COLOR red] Escape [/B][/COLOR][B][COLOR antiquewhite] Repository [/B][/COLOR]" version="3.0.3" provider-name="Ctrl_Esc">
+<addon id="repository.ctrl_esc" name="[B][COLOR antiquewhite]Control [/B][/COLOR][B][COLOR red] Escape [/B][/COLOR][B][COLOR antiquewhite] Repository [/B][/COLOR]" version="3.0.3" provider-name="Ctrl_Esc">
     <extension point="xbmc.addon.repository" name="Ctrl Esc Repository">
 		<info compressed="false">https://raw.githubusercontent.com/KDC-Community/kdc_git_repo/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/KDC-Community/kdc_git_repo/master/addons.xml.md5</checksum>
