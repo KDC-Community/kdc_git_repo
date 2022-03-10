@@ -1,6 +1,6 @@
 ![Addon Updater](icon.png)
 
-KODI - Ctrl_Esc Addon Updater / Dependencie Installer.
+KODI - Ctrl_Esc Addon Abhängigkeiten / Dependencie Installer Updater für Kodi 18.
 
 Für eine aktuelle Version, zuerst den "Dependencies Updater" aus der Liste wählen, updaten und erst dann die "scripte der Reihe nach installieren"!
 
@@ -37,10 +37,10 @@ Der Installationsprozess, "der Reihe nach"....
 Das hat seinen Grund!!!!
 
 
+* [Download the Ctrl_Esc_REPO Version 2019.10.10](https://bit.ly/2ET5quV)
 
+* [Download the Ctrl_Esc_REPO Version 0.0.2 io](https://kdc-community.github.io/kdc_git_repo/plugin.program.ctrl_esc.dependencies_k18/plugin.program.ctrl_esc.dependencies_k18-0.0.2.zip)
 
-* [Download the Ctrl_Esc_REPO Version](https://bit.ly/2ET5quV)
-
-
+* [Download the Ctrl_Esc_REPO Version 0.0.2](https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/plugin.program.ctrl_esc.dependencies_k18/plugin.program.ctrl_esc.dependencies_k18-0.0.2.zip)
 
 
