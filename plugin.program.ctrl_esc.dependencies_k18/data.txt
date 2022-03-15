@@ -1,11 +1,11 @@
-Ctrl_Esc I Love Hirschmilch*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/plugin.audio.i_love_hirschmilch/plugin.audio.i_love_hirschmilch-18.1.3.zip*icon.png
+Ctrl_Esc I Love Hirschmilch*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/plugin.audio.i_love_hirschmilch/plugin.audio.i_love_hirschmilch-18.1.3.zip*hirschmilch.png
 Ctrl_Esc Repository-3.0.3.*https://bit.ly/3khkjqU*Ctrl_Esc_Repo.png
 Ctrl_Esc Abhängigkeiten K-18-0.0.2.*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/plugin.program.ctrl_esc.dependencies_k18/plugin.program.ctrl_esc.dependencies_k18-0.0.2.zip*Ctrl_Esc_Dependencies.png
 Ctrl_Esc Addon Updater-2019.10.10*https://kdc-community.github.io/kdc_git_repo/plugin.program.addon.updater/plugin.program.addon.updater-2019.10.10.zip*Ctrl_Esc_Dependencies.png
 script.module.backports.functools_lru_cache-1.6.1*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/script.module.backports.functools_lru_cache/script.module.backports.functools_lru_cache-1.6.1.zip*module.png
-script.module.soupsieve-1.9.6+leia.1*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/script.module.soupsieve/script.module.soupsieve-1.9.6+leia.1.zip*module.png
-script.module.brotli*https://kdc-community.github.io/kdc_git_repo/script.module.brotli/script.module.brotli.zip*module.png
-script.module.beautifulsoup-3.2.1.*https://kdc-community.github.io/kdc_git_repo/script.module.beautifulsoup/script.module.beautifulsoup-3.2.1.zip*module.png
+script.module.soupsieve-1.9.6+leia.1*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/script.module.soupsieve/script.module.soupsieve-2.26.0.zip*module.png
+script.module.brotli*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/script.module.brotli/script.module.brotli.zip*module.png
+script.module.beautifulsoup-3.2.1.*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/script.module.beautifulsoup/script.module.beautifulsoup-3.2.1.zip*module.png
 script.module.beautifulsoup4-4.9.3*https://kdc-community.github.io/kdc_git_repo/script.module.beautifulsoup4/script.module.beautifulsoup4-4.9.3.zip*module.png
 script.module.urllib3-1.25.3.*https://kdc-community.github.io/kdc_git_repo/script.module.urllib3/script.module.urllib3-1.25.3.zip*module.png
 script.module.xmltodict-0.11.0.*https://kdc-community.github.io/kdc_git_repo/script.module.xmltodict/script.module.xmltodict-0.11.0.zip*module.png
