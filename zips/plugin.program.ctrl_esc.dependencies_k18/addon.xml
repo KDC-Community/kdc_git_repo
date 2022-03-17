@@ -14,9 +14,13 @@
     <extension point="xbmc.addon.metadata">
        <summary>Kodi Leia Dependencies Installer</summary>
         <description>Addon Abhängigkeiten / Dependencie Installer Updater für Kodi 18.
-Installiere die Scripte der Reihe nach und erst dann "ein Addon".
-ACHTUNG!!! NACH NEM CLICK WIRD DIREKT INSTALLIERT!!!
-LESE DIE README!
+Installiere die Scripte der Reihe nach
+und erst dann "ein Addon".
+
+ACHTUNG!!!
+
+NACH NEM CLICK WIRD DIREKT INSTALLIERT!!!
+See README!
 
 
 

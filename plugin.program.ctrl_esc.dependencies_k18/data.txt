@@ -3,6 +3,7 @@ Ctrl_Esc Addon Updater-2019.10.10*https://kdc-community.github.io/kdc_git_repo/p
 Ctrl_Esc Repository-3.0.3*https://bit.ly/3khkjqU*Ctrl_Esc_Repo.png
 Ctrl_Esc I Love Hirschmilch*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/plugin.audio.i_love_hirschmilch/plugin.audio.i_love_hirschmilch-18.1.3.zip*hirschmilch.png
 Ctrl_Esc_TV*https://bit.ly/2DmiEzR*Ctrl_Esc_TV.png
+Ctrl_Esc GUI Sounds-1.0.0*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/resource.uisounds.ctrl_esc/resource.uisounds.ctrl_esc-1.0.0.zip*module.png
 script.module.backports.functools_lru_cache-1.6.1*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/script.module.backports.functools_lru_cache/script.module.backports.functools_lru_cache-1.6.1.zip*module.png
 script.module.soupsieve-1.9.6+leia.1*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/script.module.soupsieve/script.module.soupsieve-2.26.0.zip*module.png
 script.module.brotli-1.0.7*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/script.module.brotli/script.module.brotli.zip*module.png
