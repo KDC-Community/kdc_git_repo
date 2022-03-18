@@ -34,19 +34,26 @@ script.module.kodi-six-0.1.2*https://bit.ly/3gu9nE8*module.png
 script.module.t0mm0.common-2.1.1*https://bit.ly/3kdDxxD*module.png
 script.module.F4mProxy-2.8.7*https://bit.ly/39ZBHMs*module.png
 plugin.video.live.streamspro-2.8.1*https://bit.ly/3gwEA9U*LSPro.png
-
-script.lastship.artwork 2.0.4*https://bit.ly/3kf0tNi*module.png
-script.infinity.artwork-1.0.1*https://bit.ly/2DpBBBN*module.png
-repository.infinity.1.0.0*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/repository.infinity/repository.infinity-1.0.0.zip*module.png
-Infinity*https://bit.ly/3gwyBBW*Infinity.png
-
+Youtube-6.8.3.alpha1*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/plugin.video.youtube/plugin.video.youtube-6.8.3%7Ealpha1.zip*youtube.png
+plugin.video.spotitube-2.1.7*https://github.com/Collabsvito/Repo/raw/master/packages/plugin.video.spotitube/plugin.video.spotitube-2.1.7.zip*spotitube.png
+EPG Repository DeBaschdi-1.0.1*https://github.com/DeBaschdi/repo/raw/master/repository.takealug-1.0.1.zip*takealug.png
+service.takealug.epg-grabber-0.3.8*https://github.com/DeBaschdi/repo/raw/master/service.takealug.epg-grabber/service.takealug.epg-grabber-0.3.8.zip*takealug.png
 
 
+script.infinity.artwork-1.0.1*https://bit.ly/2DpBBBN*Infinity.png
+repository.infinity-1.0.0*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/repository.infinity/repository.infinity-1.0.0.zip*Infinity.png
+plugin.video.infinity-1.1.2*https://bit.ly/3gwyBBW*Infinity.png
+
+script.lastship.artwork-2.0.4*https://bit.ly/3kf0tNi*lastship.png
+repository.lastship-1.0.2*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/repository.lastship/repository.lastship-1.0.2.zip*lastship.png
+repository.lastship-1.0.6*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/repository.lastship/repository.lastship-1.0.6.zip*lastship.png
+plugin.video.lastship-4.0.6.4*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/plugin.video.lastship/plugin.video.lastship-4.0.6.4.zip*lastship.png
+plugin.video.lastship-4.0.6.5*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/plugin.video.lastship/plugin.video.lastship-4.0.6.5.zip*lastship.png
+plugin.video.lastship-4.0.6.5.1*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/plugin.video.lastship/plugin.video.lastship-4.0.6.5.1.zip*lastship.png
+plugin.video.lastship-4.0.7.1.1*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/plugin.video.lastship/plugin.video.lastship-4.0.7.1.1.zip*lastship.png
 
 
-service.takealug.epg-grabber*https://github.com/DeBaschdi/repo/raw/master/service.takealug.epg-grabber/service.takealug.epg-grabber-0.3.8.zip*module.png
-plugin.video.spotitube*https://github.com/Collabsvito/Repo/raw/master/packages/plugin.video.spotitube/plugin.video.spotitube-2.1.7.zip*spotitube.png
-Youtube*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/plugin.video.youtube/plugin.video.youtube-6.8.3%7Ealpha1.zip*youtube.png
+
 service.thoradia Pi3*https://github.com/thoradia/thoradia/raw/master/9.2.0/RPi2/arm/service.thoradia/service.thoradia-9.2.0.23.zip*module.png
 service.thoradia Pi4*https://github.com/thoradia/thoradia/raw/master/9.2.0/RPi4/arm/service.thoradia/service.thoradia-9.2.0.23.zip*module.png
 service.thoradia x86_64*https://github.com/thoradia/thoradia/raw/master/9.2.0/Generic/x86_64/service.thoradia/service.thoradia-9.2.0.23.zip*module.png
