@@ -14,6 +14,7 @@ script.module.xmltodict-0.11.0*https://github.com/KDC-Community/kdc_git_repo/raw
 script.module.chardet-3.0.4*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/script.module.chardet/script.module.chardet-3.0.4.zip*module.png
 script.module.idna-2.8*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/script.module.idna/script.module.idna.zip*module.png
 script.module.certifi-2019.9.11*https://bit.ly/3iekgKX*module.png
+script.module.requests-cache-0.4.13*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/script.module.requests-cache/script.module.requests-cache-0.4.13.zip*module.png
 script.module.requests-2.22.0*https://bit.ly/39XWlw6*module.png
 script.module.requests_toolbelt-0.9.1*https://bit.ly/33pVCmp*module.png
 script.module.cfscrape-2020.01.07*https://bit.ly/3ftD8Uj*module.png
