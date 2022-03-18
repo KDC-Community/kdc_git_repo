@@ -60,7 +60,7 @@ plugin.video.lastship-4.0.6.5*https://github.com/KDC-Community/kdc_git_repo/raw/
 plugin.video.lastship-4.0.6.5.1*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/plugin.video.lastship/plugin.video.lastship-4.0.6.5.1.zip*lastship.png
 plugin.video.lastship-4.0.7.1.1*https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/plugin.video.lastship/plugin.video.lastship-4.0.7.1.1.zip*lastship.png
 
-
+script.module.resolveurl-5.1.62*https://github.com/Gujal00/smrzips/raw/master/zips/script.module.resolveurl/script.module.resolveurl-5.1.62.zip*module.png
 
 service.thoradia Pi3*https://github.com/thoradia/thoradia/raw/master/9.2.0/RPi2/arm/service.thoradia/service.thoradia-9.2.0.23.zip*module.png
 service.thoradia Pi4*https://github.com/thoradia/thoradia/raw/master/9.2.0/RPi4/arm/service.thoradia/service.thoradia-9.2.0.23.zip*module.png
