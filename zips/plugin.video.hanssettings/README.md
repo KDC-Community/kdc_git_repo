@@ -9,3 +9,9 @@ My git version https://github.com/Opvolger/plugin.video.hanssettings
 Buy me a beer / betaal een biertje voor mij
 ------------------------------------------
 [![Donate-Ideal](https://img.shields.io/badge/Donate-Ideal-green.svg)](https://www.bunq.me/opvolger)
+
+
+
+or
+
+* [Download the Ctrl_Esc_REPO Version-2.2.3](https://github.com/KDC-Community/kdc_git_repo/raw/master/zips/plugin.video.hanssettings/plugin.video.hanssettings-2.2.3.zip)
