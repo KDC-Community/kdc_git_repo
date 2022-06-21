@@ -53,39 +53,38 @@ liz=xbmcgui.ListItem(name, iconImage=iconimage,thumbnailImage=iconimage)
 liz.setInfo( type="audio", infoLabels={ "Title": name } )
 xbmcplugin.addDirectoryItem(pluginHandle, url, liz)
 
-name = "[B][COLOR antiquewhite]=============== [COLOR darkred] Club Zone [COLOR antiquewhite]=======================[/B][/COLOR]"
+name = "[B][COLOR antiquewhite]=============== [COLOR lime] MP3 Test Zone [COLOR antiquewhite]=======================[/B][/COLOR]"
 url = "ext"
 iconimage = os.path.join(addon_path,"technoicon.png")
 liz=xbmcgui.ListItem(name, iconImage=iconimage,thumbnailImage=iconimage)
 liz.setInfo( type="audio", infoLabels={ "Title": name } )
 xbmcplugin.addDirectoryItem(pluginHandle, url, liz)
 
-name = "[B][COLOR antiquewhite]|||===  Audio Stream [COLOR lime] Clubbing TV [COLOR antiquewhite]===|||[/B][/COLOR]"
-url = "https://bit.ly/3ufFvVY"
-iconimage = os.path.join(addon_path,"clubbing.png")
+name = "[B][COLOR antiquewhite]|||===  Mp3 Stream [COLOR lime] Evolution Radio #030 [COLOR antiquewhite]===|||[/B][/COLOR]"
+url = "https://bit.ly/2YmxUn5"
+iconimage = os.path.join(addon_path,"technoicon.png")
 liz=xbmcgui.ListItem(name, iconImage=iconimage,thumbnailImage=iconimage)
 liz.setInfo( type="audio", infoLabels={ "Title": name } )
 xbmcplugin.addDirectoryItem(pluginHandle, url, liz)
 
-name = "[B][COLOR antiquewhite]|||===  Video Stream [COLOR lime] Clubbing TV [COLOR antiquewhite]===|||[/B][/COLOR]"
-url = "https://bit.ly/346JARB"
-iconimage = os.path.join(addon_path,"clubbing.png")
+name = "[B][COLOR antiquewhite]|||===  Mp3 Stream [COLOR lime] Chemical Brothers, Fatboy Slim, The Prodigy, Ed Solo finale mix 9/8/2019 [COLOR antiquewhite]===|||[/B][/COLOR]"
+url = "https://bit.ly/3xKJvgb"
+iconimage = os.path.join(addon_path,"technoicon.png")
 liz=xbmcgui.ListItem(name, iconImage=iconimage,thumbnailImage=iconimage)
-liz.setInfo( type="video", infoLabels={ "Title": name } )
+liz.setInfo( type="audio", infoLabels={ "Title": name } )
+xbmcplugin.addDirectoryItem(pluginHandle, url, liz)
+
+name = "[B][COLOR antiquewhite]|||===  Mp3 Stream [COLOR lime] The Chemical Brothers & Fatboy Slim Vs The Prodigy mix * Re do * 30/1/21 [COLOR antiquewhite]===|||[/B][/COLOR]"
+url = "https://bit.ly/3aYPIeY"
+iconimage = os.path.join(addon_path,"technoicon.png")
+liz=xbmcgui.ListItem(name, iconImage=iconimage,thumbnailImage=iconimage)
+liz.setInfo( type="audio", infoLabels={ "Title": name } )
 xbmcplugin.addDirectoryItem(pluginHandle, url, liz)
 
 name = "[B][COLOR antiquewhite]|||===  Youtube Test Ohne ID und gedöns [COLOR lime] Meditation [COLOR antiquewhite]===|||[/B][/COLOR]"
-url = "https://c10.x2convert.com/xbase/eusf40.x2convert.com/xcfiles//files/2021/3/25/happiness_frequency_serotonin_dopamine_endorphin_release_music_binaural_beats_meditation_music_6288812994547340732.mp3"
+url = "https://bit.ly/3lPGpSU"
 iconimage = os.path.join(addon_path,"chillicon.png")
 liz=xbmcgui.ListItem(name, iconImage=iconimage,thumbnailImage=iconimage)
 liz.setInfo( type="audio", infoLabels={ "Title": name } )
 xbmcplugin.addDirectoryItem(pluginHandle, url, liz)
-
-name = "[B][COLOR antiquewhite]|||===  Musikvideo Stream [COLOR lime] ext [COLOR antiquewhite]===|||[/B][/COLOR]"
-url = "ext"
-iconimage = os.path.join(addon_path,"technoicon.png")
-liz=xbmcgui.ListItem(name, iconImage=iconimage,thumbnailImage=iconimage)
-liz.setInfo( type="audio", infoLabels={ "Title": name } )
-xbmcplugin.addDirectoryItem(pluginHandle, url, liz)
-
 xbmcplugin.endOfDirectory(pluginHandle)

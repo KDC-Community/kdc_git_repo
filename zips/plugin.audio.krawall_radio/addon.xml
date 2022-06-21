@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.audio.krawall_radio" name="Krawall Radio" version="18.0.0" provider-name="Kodiman">
+  <requires>
+   <!--py3 compliant-->
+	<!--<import addon="xbmc.python" version="3.0.0" targetversion="3.0.0"/>-->
+	<!--py2 compliant-->
+    <import addon="xbmc.python" version="2.25.0"/>
+  </requires>
+  <extension point="xbmc.python.script" library="default.py">
+    <provides>audio</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+   <summary lang="en">Radio online stream.
+[COLOR blue]Created by Kodiman / litti19928[/COLOR]</summary>
+    <description lang="en">Stream Krawall Radio online. http://www.krawallradio.com
+[COLOR blue]09.03.2020 09:02 PYTHON 2 AND 3[/COLOR]</description>
+    <platform>all</platform>
+    <language>en</language>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+    <website>http://www.krawallradio.com</website>
+    <source>https://app.box.com/s/vc9jtbnupbu7cap1s8h2</source>
+    <email></email>
+	<assets>
+        <icon>resources/icon.png</icon>
+        <fanart>resources/fanart.jpg</fanart>
+        <banner></banner> <!-- optional -->
+        <clearlogo>resources/clearlogo.png</clearlogo> <!-- optional  -->
+        <screenshot></screenshot> <!-- optional, max 10  -->
+    </assets>
+  </extension>
+</addon>

@@ -1,0 +1,6 @@
+0.0.1
+- First Version
+0.0.1- Fix Background
+1.0.3- Versionsnummer geändert
+1.0.4- Fix Streamlink
+18.0.0 - 09.03.21 Python 2 und 3 Aktuell 2 (Kodi 18.9)

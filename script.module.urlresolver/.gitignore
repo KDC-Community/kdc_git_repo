@@ -1,0 +1,17 @@
+*.pyc
+*.pyo
+__pycache__
+*.cookies
+*.DS_Store
+temp/*
+settings.xml
+doc/build
+doc/resources
+.project
+.pydevproject
+.settings
+.idea
+.git
+*~
+nano.save
+.vscode

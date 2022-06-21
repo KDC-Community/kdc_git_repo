@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.Vjackson" name="Video-Jackson Encrypted Version" version="4.8.1" provider-name="The Dependencie Brothers From Another Mothers">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary>Video-Jackson API</summary>
+        <language>en</language>
+        <description lang="en">Video-Jackson Encrypted Addon.
+
+Without the "service module" you have no permission to access, no fun at all and nothing works!
+
+Credits to:
+
+TOXYNTH,
+Control_Escape
+and the Dependencie Brothers From Another Mothers.
+FIFO Supermarkets, Senior Sagas
+and The Other Friendly V-Mod Brothers.
+
+		</description>
+        <source></source>
+        <disclaimer>Only For Administration Or Development Environment. The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content providers. Only For Administration Or Development Environment.</disclaimer>
+        <forum></forum>
+        <email></email>
+        <website></website>
+    </extension>
+</addon>

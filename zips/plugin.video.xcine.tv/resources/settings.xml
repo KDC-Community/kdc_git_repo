@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<settings>
-	<category label="SETTINGS">
-		<setting label="[COLOR lime]SERVER[/COLOR]" type="labelenum" id="server_selection" values="SERVER 1|SERVER 2|SERVER 1 & 2" default="SERVER 1 & 2"/>
-		<setting type="sep"/>
-		<setting label="[COLOR lime]SET LIST VIEW MODE NR.[/COLOR]" type="number" id="list_view_mode" default="0"/>
-		<setting label="[COLOR lime]SET INFO VIEW MODE NR.[/COLOR]" type="number" id="info_view_mode" default="0"/>
-	</category>
-</settings>
