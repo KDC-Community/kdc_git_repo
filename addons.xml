@@ -2337,13 +2337,1016 @@ AMF3, the default serialization for ActionScript 3.0, provides various advantage
 </addon>
 
 
+<addon id="script.module.tzlocal"
+       name="tzlocal"
+       version="2.0.0"
+       provider-name="Lennart Regebro">
+  <requires>
+    <import addon="xbmc.python" version="2.25.0"/>
+    <import addon="script.module.pytz" version="2014.2"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Python Module to find out the current time zone</summary>
+    <description lang="en_GB">Packed for Kodi from https://github.com/regebro/tzlocal, forked from https://github.com/jdollarKodi/script.module.tzlocal</description>
+    <platform>all</platform>
+    <language></language>
+    <license>MIT</license>
+    <forum></forum>
+    <website>https://github.com/regebro/tzlocal</website>
+    <source>https://github.com/regebro/tzlocal</source>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
+  </extension>
+</addon>
 
 
+<addon id="script.module.uepg" version="1.0.6" name="uEPG" provider-name="Lunatixz">
+    <requires>
+        <import addon="xbmc.python" version="2.25.0"/>
+        <import addon="script.module.pyhdhr" version="1.0.0"/>
+        <import addon="script.module.simplecache" version="1.0.0"/>
+        <import addon="script.module.metadatautils" version="1.0.0" />
+    </requires>
+    <extension point="xbmc.python.module" library="/"/>
+    <extension point="xbmc.python.script" library="uepg.py"/>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">Universal Electronic Programing Guide Framework</summary>
+        <description lang="en_GB">uEPG is a drop-in EPG module, developers can easily add custom electronic programing guides to any Kodi plugin with little effort; Developers can use the default interface or customize to match a specific provider.</description>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
+        <source>https://github.com/Lunatixz/KODI_Addons/tree/master/script.module.uepg</source>
+        <forum>https://forum.kodi.tv/showthread.php?tid=321231</forum>
+        <news>v1.0.6[CR]- Improved functionally[CR]v1.0.3[CR]- Fixed listitem Parsing and Default Skin[CR]1.0.2[CR]- Added HDHomerun Tuner Support</news>
+        <assets>
+            <icon>resources/images/icon.png</icon>
+            <screenshot>resources/images/screenshot01.png</screenshot>
+            <screenshot>resources/images/screenshot02.png</screenshot>
+            <screenshot>resources/images/screenshot03.png</screenshot>
+            <screenshot>resources/images/screenshot04.png</screenshot>
+        </assets>
+    </extension>
+</addon>
 
 
+<addon id="script.module.unidecode" name="unidecode" version="1.1.1" provider-name="Tomaz Solc (Tomaz.solc@tablix.org)">
+	<requires>
+		<import addon="xbmc.python" version="2.14.0"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">ASCII transliterations of Unicode text by Sean M. Burke and Tomaz Solc</summary>
+		<description lang="en">ASCII transliterations of Unicode text by Sean M. Burke and Tomaz Solc</description>
+		<disclaimer lang="en">Code taken from https://pypi.org/project/Unidecode</disclaimer>
+		<license>GPL-2.0-or-later</license>
+		<website>https://pypi.org/project/Unidecode</website>
+		<source>https://pypi.org/project/Unidecode</source>
+	</extension>
+</addon>
 
 
+<addon id="script.module.universalscrapers" name="Universal Scrapers" version="1.2.3" provider-name="Team Universal">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.beautifulsoup" version="3.2.1"/>
+        <import addon="script.module.futures" version="2.2.0"/>
+        <import addon="script.module.requests"/>
+        <import addon="script.module.six"/>
+        <import addon="repository.universalscrapers"/>
+	<import addon="script.module.resolveurl" version="5.0.00" optional="true"/>
 
+                <!--<import addon="script.mrknow.urlresolver" version="2016.10.30.2" optional="true"/>-->
+    </requires>
+    <extension point="xbmc.python.module" library="lib"/>
+    <extension point="xbmc.python.pluginsource" library="lib/default.py">
+        <provides>executable</provides>
+    </extension>
+        <extension point="xbmc.addon.metadata">
+            <platform>all</platform>
+            <summary lang="en">Scrape common video host for URL's to be playable in XBMC/Kodi.</summary>
+            <description lang="en">Scrape common video host for URL's to be playable in XBMC/Kodi, simplifying addon development of video plugins requiring multi video hosts.
+            </description>
+            <license>GPL v3</license>
+            <source>https://</source>
+        </extension>
+</addon>
+
+
+<addon id="script.module.uritemplate"
+       name="uritemplate"
+       version="0.6.0" 
+       provider-name="Joe Gregorio">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <language></language>
+    <summary lang="en">URItemplates python module</summary>
+    <description lang="en">A packaged version of the uritemplates python module.</description>
+    <disclaimer lang="en">All source code taken from original repository at source address</disclaimer>
+    <license>Apache 2.0</license>
+    <website>https://github.com/uri-templates/uritemplate-py</website>
+    <source>https://github.com/uri-templates/uritemplate-py</source>
+  </extension>
+</addon>
+
+
+<addon id="script.module.urllib3"
+       name="urllib3"
+       version="1.25.3"
+       provider-name="shazow">
+  <requires>
+    <import addon="xbmc.python" version="2.25.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">urllib3 is a powerful, sanity-friendly HTTP client for Python</summary>
+    <description lang="en_GB">Packed for KODI from https://pypi.org/project/urllib3/</description>
+    <platform>all</platform>
+    <language></language>
+    <license>MIT</license>
+    <forum></forum>
+    <website>https://urllib3.readthedocs.io/en/latest/</website>
+    <source>https://github.com/Freso/script.module.urllib3</source>
+    <email>freso.dk AT gmail.com</email>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
+
+<addon id="script.module.urlresolver" name="URLResolver" version="2021.12.23" provider-name="Resolver Team">
+    <requires>
+        <import addon="script.module.six" />
+        <import addon="script.module.kodi-six" />
+		<import addon="script.module.certifi" />
+        <import addon="plugin.video.youtube" optional="true" />
+        <import addon="script.module.python.twitch" optional="true" />
+        <import addon="plugin.googledrive" optional="true" />
+        <!-- for remote debug -->
+        <import addon="script.module.pydevd" optional="true"/>
+    </requires>
+    <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.python.pluginsource" library="lib/default.py" />
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="de">URLResolver wird für die Stream Wiedergabe benötigt</summary>
+        <description lang="de">Empfängt viele Video URL's, die in XBMC/Kodi abspielbar sind</description>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
+
+<addon id="script.module.win_inet_pton" name="win-inet-pton" version="1.1.0" provider-name="hickeroar">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Native python inet_pton implementation on Windows (with ctypes)</summary>
+    <description lang="en_GB">Native inet_pton and inet_ntop implementation for Python on Windows (with ctypes).</description>
+    <platform>all</platform>
+    <news></news>
+    <language></language>
+    <license>Public Domain</license>
+    <forum></forum>
+    <website>https://github.com/hickeroar/win_inet_pton</website>
+    <source>https://github.com/dagwieers/script.module.win_inet_pton</source>
+    <email>dag@wieers.com</email>
+    <assets>
+      <icon>icon.png</icon>
+    </assets>
+  </extension>
+</addon>
+
+
+<addon id="script.module.xbmcswift2" name="xbmcswift2" provider-name="Jonathan Beluch (jbel), enen92" version="13.0.0">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0" />
+  </requires>
+  <extension library="lib" point="xbmc.python.module" />
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <source>https://github.com/XBMC-Addons/script.module.xbmcswift2</source>
+    <license>GPL-3.0</license>
+    <summary lang="en">xbmcswift2 is a small framework to ease development of KODI addons.</summary>
+    <description lang="en">xbmcswift2 is a small framework to ease development of KODI addons.</description>
+  </extension>
+</addon>
+
+
+<addon id="script.module.xmltodict" name="xmltodict" version="0.11.0" provider-name="martinblech">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.module" library="lib"/>
+    <extension point="xbmc.addon.metadata">
+        <language></language>
+        <summary lang="en">Python helper module</summary>
+        <description lang="en">xmltodict is a Python module that makes working with XML feel like you are working with JSON, as in this "spec".</description>
+        <license>MIT</license>
+        <platform>all</platform>
+        <website>https://github.com/martinblech/xmltodict</website>
+        <source>https://github.com/martinblech/xmltodict</source>
+        <forum></forum>
+    </extension>
+</addon>
+
+
+<addon id="script.video.F4mProxy" 
+	     name="F4mProxy" 
+	     version="2.8.7" 
+	     provider-name="Shani">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="script.module.requests" />
+  </requires>
+  <extension point="xbmc.python.module" library="lib" />
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>executable</provides>
+  </extension>
+
+
+    
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Proxy for f4m</summary>
+    <description lang="en">Use this addon to play F4m v1 and v2 streams</description>
+  </extension>
+</addon>
+
+
+<addon
+  id="service.rom.collection.browser"
+  version="1.0.1"
+  name="Rom Collection Browser Service"
+  provider-name="carabalb, jimyx17, malte">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.service" library="default.py" start="login"></extension>
+  <extension point="xbmc.addon.metadata">
+    <language></language>
+    <summary>Performs Rom Collection Browser startup tasks</summary>    
+    <description>Some features in Rom Collection Browser require actions on XBMC startup: starting RCB after launching emulators in solo mode and scraping games on XBMC startup.</description>
+    <license>GPL 2.0</license>
+    <platform>android freebsd ios linux osx windows</platform>        
+  </extension>
+</addon>
+
+
+<addon id="service.skin.widgets" name="Skin Widgets" version="0.0.33" provider-name="Martijn, phil65">
+    <requires>
+        <import addon="xbmc.json" version="6.0.0"/>
+        <import addon="xbmc.python" version="2.14.0"/>
+        <import addon="script.module.simplejson" version="2.0.10"/>
+    </requires>
+    <extension point="xbmc.service" library="default.py" start="login"/>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="be">Skin widgets</summary>
+        <summary lang="da">Widgets til Skins</summary>
+        <summary lang="de">Skin Widgets</summary>
+        <summary lang="el">Widgets κελύφους</summary>
+        <summary lang="en">Skin widgets</summary>
+        <summary lang="es">Skin widgets</summary>
+        <summary lang="fr">Skin widgets</summary>
+        <summary lang="gl">Widgets do Tema</summary>
+        <summary lang="hr">Dodaci za presvlaku</summary>
+        <summary lang="hu">Kinézet miniprogram</summary>
+        <summary lang="it">Skin widgets</summary>
+        <summary lang="ko">스킨 위젯</summary>
+        <summary lang="nl">Skin widgets</summary>
+        <summary lang="pl">Dodatki Skóry</summary>
+        <summary lang="pt">Widgets para Temas</summary>
+        <summary lang="pt_BR">Skin widgets</summary>
+        <summary lang="sk">Widgety Vzhľadov</summary>
+        <summary lang="sv">Skal widgetar</summary>
+        <summary lang="zh">皮肤微件</summary>
+        <description lang="be">Skin widgets</description>
+        <description lang="da">Widgets til Skins</description>
+        <description lang="de">Skin Widgets</description>
+        <description lang="el">Widgets κελύφους</description>
+        <description lang="en">Skin widgets</description>
+        <description lang="es">Skin widgets</description>
+        <description lang="fr">Skin widgets</description>
+        <description lang="gl">Widgets do Tema</description>
+        <description lang="hr">Dodaci za presvlaku</description>
+        <description lang="hu">Kinézet miniprogram</description>
+        <description lang="it">Skin widgets</description>
+        <description lang="ko">스킨 위젯</description>
+        <description lang="nl">Skin widgets</description>
+        <description lang="pl">Dodatki Skóry</description>
+        <description lang="pt">Widgets para Temas</description>
+        <description lang="pt_BR">Skin widgets</description>
+        <description lang="sk">Widgety Vzhľadov</description>
+        <description lang="sv">Skal widgetar</description>
+        <description lang="zh">皮肤微件</description>
+        <disclaimer lang="be">For information visit the wiki page or XBMC forum.</disclaimer>
+        <disclaimer lang="de">Besuche für mehr Informationen die Wiki-Seite oder das XBMC-Forum</disclaimer>
+        <disclaimer lang="el">Για πληροφορίες επισκεφθείτε τη σελίδα wiki ή το forum του XBMC.</disclaimer>
+        <disclaimer lang="en">For information visit the wiki page or XBMC forum.</disclaimer>
+        <disclaimer lang="es">Para más información, visite el wiki o los foros de XBMC.</disclaimer>
+        <disclaimer lang="fr">Pour plus d'information, visitez la page du Wiki ou dur forum XBMC.</disclaimer>
+        <disclaimer lang="gl">Para máis información visite a páxina wiki ou o foro do XBMC.</disclaimer>
+        <disclaimer lang="hr">Za više informacija posjetite wiki stranicu ili XBMC forum.</disclaimer>
+        <disclaimer lang="it">Per le informazioni visita la pagina wiki o il forum</disclaimer>
+        <disclaimer lang="ko">위키 페이지나 XBMC 포럼에서 추가 정보를 확인하세요.</disclaimer>
+        <disclaimer lang="nl">Bezoek voor informatie de wiki pagina of het XBMC forum.</disclaimer>
+        <disclaimer lang="pl">Odwiedź stronę wiki lub forum XBMC by znaleźć więcej informacji.</disclaimer>
+        <disclaimer lang="pt">Para mais informação, visite a página wiki ou o fórum do XBMC.</disclaimer>
+        <disclaimer lang="pt_BR">Para informações visite o página do wiki ou fórum XBMC.org.</disclaimer>
+        <disclaimer lang="sv">För information, besök wiki-sidan eller XBMC forumet.</disclaimer>
+        <disclaimer lang="zh">访问wiki页或XBMC论坛了解更多信息</disclaimer>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website></website>
+        <forum>http://forum.xbmc.org/showthread.php?tid=142389</forum>
+        <source>https://github.com/XBMC-Addons/service.skin.widgets</source>
+        <email></email>
+    </extension>
+</addon>
+
+
+<addon id="service.takealug.epg-grabber" name="Takealug EPG Grabber" version="0.1.6" provider-name="DeBaschdi">
+    <requires>
+        <import addon="xbmc.python" version="2.14.0"/>
+        <import addon="script.module.requests"/>
+    </requires>
+    <extension point="xbmc.service" library="service.py" start="startup" />
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary>EPG Grabber</summary>
+        <description lang="en">Grabbs EPG Data from Different IPTV Sources and generate an xmltv Guide</description>
+        <description lang="de">Grabbt EPG Daten von verschiedenen IPTV Quellen und erstellt eine guide.xml</description>
+        <source>https://github.com/DeBaschdi/repo/tree/master/service.takealug.epg-grabber/</source>
+        <forum>https://www.kodinerds.net/index.php/Thread/64901-RELEASE-Takealug-EPG-Grabber/</forum>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+            <screenshot>fanart.jpg</screenshot>
+            <screenshot>screenshot3.png</screenshot>
+            <screenshot>screenshot1.png</screenshot>
+            <screenshot>screenshot2.png</screenshot>
+        </assets>
+        <news lang="en">Add an Option to Write the generated guide.xml directly in tvheadend xmltv.sock</news>
+    </extension>
+</addon>
+
+
+<addon id="service.thoradia"
+       name="Thoradia Add-ons"
+       version="9.0.20"
+       provider-name="thoradia">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+
+  </requires>
+  <extension point="xbmc.service" library="default.py">
+    <provides></provides>
+  </extension>
+  <extension point="xbmc.addon.repository">
+    <datadir zip="true">https://raw.githubusercontent.com/thoradia/thoradia/master/9.0/RPi2/arm/</datadir>
+    <info>https://raw.githubusercontent.com/thoradia/thoradia/master/9.0/RPi2/arm/addons.xml</info>
+    <checksum>https://raw.githubusercontent.com/thoradia/thoradia/master/9.0/RPi2/arm/addons.xml.md5</checksum>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Thoradia Add-ons: add-on repository</summary>
+    <description>
+Thoradia Add-ons (20) add-on repository, provides aria2, Bazarr, btfs, CouchPotato, Deluge, FlexGet, Headphones, Jackett, Lidarr, Medusa, Mono, NZBGet, NZBHydra, qBittorent, Radarr, rTorrent, ruTorrent, SABnzbd, Sonarr, Thoradia VPN interface, Transmission and WebGrab+Plus.
+    </description>
+    <disclaimer>
+Keep it legal and carry on
+    </disclaimer>
+    <platform>all</platform>
+    <news>
+20
+- Mention Bazarr, Mono, Thoradia VPN interface and WebGrab+Plus
+
+19
+- Add Rockchip
+
+18
+- Rework default.py
+
+17
+- Add btfs and Lidarr
+
+16
+- Add FlexGet
+
+15
+- Add NZBHydra
+
+14
+- Support repository.rbrepo
+
+13
+- Add aria2
+
+12
+- Support S805
+
+11
+- Mention Medusa, remove SickRage
+
+10
+- Support Slice and Slice3
+- Update repositories on LibreELEC update
+
+9
+- Mention rTorrent and ruTorrent
+
+8
+- Rework default.py
+
+7
+- Rework default.py
+
+6
+- Mention qBittorrent
+
+5
+- Rename add-on
+
+4
+- Mention Radarr
+
+3
+- Mention Deluge
+
+2
+- Fix datadir
+
+1
+- Initial add-on
+    </news>
+    <assets>
+      <icon>resources/icon.png</icon>
+      <fanart>resources/fanart.png</fanart>
+
+    </assets>
+  </extension>
+</addon>
+
+
+<addon id="skin.confluence" version="4.6.3" name="Confluence" provider-name="Jezz_X, Team Kodi">
+	<requires>
+		<import addon="xbmc.gui" version="5.14.0"/>
+	</requires>
+	<extension point="xbmc.gui.skin" debugging="false" effectslowdown="1.0">
+		<res width="1280" height="720" aspect="16:9" default="true" folder="720p" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="af_ZA">Confluence oortreksel deur Jezz_X.</summary>
+		<summary lang="ar_SA">جلد "كونفليونس" من صنع Jezz_x. (الجلد المبدأى لبرنامج إكس بى إم سى)</summary>
+		<summary lang="be_BY">Confluence skin by Jezz_X. (Kodi's default skin)</summary>
+		<summary lang="bg_BG">Confluence облик от Jezz_X. (стандартния облик за Kodi)</summary>
+		<summary lang="ca_ES">Aparença Confluence per Jezz_X.</summary>
+		<summary lang="cs_CZ">Vzhled Confluence od Jezz_X.</summary>
+		<summary lang="cy_GB">Croen Confluence gan Jezz_X. (Croen rhagosodedig Kodi)</summary>
+		<summary lang="da_DK">Confluence-tema af Jezz_X. (Kodis standardtema)</summary>
+		<summary lang="de_DE">Confluence Skin von Jezz_X. (Standard-Skin von Kodi)</summary>
+		<summary lang="el_GR">Το κέλυφος Confluence από τον Jezz_X (προεπιλεγμένο κέλυφος του Kodi).</summary>
+		<summary lang="en_AU">Confluence skin by Jezz_X. (Kodi's default skin)</summary>
+		<summary lang="en_GB">Confluence skin by Jezz_X.</summary>
+		<summary lang="en_NZ">Confluence skin by Jezz_X. (Kodi's default skin)</summary>
+		<summary lang="en_US">Confluence skin by Jezz_X. (Kodi's default skin)</summary>
+		<summary lang="es_AR">Skin Confluence por Jezz_X.</summary>
+		<summary lang="es_ES">Skin Confluence por Jezz_X.</summary>
+		<summary lang="es_MX">Skin confluende por Jezz_X. (skin por defecto de Kodi)</summary>
+		<summary lang="et_EE">Confluence rüü autorilt Jezz_X.</summary>
+		<summary lang="eu_ES">Confluence azala Jezz_X-ek egina.</summary>
+		<summary lang="fa_IR">پوسته Confluence تهیه شده بوسیله Jezz_X. (پوسته پیش فرض Kodi) </summary>
+		<summary lang="fi_FI">Confluence-ulkoasu. Tekijä Jezz_X.</summary>
+		<summary lang="fo_FO">Confluence útsjónd av Jezz_X. (Kodi's vanliga útsjónd)</summary>
+		<summary lang="fr_CA">Habillage Confluence par Jezz_X.</summary>
+		<summary lang="fr_FR">Confluence, un habillage par Jezz_X.</summary>
+		<summary lang="gl_ES">Pel Confluence por Jezz_Z. (Pel predefinida do Kodi)</summary>
+		<summary lang="he_IL">המעטפת Confluence של Jezz_X. (ברירת המחדל של Kodi)</summary>
+		<summary lang="hr_HR">Confluence presvlaka autora Jezz_X. (uobičajena Kodi presvlaka)</summary>
+		<summary lang="hu_HU">Confluence felszín. Készítő: Jezz_X (Kodi alapértelmezett felszín)</summary>
+		<summary lang="hy_AM">''Confluence'' - տեսք՝ Jezz_X. կողմից (Kodi - հիմնական տեսք)</summary>
+		<summary lang="id_ID">Skin Confluence oleh Jezz_X. (Skin bawaan Kodi)</summary>
+		<summary lang="is_IS">Confluence eftir Jezz_X. (Sjálfgefið útlit Kodi)</summary>
+		<summary lang="it_IT">Skin Confluence da Jezz_X. (Skin predefinita di Kodi)</summary>
+		<summary lang="ja_JP">Confluence スキン by Jezz_X. (Kodi デフォルトスキン)</summary>
+		<summary lang="ko_KR">Jezz_X가 만든 Confluence 스킨.</summary>
+		<summary lang="lt_LT">Confluence teminė išvaizda, kurią sukūrė Jezz_X. (Kodi numatytoji teminė išvaizda)</summary>
+		<summary lang="lv_LV">Confluence apvalks no Jeez_X.</summary>
+		<summary lang="mk_MK">Confluence skin by Jezz_X. (Kodi's default skin)</summary>
+		<summary lang="ms_MY">Penyatuan, kulit daripada Jezz_X. (Kulit lalai Kodi)</summary>
+		<summary lang="mt_MT">Dehra Confluence magħmula minn Jezz_X. (Id-dehra normali ta' Kodi)</summary>
+		<summary lang="nb_NO">Confluence-drakt av Jezz_X. (Kodis forvalgte drakt)</summary>
+		<summary lang="nl_NL">Confluence skin door Jezz_X. (Kodi's standaard skin)</summary>
+		<summary lang="pl_PL">Skóra Confluence autorstwa Jezz_X</summary>
+		<summary lang="pt_BR">Skin Confluence por Jezz_X. (Skin padrão do Kodi)</summary>
+		<summary lang="pt_PT">Tema Confluence por Jezz_X (tema padrão do Kodi)</summary>
+		<summary lang="ro_RO">Costumul Confluence de Jezz_X.</summary>
+		<summary lang="ru_RU">Обложка Confluence (стандартная обложка Kodi). Автор: Jezz_X.</summary>
+		<summary lang="sk_SK">Confluence skin od Jezz_X. (predvolený skin Kodi)</summary>
+		<summary lang="sl_SI">Preobleka Confluence avtorja Jezz_X. (Privzeta preobleka za Kodi)</summary>
+		<summary lang="sq_AL">Maska Confluence nga Jazz_X (maska kryesore së Kodi)</summary>
+		<summary lang="sr_RS">Confluence маска аутора Jezz_X.</summary>
+		<summary lang="sr_RS@latin">Confluence maska autora Jezz_X.</summary>
+		<summary lang="sv_SE">Confluence, ett skal av Jezz_X.</summary>
+		<summary lang="szl">Skōra Confluence zrychtowanŏ ôd Jeez_X. (wychodnŏ skōra we Kodi)</summary>
+		<summary lang="tg_TJ">Пӯсти ҳамҷараёнӣ аз ҷониби Jezz_X. (Пӯсти пешфарзи Kodi)</summary>
+		<summary lang="th_TH">ชุดตกแต่ง Confluence โดย  Jezz_X (สกินเริ่มต้นของ Kodi)</summary>
+		<summary lang="tr_TR">Confluence dış görünümü. Jezz_X (Kodi'nin varsayılan dış görünümü)</summary>
+		<summary lang="uk_UA">Обкладинка Confluence (стандартна обкладинка Kodi). Автор: Jezz_X.</summary>
+		<summary lang="vi_VN">Giao diện Confluence bởi Jezz_X. (Giao diện mặc định của Kodi)</summary>
+		<summary lang="zh_CN">Jezz_X 开发的 Confluence 皮肤。</summary>
+		<summary lang="zh_TW">Jezz_X 製作的佈景主題（Kodi的預設佈景主題）</summary>
+		<description lang="af_ZA">Confluence is 'n kombinasie van konsepte van 'n klomp gewilde oortreksels, en 'n poging om hulle goeie idees te omvat en te integreer in 'n oortreksel wat maklik behoort te wees vir eerste keer Kodi gebruikers om te verstaan en te gebruik.</description>
+		<description lang="ar_SA">"كونفليونس" هو الجلد المبدأى لبرنامج إكس بى إم سى اﻹصدار 9.11 وما فوق. هو خلط بين اشهر اﻷجلده الاخرى معاً ومحاوله لتبنى ودمج افكارهم للخروج بِنِتَاج يُفترض به ان يكون سهل اﻹستيعاب بمجرد النظر لمستخدمى إكس بى إم سى المبتدئين.</description>
+		<description lang="be_BY">Confluence is the default skin for Kodi 9.11 and above. It is a combination of concepts from many popular skins, and attempts to embrace and integrate their good ideas into a skin that should be easy for first time Kodi users to understand and use.</description>
+		<description lang="bg_BG">Confluence е стандартният облик на Kodi 9.11 и по-новите версии. Представлява смесица от концепциите на много от популярните облици. Целта е да се интегрират тези добри идеи в подходящ и удобен вид за хора, които се сблъскват за първи път с Kodi.</description>
+		<description lang="ca_ES">Confluence és una combinació de conceptes de moltes aparences populars i intenta adoptar i integrar les seves bones idees en una aparença que sigui senzilla d'entendre i utilitzar per als nous usuaris de Kodi.</description>
+		<description lang="cs_CZ">Confluence je kombinací konceptů z mnoha oblíbených vzhledů a pokouší se pojmout a integrovat jejich dobré nápady do vzhledu, který by měl být pro nové uživatele Kodi jednoduchý na pochopení a používání.</description>
+		<description lang="cy_GB">Confluence yw croen rhagosodedig Kodi 9.11 ac uwch. Mae'n gyfuniad o gysyniadau o nifer o grwyn poblogaidd ac mae'n ymdrechu i gyfuno eu syniadau da hwy i groen ddylai fod yn hawdd i ddefnyddiwr cyntaf Kodi ei deall a'i ddefnyddio.</description>
+		<description lang="da_DK">Confluence er standardskin'et til Kodi 9.11 og senere versioner. Det er en kombination af koncepter fra mange populære skins, og det forsøger at omfavne og integrere de gode ideer i et skin, der er let for førstegangsbrugere af Kodi at forstå og bruge.</description>
+		<description lang="de_DE">Confluence ist der Standardskin ab Kodi 14.0. Er ist eine Kombination mehrerer unterschiedlicher Skin-Konzepte und versucht dabei, die besten Ideen zu kombinieren, um einen einfachen Einstieg für neue Kodi-Nutzer zu ermöglichen.</description>
+		<description lang="el_GR">Το Confluence είναι η προεπιλεγμένη αμφίεση για τις εκδόσεις Kodi 14.0 και άνω. Είναι ένας συνδυασμός από πολλές δημοφιλής αμφιέσεις, και επιχειρεί να παρέχει τις καλύτερες ιδέες τους σε μία αμφίεση, το οποίο είναι εύκολο για τους αρχάριους χρήστες του Kodi να κατανοήσουν και να χρησιμοποιήσουν.</description>
+		<description lang="en_AU">Confluence is the default skin for Kodi 9.11 and above. It is a combination of concepts from many popular skins, and attempts to embrace and integrate their good ideas into a skin that should be easy for first time Kodi users to understand and use.</description>
+		<description lang="en_GB">Confluence is a combination of concepts from many popular skins, and attempts to embrace and integrate their good ideas into a skin that should be easy for first time Kodi users to understand and use.</description>
+		<description lang="en_NZ">Confluence is the default skin for Kodi 9.11 and above. It is a combination of concepts from many popular skins, and attempts to embrace and integrate their good ideas into a skin that should be easy for first time Kodi users to understand and use.</description>
+		<description lang="en_US">Confluence is the default skin for Kodi 9.11 and above. It is a combination of concepts from many popular skins, and attempts to embrace and integrate their good ideas into a skin that should be easy for first time Kodi users to understand and use.</description>
+		<description lang="es_AR">Confluence es una combinación de conceptos de muchos skins populares, e intenta abarcar e integrar lo mejor de ellos en un skin que sea sencillo de entender y utilizar para los nuevos usuarios de Kodi.</description>
+		<description lang="es_ES">Confluence es la skin por defecto de Kodi 9.11 y posteriores. Es una combinación de conceptos de muchas skins populares, e intenta abarcar e integrar lo mejor de ellas en una skin que sea sencilla de entender y utilizar para los nuevos usuarios de Kodi.</description>
+		<description lang="es_MX">Confluence es el skin por defecto para Kodi 9.11 en adelante. Es una combinación de conceptos de varias skins populares, e intenta adoptar e integrar sus buenas ideas en un skin que debería ser fá de entender y usar para quienes usen Kodi por primera vez.</description>
+		<description lang="et_EE">Confluence on Kodi vaikerüü alates versioonist 9.11. Confluence on paljude populaarsete rüüde kombinatsioon, üritades omavahel siduda nende parimaid lahendusi, et saavutada esmakasutajale selget ja kergelt kasutatavat tulemust.</description>
+		<description lang="eu_ES">Confluence hainbat azal ospetsutatik hartutako kontzeptuen konbinaketa da. Horietatik ideia onak hartu eta integratzen saiatzen da, Kodi lehen aldiz erabiltzen dutenentzat ulertzeko eta erabiltzeko erraza izango den azal batean.</description>
+		<description lang="fa_IR">Confluence پوسته پیش فرض Kodi در ویرایش 14 و بالاتر است. این پوسته ترکیبی از چند پوسته محبوب دیگر است و تلاش دارد بهترین ایده ها را با هم ترکیب کند، تا شروعی ساده و آسان را برای کاربران جدید Kodi امکان پذیر سازد.</description>
+		<description lang="fi_FI">Confluence on yhdistelmä useiden suosittujen ulkoasujen konsepteista, ja yritys omaksua ja integroida heidän hyvät ideat ulkoasuun, jonka pitäisi olla helppokäyttöinen ja -tajuinen kaikille Kodin käyttäjille.</description>
+		<description lang="fo_FO">Confluence er vanliga útsjóndin, sum er brúkt í Kodi síðan útg. 9.11. Hetta er ein samansjóðan av fleiri hugtøkum. Ætlanin er at útsjóndin skal lætta um móttøku og nýtslu av Kodi fyri nýggjar brúkarar.</description>
+		<description lang="fr_CA">Confluence est une combinaison de concepts provenant de plusieurs habillages populaires. Il tente d’inclure et d’intégrer leurs bonnes idées en un habillage qui devrait être facile à comprendre et à utiliser pour les utilisateurs débutants de Kodi.</description>
+		<description lang="fr_FR">Confluence s'inspire des concepts de nombreux habillages populaires, et constitue une tentative d'inclusion et d'intégration des meilleures idées afin de créer un habillage d'interface qui soit facile à comprendre et à utiliser pour les personnes découvrant Kodi.</description>
+		<description lang="gl_ES">Confluence é a pel predeterminada para Kodi 9.11 e posteriores. É unha combinación de conceptos de algunhas peles populares, e tenta abranguer e integrar  as súas mellores ideas nunha pel que sexa fácil de entender e utilizar para as usuarias que utilizan por primeira vez Kodi.</description>
+		<description lang="he_IL">המעטפת Confluence היא מעטפת ברירת המחדל של Kodi. המעטפת הינה תוצר של אימוץ מאפיינים ממעטפות פופולריות רבות תוך רצון לשלב מאפיינים אלה למעטפת פשוטה לשימוש ולהכרה ראשונית ע"י משתמשי Kodi חדשים.</description>
+		<description lang="hr_HR">Confluence je uobičajena presvlaka za Kodi 14.0 naviše. To je mješavina koncepta iz mnogih drugih popularnih presvlaka, pokušaj da se objedine njihove dobre osobine u presvlaku i da budu lagane za upotrebu i razumljive novim Kodi korisnicima.</description>
+		<description lang="hu_HU">A Confluence az alapértelmezett felszín a Kodihoz a 9.11-es verziótól kezdődően. Merít sok sok népszerű felszín elképzeléséből, megpróbálva vegyíteni a jó ötleteket úgy, hogy az könnyen kezelhető legyen a Kodival először találkozóknak is.</description>
+		<description lang="id_ID">Confluence merupakan skin bawaan untuk Kodi 9.11 dan selanjutnya. Merupakan kombinasi konsep dari beberapa skin populer, dan berusaha untuk merangkul dan menyatukan ide bagus mereka ke sebuah skin yang mudah dipakai dan dipahami oleh pengguna Kodi pertama kali.</description>
+		<description lang="is_IS">Confluence er sjálfgefið útlit Kodi 14.0 og nýrra. Það er samsetning hugmynda frá mörgum vinsælum útlitum og er tilraun til að fanga og innlima þær góðu hugmyndir í útlit sem sé einfalt fyrir fyrir nýja Kodi notendur að skilja og nota</description>
+		<description lang="it_IT">Confluence è la skin predefinita di Kodi dalla versione 14.0 in poi. È una combinazione di elementi provenienti da altre skin popolari e cerca di integrare e coinvolgere tutte le loro grandi idee in una skin facile da usare e comprendere per l'utente inesperto di Kodi.</description>
+		<description lang="ja_JP">Confluence は Kodi 9.11 およびそれ以上のバージョンで標準のスキンです。さまざまな人気のスキンのコンセプトを組み合わせ、ユーザが初めて Kodi に触れる際に便利に使えるようにしてあります。</description>
+		<description lang="ko_KR">Confluence 는 Kodi 14.0 이상을 위한 기본 스킨입니다. 많은 인기 스킨의 컨셉과 좋은 아이디어를 모아서 하나의 스킨으로 만들었으며 초보자도 사용하기 쉽습니다.</description>
+		<description lang="lt_LT">Confluence yra numatytoji teminė išvaizda pradedant Kodi 9.11 versija. Tai daugelio populiarių teminų išvaizdų derinys. Bandymas priimti ir integruoti vartotojų idėjas į teminę išvaizdą katra turėtų būti lengvai suprantama  pirmą kartą naudojantiems Kodi</description>
+		<description lang="lv_LV">Confluence ir apvienota daudzu populāru apvalku koncepcija un centieni pieņemt un integrēt labākās idejas, lai jaunajiem Kodi ietotājiem to būtu viegli izprast un lietot.</description>
+		<description lang="mk_MK">Confluence е основниот изглед на Kodi 14.0 и нагоре. Тој е комбинација на концепти од повеќе популарни изгледи, и настојува да ги обедини и истакне нивните добри идеи во еден изглед разбирлив за почетници.</description>
+		<description lang="ms_MY">Penyatuan ialah kulit lalai untuk Kodi 9.11 dan ke atas. Ia merupakan gabungan konsep dari pelbagai kulit terkenal, dan berusaha untuk merangkumkan dan menyepadukan idea baik kulit-kulit tersebut menjadi satu kulit yang mudah difahami dan digunakan oleh pengguna baru Kodi .</description>
+		<description lang="mt_MT">Confluence hija d-dehra normali ta' Kodi 14.0 il-fuq.  Hija taħlita ta' kunċetti minn ħafna dehriet popolari, u tipporva tgħaqqad u tintegra l-aqwa ideat tagħhom f'dehra li għandha tkun faċli biex jifmuha u jużawha dawk l-utenti li qed jużaw Kodi għall-ewwel darba.</description>
+		<description lang="nb_NO">Confluence er forvalgt drakt for Kodi 9.11 og oppover. Det er en kombinasjon av konseptene fra mange populære drakter, og prøver å omfavne og integrere de gode idéene i en drakt som bør være lett å forstå og benytte seg av for nye Kodi-brukere.</description>
+		<description lang="nl_NL">Confluence is de standaard skin voor Kodi 15.0 en hoger. Het combineert de concepten van andere populaire skins, waarbij het tracht hun goede ideeën te integreren in een skin die gemakkelijk in gebruik is.</description>
+		<description lang="pl_PL">Confluence jest kombinacją koncepcji  wielu popularnych skór i próbą zawarcia tego, co w nich najlepsze w skórze, która będzie łatwa do opanowania dla początkującego użytkownika.</description>
+		<description lang="pt_BR">Confluence é a skin padrão do Kodi 9.11 e acima. É uma combinação de conceitos das mais populares skins, visando abraçar e integrar as boas ideias em uma skin  que seja fácil de entender e usar, destinada  aos usuários iniciantes do Kodi. </description>
+		<description lang="pt_PT">O tema "Confluence" é o tema padrão do Kodi 14.0 e superior. É uma combinação de conceitos a partir de muitos temas populares e tenta integrar as boas ideias dos mesmos, num tema que deverá ser fácil de entender e utilizar pelos novos utilizadores do Kodi.</description>
+		<description lang="ro_RO">Confluence este costumul implicit pentru Kodi 9.11 și versiunile ulterioare. Este o combinație de concepte împrumutate de la mai multe costume populare, care încearcă să îmbrățișeze și să integreze ideile lor bune într-un costum care să fie ușor de înțeles și folosit de către utilizatorii Kodi începători.</description>
+		<description lang="ru_RU">Confluence — это стандартная обложка Kodi, начиная с версии 9.11. Она представляет собой сочетание концепций, взятых из многих популярных обложек, в попытке интегрировать их удачные идеи в обложке, которая была бы простой для использования и понимания новыми пользователями Kodi.</description>
+		<description lang="sk_SK">Confluence je predvolený pre Kodi 9.11 a vyššie. Je kombináciou konceptov z mnoho populárnych skinov a pokusom integrovať ich dobré nápady do skinu, ktorý by bol ľahko zrozumiteľný a použiteľný pre nových používateľov Kodi.</description>
+		<description lang="sl_SI">Confluence je privzeta preobleka za Kodi 14.0 in novejše. Je kombinacija konceptov mnogih priljubljenih preoblek in poskuša zaobjeti in integrirati njihove dobre ideje v preobleko, ki bi bila preprosta za uporabo in razumevanje tudi novim uporabnikom.</description>
+		<description lang="sq_AL">Confluence është maska kryesore për Kodi 9.11 dhe verzionet më të lartë. Është nje kombinim nga shumë maska e popullarizuar dhe përpjeket për të përqafuar dhe integruar idetë më të mira në një maskë që të jetë sa më lehtë në përdorim dhe kuptim për përdoruasit duke e përdorur Kodi për herë të parë.</description>
+		<description lang="sr_RS">Confluence је мешавина концепата из многих других популарних маски, и покушај да се обједине њихове добре идеје у маску која би трeбала да буде лака за разумевање и употребу новим корисницима Kodi-а.</description>
+		<description lang="sr_RS@latin">Confluence je mešavina koncepata iz mnogih drugih popularnih maski, i pokušaja da se objedine njihove dobre ideje u masku koja bi trebala da bude laka za razumevanje i upotrebu novim korisnicima Kodi-a.</description>
+		<description lang="sv_SE">Confluence kombinerar koncept från många populära skal och försöker återanvända och integrera goda idéer för att skapa ett skal som är enkelt att förstå och använda för nya Kodi-användare.</description>
+		<description lang="szl">Confluence to je wychodnŏ skōra dlŏ Kodi 14.0 i nowszych. To je miszōng kōnceptōw ze mocki popularnych skōr i prōbuje te nŏjlepsze wkludzić do skōry, kerŏ winnŏ być prostŏ we użyciu i spokopiyniu dlŏ nowych używŏczōw Kodi.</description>
+		<description lang="tg_TJ">Пӯсти ҳамҷараёнӣ ҳамчун пӯсти пешфарз барои Kodi 9.11 ё версияи навтар истифода мешавад. Ин пӯст аз унсурҳои пӯстҳои машҳури дигар сохта шудааст ва ва ҳамаи фикрҳои беҳтарин дар як пӯст ҷамъ мекунад, то ки корбарони навомад тавонанд Kodi-ро ба осонӣ фаҳманд ва истифода баранд.</description>
+		<description lang="th_TH">Confluenceเป็นสกินเริ่มต้นสำหรับ Kodi 9.11 หรือสูงกว่า มันเป็นส่วนผสมของแนวคิดจากสกินที่ได้รับความนิยมและพยายามที่จะยอมรับและบูรณาการส่วนที่ดีของมันเข้าไปในสกิน ซึ่งน่าจะง่ายสำหรับผู้ใช้ Kodiใหม่ ที่จะเข้าใจและใช้งานได้ดี</description>
+		<description lang="tr_TR">Confluence Kodi 14.0 ve yukarısı için varsayılan dış görünümdür. Birçok popüler dış görünümün kavramlarını bir araya getirip ilk kez Kodi kullananlar için anlaşılması ve kullanımı kolaydır.</description>
+		<description lang="uk_UA">Confluence — це стандартна обкладинка Kodi, починаючи з версії 9.11. Концепції багатьох популярних обкладинок поєднано у спробі використати та інтегрувати їхні вдалі ідеї в обкладинці, що стала б зрозумілою та простою в застосуванні для нових користувачів Kodi.</description>
+		<description lang="vi_VN">Confluence là giao diện mặc định cho Kodi 9.11 and các phiên bản trở về trước. Đây là sự kết hợp các khái niệm đến từ các giao diện khác nhau nhằm hướng người dùng đến sự đơn giản và dễ sử dụng.</description>
+		<description lang="zh_CN">Confluence 集合了许多流行皮肤的创意，力求把这些优点融合到一个皮肤中，使得首次使用 Kodi 的用户能更容易上手。</description>
+		<description lang="zh_TW">Confluence 是從 Kodi 9.11 開始預設的佈景主題。它結合了許多受歡迎的佈景主題的概念，且試圖包含並整合它們的優點，使第一次使用 Kodi 的使用者可以簡單地上手。</description>
+		<platform>all</platform>
+		<license>GNU General Public License version 2</license>
+		<forum>http://forum.kodi.tv/forumdisplay.php?fid=125</forum>
+		<website></website>
+		<email></email>
+		<source>https://github.com/xbmc/skin.confluence</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshot-03.jpg</screenshot>
+			<screenshot>resources/screenshot-04.jpg</screenshot>
+			<screenshot>resources/screenshot-05.jpg</screenshot>
+			<screenshot>resources/screenshot-06.jpg</screenshot>
+			<screenshot>resources/screenshot-07.jpg</screenshot>
+			<screenshot>resources/screenshot-08.jpg</screenshot>
+			<screenshot>resources/screenshot-09.jpg</screenshot>
+		</assets>
+		<news>Added support for new episode spoilers feature.</news>
+	</extension>
+</addon>
+
+
+<addon id="visualization.milkdrop" version="2.0.4" name="MilkDrop" provider-name="Team Kodi">
+  <requires>
+<import addon="kodi.binary.global.main" version="1.0.14"/>
+<import addon="kodi.binary.instance.visualization" version="2.0.1"/></requires>
+  <extension
+    point="xbmc.player.musicviz"
+    library_windows="visualization.milkdrop.dll"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="af_ZA">MilkDrop laat jou sweef deur die klankgolwe wat jy hoor</summary>
+    <summary lang="ar_SA">يحلق بك MilkDrop فوق الموجات الصوتية اللتي تسمع</summary>
+    <summary lang="be_BY">MilkDrop takes you flying through the soundwaves you're hearing</summary>
+    <summary lang="bg_BG">"MilkDrop" ще Ви отведе на пътешествие между звуковите вълни, които чувате</summary>
+    <summary lang="ca_ES">MilkDrop et porta volant a través de les ones de so que escoltes</summary>
+    <summary lang="cs_CZ">MilkDrop s Vámi proletí skrz zvukové vlny, které slyšíte</summary>
+    <summary lang="cy_GB">Mae MilkDrop yn eich hedeg drwy'r tannau sain rydych yn eu clywed</summary>
+    <summary lang="da_DK">Milkdrop tager dig på en flyvetur gennem lydbølgerne, du lytter til</summary>
+    <summary lang="de_DE">MilkDrop nimmt dich mit auf einen Flug durch deine Musik.</summary>
+    <summary lang="el_GR">Το MilkDrop σας ταξιδεύει μέσα στα ηχητικά κύματα που ακούτε</summary>
+    <summary lang="en_GB">MilkDrop takes you flying through the soundwaves you're hearing</summary>
+    <summary lang="en_AU">MilkDrop takes you flying through the soundwaves you're hearing</summary>
+    <summary lang="en_NZ">MilkDrop takes you flying through the soundwaves you're hearing</summary>
+    <summary lang="en_US">MilkDrop takes you flying through the soundwaves you're hearing</summary>
+    <summary lang="es_ES">MilkDrop te lleva volando a través de las ondas que estás escuchando</summary>
+    <summary lang="es_AR">MilkDrop te lleva volando a través de las ondas que estás escuchando</summary>
+    <summary lang="es_MX">MilkDrop the lleva volando a través de las ondas de sonido que estás escuchando</summary>
+    <summary lang="et_EE">MilkDrop viib sind lennates läbi kullatavate helilainete</summary>
+    <summary lang="fi_FI">MilkDrop lennättää sinut ääniaaltojen läpi</summary>
+    <summary lang="fr_FR">MilkDrop vous fait voyager dans les ondes sonores de votre musique</summary>
+    <summary lang="fr_CA">MilkDrop vous fait voler au travers des ondes sonores que vous entendez</summary>
+    <summary lang="gl_ES">MilkDrop lévate voando a través da ondas de son que esta a ouvir</summary>
+    <summary lang="he_IL">MilkDrop לוקח אותך לתעופה דרך גלי הסאונד שאתה שומע</summary>
+    <summary lang="hr_HR">MilkDrop vam omogućuje let kroz zvuk koji čujete</summary>
+    <summary lang="hu_HU">A Milkdrop végigrepít a zene hullámain</summary>
+    <summary lang="id_ID">MilkDrop membawa anda terbang melalui gelombang suara yang anda dengarkan</summary>
+    <summary lang="is_IS">Með MilkDrop flýgurðu í gegnum hljóðbylgjurnar sem þú heyrir</summary>
+    <summary lang="it_IT">MilkDrop ti fa volare tra le onde sonore di ciò che stai ascoltando</summary>
+    <summary lang="ja_JP">MilkDrop - 音楽の波の上を飛ぶ</summary>
+    <summary lang="ko_KR">MilkDrop은 사운드웨이브 속으로 날아가는듯한 효과를 보여줍니다.</summary>
+    <summary lang="lt_LT">MilkDrop nukelia Jus i nuostabu skrydi virs debesu, istiesu fantastisku garsu gausa</summary>
+    <summary lang="lv_LV">MilkDrop paņem Jūs līdzi lidojumā cauri skaņu viļņiem, kurus dzirdat</summary>
+    <summary lang="mk_MK">MilkDrop ве прелетува преку брановите на музиката која ја слушате</summary>
+    <summary lang="nl_NL">Met MilkDrop vliegt u mee door de geluidsgolven die je hoort</summary>
+    <summary lang="nb_NO">MilkDrop tar deg med på en flyreise gjennom lydbølgene du hører</summary>
+    <summary lang="pl_PL">MilkDrop zabiera Cię w niesamowity lot w chmurach aktualnie słuchanych dźwięków</summary>
+    <summary lang="pt_PT">O MilkDrop leva-o num voo através das ondas sonoras que está a ouvir</summary>
+    <summary lang="pt_BR">O MilkDrop leva você para voar nas ondas sonoras que está ouvindo</summary>
+    <summary lang="ro_RO">MilkDrop vă face să zburați printre undele audio pe care le auziți</summary>
+    <summary lang="ru_RU">Milkdrop отправит вас в полёт через звуковые волны, которые вы слышите</summary>
+    <summary lang="sk_SK">MilkDrop s Vami poletí zvukovými vlnami, ktoré počúvate</summary>
+    <summary lang="sl_SI">MilkDrop vas popelje skozi zvočne valove, ki jih poslušate</summary>
+    <summary lang="sq_AL">MilkDrop të bën të fluturosh nëpër valet të tingullit që e dëgjonë</summary>
+    <summary lang="sv_SE">Milkdrop för dig flygande genom de ljudvågor du hör.</summary>
+    <summary lang="ta_IN">MilkDrop நீங்கள் கேட்கும் ஒலி அலைகளின் வடிவங்களின் மூலம் பறக்க செய்யும்</summary>
+    <summary lang="tg_tj">MilkDrop бо мавҷҳои садояш фораму роҳатбахш аст</summary>
+    <summary lang="th_TH">MilkDrop นำคุณโบยบิน ผ่านคลื่นเสียงที่คุณกำลังรับฟัง</summary>
+    <summary lang="tr_TR">MilkDrop sizi duymakta olduğunuz ses dalgalarının içine çeker</summary>
+    <summary lang="uk_UA">MilkDrop забере вас в політ крізь хвилі музики яку ви слухаєте</summary>
+    <summary lang="vi_VN">MilkDrop giúp bạn bay bổng trong âm thanh bạn đang nghe</summary>
+    <summary lang="zh_CN">MilkDrop 带你与声波一起飞翔</summary>
+    <summary lang="zh_TW">MilkDrop帶您穿越聆聽中的音樂饗宴</summary>
+    <description lang="af_ZA">MilkDrop was oorspronklik 'n musiek visualisering "plug-in" vir die Winamp musiek speler. Soos jy na jou musiek luister, laat MilkDrop jou deur die klankgolwe sweef wat jy hoor, en gebruik klop waarnemings om 'n magdom psigedeliese effekte te aktiveer, en 'n visuele reis deur klank te skep.</description>
+    <description lang="ar_SA">ميلك دروب كان أصلا عارض موسيقى لمشغل الموسيقى وين امب. عندما تستمع لموسيقاك, كيلك دروب يطير بك خلال موجات صوتية تسمعا حيقيةً, ,و يستخدم كشف الوقع الموسيقي ليؤدي إلى تأثيرات كثيرة, منشئاً رجلة صوت مرئية قيمة.</description>
+    <description lang="be_BY">MilkDrop was originally a music visualizer "plug-in" to the Winamp music player. As you listen to your music, MilkDrop takes you flying through the actual soundwaves you're hearing, and uses beat detection to trigger myriad psychedelic effects, creating a rich visual journey through sound.</description>
+    <description lang="bg_BG">Първоначално "MilkDrop" е замислена като приставка за музикалния плеър Winamp. Докато слушате музикалната си колекция "MilkDrop" ще Ви накара да "полетите", измежду звуковите вълни, които чувате. Ползва ритъма за да създаде безброй еуфорични ефекти. Така създава едно богато визуално пътешествие в звука.</description>
+    <description lang="ca_ES">El MilkDrop era originalment un afegitó de visualització musical pel reproductor Winamp. Mentre escoltes la música MilkDrop et porta volant a través de les ones de so que estàs escoltant al moment, i utilitza detecció de tempo per activar una munió d'efectes psicodèlics i crea un enriquidor viatge visual a través del so.</description>
+    <description lang="cs_CZ">MikDrop bylo původně vizualizační rozšíření pro přehrávač hudby Winamp. Při poslechu vaší hudby s Vámi MikDrop prolétá skrze zvukové vlny, které slyšíte, a používá detekci taktů, pro spuštění spousty psychedelických efektů, vytvářejíce tak zajímavou vizuální cestu skrze zvuk.</description>
+    <description lang="cy_GB">Roedd MilkDrop yn wreiddiol yn "ategyn" delweddu cerddoriaeth ar gyfer Winamp. Wrth i chi wrando ar MilkDrop mae MilkDrop yn eich hedeg drwy'r tonnau sain rydych yn eu clywed gan ddefnyddio canfodydd trawiad i gychwyn effeithiau seicadelig amrywiol gan greu taith weledol cyfoethog drwy'r sain.</description>
+    <description lang="da_DK">Milkdrop var oprindeligt et musikvisualisering "plug-in" til Winamp musikafspilleren. Mens du lytter til din musik, tager Milkdrop dig på en flyvetur gennem de faktiske lydbølger du hører og bruger beat-genkendelse til at udløse en myriade af psykedeliske effekter, der skaber en visuel rejse gennem lyd.</description>
+    <description lang="de_DE">MilkDrop war ursprünglich ein Musik-Visualizer "Plug-in" für den Musik-Player Winamp.Wenn Sie Ihre Musik hören, fliegen Sie mit MilkDrop durch die aktuellen Klangwellen die Sie hören. Und die Beat-Erkennung wird genutzt um unzählige psychedelische Effekte auslösen, die Schaffung einer visuellen Reise durch den Klang.</description>
+    <description lang="el_GR">Το MilkDrop ήταν αρχικά ένα "plug-in" μουσικών οπτικοποιήσεων του Winamp. Καθώς παίζετε τη μουσική σας, το MilkDrop σας ταξιδεύει μέσα στα πραγματικά ηχητικά κύματα που ακούτε, και χρησιμοποιεί ανίχνευση ρυθμού για να ενεργοποιήσει ένα πλήθος ψυχεδελικών εφέ, δημιουργώντας ένα πλούσιο οπτικό ταξίδι μέσα στον ήχο.</description>
+    <description lang="en_GB">MilkDrop was originally a music visualiser "plug-in" to the Winamp music player. As you listen to your music, MilkDrop takes you flying through the actual soundwaves you're hearing, and uses beat detection to trigger myriad psychedelic effects, creating a rich visual journey through sound.</description>
+    <description lang="en_AU">MilkDrop was originally a music visualiser "plug-in" to the Winamp music player. As you listen to your music, MilkDrop takes you flying through the actual soundwaves you're hearing, and uses beat detection to trigger a myriad of psychedelic effects, creating a rich visual journey through sound.</description>
+    <description lang="en_US">MilkDrop was originally a music visualizer "plug-in" to the Winamp music player. As you listen to your music, MilkDrop takes you flying through the actual soundwaves you're hearing, and uses beat detection to trigger myriad psychedelic effects, creating a rich visual journey through sound.</description>
+    <description lang="es_ES">MilkDrop era originalmente un plug-in visualizador de música para Winamp. Mientras escuchas música, MilkDrop te lleva volando a través de las ondas que estás escuchando, y utiliza la detección del ritmo para activar una gran cantidad de efectos psicodélicos, creando una rica experiencia visual a través del sonido.</description>
+    <description lang="es_AR">MilkDrop era originalmente un plug-in visualizador de música para Winamp. Mientras escuchas música, MilkDrop te lleva volando a través de las ondas que estás escuchando, y utiliza la detección del ritmo para activar una gran cantidad de efectos psicodélicos, creando una rica experiencia visual a través del sonido.</description>
+    <description lang="es_MX">MilkDrop originalmente fue un "plug-in" visualizador de música para el reproductor de música Winamp. Mientras escuchas tu músuca, MilkDrop te lleva volando a través de las ondas de sonido que estás escuchando en ese momento, y usa detección de ritmo para desencadenar múltiples efectos psicodélicos, creando un rico recorrido visual a través del sonido.</description>
+    <description lang="et_EE">MilkDrop oli algselt muusika visuaal plugin Winamp'ile. Muusikat kuulates viib MilkDrop sind lennates läbi kuulatavate helilainete. MilkDrop kasutab rütmituvastust, et päästa valla tohutu hulk psühhedeelseid efekte luues visuaalidest rikka teekonna läbi heli.</description>
+    <description lang="fi_FI">MilkDrop oli alunperin Winampin visualisaattorilisäosa. Kuunnellessasi musiikkia MilkDrop lennättää sinut kuulemiesi ääniaaltojen läpi ja käyttää tahdintunnistusta lukemattomien psykedeelisten tehosteiden toistamiseen, luoden visuaalisen matkan musiikin läpi.</description>
+    <description lang="fr_FR">MilkDrop était à l'origine une extension de visualisation musicale pour le lecteur audio Winamp. Pendant que vous écoutez votre musique, Milkdrop vous fait voyager à travers les ondes sonores que vous entendez, détectant le rythme pour déclencher une myriade d'effets psychédéliques, créant ainsi une riche expérience visuelle et sonore.</description>
+    <description lang="fr_CA">MilkDrop était à l'origine un plugiciel de visualisation musicale pour le lecteur audio Winamp. Alors que vous écoutez votre musique, Milkdrop vous fait voler au travers des ondes sonores, et utilise la détection rythmique pour déclencher une myriade d'effets psychédéliques, créant un voyage visuel et sonore.</description>
+    <description lang="gl_ES">MilkDrop foi orixinalmente un plugin de Visualización para múica do reprodutor de música Winamp. Nametres vostede escoita a súa música, MilkDrop lévao voando a través das ondas de son que esta a ouvir, e emprega a detección de ritmo para activar milleiros de efectos psicodélicos, creando unha rica viaxe visual a través do son.</description>
+    <description lang="he_IL">MilkDrop was originally a music visualizer "plug-in" to the Winamp music player. As you listen to your music, MilkDrop takes you flying through the actual soundwaves you're hearing, and uses beat detection to trigger myriad psychedelic effects, creating a rich visual journey through sound.</description>
+    <description lang="hr_HR">MilkDrop je orginalno bio zamišljen kao "dodatak" za Winamp glazbeni svirač. Dok slušate svoju glazbu, MilkDrop vam omogućuje let kroz zvuk koji čujete i koristi otkrivanje taktova da bi pokrenuo bezbroj psihodeličnih efekata, tako stvarajući bogato vizualno  zvučno putovanje.</description>
+    <description lang="hu_HU">A Milkdrop eredetileg egy beépülőmodul volt a Winamp zenelejátszóhoz. Ahogy hallgatod a zenét, a Milkdrop keresztülrepít a hallható hanghullámokon, felhasználva a dobritmust pszihedelikus effektusok létrehozására gazdag látványvilág megteremtésével.</description>
+    <description lang="id_ID">MilkDrop awalnya adalah pengaya visualisasi musik untuk Winamp. Sembari mendengarkan musik, MilkDrop akan membawa Anda terbang melalui gelombang suara yang Anda dengarkan, dan menggunakan deteksi ketukan untuk menampikan banyak sekali efek psikedelik, menciptakan suatu perjalanan visual yang kaya melalui suara.</description>
+    <description lang="is_IS">Milkdrop var upprunalega viðbót við Winamp tónlistarspilarann. Þegar þú hlustar á tónlistina, fer Milkdrop með þig á flug í gegnum hljóðbylgjurnar sem þú heyrir og notar taktskynjun til að setja af stað allskonar effekta sem skapa myndrænt ferðalag í gegnum tónlistarupplifunina</description>
+    <description lang="it_IT">MilkDrop era, in origine, un "plug-in" di visualizzazione per Winamp. Mentre ascolti la musica, MilkDrop ti fa volare tra le onde sonore di ciò che stai ascoltando usando la rilevazione del ritmo per sincronizzare una miriade di effetti psichedelici, creando un ricco viaggio visuale attraverso il suono.</description>
+    <description lang="ja_JP">MilkDrop は元々 Winamp 音楽プレーヤーのビジュアライザープラグインでした。音楽を再生すると、音楽にあわせた波の上を飛んでいるような視覚効果が現れ、ビート検出により無数のサイケデリックな効果が生まれ、音による視覚的体験を生み出します。</description>
+    <description lang="ko_KR">MilkDrop는 원래 윈앰프의 음악 시각화 플러그인입니다. 음악을 들으면서 사운드 웨이브로 날아가는듯한 효과를 보여주며 비트 감지를 해서 다양한 싸이키데릭한 효과를 만들어 풍부한 시각적 경험을 하게합니다.</description>
+    <description lang="lt_LT">MilkDrop vizualizacija, gauta is Winamp. Klausantis muzikos, MilkDrop nukelia jus i nuostabu skrydi virs debesu, naudojamas ritmo aptikimas, kuris sinchronizuoja muzikos vaizdo efektus.</description>
+    <description lang="lv_LV">MilkDrop sākotnēji bija mūzikas vizualizācijas "spraudnis" Winamp mūzikas atskaņotājā. Kamēr tu klausies mūziku, MilkDrop paņem tevi līdz lidojumā cauri skaņas viļņiem, kuri skan, un izmanto ritma noteikšanu, lai palaistu myriad psihodēliskos efektus, radot bagātu vizuālo ceļojumu cauri skaņai.</description>
+    <description lang="mk_MK">MilkDrop беше визуализација допонување на Winamp music player. Како што ја слушате музиката, MilkDrop ве прелетува преку актуелните музички бранови, и користи детекција на битот за да покрене myriad психоделични ефекти, креирајќи богато визуелно патување низ звукот.</description>
+    <description lang="nl_NL">Milkdrop was oorspronkelijk een muziekvisualisatieplug-in voor de Winamp-muziekspeler. Terwijl u uw muziek beluistert vliegt Milkdrop u door de soundwaves die u op dat moment hoort. Op basis van de beat produceert het een veelvoud aan psychedelische effecten.</description>
+    <description lang="nb_NO">MilkDrop var originalt et visualiseringstillegg til musikkavspilleren Winamp. Mens du lytter til musikken din, tar MilkDrop deg med på en reise gjennom de faktiske lydbølgene du hører. Visualiseringen oppdager takten i musikken og bruker denne for å skape en rik, visuell ferd gjennom utallige, psykedeliske effekter.</description>
+    <description lang="pl_PL">MilkDrop jest wizualizacją pochodzącą z odtwarzacza Winamp. W czasie słuchania muzyki, MilkDrop zabiera użytkownika w niesamowity lot pomiędzy aktualnie odtwarzanymi falami dźwiękowymi, używając detekcji beatu, która synchronizuje efekty wizualne z muzyką.</description>
+    <description lang="pt_PT">Originalmente, o MilkDrop era uma visualização do leitor de música Winamp. Ao ouvir a sua música, o MilkDrop leva-o a voar pelas ondas sonoras que está a ouvir, detectando o ritmo da música e desencadeando uma variedade de efeitos psicadélicos. Cria, assim, uma viagem inesquecível pelo som.</description>
+    <description lang="pt_BR">MilkDrop era originalmente uma visualização do reprodutor de música Winamp. Ao ouvir a sua música, o MilkDrop leva-o a voar nas ondas sonoras que está a ouvir, usando detecção de batida para desencadear uma miríade de efeitos psicodélicos. Cria, assim, uma viagem visual inesquecível pelo som.</description>
+    <description lang="ro_RO">MilkDrop a fost original un „modul” de vizualizare pentru lectorul de muzică Winamp. În timp ce ascultați muzica, MilkDrop vă face să zburați printre undele audio actuale pe care le auziți și folosește detecția bătăii pentru a activa miriada de efecte psihedelice, creând o călătorie vizuală bogată printre sunete.</description>
+    <description lang="ru_RU">MilkDrop изначально был модулем визуализации музыки для проигрывателя Winamp. Когда вы слушаете музыку, MilkDrop создает визуальное ощущение полёта по звуковым волнам, а также использует обнаружение ритма для активации множества психоделических эффектов.</description>
+    <description lang="sk_SK">MilkDrop bol pôvodne hudobným vizualizačným rozšírením Winamp prehrávača. Pri počúvaní hudby s Vami MilkDrop letí zvukovými vlnami, ktoré počúvate a použitím detekcie rytmu spúšťa nespočetné psychodelické efekty, a vytvára bohatú vizuálnu cestu zvukom.</description>
+    <description lang="sl_SI">MilkDrop je bila prvotno vizualizacija za predvajalnik Winamp. Ko poslušate vašo glasbo, vas MilkDrop popelje skozi dejansko valovanje, ki ga slišite, in uporablja zaznavanje ritma, kar omogoči psihedelični efekt in bogato vizualno izkušnjo predvajanja glasbe.</description>
+    <description lang="sq_AL">Milkrop fillimisht ishte një "plug-in" për vizualizimin e muzikës për riprodhuesin Winamp. Ndërsa dëgjonë muzikën tënde, Milkdrop vizualizon valët që i dëgjon dhe përdor zbulimin e tingullit për efekte të ndryshme.</description>
+    <description lang="sv_SE">Milkdrop var ursprungligen ett visualiserarande ljudplug-in till Winamp. Medan du lyssnar på din musik så för dig Milkdrop flygande genom de ljudvågor du hör och använder rytmavkänning för att ge dig psykedeliska effekter som skapar en mäktig visuell resa via ljudet.</description>
+    <description lang="ta_IN">MilkDrop முதலில் Winamp இசை வாசிபானுடைய ஒரு இசை விசுவலைஸர் "செருகுநிரல்"ஆகும். நீங்கள் இசை கேட்டுக்கொண்டு இருக்குபோது, MilkDrop ஆனது உங்களை ஒலி அலைகளின் அமைப்புகேர்ப்ப உங்களை பறக்க செய்யும், மேலும் இசை துடிப்புகேர்ப்ப எண்ணற்ற சைக்டெலிக் விளைவுகளை உண்டாக்கும், ஒலி மூலம் ஒரு மறக்கமுடியாத காட்சி பயணம் உருவாக்கும்.</description>
+    <description lang="tg_tj">MilkDrop аз ибтидо плагини таҷассуми мусиқие барои плеери мусиқии Winamp буд. Вақте ки шумо мусиқиро мешунавед, MilkDrop бо мавҷҳои садояш фораму роҳатбахш аст, ва муайянкуни битҳои мусиқиро барои эҷоди таъсирҳои девонагӣ истифода мекунад ва шуморо ба сайёҳии мусиқӣ мебарад.</description>
+    <description lang="th_TH">MilkDrop แต่เดิมเป็น "ปลั๊ก-อิน" การแสดงแสงสีประกอบเพลง ของโปรแกรมเล่นเพลง Winamp.  ในขณะที่คุณฟังเพลงของคุณ, MilkDrop นำคุณบินผ่านคลื่นเสียงที่เกิดขึ้นตามที่คุณได้ยิน, และใช้การจับจังหวะ ในการส่งผลต่อเอฟเฟคภาพลวงตา อันหลากหลาย, สร้างภาพอันตื่นตาในการเดินทางไปตามเสียงเพลง.</description>
+    <description lang="tr_TR">MilkDrop aslında Winamp müzik çalıcısı için görsel bir "eklenti" dir. Müziğinizi dinlerken, Milkdrop size işittiğiniz ses dalgaları arasında uçuyormuşcasına bir his ve ritm algılayıcısı ile de en çılgın efektleri yaşıyormuşçasına görsel bir şölen sunar.</description>
+    <description lang="uk_UA">MilkDrop спочатку був додатком візуалізації музики для програвача музики Winamp. MilkDrop створює багату гаму візуалізації музики, використовуючи власний механізм визначення музичних тактів.</description>
+    <description lang="vi_VN">MilkDrop ban đầu là một "plug-in" trình diễn nhạc cho Winamp. Khi bạn nghe nhạc, MilkDrop sẽ làm bạn bay bổng trong âm thanh bạn đang nghe, và sử dụng bộ dò giai điệu để kích hoạt vô số những hiệu ứng ảo, tạo ra một cuộc hành trình âm thanh qua mắt thường</description>
+    <description lang="zh_CN">MilkDrop 是来自于 Winamp 音乐播放器的可视化效果插件。在你听音乐时，MilkDrop 通过节拍检测触发的无数迷幻的效果，带你与声波一起飞翔，给你带来丰富的音乐和视觉旅程。</description>
+    <description lang="zh_TW">MilkDrop是來自於Winamp音樂播放器的視覺效果插件。在您在聽音樂時，MilkDrop通過節奏偵測觸發的無數夢幻的效果，帶您穿越聆聽中的音樂饗宴，也給您帶來豐富的聲音和視覺效果的奇幻旅程。</description>
+    <platform>windows-x86_64</platform>
+    <license>GPL-2.0</license>
+    <source>https://github.com/xbmc/visualization.milkdrop</source>
+    <assets>
+      <icon>resources/icon.png</icon>
+      <fanart>resources/fanart.jpg</fanart>
+      <screenshot>resources/screenshot-01.jpg</screenshot>
+      <screenshot>resources/fanart.jpg</screenshot>
+      <screenshot>resources/screenshot-02.jpg</screenshot>
+      <screenshot>resources/screenshot-03.jpg</screenshot>
+      <screenshot>resources/screenshot-04.jpg</screenshot>
+      <screenshot>resources/screenshot-05.jpg</screenshot>
+      <screenshot>resources/screenshot-06.jpg</screenshot>
+    </assets>
+  </extension>
+</addon>
+
+
+<addon id="visualization.milkdrop2" version="2.1.4" name="MilkDrop 2" provider-name="Ryan Geiss, ported by MrC, DX11 by afedchin">
+  <requires>
+<import addon="kodi.binary.global.main" version="1.0.14"/>
+<import addon="kodi.binary.instance.visualization" version="2.0.1"/></requires>
+  <extension
+    point="xbmc.player.musicviz"
+    library_windows="visualization.milkdrop2.dll"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="af">MilkDrop laat jou sweef deur die klankgolwe wat jy hoor</summary>
+    <summary lang="ar">يحلق بك MilkDrop فوق الموجات الصوتية اللتي تسمع</summary>
+    <summary lang="be">MilkDrop takes you flying through the soundwaves you're hearing</summary>
+    <summary lang="bg">"MilkDrop" ще Ви отведе на пътешествие между звуковите вълни, които чувате</summary>
+    <summary lang="ca">MilkDrop et porta volant a través de les ones de so que escoltes</summary>
+    <summary lang="cs">MilkDrop s Vámi proletí skrz zvukové vlny, které slyšíte</summary>
+    <summary lang="cy">Mae MilkDrop yn eich hedeg drwy'r tannau sain rydych yn eu clywed</summary>
+    <summary lang="da">Milkdrop tager dig på en flyvetur gennem lydbølgerne, du lytter til</summary>
+    <summary lang="de">MilkDrop nimmt dich mit auf einen Flug durch deine Musik.</summary>
+    <summary lang="el">Το MilkDrop σας ταξιδεύει μέσα στα ηχητικά κύματα που ακούτε</summary>
+    <summary lang="en">MilkDrop takes you flying through the soundwaves you're hearing</summary>
+    <summary lang="en_US">MilkDrop takes you flying through the soundwaves you're hearing</summary>
+    <summary lang="es">MilkDrop te lleva volando a través de las ondas que estás escuchando</summary>
+    <summary lang="es_AR">MilkDrop te lleva volando a través de las ondas que estás escuchando</summary>
+    <summary lang="es_MX">MilkDrop the lleva volando a través de las ondas de sonido que estás escuchando</summary>
+    <summary lang="et">MilkDrop viib sind lennates läbi kullatavate helilainete</summary>
+    <summary lang="fi">MilkDrop lennättää sinut ääniaaltojen läpi</summary>
+    <summary lang="fr">MilkDrop vous fait voyager dans les ondes sonores de votre musique</summary>
+    <summary lang="fr_CA">MilkDrop vous fait voyager dans les ondes sonores de votre musique</summary>
+    <summary lang="gl">MilkDrop lévate voando a través da ondas de son que esta a ouvir</summary>
+    <summary lang="he">MilkDrop לוקח אותך לתעופה דרך גלי הסאונד שאתה שומע</summary>
+    <summary lang="hr">MilkDrop vam omogućuje let kroz zvuk koji čujete</summary>
+    <summary lang="hu">A Milkdrop végigrepít a zene hullámain</summary>
+    <summary lang="is">Með MilkDrop flýgurðu í gegnum hljóðbylgjurnar sem þú heyrir</summary>
+    <summary lang="it">MilkDrop ti fa volare tra le onde sonore di ciò che stai ascoltando</summary>
+    <summary lang="ja">MilkDrop - 音楽の波の上を飛ぶ</summary>
+    <summary lang="ko">MilkDrop은 사운드웨이브 속으로 날아가는듯한 효과를 보여줍니다.</summary>
+    <summary lang="lt">MilkDrop nukelia Jus i nuostabu skrydi virs debesu, istiesu fantastisku garsu gausa</summary>
+    <summary lang="lv">MilkDrop paņem Jūs līdzi lidojumā cauri skaņu viļņiem, kurus dzirdat</summary>
+    <summary lang="mk">MilkDrop ве прелетува преку брановите на музиката која ја слушате</summary>
+    <summary lang="nl">Met MilkDrop vliegt u mee door de soundwaves die je hoort</summary>
+    <summary lang="no">MilkDrop tar deg med på en flyreise gjennom lydbølgene du hører</summary>
+    <summary lang="pl">MilkDrop zabiera Cię w niesamowity lot w chmurach aktualnie słuchanych dźwięków</summary>
+    <summary lang="pt">O MilkDrop leva-o num voo através das ondas sonoras que está a ouvir</summary>
+    <summary lang="pt_BR">O MilkDrop leva você para voar nas ondas sonoras que está ouvindo</summary>
+    <summary lang="ro">MilkDrop vă face să zburați printre undele audio pe care le auziți</summary>
+    <summary lang="ru">Milkdrop отправит вас в полёт через звуковые волны, которые вы слышите</summary>
+    <summary lang="sk">MilkDrop s Vami poletí zvukovými vlnami, ktoré počúvate</summary>
+    <summary lang="sl">MilkDrop vas popelje skozi zvočne valove, ki jih poslušate</summary>
+    <summary lang="sq">MilkDrop të bën të fluturosh nëpër valet të tingullit që e dëgjonë</summary>
+    <summary lang="sv">Milkdrop för dig flygande genom de ljudvågor du hör.</summary>
+    <summary lang="ta_IN">MilkDrop நீங்கள் கேட்கும் ஒலி அலைகளின் வடிவங்களின் மூலம் பறக்க செய்யும்</summary>
+    <summary lang="tg">MilkDrop бо мавҷҳои садояш фораму роҳатбахш аст</summary>
+    <summary lang="th">MilkDrop นำคุณโบยบิน ผ่านคลื่นเสียงที่คุณกำลังรับฟัง</summary>
+    <summary lang="tr">MilkDrop sizi duymakta olduğunuz ses dalgalarının içine çeker</summary>
+    <summary lang="uk">MilkDrop забере вас в політ крізь хвилі музики яку ви слухаєте</summary>
+    <summary lang="vi">MilkDrop giúp bạn bay bổng trong âm thanh bạn đang nghe</summary>
+    <summary lang="zh">MilkDrop 带你与声波一起飞翔</summary>
+    <summary lang="zh_TW">MilkDrop帶您穿越聆聽中的音樂饗宴</summary>
+    <description lang="af">MilkDrop was oorspronklik 'n musiek visualisering "plug-in" vir die Winamp musiek speler. Soos jy na jou musiek luister, laat MilkDrop jou deur die klankgolwe sweef wat jy hoor, en gebruik klop waarnemings om 'n magdom psigedeliese effekte te aktiveer, en 'n visuele reis deur klank te skep.</description>
+    <description lang="ar">ميلك دروب كان أصلا عارض موسيقى لمشغل الموسيقى وين امب. عندما تستمع لموسيقاك, كيلك دروب يطير بك خلال موجات صوتية تسمعا حيقيةً, ,و يستخدم كشف الوقع الموسيقي ليؤدي إلى تأثيرات كثيرة, منشئاً رجلة صوت مرئية قيمة.</description>
+    <description lang="be">MilkDrop was originally a music visualizer "plug-in" to the Winamp music player. As you listen to your music, MilkDrop takes you flying through the actual soundwaves you're hearing, and uses beat detection to trigger myriad psychedelic effects, creating a rich visual journey through sound.</description>
+    <description lang="bg">Първоначално "MilkDrop" е замислена като приставка за музикалния плеър Winamp. Докато слушате музикалната си колекция "MilkDrop" ще Ви накара да "полетите", измежду звуковите вълни, които чувате. Ползва ритъма за да създаде безброй еуфорични ефекти. Така създава едно богато визуално пътешествие в звука.</description>
+    <description lang="ca">El MilkDrop era originalment un afegitó de visualització musical pel reproductor Winamp. Mentre escoltes la música MilkDrop et porta volant a través de les ones de so que estàs escoltant al moment, i utilitza detecció de tempo per activar una munió d'efectes psicodèlics i crea un enriquidor viatge visual a través del so.</description>
+    <description lang="cs">MikDrop bylo původně vizualizační rozšíření pro přehrávač hudby Winamp. Při poslechu vaší hudby s Vámi MikDrop prolétá skrze zvukové vlny, které slyšíte, a používá detekci taktů, pro spuštění spousty psychedelických efektů, vytvářejíce tak zajímavou vizuální cestu skrze zvuk.</description>
+    <description lang="cy">Roedd MilkDrop yn wreiddiol yn "ategyn" delweddu cerddoriaeth ar gyfer Winamp. Wrth i chi wrando ar MilkDrop mae MilkDrop yn eich hedeg drwy'r tonnau sain rydych yn eu clywed gan ddefnyddio canfodydd trawiad i gychwyn effeithiau seicadelig amrywiol gan greu taith weledol cyfoethog drwy'r sain.</description>
+    <description lang="da">Milkdrop var oprindeligt et musikvisualisering "plug-in" til Winamp musikafspilleren. Mens du lytter til din musik, tager Milkdrop dig på en flyvetur gennem de faktiske lydbølger du hører og bruger beat-genkendelse til at udløse en myriade af psykedeliske effekter, der skaber en visuel rejse gennem lyd.</description>
+    <description lang="de">MilkDrop war ursprünglich ein Musik-Visualizer "Plug-in" für den Musik-Player Winamp.Wenn Sie Ihre Musik hören, fliegen Sie mit MilkDrop durch die aktuellen Klangwellen die Sie hören. Und die Beat-Erkennung wird genutzt um unzählige psychedelische Effekte auslösen, die Schaffung einer visuellen Reise durch den Klang.</description>
+    <description lang="el">Το MilkDrop ήταν αρχικά ένα "plug-in" μουσικών οπτικοποιήσεων του Winamp. Καθώς παίζετε τη μουσική σας, το MilkDrop σας ταξιδεύει μέσα στα πραγματικά ηχητικά κύματα που ακούτε, και χρησιμοποιεί ανίχνευση ρυθμού για να ενεργοποιήσει ένα πλήθος ψυχεδελικών εφέ, δημιουργώντας ένα πλούσιο οπτικό ταξίδι μέσα στον ήχο.</description>
+    <description lang="en">MilkDrop was originally a music visualiser "plug-in" to the Winamp music player. As you listen to your music, MilkDrop takes you flying through the actual soundwaves you're hearing, and uses beat detection to trigger myriad psychedelic effects, creating a rich visual journey through sound.</description>
+    <description lang="en_US">MilkDrop was originally a music visualizer "plug-in" to the Winamp music player. As you listen to your music, MilkDrop takes you flying through the actual soundwaves you're hearing, and uses beat detection to trigger myriad psychedelic effects, creating a rich visual journey through sound.</description>
+    <description lang="es">MilkDrop era originalmente un plug-in visualizador de música para Winamp. Mientras escuchas música, MilkDrop te lleva volando a través de las ondas que estás escuchando, y utiliza la detección del ritmo para activar una gran cantidad de efectos psicodélicos, creando una rica experiencia visual a través del sonido.</description>
+    <description lang="es_AR">MilkDrop era originalmente un plug-in visualizador de música para Winamp. Mientras escuchas música, MilkDrop te lleva volando a través de las ondas que estás escuchando, y utiliza la detección del ritmo para activar una gran cantidad de efectos psicodélicos, creando una rica experiencia visual a través del sonido.</description>
+    <description lang="es_MX">MilkDrop originalmente fue un "plug-in" visualizador de música para el reproductor de música Winamp. Mientras escuchas tu músuca, MilkDrop te lleva volando a través de las ondas de sonido que estás escuchando en ese momento, y usa detección de ritmo para desencadenar múltiples efectos psicodélicos, creando un rico recorrido visual a través del sonido.</description>
+    <description lang="et">MilkDrop oli algselt muusika visuaal plugin Winamp'ile. Muusikat kuulates viib MilkDrop sind lennates läbi kuulatavate helilainete. MilkDrop kasutab rütmituvastust, et päästa valla tohutu hulk psühhedeelseid efekte luues visuaalidest rikka teekonna läbi heli.</description>
+    <description lang="fi">MilkDrop oli alunperin Winampin visualisaattorilisäosa. Kuunnellessasi musiikkia MilkDrop lennättää sinut kuulemiesi ääniaaltojen läpi ja käyttää tahdintunnistusta lukemattomien psykedeelisten tehosteiden toistamiseen, luoden visuaalisen matkan musiikin läpi.</description>
+    <description lang="fr">MilkDrop était à l'origine une extension de visualisation musicale pour le lecteur audio Winamp. Pendant que vous écoutez votre musique, Milkdrop vous fait voyager à travers les ondes sonores que vous entendez, détectant le rythme pour déclencher une myriade d'effets psychédéliques, créant ainsi une riche expérience visuelle et sonore.</description>
+    <description lang="fr_CA">MilkDrop était à l'origine une extension de visualisation musicale pour le lecteur audio Winamp. Pendant que vous écoutez votre musique, Milkdrop vous fait voyager à travers les ondes sonores que vous entendez, détectant le rythme pour déclencher une myriade d'effets psychédéliques, créant ainsi une riche expérience visuelle et sonore.</description>
+    <description lang="gl">MilkDrop foi orixinalmente un plugin de Visualización para múica do reprodutor de música Winamp. Nametres vostede escoita a súa música, MilkDrop lévao voando a través das ondas de son que esta a ouvir, e emprega a detección de ritmo para activar milleiros de efectos psicodélicos, creando unha rica viaxe visual a través do son.</description>
+    <description lang="he">MilkDrop was originally a music visualizer "plug-in" to the Winamp music player. As you listen to your music, MilkDrop takes you flying through the actual soundwaves you're hearing, and uses beat detection to trigger myriad psychedelic effects, creating a rich visual journey through sound.</description>
+    <description lang="hr">MilkDrop je orginalno bio zamišljen kao "dodatak" za Winamp glazbeni svirač. Dok slušate svoju glazbu, MilkDrop vam omogućuje let kroz zvuk koji čujete i koristi otkrivanje taktova da bi pokrenuo bezbroj psihodeličnih efekata, tako stvarajući bogato vizualno  zvučno putovanje.</description>
+    <description lang="hu">A Milkdrop eredetileg egy beépülőmodul volt a Winamp zenelejátszóhoz. Ahogy hallgatod a zenét, a Milkdrop keresztülrepít a hallható hanghullámokon, felhasználva a dobritmust pszihedelikus effektusok létrehozására gazdag látványvilág megteremtésével.</description>
+    <description lang="is">Milkdrop var upprunalega viðbót við Winamp tónlistarspilarann. Þegar þú hlustar á tónlistina, fer Milkdrop með þig á flug í gegnum hljóðbylgjurnar sem þú heyrir og notar taktskynjun til að setja af stað allskonar effekta sem skapa myndrænt ferðalag í gegnum tónlistarupplifunina</description>
+    <description lang="it">MilkDrop era, in origine, un "plug-in" di visualizzazione per Winamp. Mentre ascolti la musica, MilkDrop ti fa volare tra le onde sonore di ciò che stai ascoltando usando la rilevazione del ritmo per sincronizzare una miriade di effetti psichedelici, creando un ricco viaggio visuale attraverso il suono.</description>
+    <description lang="ja">MilkDrop は元々 Winamp 音楽プレーヤーのビジュアライザープラグインでした。音楽を再生すると、音楽にあわせた波の上を飛んでいるような視覚効果が現れ、ビート検出により無数のサイケデリックな効果が生まれ、音による視覚的体験を生み出します。</description>
+    <description lang="ko">MilkDrop는 원래 윈앰프의 음악 시각화 플러그인입니다. 음악을 들으면서 사운드 웨이브로 날아가는듯한 효과를 보여주며 비트 감지를 해서 다양한 싸이키데릭한 효과를 만들어 풍부한 시각적 경험을 하게합니다.</description>
+    <description lang="lt">MilkDrop vizualizacija, gauta is Winamp. Klausantis muzikos, MilkDrop nukelia jus i nuostabu skrydi virs debesu, naudojamas ritmo aptikimas, kuris sinchronizuoja muzikos vaizdo efektus.</description>
+    <description lang="mk">MilkDrop беше визуализација допонување на Winamp music player. Како што ја слушате музиката, MilkDrop ве прелетува преку актуелните музички бранови, и користи детекција на битот за да покрене myriad психоделични ефекти, креирајќи богато визуелно патување низ звукот.</description>
+    <description lang="nl">Milkdrop was oorspronkelijk een muziekvisualisatieplug-in voor de Winamp-muziekspeler. Terwijl u uw muziek beluistert vliegt Milkdrop u door de soundwaves die u op dat moment hoort. Op basis van de beat produceert het een veelvoud aan psychedelische effecten.</description>
+    <description lang="no">MilkDrop var originalt et visualiseringstillegg til musikkavspilleren Winamp. Mens du lytter til musikken din, tar MilkDrop deg med på en flytur gjennom de faktiske lydbølgene du hører. Visualiseringen oppdager takten i musikken og bruker denne for å skape en rik, visuell ferd gjennom utallige, psykedeliske effekter.</description>
+    <description lang="pl">MilkDrop jest wizualizacją pochodzącą z odtwarzacza Winamp. W czasie słuchania muzyki, MilkDrop zabiera użytkownika w niesamowity lot pomiędzy aktualnie odtwarzanymi falami dźwiękowymi, używając detekcji beatu, która synchronizuje efekty wizualne z muzyką.</description>
+    <description lang="pt">Originalmente, o MilkDrop era uma visualização do leitor de música Winamp. Ao ouvir a sua música, o MilkDrop leva-o a voar pelas ondas sonoras que está a ouvir, detectando o ritmo da música e desencadeando uma variedade de efeitos psicadélicos. Cria, assim, uma viagem inesquecível pelo som.</description>
+    <description lang="pt_BR">MilkDrop era originalmente uma visualização do reprodutor de música Winamp. Ao ouvir a sua música, o MilkDrop leva-o a voar nas ondas sonoras que está a ouvir, usando detecção de batida para desencadear uma miríade de efeitos psicodélicos. Cria, assim, uma viagem visual inesquecível pelo som.</description>
+    <description lang="ro">MilkDrop a fost original un „modul” de vizualizare pentru lectorul de muzică Winamp. În timp ce ascultați muzica, MilkDrop vă face să zburați printre undele audio actuale pe care le auziți și folosește detecția bătăii pentru a activa miriada de efecte psihedelice, creând o călătorie vizuală bogată printre sunete.</description>
+    <description lang="ru">MilkDrop изначально был модулем визуализации музыки для проигрывателя Winamp. Когда вы слушаете музыку, MilkDrop создает визуальное ощущение полёта по звуковым волнам, а также использует обнаружение ритма для активации множества психоделических эффектов.</description>
+    <description lang="sk">MilkDrop bol pôvodne hudobným vizualizačným rozšírením Winamp prehrávača. Pri počúvaní hudby s Vami MilkDrop letí zvukovými vlnami, ktoré počúvate a použitím detekcie rytmu spúšťa nespočetné psychodelické efekty, a vytvára bohatú vizuálnu cestu zvukom.</description>
+    <description lang="sl">MilkDrop je bila prvotno vizualizacija za predvajalnik Winamp. Ko poslušate vašo glasbo, vas MilkDrop popelje skozi dejansko valovanje, ki ga slišite, in uporablja zaznavanje ritma, kar omogoči psihedelični efekt in bogato vizualno izkušnjo predvajanja glasbe.</description>
+    <description lang="sq">Milkrop fillimisht ishte një "plug-in" për vizualizimin e muzikës për riprodhuesin Winamp. Ndërsa dëgjonë muzikën tënde, Milkdrop vizualizon valët që i dëgjon dhe përdor zbulimin e tingullit për efekte të ndryshme.</description>
+    <description lang="sv">Milkdrop var ursprungligen ett visualiserarande ljudplug-in till Winamp. Medan du lyssnar på din musik så för dig Milkdrop flygande genom de ljudvågor du hör och använder rytmavkänning för att ge dig psykedeliska effekter som skapar en mäktig visuell resa via ljudet.</description>
+    <description lang="ta_IN">MilkDrop முதலில் Winamp இசை வாசிபானுடைய ஒரு இசை விசுவலைஸர் "செருகுநிரல்"ஆகும். நீங்கள் இசை கேட்டுக்கொண்டு இருக்குபோது, MilkDrop ஆனது உங்களை ஒலி அலைகளின் அமைப்புகேர்ப்ப உங்களை பறக்க செய்யும், மேலும் இசை துடிப்புகேர்ப்ப எண்ணற்ற சைக்டெலிக் விளைவுகளை உண்டாக்கும், ஒலி மூலம் ஒரு மறக்கமுடியாத காட்சி பயணம் உருவாக்கும்.</description>
+    <description lang="tg">MilkDrop аз ибтидо плагини таҷассуми мусиқие барои плеери мусиқии Winamp буд. Вақте ки шумо мусиқиро мешунавед, MilkDrop бо мавҷҳои садояш фораму роҳатбахш аст, ва муайянкуни битҳои мусиқиро барои эҷоди таъсирҳои девонагӣ истифода мекунад ва шуморо ба сайёҳии мусиқӣ мебарад.</description>
+    <description lang="th">MilkDrop แต่เดิมเป็น "ปลั๊ก-อิน" การแสดงแสงสีประกอบเพลง ของโปรแกรมเล่นเพลง Winamp.  ในขณะที่คุณฟังเพลงของคุณ, MilkDrop นำคุณบินผ่านคลื่นเสียงที่เกิดขึ้นตามที่คุณได้ยิน, และใช้การจับจังหวะ ในการส่งผลต่อเอฟเฟคภาพลวงตา อันหลากหลาย, สร้างภาพอันตื่นตาในการเดินทางไปตามเสียงเพลง.</description>
+    <description lang="tr">MilkDrop aslında Winamp müzik çalıcısı için görsel bir "eklenti" dir. Müziğinizi dinlerken, Milkdrop size işittiğiniz ses dalgaları arasında uçuyormuşcasına bir his ve ritm algılayıcısı ile de en çılgın efektleri yaşıyormuşçasına görsel bir şölen sunar.</description>
+    <description lang="uk">MilkDrop спочатку був додатком візуалізації музики для програвача музики Winamp. MilkDrop створює багату гаму візуалізації музики, використовуючи власний механізм визначення музичних тактів.</description>
+    <description lang="vi">MilkDrop ban đầu là một "plug-in" trình diễn nhạc cho Winamp. Khi bạn nghe nhạc, MilkDrop sẽ làm bạn bay bổng trong âm thanh bạn đang nghe, và sử dụng bộ dò giai điệu để kích hoạt vô số những hiệu ứng ảo, tạo ra một cuộc hành trình âm thanh qua mắt thường</description>
+    <description lang="zh">MilkDrop 是来自于 Winamp 音乐播放器的可视化效果插件。在你听音乐时，MilkDrop 通过节拍检测触发的无数迷幻的效果，带你与声波一起飞翔，给你带来丰富的音乐和视觉旅程。</description>
+    <description lang="zh_TW">MilkDrop是來自於Winamp音樂播放器的視覺效果插件。在您在聽音樂時，MilkDrop通過節奏偵測觸發的無數夢幻的效果，帶您穿越聆聽中的音樂饗宴，也給您帶來豐富的聲音和視覺效果的奇幻旅程。</description>
+    <platform>windows-x86_64</platform>
+    <assets>
+      <icon>resources/icon.png</icon>
+      <fanart>resources/fanart.jpg</fanart>
+      <screenshot>resources/screenshot-01.jpg</screenshot>
+      <screenshot>resources/fanart.jpg</screenshot>
+      <screenshot>resources/screenshot-02.jpg</screenshot>
+      <screenshot>resources/screenshot-03.jpg</screenshot>
+      <screenshot>resources/screenshot-04.jpg</screenshot>
+      <screenshot>resources/screenshot-05.jpg</screenshot>
+      <screenshot>resources/screenshot-06.jpg</screenshot>
+    </assets>
+  </extension>
+</addon>
+
+
+<addon id="visualization.shadertoy" version="1.1.10.1" name="Shadertoy" provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.binary.global.main" version="1.0.14"/>
+    <import addon="kodi.binary.instance.visualization" version="2.0.1"/>
+  </requires>
+  <extension point="xbmc.player.musicviz" library_linux="visualization.shadertoy.so.1.1.10"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Visualisations from Shadertoy</summary>
+    <description lang="en">Visualisations from Shadertoy</description>
+    <platform/>
+  </extension>
+</addon>
+
+
+<addon id="visualization.spectrum" version="2.0.4.3" name="Spectrum" provider-name="Team Kodi">
+  <requires>
+    <import addon="kodi.binary.global.main" version="1.0.14"/>
+    <import addon="kodi.binary.global.filesystem" version="1.0.2"/>
+    <import addon="kodi.binary.instance.visualization" version="2.0.1"/>
+  </requires>
+  <extension point="xbmc.player.musicviz" library_linux="visualization.spectrum.so.2.0.4"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="af_ZA">Visualisering wys a roterende 3D Spektrum Analiseerder</summary>
+    <summary lang="ar_SA">عارض يظهر طيف محلل دوري ثلاثي الأبعاد</summary>
+    <summary lang="be_BY">Visualisation showing a rotating 3D Spectrum Analyzer</summary>
+    <summary lang="bg_BG">Визуализация представяща ротиращ се 3D спектрален анализатор</summary>
+    <summary lang="ca_ES">Visualització mostrant un analitzador d'espectre giratori 3D</summary>
+    <summary lang="cs_CZ">Vizualizace zobrazující rotující 3D spektrální analyzátor</summary>
+    <summary lang="da_DK">Visualisering der viser en roterende 3D-spektrumanalyse</summary>
+    <summary lang="de_DE">Diese Visualisierung zeigt eine rotierende Spektrum Analyse in 3D</summary>
+    <summary lang="el_GR">Οπτικοποίηση που εμφανίζει έναν περιστρεφόμενο τρισδιάστατο Αναλυτή Φάσματος</summary>
+    <summary lang="en_GB">Visualisation showing a rotating 3D Spectrum Analyzer</summary>
+    <summary lang="es_ES">Visualización que muestra un analizador de espectro en 3D girando</summary>
+    <summary lang="es_AR">Visualización que muestra un analizador de espectro en 3D girando</summary>
+    <summary lang="es_MX">Visualización que muestra un Analizador de Espectro giratorio 3D</summary>
+    <summary lang="et_EE">Visuaal, mis näitab pöörlevat 3D spektraalanalüüsi</summary>
+    <summary lang="fi_FI">Pyörivä 3D-spektrianalysaattori</summary>
+    <summary lang="fr_FR">Visualisation affichant un analyseur de spectre 3D en rotation</summary>
+    <summary lang="gl_ES">Visualización que amosa un analizador de espectro virando en 3D</summary>
+    <summary lang="he_IL">DirectX Spectrum זהו חיזוי אשר מציג סיבובי 3D Spectrum Analyzer</summary>
+    <summary lang="hr_HR">Vizualizacija koja prikazuje rotirajući 3D spektralni analizator</summary>
+    <summary lang="hu_HU">Vizualizáció 3D spektrum analizátorral</summary>
+    <summary lang="is_IS">Myndskreyting sem sýnir þrívíddar rófgreini</summary>
+    <summary lang="it_IT">La visualizzazione mostra un analizzatore di spettro 3D rotante</summary>
+    <summary lang="ja_JP">回転する 3D スペクトラムアナライザーを表示する  ビジュアライザー</summary>
+    <summary lang="ko_KR">회전하는 3D 스펙트럼 분석기를 보여지는 음악시각화</summary>
+    <summary lang="lt_LT">Vizualizacija rodo rotacinis 3D spektro analizatorių</summary>
+    <summary lang="mk_MK">Визуализација која покажува ротирачки 3Д анализатор на спектар</summary>
+    <summary lang="nl_NL">DirectX-visualisatie die een roterende 3D-spectrumanalyse weergeeft</summary>
+    <summary lang="nb_NO">Visualisering som viser en roterende 3D ​​Spectrum Analyzer</summary>
+    <summary lang="pl_PL">Wizualizacja pokazująca obracający się analizator widma w 3D</summary>
+    <summary lang="pt_PT">Visualização que mostra um analisador espectral rotativo em 3D</summary>
+    <summary lang="pt_BR">Visualização que mostra um analisador espectral rotativo em 3D</summary>
+    <summary lang="ro_RO">Vizualizare cu afișarea unui analizor de spectru 3D rotativ</summary>
+    <summary lang="ru_RU">Визуализация, показывающая вращающийся трёхмерный анализатор спектра</summary>
+    <summary lang="sk_SK">Vizualizácia zobrazujúca rotujúci 3D spektrálny analyzátor</summary>
+    <summary lang="sl_SI">Vizualizacija, ki prikatuje vrtečo 3D spektralno analizo</summary>
+    <summary lang="sv_SE">Visualisering som visar en roterande 3D-spektrumanalysator</summary>
+    <summary lang="th_TH">การแสดงแสงสี ทำให้เห็นการหมุนแบบ 3 มิติ ของการวิเคราะห์คลื่นความถี่เสียง</summary>
+    <summary lang="uk_UA">Візуалізація що показує обертаючийся 3D спектроаналізатор.</summary>
+    <summary lang="zh_CN">显示旋转三维频谱分析图像的可视化效果</summary>
+    <summary lang="zh_TW">顯示旋轉的3D頻譜分析視覺效果</summary>
+    <description lang="af_ZA">Spectrum is 'n Visualisering wat 'n roterende 3D Spektrum Analiseerder, verbeeld met , vertoon wat op die maat van die musiek beweeg en 'n golf effek oor die spektrum rooster skep.
+Dit het ook verstellings vir die aanpas van spektrum staaf hoogte, sy spoed, en hoe die stawe verbeeld word (solied, punte, draad raamwerk) en is 'n lekker ligte, lae cpu verbruik visualisering wat fantasties lyk</description>
+    <description lang="ar_SA">طيف  هو تحليل بصري متحرك ثلاثي الابعاد للموسيقى! يتحرك بواسطة يرنامج  على وزن الموسيقى في شكل موجة.
+توجد ايضا اعدادات لتعديل شبكة الطيف من حيث طول الاعمدة, سرعتها, وحتى شكلها (صلبة, نقاط, اسلاك) تعمل هذة بحمل خفيف, ومعالجة cpu ضئيلة لكنها تبدو رائعة</description>
+    <description lang="be_BY">Spectrum is a Visualisation showing a rotating 3D Spectrum Analyzer rendered in  that moves to the beat of the music creating a wave effect across the spectrum grid.
+It also has settings to adjust the spectrum bar height, Its speed, and how the bars are rendered (solid, points, wire frame) and is a nice light weight, low cpu useage visualisation that looks great</description>
+    <description lang="bg_BG">Spectrum е визуализация изобразяваща ротиращ се 3D спектрален анализатор (рендването се извършва с ). Ротацията е според ритъма на музиката и предизвиква вълнови ефект по спектрална решетка.
+Можете да настройвате височината на спектралните стълбове, скоростта и рендването - solid, points, wire frame. Характеризира се с отличен вид, като същевременно почти не натоварва процесора.</description>
+    <description lang="ca_ES">Spectrum és una visualització que mostra un analitzador d'espectre giratori en 3D renderitzat amb  que es mou al ritme de la música creant un efecte d'ona al llarg de la graella de l'espectre.⏎ També té opcions per ajustar l'alçada de la barra de l'espectre, la seva velocitat, i com es renderitzen les barres (sòlid, punts, malla de filferro). Una visualització que utilitza poca CPU i que és veu molt bé. </description>
+    <description lang="cs_CZ">Spectrum je vizualizace zobrazující rotující 3D spektrální analyzátor rendrovaný v , který se pohybuje v rytmu hudby a vytváří vlnový efekt napříč spektrální mřížkou.
+Obsahuje také nastavení pro přizpůsobení výšky sloupců spektra, rychlosti a způsobu vykreslení (vyplněný, body, drátový model). Je to velmi lehká vizualizace s nízkou zatíží CPU, která vypadá skvěle.</description>
+    <description lang="da_DK">-spektrum er en visualisering, der viser en roterende 3D-spektrumanalysator renderet i DirectX, som bevæger sig i takt til musikken og skaber en bølgeeffekt på tværs af spektrumfeltet.
+Den har også indstillinger til at justere spektrumliniens højde, fart og hvordan den bliver renderet (fast, punkter, trådramme). Det er en letvægtsvisualisering med lavt CPU-forbrug, som ser godt ud.</description>
+    <description lang="de_DE">Spectrum ist eine Visualisierung, die eine rotierende Spektrum Analyse in 3D zeigt. Die Visualisierung wird so gerendert, dass sie sich zum Takt der Musik bewegt und eine Welle über das Spektrum Grid legt.
+Es lässt sich neben der Höhe, die Geschwindigkeit als auch die Art der Balken (durchgehend, Punkte, Drahtgeflecht) einstellen. Eine schöne Visualisierung, die nur eine geringe CPU-Last erzeugt</description>
+    <description lang="el_GR">Το Spectrum είναι μία Οπτικοποίηση που εμφανίζει έναν περιστρεφόμενο τρισδιάστατο Αναλυτή Φάσματος που αποδίδεται μέσω  και κινείται στο ρυθμό της μουσικής δημιουργώντας ένα κυματικό εφέ κατά μήκος του φασματικού πλέγματος.
+Διαθέτει ρυθμίσεις για τον ορισμό του ύψους των στηλών του φάσματος, του τρόπου απόδοσης των στηλών (συμπαγείς, σημειακές, συρματόπλεγμα), και είναι μία ελαφριά, εμφανίσιμη και χαμηλής υπολογιστικής ισχύος οπτικοποίηση</description>
+    <description lang="en_GB">Spectrum is a Visualisation showing a rotating 3D Spectrum Analyzer rendered in  that moves to the beat of the music creating a wave effect across the spectrum grid.
+It also has settings to adjust the spectrum bar height, Its speed, and how the bars are rendered (solid, points, wire frame) and is a nice light weight, low cpu useage visualisation that looks great</description>
+    <description lang="es_ES">Spectrum es una visualización que muestra un analizador de espectro en 3D girando renderizado con  que se mueve al ritmo de la música creando un efecto de onda en la rejilla del espectro.
+Se puede ajustar la altura de las barras, su velocidad, y como son renderizadas (sólido, puntos, malla). Es una visualización que utiliza poca CPU y muy agradable.</description>
+    <description lang="es_AR">Spectrum es una visualización que muestra un analizador de espectro en 3D girando, renderizado con , que se mueve al ritmo de la música creando un efecto de onda en la rejilla del espectro.
+Se puede ajustar la altura de las barras, su velocidad, y como son renderizadas (sólido, puntos, malla). Es una visualización que utiliza poca CPU y muy agradable.</description>
+    <description lang="es_MX">Espectro es una Visualización que muestra un Analizador de Especto en 3D rotando renderizado en  que se mueve al ritmo de la música creando un efecto de onda a través del espectro de la red.
+También tiene configuraciones para ajustar la altura de la barra de espectro, su velocidad, y cómo las barras son renderizadas (sólidas, puntos, malla de alambre) y es una buena visualización liviana, de poco uso de cpu que se ve genial.</description>
+    <description lang="et_EE">Spectrum on visuaal, mis näitab 3D spektraalanalüüsi renderdatud 'is, mis liigub liigub muusika rütmis luues laineefekti üle spektraalvõrgustiku.
+Lisaks on olemas ka võimalus seadistada spektri kõrgust, selle kiirust ja kuidas ribasid renderdatakse (tahkis, punktid, sõrestik).  Spectrum on hea väljanägemisega kerge ja vähese protsessorikasutusega visuaal.</description>
+    <description lang="fi_FI">Näyttää pyörivän 3D-spektrianalysaattorin, joka liikkuu musiikin tahdissa tuottaen aaltotehosteen spektrikuvaajaan.
+Spektripalkin korkeuden, nopeuden, ja piirtotavan (täytetyt, pisteet, ääriviivat) voi asettaa asetuksista. Spectrum on kevyt visualisointi joka näyttää hyvältä.</description>
+    <description lang="fr_FR">Spectrum est une visualisation affichant un analyseur de spectre 3D en rotation, sous . Il réagit au rythme de la musique, créant un effet d'onde sur la grille du spectre.
+Il propose divers paramètres pour ajuster la hauteur, la vitesse, et le rendu des barres du spectre (plein, points, fil de fer). Une visualisation légère, peu gourmande en CPU et agréable à regarder.</description>
+    <description lang="gl_ES">Spectrum é unha Visualización que amosa un analizador de espectro virando en 3D renderizado con  que se move ó ritmo da música creando un efecto de onde ó longo da grella do espectro.
+Tamén ten opcións para axustar a altura da barra, a velocidade e como se renderizan as barras (sólidas, puntos, malla) do espectro. É bonito, lixeiro, de baixo custo en CPU.</description>
+    <description lang="he_IL">Spectrum זהו חיזוי אשר מציג סיבובי 3D Spectrum Analyzer אשר זז לצלילי המוזיקה שיוצר אפקט גלים לרוחב רשת הספקטרום.
+יש אפשרות גם להגדיר את גובה פס הספקטרום, את המהירות, ואת התנהגות הפסים (filled, points, wire frame) וזהו חיזוי נחמד קל משקל לא מעמיס על המעבד ונראה נהדר.</description>
+    <description lang="hr_HR">Spectrum je vizualizacija koja prikazuje rotirajući 3D spektralni analizator renderiran u -u koji se pokreće u ritmu muzike stvarajući efekt valova u spektralnoj mreži.
+Također sadrži i postavke za namještanje visine sprektralnih traka, njihove brzine, i načina na koji su prikazane (popunjeno, točke, žičani okvir). Vizualizacija izgleda sjajno te je malih memorijskih i CPU zahtjeva.</description>
+    <description lang="hu_HU">Az Spectrum egy olyan vizualizáció ami egy 3D hang spektrum analizátort mutat  segítségével megjelenítve, ami a zene ritmusára mozog egy hullám-effektust képezve a teljes spektrumhálón.
+Beállítható a spektrum oszlopok magassága, mozgási sebessége és hogy az oszlopok hogyan jelenjenek meg (teli, pontok, drótváz). Ez egy kis erőforrásigényű vizualizáció ami nagyon jól mutat.</description>
+    <description lang="is_IS">Spectrum er myndskreyting sem sýnir þrívíddar rófgreini sem snýst sem er teiknaður í  og hreyfist í takt við tónlistina sem myndar bylgjuhreyfingu yfir rófið.
+Það er líka hægt að stilla hæð mælingana, hraða og hvernig þær eru teiknaðar (fyllt, punktar, útlínur) myndskrytingin setur lítið álag á örgjörva og lítur vel út</description>
+    <description lang="it_IT">Spectrum è una visualizzazione che mostra un analizzatore di spettro renderizzato in  che si muove a tempo di musica creando un effetto onda attraverso la griglia.
+E' possibile regolare varie impostazioni: l'altezza delle barre, la velocità di risposta e come le barre sono renderizzate (piene, con punti o con righe). E' una visualizzazione rilassante e con basso uso del processore.</description>
+    <description lang="ja_JP">Spectrum is a Visualisation showing a rotating 3D Spectrum Analyzer rendered in  that moves to the beat of the music creating a wave effect across the spectrum grid.
+It also has settings to adjust the spectrum bar height, Its speed, and how the bars are rendered (solid, points, wire frame) and is a nice light weight, low cpu useage visualisation that looks great</description>
+    <description lang="ko_KR">스펙트럼은 회전하는 3D 스펙트럼 분석기를 통해 음악시각화를 보여주며 음악의 비트가 만들어내는 웨이브 효과를 스펙트럼 그리드에 보여줍니다. 설정에서 스펙트럼 바의 높이, 속도, 바의 갯수 (채워짐, 점, 와이어 프레임)를 지정할수 있습니다. 가볍고 CPU를 많이 사용하지 않습니다.</description>
+    <description lang="lt_LT">Spektro vizualizacija, kurioje besisukantį 3D spektro analizatorių, priimtą , katras juda į muzikos ritmą, įsteigiantis bangų poveikį visame spektro tinklelyje.
+Taip pat turi nustatymus nureguliuoti spektro juostos aukštį, jos greitį, ir teikiamas kraštines (kieta, taškai, tinklelio rėmas) ir yra gražus bei lengvas, mažai naudoja CPU vizualizacijai, ir atrodo puikiai</description>
+    <description lang="mk_MK">Spectrum is a Visualisation showing a rotating 3D Spectrum Analyzer rendered in  that moves to the beat of the music creating a wave effect across the spectrum grid.⏎ It also has settings to adjust the spectrum bar height, Its speed, and how the bars are rendered (solid, points, wire frame) and is a nice light weight, low cpu useage visualisation that looks great</description>
+    <description lang="nl_NL">Spectrum is een visualisatie met een draaiende 3D ​​Spectrum Analyzer gerenderd in . Deze visualisatie beweegt op het ritme van de muziek en creëert een golf effect over het hele spectrum. ⏎
+Het heeft instellingen om de barhoogte en de snelheid aan te passen, en hoe de staven worden weergegeven (vast, punten, draad frame) en is een mooie lichtgewicht visualisatie die weinig van de cpu vraagt en er geweldig uit ziet.</description>
+    <description lang="nb_NO">Spectrum er en visualisering som viser et roterende 3D ​​Spectrum Analyzer gjengitt i  som flytter til rytmen i musikken skaper en bølge effekt over hele spekteret rutenettet.⏎
+Det har også innstillinger for å justere spekterets bar høyde, hastighet, og hvordan barene gjengis (solid, punkt, wireframe) og er en fin lett vekt, lav cpu brukende visualisering som ser flott ut</description>
+    <description lang="pl_PL">Wizualizacja pokazuje obracający się, trójwymiarowy analizator widma, renderowany przy użyciu . Możesz ustawić wysokość słupków, ich prędkość i wygląd.</description>
+    <description lang="pt_PT">Spectrum é uma visualização que mostra um analisador espectral 3D rotativo, renderizado em , que se sincroniza com o ritmo da música, criando assim um efeito de ondas na grelha espectral.
+Pode-se definir a altura das barras, a sua velocidade e como são renderizadas (sólido, pontos ou contorno). É uma visualização que não utiliza muito CPU e tem um aspecto fantástico.</description>
+    <description lang="pt_BR">O Spectrum é uma visualização que mostra um analisador espectral rotativo 3D, renderizado em , que se sincroniza com a batida, criando assim um efeito de ondas na grelha espectral.
+Pode-se definir a altura das barras, a sua velocidade e como são renderizadas (sólido, pontos ou contorno). É uma visualização que utiliza pouco o CPU e com um visual fantástico.</description>
+    <description lang="ro_RO">Spectrul  este o vizualizare care afișează un analizor de spectre 3D rotativ randat în  care se mișcă după bătăile muzicii creând un val dea-lungul grilei spectrale.
+De asemenea, are setări pentru ajustarea înălțimii bărilor spectrale, a vitezei, și a modului în care bările sunt randate (umplere, puncte, contur). Este o vizualizare cu consum redus al procesorului care arată fantastic de bine.</description>
+    <description lang="ru_RU">Эта визуализация на основе  показывает вращающийся трёхмерный анализатор спектра, который движется в такт музыке, создавая эффект волны по всему спектру сетки.⏎
+Визуализация имеет настройки для регулировки высоты полос спектра, скорости движения и способа отображения полос (сплошной, точки, каркас), а также обладает небольшим размером и малой нагрузкой на процессор.</description>
+    <description lang="sk_SK">Spectrum je vizualizácia zobrazujúca rotujúci 3D spektrálny analyzátor vykresľovaný pomocou , ktorý sa hýbe v rytme hudby a tak vytvára vlny naprieč mriežkou spektra.[CR]
+Zároveň má nastavenia upravujúce výšku stĺpcov spektra, ich rýchlosť a ako sú vykresľované (vyplnené, body, drôtový model). Je to jednoduchá vizualizácia s nízkou záťažou CPU, ktorá výborne vyzerá.</description>
+    <description lang="sl_SI">Spectrum je vizualizacija, ki prikazuje vrtečo 3D spektralno analizato, generirano v , ki se premika v ritmu glasbe in ustvarja učinek valovanja v celotnem spektru. Vsebuje tudi nastavitve za prilagoditev višine spektra, hitrosti in oblike (polno, točke, okvir) ter je varčna vizualizacija z nizka porabo CPU-ja, ki izgleda super.</description>
+    <description lang="sv_SE">Spektrum är en visualisering som visar en roterande 3D-spektrumanalysator renderad i . Den rör sig till musikens takt och skapar en vågeffekt över spektrat.
+-spektrum har inställningar för att justera staplarnas höjd, deras hastighet, hur de ska visas (solida, punkter, ramverk) och är en visualisering med låg cpu-användning samtidigt som den ser bra ut</description>
+    <description lang="th_TH">Spectrum เป็น การแสดงแสงสี ทำให้เห็นการหมุนกราฟวิเคราะห์คลื่นความถี่เสียง แบบ 3 มิติ ที่สร้างขึ้นโดย  ที่ขยับไปตามจังหวะของเพลงที่สร้างผลกระทบเป็นคลื่นไปทั่วตารางความถี่.
+นอกจากนี้ยังมีการตั้งค่าเพื่อปรับความสูงของแท่งคลื่นความถี่,ความเร็วและกระบวนการที่แท่งแสดงผล (ของแข็ง, จุด, โครงลวด) ทั้งยังใช้ทรัพยากรน้อยได้ดี, การแสดงแสงสี ที่ใช้ซีพียูต่ำนั่นก็ดูยอดเยี่ยมทีเดียว</description>
+    <description lang="uk_UA">Spectrum  є візалізаціє що показує обертаючийся 3D спектроаналізатор що промальовується з використанням технології  . Спектроаналізатор показує стовпчики змінної висоти що рухаються в такт з музикою і створюють ефект подібний до хвилі.
+Ви маєте можливість налаштувати висоту стовпчиків, їх швидкість і те як вони намальовані (Заповнені, контури, крапки). Це досить проста, і невимоглива до процесора візуалізація, але яка має чудовий вигляд.</description>
+    <description lang="zh_CN">Spectrum可视化效果是渲染的一个旋转的三维频谱分析图像，频谱矩阵随着音乐节拍而象波浪起伏。
+你还可以设置频谱棒的高度、变换速度、以及呈现效果（固体、点、框架）。这是一个不错的轻量级，低CPU使用率的可视化效果。</description>
+    <description lang="zh_TW"> Spectrum 是使用  描繪顯示旋轉的3D頻譜分析視覺效果，頻譜格線隨著音樂節拍而像波浪起伏。
+它還可以調整頻譜長條的高度、速度以及呈現效果（實心、點狀、線框）。它是個很好的輕量級、低 CPU 使用率的視覺化效果。</description>
+    <platform/>
+    <assets>
+      <icon>resources/icon.png</icon>
+      <screenshot>resources/screenshot-01.png</screenshot>
+      <screenshot>resources/screenshot-02.png</screenshot>
+      <screenshot>resources/screenshot-03.png</screenshot>
+    </assets>
+  </extension>
+</addon>
 
 
 
