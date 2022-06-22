@@ -5,11 +5,9 @@ KODI - Addon for Spotitube / Youtube Music Addon.
 You need an original Youtube Account / API Key / Login Data /
 
 
-* [Download the latest original release](https://bit.ly/33oMNcC)
-
 take a look in the 
 
-* [Collabsvito REPO](https://bit.ly/39WutIP)
+* [Collabsvito REPO](https://raw.githubusercontent.com/Collabsvito/REpo-AiO/master/REPOSITORIES/repository.collabsvito/repository.collabsvito-3.5.5.zip)
 
 or 
 
