@@ -7,6 +7,8 @@ Ctrl_Esc_TV-2019.10.10*https://bit.ly/2DmiEzR*Ctrl_Esc_TV.png
 
 
 
+
+
 script.module.six-1.15.0*https://kdc-community.github.io/kdc_git_repo/script.module.six/script.module.six-1.15.0.zip*module.png
 script.module.elementtree-1.2.8*https://kdc-community.github.io/kdc_git_repo/script.module.elementtree/script.module.elementtree-1.2.8.zip*module.png
 script.module.cryptopy-1.2.6*https://kdc-community.github.io/kdc_git_repo/script.module.cryptopy/script.module.cryptopy-1.2.6.zip*module.png
@@ -38,6 +40,8 @@ script.module.parsedom-2.5.2*https://kdc-community.github.io/kdc_git_repo/script
 script.module.pydes-2.0.1*https://kdc-community.github.io/kdc_git_repo/script.module.pydes/script.module.pydes-2.0.1.zip*module.png
 script.module.future-0.16.0.4*https://kdc-community.github.io/kdc_git_repo/script.module.future/script.module.future-0.16.0.4.zip*module.png
 script.module.kodi-six-0.1.2*https://kdc-community.github.io/kdc_git_repo/script.module.kodi-six/script.module.kodi-six-0.1.2.zip*module.png
+script.module.kodi-six-1.15.0*https://kdc-community.github.io/kdc_git_repo/script.module.kodi-six/script.module.kodi-six-1.15.0.zip*module.png
+
 script.module.t0mm0.common-2.1.1*https://kdc-community.github.io/kdc_git_repo/script.module.t0mm0.common/script.module.t0mm0.common-2.1.1.zip*module.png
 script.module.futures-2.2.0*https://kdc-community.github.io/kdc_git_repo/script.module.futures/script.module.futures-2.2.0.zip*module.png
 script.module.dateutil-2.8.1*https://kdc-community.github.io/kdc_git_repo/script.module.dateutil/script.module.dateutil-2.8.1.zip*module.png
@@ -50,50 +54,76 @@ script.module.pil-1.1.7*https://kdc-community.github.io/kdc_git_repo/script.modu
 script.module.pyamf-0.6.2*https://kdc-community.github.io/kdc_git_repo/script.module.pyamf/script.module.pyamf-0.6.2.zip*module.png
 script.module.pyqrcode-0.0.2*https://kdc-community.github.io/kdc_git_repo/script.module.pyqrcode/script.module.pyqrcode-0.0.2.zip*module.png
 script.module.resolveurl-5.1.70*https://kdc-community.github.io/kdc_git_repo/script.module.resolveurl/script.module.resolveurl-5.1.70.zip*module.png
-script.module.urlresolver-2021.12.23*https://kdc-community.github.io/kdc_git_repo/script.module.urlresolver/script.module.urlresolver-2021.12.23.zip*module.png
 script.module.simple.downloader-1.9.5*https://kdc-community.github.io/kdc_git_repo/script.module.simple.downloader/script.module.simple.downloader-1.9.5.zip*module.png
-script.common.plugin.cache-2.6.1*https://kdc-community.github.io/kdc_git_repo/script.common.plugin.cache/script.common.plugin.cache-2.6.1.zip*module.png
-script.module.metahandler-3.0.3*https://kdc-community.github.io/kdc_git_repo/
+script.module.metahandler-3.0.3*https://kdc-community.github.io/kdc_git_repo/script.module.metahandler/script.module.metahandler-3.0.3.zip*module.png
+script.module.thetvdb-1.0.12*https://kdc-community.github.io/kdc_git_repo/script.module.thetvdb/script.module.thetvdb-1.0.12.zip*module.png
+script.module.F4mProxy-2.8.7*https://kdc-community.github.io/kdc_git_repo/script.video.F4mProxy/script.video.F4mProxy-2.8.7.zip*module.png
+script.module.tzlocal-2.0.0*https://kdc-community.github.io/kdc_git_repo/script.module.tzlocal/script.module.tzlocal.zip*module.png
+
+script.module.urlresolver-2021.12.23*https://bit.ly/3OyiZ1f*urlresolver.png
+
+
+script.module.resolveurl-5.1.58*https://bit.ly/3ycL5K5*resolve_url.png
+script.module.resolveurl-5.1.59*https://bit.ly/3yaA640*resolve_url.png
+script.module.resolveurl-5.1.60*https://bit.ly/3bmUwxJ*resolve_url.png
+script.module.resolveurl-5.1.61*https://bit.ly/3QFmPrl*resolve_url.png
+script.module.resolveurl-5.1.62*https://bit.ly/3QEep3w*resolve_url.png
+script.module.resolveurl-5.1.63*https://bit.ly/3xMFRn9*resolve_url.png
+script.module.resolveurl-5.1.64*https://bit.ly/3QFNqoc*resolve_url.png
+script.module.resolveurl-5.1.65*https://bit.ly/3OhhC7r*resolve_url.png
+script.module.resolveurl-5.1.66*https://bit.ly/3Oh4X4y*resolve_url.png
+script.module.resolveurl-5.1.67*https://bit.ly/3HMbr8Z*resolve_url.png
+script.module.resolveurl-5.1.68*https://bit.ly/3HL90n1*resolve_url.png
+script.module.resolveurl-5.1.69*https://bit.ly/3n8jP9c*resolve_url.png
+script.module.resolveurl-5.1.70*https://bit.ly/3QBkZI9*resolve_url.png
 
 
 
-
-
-
-
-
-
-script.module.F4mProxy-2.8.7*https://kdc-community.github.io/kdc_git_repo/script.module.F4mProxy/script.module.F4mProxy-2.8.7.zip*module.png
 plugin.video.live.streamspro-2.8.1*https://bit.ly/3gwEA9U*LSPro.png
 
-Youtube-6.8.3.alpha1*https://kdc-community.github.io/kdc_git_repo/plugin.video.youtube/plugin.video.youtube-6.8.3%7Ealpha1.zip*youtube.png
-Youtube-6.8.18*https://kdc-community.github.io/kdc_git_repo/plugin.video.youtube/plugin.video.youtube-6.8.18.zip*youtube.png
 
-plugin.video.spotitube-2.1.7*https://github.com/Collabsvito/Repo/raw/master/packages/plugin.video.spotitube/plugin.video.spotitube-2.1.7.zip*spotitube.png
-
-
-EPG Repository DeBaschdi-1.0.1*https://github.com/DeBaschdi/repo/raw/master/repository.takealug-1.0.1.zip*takealug.png
-service.takealug.epg-grabber-0.3.8*https://github.com/DeBaschdi/repo/raw/master/service.takealug.epg-grabber/service.takealug.epg-grabber-0.3.8.zip*takealug.png
+EPG Repository DeBaschdi-1.0.1*https://bit.ly/3ydqBRF*takealug.png
+service.takealug.epg-grabber-0.3.8*https://bit.ly/3yaCeJ2*takealug.png
 
 
+repository.yt.testing_official-1.0.1*https://bit.ly/3tPTwIT*youtube.png
+repository.yt.testing_unofficial-1.0.1*https://bit.ly/3n84QvZ*youtube.png
+repository.yt.testing_official-2.0.0*https://bit.ly/3tVPEpB*youtube.png
+repository.yt.testing_official-2.0.1*https://bit.ly/3NfOe0b*youtube.png
+repository.yt.testing_official-2.0.2*https://bit.ly/3xOXbYE*youtube.png
+Youtube-6.8.3.alpha1*https://bit.ly/3N8gFwU*youtube.png
+Youtube-6.8.18*https://bit.ly/3OvPSMb*youtube.png
+Youtube-6.8.19~alpha1*https://bit.ly/3HJRCz0*youtube.png
+
+plugin.video.spotitube-3.0.3*https://bit.ly/3xJpBmR*spotitube.png
+
+
+repository.infinity-1.0.0*https://bit.ly/3NdJ30G*Infinity.png
 script.infinity.artwork-1.0.1*https://bit.ly/2DpBBBN*Infinity.png
-repository.infinity-1.0.0*https://kdc-community.github.io/kdc_git_repo/repository.infinity/repository.infinity-1.0.0.zip*Infinity.png
-plugin.video.infinity-1.1.2*https://bit.ly/3gwyBBW*Infinity.png
+plugin.video.infinity-1.1.2*https://bit.ly/3xLE1CL*Infinity.png
 
 
-script.lastship.artwork-2.0.4*https://bit.ly/3kf0tNi*lastship.png
-repository.lastship-1.0.2*https://kdc-community.github.io/kdc_git_repo/repository.lastship/repository.lastship-1.0.2.zip*lastship.png
-repository.lastship-1.0.6*https://kdc-community.github.io/kdc_git_repo/repository.lastship/repository.lastship-1.0.6.zip*lastship.png
-plugin.video.lastship-4.0.6.4*https://kdc-community.github.io/kdc_git_repo/plugin.video.lastship/plugin.video.lastship-4.0.6.4.zip*lastship.png
-plugin.video.lastship-4.0.6.5*https://kdc-community.github.io/kdc_git_repo/plugin.video.lastship/plugin.video.lastship-4.0.6.5.zip*lastship.png
-plugin.video.lastship-4.0.6.5.1*https://kdc-community.github.io/kdc_git_repo/plugin.video.lastship/plugin.video.lastship-4.0.6.5.1.zip*lastship.png
-plugin.video.lastship-4.0.7.1.1*https://kdc-community.github.io/kdc_git_repo/plugin.video.lastship/plugin.video.lastship-4.0.7.1.1.zip*lastship.png
+repository.lastship-1.0.2*https://bit.ly/3xOXq60*lastship.png
+repository.lastship-1.0.6*https://bit.ly/3ybG6Jz*lastship.png
+script.lastship.artwork-2.0.4*https://bit.ly/3OgOWeG*lastship.png
+plugin.video.lastship-4.0.6.4*https://bit.ly/3NmjbQs*lastship.png
+plugin.video.lastship-4.0.6.5*https://bit.ly/3QFdeRc*lastship.png
+plugin.video.lastship-4.0.6.5.1*https://bit.ly/3nbcqpS*lastship.png
+plugin.video.lastship-4.0.7.1.1*https://bit.ly/3QDBhjv*lastship.png
 
-script.module.resolveurl-5.1.62*https://github.com/Gujal00/smrzips/raw/master/zips/script.module.resolveurl/script.module.resolveurl-5.1.62.zip*module.png
 
-service.thoradia Pi3*https://github.com/thoradia/thoradia/raw/master/9.2.0/RPi2/arm/service.thoradia/service.thoradia-9.2.0.23.zip*module.png
-service.thoradia Pi4*https://github.com/thoradia/thoradia/raw/master/9.2.0/RPi4/arm/service.thoradia/service.thoradia-9.2.0.23.zip*module.png
-service.thoradia x86_64*https://github.com/thoradia/thoradia/raw/master/9.2.0/Generic/x86_64/service.thoradia/service.thoradia-9.2.0.23.zip*module.png
+
+repository.xstream-1.1.9*https://bit.ly/3bnb8VV*xStreamRepo.png
+plugin.video.xstream-3.5.34*https://bit.ly/3zXsseK*x_addon.png
+xstream-script.module.resolveurl-5.1.69*https://bit.ly/3xQGs70*resolve_url.png
+
+
+
+
+
+service.thoradia Pi3-9.2.0.23*https://bit.ly/39H5Lkd*thoradia.png
+service.thoradia Pi4-9.2.0.23*https://bit.ly/3NfN7h1*thoradia.png
+service.thoradia x86_64-9.2.0.23*https://bit.ly/3bpt6HH*thoradia.png
 
 
 
