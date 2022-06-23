@@ -1,10 +1,10 @@
-Ctrl_Esc Abhängigkeiten K-18-0.0.2*https://kdc-community.github.io/kdc_git_repo/plugin.program.ctrl_esc.dependencies_k18/plugin.program.ctrl_esc.dependencies_k18-0.0.2.zip*Ctrl_Esc_Dependencies.png
-Ctrl_Esc Addon Updater-2019.10.10*https://kdc-community.github.io/kdc_git_repo/plugin.program.addon.updater/plugin.program.addon.updater-2019.10.10.zip*ctrl_esc_addon_updater.png
-Ctrl_Esc Repository-3.0.3*https://bit.ly/3khkjqU*Ctrl_Esc_Repo.png
-Ctrl_Esc GUI Sounds-1.0.0*https://kdc-community.github.io/kdc_git_repo/resource.uisounds.ctrl_esc/resource.uisounds.ctrl_esc-1.0.0.zip*ctrl_esc_ui.png
-Ctrl_Esc I Love Hirschmilch-18.1.3*https://kdc-community.github.io/kdc_git_repo/plugin.audio.i_love_hirschmilch/plugin.audio.i_love_hirschmilch-18.1.3.zip*hirschmilch.png
-Ctrl_Esc_TV-2019.10.10*https://bit.ly/2DmiEzR*Ctrl_Esc_TV.png
+Ctrl_Esc Abhängigkeiten K-18-0.0.2*https://bit.ly/3xPxaIu*Ctrl_Esc_Dependencies.png
 
+Ctrl_Esc Repository-3.0.3*https://bit.ly/3khkjqU*Ctrl_Esc_Repo.png
+Ctrl_Esc GUI Sounds-1.0.0*https://bit.ly/3QF4jzi*ctrl_esc_ui.png
+
+Ctrl_Esc I Love Hirschmilch-18.1.3*https://bit.ly/3OgOT2I*hirschmilch.png
+Ctrl_Esc_TV-2019.10.10*https://bit.ly/2DmiEzR*Ctrl_Esc_TV.png
 
 
 
@@ -40,7 +40,7 @@ script.module.parsedom-2.5.2*https://kdc-community.github.io/kdc_git_repo/script
 script.module.pydes-2.0.1*https://kdc-community.github.io/kdc_git_repo/script.module.pydes/script.module.pydes-2.0.1.zip*module.png
 script.module.future-0.16.0.4*https://kdc-community.github.io/kdc_git_repo/script.module.future/script.module.future-0.16.0.4.zip*module.png
 script.module.kodi-six-0.1.2*https://kdc-community.github.io/kdc_git_repo/script.module.kodi-six/script.module.kodi-six-0.1.2.zip*module.png
-script.module.kodi-six-1.15.0*https://kdc-community.github.io/kdc_git_repo/script.module.kodi-six/script.module.kodi-six-1.15.0.zip*module.png
+
 
 script.module.t0mm0.common-2.1.1*https://kdc-community.github.io/kdc_git_repo/script.module.t0mm0.common/script.module.t0mm0.common-2.1.1.zip*module.png
 script.module.futures-2.2.0*https://kdc-community.github.io/kdc_git_repo/script.module.futures/script.module.futures-2.2.0.zip*module.png
@@ -118,6 +118,20 @@ plugin.video.xstream-3.5.34*https://bit.ly/3zXsseK*x_addon.png
 xstream-script.module.resolveurl-5.1.69*https://bit.ly/3xQGs70*resolve_url.png
 
 
+
+MyTV-STB-MAG-Client-4.8.1*https://kdc-community.github.io/kdc_git_repo/
+MyTV-MAC-Client-4.8.1*https://kdc-community.github.io/kdc_git_repo/
+
+
+CDN_TV-STB-MAG-Client-4.8.1*https://kdc-community.github.io/kdc_git_repo/
+CDN_TV-MAC-Client-4.8.1*https://kdc-community.github.io/kdc_git_repo/
+
+
+ENIGMA_V2_Multi-STB-Line_Client-4.8.1*https://kdc-community.github.io/kdc_git_repo/plugin.video.client.ctrl_esc.enigma.v2
+
+
+Video-Jackson-API-Interface-4.8.1*https://kdc-community.github.io/kdc_git_repo/plugin.video.Vjackson
+Video-Jackson-API-Service_Module-4.8.1*https://kdc-community.github.io/kdc_git_repo/script.module.v-service
 
 
 
