@@ -191,7 +191,7 @@ except:pass
 
 if mode == None:
 
-	with open(os.path.join(addon_path_,'data.txt')) as fi:
+	with open(os.path.join(addon_path_,'data.py')) as fi:
 		for data in fi:
 			if data.count('*') == 2:
 
