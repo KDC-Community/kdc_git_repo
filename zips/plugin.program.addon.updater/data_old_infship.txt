@@ -1,3 +1,0 @@
-Infship*https://github.com/42ona/infship/raw/master/zips/plugin.video.infinity/plugin.video.infinity-1.1.2.zip*infship.png
-Joyn (knaerzche)*https://github.com/knaerzche/plugin.video.joyn/archive/master.zip*joyn_knaerzche.png
-Infship*https://github.com/42ona/infship/archive/master.zip*infship.png

@@ -1,6 +1,6 @@
 ![Video Jackson Menue](icon.png)
 
-KODI Leia - Video Jackson Menue. Public Encryption Version.
+KODI Leia - Video Jackson Menue. Public Decryption Version.
 
 
 Moyn zusammen,
