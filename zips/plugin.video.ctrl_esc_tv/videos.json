@@ -1,0 +1,1041 @@
+{
+  "1. TV": [
+    {
+	  "name": "[COLOR lime]          ----------     Oeffentlich Rechtliche & Private Sender     ----------[/COLOR]",
+      "thumb": "https://bit.ly/3mne05N",
+      "video": "ext",
+      "genre": "TV"
+    },
+    {
+	  "name": "RTL",
+      "thumb": "https://bit.ly/3c9uGeR",
+      "video": "plugin://script.module.ctrl/play/1004/play.pvr",
+      "genre": "TV"
+    },
+    {
+	  "name": "RTL 2",
+      "thumb": "https://bit.ly/39gJDKv",
+      "video": "plugin://script.module.esc/play/395/play.pvr",
+      "genre": "TV"
+	},
+	{
+	  "name": "SUPER RTL",
+      "thumb": "https://bit.ly/36aQzGZ",
+      "video": "plugin://script.module.esc/play/406/play.pvr",
+      "genre": "TV"
+	},
+	{
+	  "name": "RTL NITRO",
+      "thumb": "https://bit.ly/3a29Ziq",
+      "video": "plugin://script.module.ctrl/play/1007/play.pvr",
+      "genre": "TV"
+	},
+	{
+	  "name": "RTL PASSION",
+      "thumb": "https://bit.ly/2KPAY8k",
+      "video": "plugin://script.module.ctrl/play/1008/play.pvr",
+      "genre": "TV"
+	},
+	{
+	  "name": "RTL CRIME",
+      "thumb": "https://bit.ly/3a08eCp",
+      "video": "plugin://script.module.ctrl/play/1009/play.pvr",
+      "genre": "TV"
+	},
+	{
+	  "name": "RTL LIVING",
+      "thumb": "ext",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=RTL LIVING (6)",
+      "genre": "TV"
+	},
+	{
+	  "name": "RTL UP",
+      "thumb": "ext",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=RTL UP (6)",
+      "genre": "TV"
+	},
+	{
+	  "name": "KIKA TV",
+      "thumb": "https://bit.ly/3pjG77t",
+      "video": "plugin://script.module.ctrl/play/1018/play.pvr",
+      "genre": "TV"
+	},
+	{
+	  "name": "PRO 7",
+      "thumb": "https://bit.ly/39gZQPN",
+      "video": "plugin://script.module.ctrl/play/1019/play.pvr",
+      "genre": "TV"
+	},
+	{
+	  "name": "VOX",
+      "thumb": "https://bit.ly/2NBttTu",
+      "video": "https://bit.ly/3oGAAJv",
+      "genre": "TV"
+	},
+	{
+	  "name": "VOX UP",
+      "thumb": "https://bit.ly/2NBttTu",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=VOXUP (1)",
+      "genre": "TV"
+	},
+	{
+	  "name": "ZDF TV",
+      "thumb": "https://bit.ly/3opYLJT",
+      "video": "https://bit.ly/3vqNZt9",
+      "genre": "TV"
+	},
+	{
+	  "name": "SAT 1",
+      "thumb": "https://bit.ly/3plYzMP",
+      "video": "plugin://script.module.ctrl/play/1021/play.pvr",
+      "genre": "TV"
+	},
+	{
+	  "name": "ARD 1",
+      "thumb": "https://bit.ly/2LV58aU",
+      "video": "https://bit.ly/3Q5euvV",
+      "genre": "TV"
+	},
+    {
+	  "name": "DISNEY CHANNEL",
+      "thumb": "https://bit.ly/2NBtDKA",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=DISNEY JUNIOR (3)",
+      "genre": "TV"
+	},
+    {
+	  "name": "DISNEY CINEMAGIC",
+      "thumb": "https://bit.ly/3a77jjH",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=DISNEY CINEMAGIC FHD (3)",
+      "genre": "TV"
+	},
+	{
+	  "name": "ARTE",
+      "thumb": "https://bit.ly/3a93D0S",
+      "video": "https://bit.ly/3oGeKpz",
+      "genre": "TV"
+	},
+	{
+	  "name": "SERVUS TV",
+      "thumb": "https://bit.ly/3cbBl8f",
+      "video": "https://bit.ly/3PT3BxO",
+      "genre": "TV"
+	},
+	{
+	  "name": "WDR",
+      "thumb": "https://bit.ly/2MrHNx2",
+      "video": "https://bit.ly/3ShdqHs",
+      "genre": "TV"
+	},
+	{
+	  "name": "HR",
+      "thumb": "https://bit.ly/3cnkBvd",
+      "video": "https://bit.ly/3vn5F8X",
+      "genre": "TV"
+	},
+	{
+	  "name": "BR",
+      "thumb": "https://bit.ly/2Y9Xn38",
+      "video": "https://bit.ly/3Bp54aB",
+      "genre": "TV"
+	},
+	{
+	  "name": "MDR",
+      "thumb": "https://bit.ly/2M2tyPC",
+      "video": "https://bit.ly/3POncim",
+      "genre": "TV"
+	},
+	{
+	  "name": "NDR",
+      "thumb": "https://bit.ly/2Yeu1Ri",
+      "video": "https://bit.ly/3BrBP6S",
+      "genre": "TV"
+	},
+	{
+	  "name": "RBB",
+      "thumb": "https://bit.ly/3sX78Qw",
+      "video": "https://bit.ly/3zGrpiD",
+      "genre": "TV"
+	},
+	{
+	  "name": "SWR",
+      "thumb": "https://bit.ly/36eQ5Qe",
+      "video": "https://bit.ly/3bic0M0",
+      "genre": "TV"
+	},
+	{
+	  "name": "ZDF INFO",
+      "thumb": "https://bit.ly/36dlKkR",
+      "video": "https://bit.ly/3Q2KPU8",
+      "genre": "TV"
+	},
+	{
+	  "name": "ARD ALPHA",
+      "thumb": "https://bit.ly/2YcSvKD",
+      "video": "plugin://script.module.esc/play/665/play.pvr",
+      "genre": "TV"
+	},
+	{
+	  "name": "Nickelodeon",
+      "thumb": "https://bit.ly/3phtwBH",
+      "video": "https://bit.ly/3BtMqyr",
+      "genre": "TV"
+	},
+	{
+	  "name": "ZDF NEO",
+      "thumb": "https://bit.ly/3c6EN4d",
+      "video": "https://bit.ly/3cHgL1U",
+      "genre": "TV"
+	},
+	{
+	  "name": "SAT 1 EMOTIONS",
+      "thumb": "ext",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=SAT 1 EMOTIONS (6)",
+      "genre": "TV"
+	},
+	{
+	  "name": "ONE",
+      "thumb": "https://bit.ly/36bwG2l",
+      "video": "https://bit.ly/3Buf02G",
+      "genre": "TV"
+	},
+	{
+	  "name": "SYLT 1",
+      "thumb": "https://cutt.ly/pj0vzSU",
+      "video": "https://bit.ly/3oEB9DG",
+      "genre": "TV"
+	},
+	{
+	  "name": "ORF 1",
+      "thumb": "https://bit.ly/2HnsGPE",
+      "video": "plugin://script.module.esc/play/391/play.pvr",
+      "genre": "TV"
+	},
+	{
+	  "name": "ORF 2",
+      "thumb": "https://bit.ly/2UPMcfB",
+      "video": "plugin://script.module.esc/play/390/play.pvr",
+      "genre": "TV"
+	},
+	{
+	  "name": "ORF 3",
+      "thumb": "https://bit.ly/3jhIkg7",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=ORF 3 HEVC (1)",
+      "genre": "TV"
+	},
+	{
+	  "name": "SRF Info",
+      "thumb": "ext",
+      "video": "plugin://script.module.esc/play/688/play.pvr",
+      "genre": "TV"
+	},
+	{
+	  "name": "SRF 1",
+      "thumb": "https://bit.ly/2Vgs5X6",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=SRF 1 (3)",
+      "genre": "TV"
+	},
+	{
+	  "name": "SRF 2",
+      "thumb": "https://bit.ly/3o6lI4P",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=SRF ZWEI DE (3)",
+      "genre": "TV"
+	},
+	{
+	  "name": "CARTOON NETWORK",
+      "thumb": "https://bit.ly/39VIxCI",
+      "video": "plugin://script.module.esc/play/651/play.pvr",
+      "genre": "TV"
+	},
+	{
+	  "name": "ANIXE",
+      "thumb": "https://bit.ly/3qOiTH0",
+      "video": "https://bit.ly/3S8viUR",
+      "genre": "TV"
+	},
+	{
+	  "name": "COMEDY CENTRAL",
+      "thumb": "ext",
+      "video": "https://bit.ly/3bf05Pd",
+      "genre": "TV"
+	},
+	{
+	  "name": "SIXX",
+      "thumb": "ext",
+      "video": "https://bit.ly/3SfrEZ6",
+      "genre": "TV"
+	},
+	{
+	  "name": "TELE 5",
+      "thumb": "ext",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=TELE 5 HD (1)",
+      "genre": "TV"
+	},
+	{
+	  "name": "KABEL 1",
+      "thumb": "ext",
+      "video": "plugin://script.module.esc/play/386/play.pvr",
+      "genre": "TV"
+	},
+	{
+	  "name": "KABEL 1 CLASSICS",
+      "thumb": "ext",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=KABEL EINS CLASSICS (6)",
+      "genre": "TV"
+	},
+	{
+	  "name": "PRO 7 FUN",
+      "thumb": "ext",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=PRO 7 FUN HD (1)",
+      "genre": "TV"
+	},
+	{
+	  "name": "PULS 4",
+      "thumb": "ext",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=PULSE 4 AUSTRIA (1)",
+      "genre": "TV"
+	},
+	{
+	  "name": "PULS 24",
+      "thumb": "ext",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=PULSE 24 (1)",
+      "genre": "TV"
+	},
+	{
+	  "name": "PRO7 MAXX",
+      "thumb": "https://bit.ly/39gXaSg",
+      "video": "plugin://script.module.esc/play/393/play.pvr",
+      "genre": "TV"
+	}
+  ],
+  "2. PAY": [
+    {
+	  "name": "[COLOR lime]                  ----------             Pay-TV             ----------[/COLOR]",
+      "thumb": "https://bit.ly/3mne05N",
+      "video": "ext",
+      "genre": "SKY"
+    },
+    {
+	  "name": "SKY CINEMA",
+      "thumb": "https://bit.ly/3a78Nuh",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=SKY PREMIEREN (1)",
+      "genre": "SKY"
+    },
+    {
+	  "name": "SKY CINEMA 1",
+      "thumb": "ext",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=SKY CINEMA 1 HD (3)",
+      "genre": "SKY"
+	},
+    {
+	  "name": "SKY CINEMA 24",
+      "thumb": "https://bit.ly/3a1Smzl",
+      "video": "plugin://script.module.ctrl/play/1013/play.pvr",
+      "genre": "SKY"
+	},
+    {
+	  "name": "SKY ACTION",
+      "thumb": "https://bit.ly/3cbXFyW",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=SKY CINEMA ACTION RAW (1)",
+      "genre": "SKY"
+	},
+    {
+	  "name": "SKY ATLANTIC",
+      "thumb": "https://bit.ly/2KPHzzC",
+      "video": "plugin://script.module.ctrl/play/1016/play.pvr",
+      "genre": "SKY"
+	},
+    {
+	  "name": "SKY COMEDY",
+      "thumb": "https://bit.ly/3iIX2y1",
+      "video": "plugin://script.module.ctrl/play/1017/play.pvr",
+      "genre": "SKY"
+	},
+    {
+	  "name": "SKY CINEMA FUN",
+      "thumb": "ext",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=SKY CINEMA FUN HD (3)",
+      "genre": "SKY"
+	},
+    {
+	  "name": "SKY HITS",
+      "thumb": "https://bit.ly/3iMp0ZE",
+      "video": "plugin://script.module.esc/play/634/play.pvr",
+      "genre": "SKY"
+	},
+    {
+	  "name": "SKY KRIMI",
+      "thumb": "https://bit.ly/3cgQmpH",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=SKY KRIMI (3)",
+      "genre": "SKY"
+	},
+    {
+	  "name": "UNIVERSAL",
+      "thumb": "https://bit.ly/3cajXB5",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=UNIVERSAL CHANNEL FHD (3)",
+      "genre": "SKY"
+	},
+    {
+	  "name": "WARNER FILM",
+      "thumb": "https://bit.ly/39YicUK",
+      "video": "plugin://script.module.ctrl/play/1513/play.pvr",
+      "genre": "SKY"
+	},
+    {
+	  "name": "SKY 13th STREET",
+      "thumb": "https://bit.ly/3cf7oUX",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=13TH STREET (3)",
+      "genre": "SKY"
+	},
+    {
+	  "name": "KINOWELT",
+      "thumb": "https://bit.ly/3a0NcDy",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=KINOWELT TV HD (3)",
+      "genre": "SKY"
+	},
+    {
+	  "name": "SKY CINEMA FAMILY",
+      "thumb": "ext",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=SKY CINEMA FAMILY (6)",
+      "genre": "SKY"
+	},
+    {
+	  "name": "WARNER SERIE",
+      "thumb": "https://bit.ly/3phQvwD",
+      "video": "plugin://script.module.esc/play/655/play.pvr",
+      "genre": "SKY"
+	},
+    {
+	  "name": "SKY 1",
+      "thumb": "https://bit.ly/39h85vd",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=SKY 1 FHD (3)",
+      "genre": "SKY"
+	},
+    {
+	  "name": "WARNER COMEDY",
+      "thumb": "https://bit.ly/2YcXVW1",
+      "video": "plugin://script.module.esc/play/654/play.pvr",
+      "genre": "SKY"
+	},
+    {
+	  "name": "SYFY",
+      "thumb": "https://bit.ly/3pm38qr",
+      "video": "plugin://script.module.esc/play/407/play.pvr",
+      "genre": "SKY"
+	},
+    {
+	  "name": "SILVERLINE",
+      "thumb": "ext",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=SILVERLINE (1)",
+      "genre": "SKY"
+	},
+    {
+	  "name": "SKY REPLAY",
+      "thumb": "ext",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=FOX FHD (3)",
+      "genre": "SKY"
+	},
+    {
+	  "name": "SKY NOSTALGIE",
+      "thumb": "ext",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=SKY NOSTALGIE (3)",
+      "genre": "SKY"
+	},
+    {
+	  "name": "SKY CINEMA CLASSICS",
+      "thumb": "ext",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=SKY CINEMA CLASSICS (6)",
+      "genre": "SKY"
+	},
+    {
+	  "name": "SKY CINEMA SPECIAL",
+      "thumb": "ext",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=SKY CINEMA SPECIAL (6)",
+      "genre": "SKY"
+	},
+    {
+	  "name": "SKY CINEMA THRILLER",
+      "thumb": "ext",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=SKY CINEMA THRILLER (6)",
+      "genre": "SKY"
+	},
+    {
+	  "name": "SKY CINEMA BEST OF",
+      "thumb": "ext",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=SKY CINEMA BEST OF (6)",
+      "genre": "SKY"
+	},
+    {
+	  "name": "SKY CRIME",
+      "thumb": "ext",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=SKY CRIME (6)",
+      "genre": "SKY"
+	},
+    {
+	  "name": "SONY AXN",
+      "thumb": "https://bit.ly/3sW83R5",
+      "video": "plugin://script.module.ctrl/play/1010/play.pvr",
+      "genre": "SKY"
+	}
+  ],
+  "3. SELECT": [
+	{
+	  "name": "[COLOR lime]                  ----------             Select             ----------[/COLOR]",
+      "thumb": "https://bit.ly/3mne05N",
+      "video": "ext",
+      "genre": "SELECT"
+	},
+    {
+	  "name": "SELECT Programmübersicht",
+      "thumb": "ext",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=SKY SELECT PROGRAMM BERSICHT (1)",
+      "genre": "SELECT"
+	},
+    {
+	  "name": "SKY SELECT 1",
+      "thumb": "https://bit.ly/3og0d1i",
+      "video": "plugin://script.module.ctrl/play/1505/play.pvr",
+      "genre": "SELECT"
+	},
+    {
+	  "name": "SKY SELECT 2",
+      "thumb": "https://bit.ly/3phZ1vH",
+      "video": "plugin://script.module.ctrl/play/1507/play.pvr",
+      "genre": "SELECT"
+	},
+    {
+	  "name": "SKY SELECT 3",
+      "thumb": "https://bit.ly/2Mpan2o",
+      "video": "plugin://script.module.ctrl/play/1508/play.pvr",
+      "genre": "SELECT"
+	},
+    {
+	  "name": "SKY SELECT 4",
+      "thumb": "https://bit.ly/36bZlVk",
+      "video": "plugin://script.module.ctrl/play/1509/play.pvr",
+      "genre": "SELECT"
+	},
+    {
+	  "name": "SKY SELECT 5",
+      "thumb": "ext",
+      "video": "ext",
+      "genre": "SELECT"
+	},
+    {
+	  "name": "SKY SELECT 6",
+      "thumb": "ext",
+      "video": "ext",
+      "genre": "SELECT"
+	},
+    {
+	  "name": "SKY SELECT 7",
+      "thumb": "ext",
+      "video": "ext",
+      "genre": "SELECT"
+	},
+    {
+	  "name": "SKY SELECT 8",
+      "thumb": "ext",
+      "video": "ext",
+      "genre": "SELECT"
+	},
+    {
+	  "name": "SKY SELECT 9",
+      "thumb": "ext",
+      "video": "ext",
+      "genre": "SELECT"
+	},
+    {
+	  "name": "SKY SELECT 10",
+      "thumb": "ext",
+      "video": "ext",
+      "genre": "SELECT"
+	}
+  ],
+  "4. DOKU": [
+	{
+	  "name": "[COLOR lime]                  ----------             DOKU             ----------[/COLOR]",
+      "thumb": "https://bit.ly/3mne05N",
+      "video": "ext",
+      "genre": "DOKU"
+	},
+	{
+	  "name": "NTV",
+      "thumb": "https://bit.ly/2Mm4Zx1",
+      "video": "https://bit.ly/3vsg2Ip",
+      "genre": "DOKU"
+	},
+	{
+	  "name": "N24",
+      "thumb": "https://bit.ly/2YbL32f",
+      "video": "https://bit.ly/3OGa3Xm",
+      "genre": "DOKU"
+	},
+	{
+	  "name": "TLC",
+      "thumb": "ext",
+      "video": "plugin://script.module.ctrl/play/1501/play.pvr",
+      "genre": "DOKU"
+	},
+    {
+	  "name": "DISCOVERY",
+      "thumb": "https://bit.ly/39Y2Z68",
+      "video": "plugin://script.module.esc/play/652/play.pvr",
+      "genre": "DOKU"
+	},
+    {
+	  "name": "HISTORY",
+      "thumb": "https://bit.ly/3sRh8uF",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=HISTORY HD (1)",
+      "genre": "DOKU"
+	},
+    {
+	  "name": "NAT GEO WILD",
+      "thumb": "https://bit.ly/3pp7ywY",
+      "video": "plugin://script.module.ctrl/play/1503/play.pvr",
+      "genre": "DOKU"
+	},
+    {
+	  "name": "ANIMAL PLANET",
+      "thumb": "https://bit.ly/36dcI7p",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=ANIMAL PLANET FHD (3)",
+      "genre": "DOKU"
+	},
+    {
+	  "name": "PLANET DOXX BERGBLICK",
+      "thumb": "https://bit.ly/3qRWd8N",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=BERGBLICK (6)",
+      "genre": "DOKU"
+	},
+    {
+	  "name": "NAT GEO",
+      "thumb": "https://bit.ly/39jjzOS",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=NATIONAL GEOGRAPHIC HD (3)",
+      "genre": "DOKU"
+	},
+	{
+	  "name": "DMAX",
+      "thumb": "https://bit.ly/3a3aUz5",
+      "video": "https://bit.ly/3BuxJeu",
+      "genre": "DOKU"
+	},
+	{
+	  "name": "TAGESSCHAU 24",
+      "thumb": "https://bit.ly/3c7z3at",
+      "video": "https://bit.ly/3Q7o6q1",
+      "genre": "DOKU"
+	},
+	{
+	  "name": "PHOENIX",
+      "thumb": "https://bit.ly/36cv1JW",
+      "video": "https://bit.ly/3cSNCBd",
+      "genre": "DOKU"
+	},
+	{
+	  "name": "N24 DOKU",
+      "thumb": "https://bit.ly/3pdkd5T",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=N24 DOKU (1)",
+      "genre": "DOKU"
+	},
+	{
+	  "name": "BILD",
+      "thumb": "ext",
+      "video": "https://bit.ly/3zmXfzl",
+      "genre": "DOKU"
+	},
+	{
+	  "name": "KABEL 1 DOKU",
+      "thumb": "https://bit.ly/2YbA219",
+      "video": "plugin://service.vavooto/?action=live&group=Germany&name=KABEL EINS DOKU (6)",
+      "genre": "DOKU"
+	},
+	{
+	  "name": "SPIEGEL WISSEN",
+      "thumb": "https://bit.ly/3og2Wry",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=SPIEGEL TV WISSEN (6)",
+      "genre": "DOKU"
+	},
+	{
+	  "name": "SKY NATURE",
+      "thumb": "ext",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=SKY NATURE (6)",
+      "genre": "DOKU"
+	},
+	{
+	  "name": "GEO TV",
+      "thumb": "ext",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=GEO TV (6)",
+      "genre": "DOKU"
+	},
+	{
+	  "name": "WAIDWERK",
+      "thumb": "ext",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=WAIDWERK (6)",
+      "genre": "DOKU"
+	},
+	{
+	  "name": "BON GUSTO",
+      "thumb": "ext",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=BON GUSTO (6)",
+      "genre": "DOKU"
+	},
+	{
+	  "name": "CRIME+ INVESTIGATION",
+      "thumb": "ext",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=CRIME+ INVESTIGATION (6)",
+      "genre": "DOKU"
+	},
+	{
+	  "name": "SKY DOCUMENTARIES",
+      "thumb": "ext",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=SKY DOCUMENTARIES (6)",
+      "genre": "DOKU"
+	},
+	{
+	  "name": "OUTDOOR CHANNEL",
+      "thumb": "ext",
+      "video": "https://bit.ly/3AIB5cQ",
+      "genre": "DOKU"
+	},
+	{
+	  "name": "SPIEGEL GESCHICHTE",
+      "thumb": "https://bit.ly/3qS93Us",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=SPIEGEL GESCHICHTE (6)",
+      "genre": "DOKU"
+	}
+  ],
+  "5. SPORTS": [
+	{
+	  "name": "[COLOR lime]                  ----------             Sports             ----------[/COLOR]",
+      "thumb": "https://bit.ly/3mne05N",
+      "video": "ext",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "SKY SPORTS 1",
+      "thumb": "https://bit.ly/3pi1KoV",
+      "video": "plugin://script.module.esc/play/404/play.pvr",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "SKY SPORTS 2",
+      "thumb": "https://bit.ly/2NBih9r",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=SKY SPORT 2 (6)",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "SKY SPORTS AUSTRIA",
+      "thumb": "https://bit.ly/2MlLswG",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=SKY SPORT AUSTRIA FHD (3)",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "SKY SP BUNDESLIGA 1",
+      "thumb": "https://bit.ly/3t6mDFU",
+      "video": "plugin://script.module.esc/play/401/play.pvr",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "SPORT 1",
+      "thumb": "https://bit.ly/3piL00t",
+      "video": "plugin://script.module.esc/play/405/play.pvr",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "EUROSPORT 1",
+      "thumb": "https://bit.ly/3c84BwQ",
+      "video": "plugin://script.module.esc/play/385/play.pvr",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "SKY SPORT NEWS",
+      "thumb": "https://bit.ly/3pmH7Ie",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=SKY SPORT NEWS (6)",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "DAZN",
+      "thumb": "https://bit.ly/2KM2Qdm",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=DAZN SPORT 1 HD (1)",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "DAZN 2",
+      "thumb": "https://bit.ly/3pjuw8B",
+      "video": "plugin://script.module.v-service/?action=live&group=Germany&name=DAZN 2 BAR HD (1)",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "SKY SP BUNDESLIGA 2",
+      "thumb": "https://bit.ly/2M4XdYj",
+      "video": "plugin://script.module.esc/play/431/play.pvr",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "SKY SP BUNDESLIGA 3",
+      "thumb": "https://bit.ly/3qQNgMT",
+      "video": "plugin://script.module.esc/play/778/play.pvr",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "SKY SP BUNDESLIGA 4",
+      "thumb": "https://bit.ly/3oit30P",
+      "video": "plugin://script.module.esc/play/778/play.pvr",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "SKY SP BUNDESLIGA 5",
+      "thumb": "https://bit.ly/3omfPjI",
+      "video": "plugin://script.module.esc/play/778/play.pvr",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "SKY SP BUNDESLIGA 6",
+      "thumb": "https://bit.ly/3odOgJv",
+      "video": "plugin://script.module.esc/play/778/play.pvr",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "SKY SP BUNDESLIGA 7",
+      "thumb": "https://bit.ly/36dVlmZ",
+      "video": "plugin://script.module.esc/play/778/play.pvr",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "SKY SP BUNDESLIGA 8",
+      "thumb": "https://bit.ly/2YcywvN",
+      "video": "plugin://script.module.esc/play/778/play.pvr",
+      "genre": "SPORT"
+	}
+
+  ],
+  "6. SPORTS 2": [
+	{
+	  "name": "[COLOR lime]                  ----------             Sports 2            ----------[/COLOR]",
+      "thumb": "https://bit.ly/3mne05N",
+      "video": "ext",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "UFC USA",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "https://bit.ly/3dTCuED",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "MMA Junkie",
+      "thumb": "https://bit.ly/3R1P2b8",
+      "video": "https://bit.ly/3TaTbLP",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "TV Fight",
+      "thumb": "https://bit.ly/3R9WHEC",
+      "video": "https://bit.ly/3pJ6u8W",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "TV Boxing",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "https://bit.ly/3Q0R8Y9",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "Glory Kickboxing",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "https://bit.ly/3dRGANo",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "Fight",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "https://bit.ly/3AlIDRy",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "Combate World",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "https://bit.ly/3Ctsg8c",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "Bellator MMA",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "https://bit.ly/3TfZIoo",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "FIGHT SPORTS US",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "ext",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "NFL Channel",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "https://bit.ly/3pH9e6w",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "UFC USA",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "https://bit.ly/3AGo1Vt",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "FIGHT NETWORK",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "https://bit.ly/3wso98n",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "ADRENALINA SPORTS NETWORK",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "https://bit.ly/3QPpbn2",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "REDBULL TV",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "https://bit.ly/3QOYBuj",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "BOX NATION",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "plugin://script.module.esc/play/55/play.pvr",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "FIGHTBOX 1",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "ext",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "UFC FIGHT PASS",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "ext",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "UFC FIGHT",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "plugin://script.module.esc/play/785/play.pvr",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "KOMBAT SPORTS",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "ext",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "WWE NETWORK",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "plugin://script.module.esc/play/241/play.pvr",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "NFL NETWORK",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "plugin://script.module.esc/play/164/play.pvr",
+      "genre": "SPORT"
+	},
+	{
+	  "name": "NBA TV",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "plugin://script.module.esc/play/159/play.pvr",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "US GOLF",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "plugin://script.module.esc/play/125/play.pvr",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "ZIGGO RACING",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "plugin://script.module.esc/play/761/play.pvr",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "ZIGGO VOETBAL",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "plugin://script.module.esc/play/762/play.pvr",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "ELEVEN SPORTS 1",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "plugin://script.module.esc/play/779/play.pvr",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "ELEVEN SPORTS 2",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "ext",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "SKY SPORTS F1",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "ext",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "SKY SPORTS NFL",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "ext",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "FOX SPORTS 1",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "https://bit.ly/3AmzB6E",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "FOX SPORTS 2",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "https://bit.ly/3cikcw8",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "ESPN 2",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "https://bit.ly/3R6NlcB",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "ESPN 1",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "https://bit.ly/3wrWRz6",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "NBC GOLF CHANNEL",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "https://bit.ly/3PKUHl4",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "NBC SPORTS BAY AREA",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "https://bit.ly/3Tfv0M6",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "SPORTSMAN CHANNEL",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "https://bit.ly/3KliLcX",
+      "genre": "SPORT"
+	},
+    {
+	  "name": "TENNIS CHANNEL",
+      "thumb": "https://bit.ly/2NAwn6I",
+      "video": "plugin://script.module.esc/play/306/play.pvr",
+      "genre": "SPORT"
+	}
+  ]
+}

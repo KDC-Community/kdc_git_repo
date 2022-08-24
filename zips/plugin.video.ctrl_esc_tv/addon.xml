@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.ctrl_esc_tv"
+	   version="4.8.1"
+       name="Control Escape TV"
+       provider-name="Ctrl_Esc">
+<requires>
+    <import addon="xbmc.python" version="2.14.0"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.requests-cache" />
+    <import addon="script.module.routing" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary>Encrypted Version</summary>
+  <description>Ctrl_Esc Television ist ein Video Addon.
+
+Man kann "Eigene" Inhalte in die "videos.json" Datei eintragen
+und diese Datei, dann mit Freunden oder der Community teilen!
+
+Für weitere INFO:
+schaue doch einmal in die README oder
+in die videos.json Datei und öffne diese mit einem "Texteditor", 
+z.B.: mit "Notepad++", oder mit "Visual Studio Code",..
+
+Schau doch mal rein!°
+  </description>
+  <disclaimer>Die von diesem Addon dargestellten Inhalte werden weder von dem Ersteller dieses Addons gehostet, noch steht der Ersteller dieses Addons in irgendeiner Beziehung zu den Content-Anbietern.</disclaimer>
+  <assets>
+    <icon>icon.gif</icon>
+    <fanart>fanart.jpg</fanart>
+    <screenshot></screenshot>
+    <screenshot></screenshot>
+    <screenshot></screenshot>    
+  </assets>
+  <news></news>
+</extension>
+</addon>
