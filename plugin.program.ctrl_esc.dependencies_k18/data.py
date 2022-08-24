@@ -41,7 +41,7 @@ script.module.pydes-2.0.1*https://kdc-community.github.io/kdc_git_repo/script.mo
 script.module.future-0.17.1*https://mirrors.kodi.tv/addons/leia/script.module.future/script.module.future-0.17.1.zip*module.png
 script.module.kodi-six-0.1.3*https://mirrors.kodi.tv/addons/leia/script.module.kodi-six/script.module.kodi-six-0.1.3.zip*module.png
 script.module.metadatautils-1.0.40*https://kdc-community.github.io/kdc_git_repo/script.module.metadatautils/script.module.metadatautils-1.0.40.zip*module.png
-
+script.module.xbmcswift2-13.0.4*https://kdc-community.github.io/kdc_git_repo/script.module.xbmcswift2/script.module.xbmcswift2-13.0.4.zip*module.png
 
 
 script.module.t0mm0.common-2.1.1*https://kdc-community.github.io/kdc_git_repo/script.module.t0mm0.common/script.module.t0mm0.common-2.1.1.zip*module.png
