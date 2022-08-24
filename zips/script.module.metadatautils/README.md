@@ -184,3 +184,12 @@ e.g. metadatautils.use get_tvdb_details("", "12345") instead of metadatautils.us
     Input is either the imdbid or the tvdbid.
 ```
 
+
+
+* [Download the Ctrl_Esc_REPO Version-1.0.40](https://kdc-community.github.io/kdc_git_repo/script.module.metadatautils/script.module.metadatautils-1.0.40.zip)
+
+
+
+
+
+
