@@ -24,8 +24,8 @@
     <setting id="enable_grabber_eirIE" default="true">false</setting>
     <setting id="enable_grabber_eweDE" default="true">false</setting>
     <setting id="enable_grabber_gvisCH" default="true">false</setting>
-    <setting id="enable_grabber_hznAT" default="true">false</setting>
-    <setting id="enable_grabber_hznCH" default="true">false</setting>
+    <setting id="enable_grabber_hznAT">true</setting>
+    <setting id="enable_grabber_hznCH">true</setting>
     <setting id="enable_grabber_hznCZ" default="true">false</setting>
     <setting id="enable_grabber_hznDE">true</setting>
     <setting id="enable_grabber_hznGB" default="true">false</setting>
@@ -51,8 +51,8 @@
     <setting id="enable_grabber_walyCH" default="true">false</setting>
     <setting id="enable_grabber_zttCH" default="true">false</setting>
     <setting id="enable_grabber_zttDE" default="true">false</setting>
-    <setting id="enable_multithread" default="true">false</setting>
-    <setting id="enable_rating_mapper">true</setting>
+    <setting id="enable_multithread">true</setting>
+    <setting id="enable_rating_mapper">false</setting>
     <setting id="eweDE_channel_format" default="true">rytec</setting>
     <setting id="eweDE_days_to_grab" default="true">1</setting>
     <setting id="eweDE_episode_format" default="true">xmltv_ns</setting>
@@ -205,9 +205,9 @@
     <setting id="swcCH_days_to_grab" default="true">1</setting>
     <setting id="swcCH_episode_format" default="true">xmltv_ns</setting>
     <setting id="swcCH_genre_format" default="true">eit</setting>
-    <setting id="timeswitch_1">20</setting>
-    <setting id="timeswitch_2">20</setting>
-    <setting id="timeswitch_3">20</setting>
+    <setting id="timeswitch_1">5</setting>
+    <setting id="timeswitch_2">5</setting>
+    <setting id="timeswitch_3">5</setting>
     <setting id="tvh_local_sock" default="true"></setting>
     <setting id="tvsDE_channel_format" default="true">rytec</setting>
     <setting id="tvsDE_days_to_grab" default="true">1</setting>
@@ -234,7 +234,7 @@
     <setting id="zttCH_password" default="true"></setting>
     <setting id="zttCH_username" default="true"></setting>
     <setting id="zttDE_channel_format" default="true">rytec</setting>
-    <setting id="zttDE_days_to_grab" default="true">1</setting>
+    <setting id="zttDE_days_to_grab">7</setting>
     <setting id="zttDE_episode_format" default="true">xmltv_ns</setting>
     <setting id="zttDE_genre_format" default="true">eit</setting>
     <setting id="zttDE_password" default="true"></setting>

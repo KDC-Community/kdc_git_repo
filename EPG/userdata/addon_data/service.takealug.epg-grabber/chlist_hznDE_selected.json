@@ -1,1091 +1,164 @@
 {
     "channellist": [
         {
-            "contentId": "917046311208", 
-            "name": "Bon Gusto HD", 
+            "contentId": "lgi-obolite-de-prod-master:SV_09999_33108", 
+            "name": "BILD HD", 
             "pictures": [
                 {
-                    "href": "https://wp11-images-de-dynamic.horizon.tv/ChannelLogos/02/bon_gusto_hd.png"
+                    "href": "http://staticqbr-de-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/bild.SV_09999_33108.png?style=content-station-logo-large"
                 }
             ]
         }, 
         {
-            "contentId": "817724967009", 
-            "name": "E!Entertainment HD", 
+            "contentId": "lgi-obolite-de-prod-master:Discovery_Channel_HD", 
+            "name": "Discovery Channel HD", 
             "pictures": [
                 {
-                    "href": "https://wp6-images-de-dynamic.horizon.tv/ChannelLogos/02/e_entertainment_hd.png"
+                    "href": "http://staticqbr-de-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/n_discovery_hd_3.Discovery_Channel_HD.png?style=content-station-logo-large"
                 }
             ]
         }, 
         {
-            "contentId": "427555366999", 
-            "name": "Fox HD", 
+            "contentId": "lgi-obolite-de-prod-master:NatgeoWild_HD_UM", 
+            "name": "National Geographic Wild HD", 
             "pictures": [
                 {
-                    "href": "https://wp22-images-de-dynamic.horizon.tv/ChannelLogos/02/fox_2.png"
+                    "href": "http://staticqbr-de-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/n_nat_geo_wild_3.NatgeoWild_HD_UM.png?style=content-station-logo-large"
                 }
             ]
         }, 
         {
-            "contentId": "29438502981", 
-            "name": "Sport1+ HD", 
+            "contentId": "lgi-obolite-de-prod-master:RTL_Living_HD", 
+            "name": "RTL Living HD", 
             "pictures": [
                 {
-                    "href": "https://wp28-images-de-dynamic.horizon.tv/ChannelLogos/02/sport1_plus_hd.png"
+                    "href": "http://staticqbr-de-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/rtllivinghd.RTL_Living_HD.png?style=content-station-logo-large"
                 }
             ]
         }, 
         {
-            "contentId": "29438503017", 
-            "name": "Das Erste", 
+            "contentId": "lgi-obolite-de-prod-master:Pro7_Maxx_HD", 
+            "name": "ProSieben MAXX HD", 
             "pictures": [
                 {
-                    "href": "https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/daserste.png"
+                    "href": "http://staticqbr-de-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/pro7_maxx_hd.Pro7_Maxx_HD.png?style=content-station-logo-large"
                 }
             ]
         }, 
         {
-            "contentId": "29438503165", 
-            "name": "ZDF", 
+            "contentId": "lgi-obolite-de-prod-master:Kabeleinsclassics_HD", 
+            "name": "kabeleinsclassics HD", 
             "pictures": [
                 {
-                    "href": "https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/zdf.png"
+                    "href": "http://staticqbr-de-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/n_classics_hd.Kabeleinsclassics_HD.png?style=content-station-logo-large"
                 }
             ]
         }, 
         {
-            "contentId": "29438503175", 
-            "name": "RTL Television", 
+            "contentId": "lgi-obolite-de-prod-master:SV_09999_40101", 
+            "name": "SONY AXN HD", 
             "pictures": [
                 {
-                    "href": "https://wp17-images-de-dynamic.horizon.tv/ChannelLogos/02/rtl_v2.png"
+                    "href": "http://staticqbr-de-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/n_sony_axn_hd.SV_09999_40101.png?style=content-station-logo-large"
                 }
             ]
         }, 
         {
-            "contentId": "29438503126", 
-            "name": "SAT.1", 
+            "contentId": "lgi-obolite-de-prod-master:SV_09999_40105", 
+            "name": "SONY CHANNEL HD", 
             "pictures": [
                 {
-                    "href": "https://wp19-images-de-dynamic.horizon.tv/ChannelLogos/02/sat1.png"
+                    "href": "http://staticqbr-de-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/sony_tv_hd.SV_09999_40105.png?style=content-station-logo-large"
                 }
             ]
         }, 
         {
-            "contentId": "29438503097", 
-            "name": "ProSieben", 
+            "contentId": "lgi-obolite-de-prod-master:SV_09999_45104", 
+            "name": "Eurosport 2 HD", 
             "pictures": [
                 {
-                    "href": "https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/prosieben_1.png"
+                    "href": "http://staticqbr-de-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/eurosport_2_hd.SV_09999_45104.png?style=content-station-logo-large"
                 }
             ]
         }, 
         {
-            "contentId": "29438503001", 
-            "name": "VOX", 
+            "contentId": "lgi-obolite-de-prod-master:SV_09999_33107", 
+            "name": "eSPORTS1 HD", 
             "pictures": [
                 {
-                    "href": "https://wp5-images-de-dynamic.horizon.tv/ChannelLogos/02/vox_2.png"
+                    "href": "http://staticqbr-de-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/eSports_1.SV_09999_33107.png?style=content-station-logo-large"
                 }
             ]
         }, 
         {
-            "contentId": "29438503100", 
-            "name": "kabel eins", 
-            "pictures": [
-                {
-                    "href": "https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/kabel_1.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "904120359445", 
-            "name": "RTLZWEI", 
-            "pictures": [
-                {
-                    "href": "https://wp27-images-de-dynamic.horizon.tv/ChannelLogos/02/rtlzwei.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503123", 
-            "name": "3sat", 
-            "pictures": [
-                {
-                    "href": "https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/3sat_1.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503073", 
-            "name": "arte", 
-            "pictures": [
-                {
-                    "href": "https://wp6-images-de-dynamic.horizon.tv/ChannelLogos/02/arte.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503000", 
-            "name": "Servus TV", 
-            "pictures": [
-                {
-                    "href": "https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/servus_tv.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "834825767108", 
-            "name": "WDR K\u00f6ln", 
-            "pictures": [
-                {
-                    "href": "https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/wdr_koln.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "834825767109", 
-            "name": "hr-fernsehen", 
-            "pictures": [
-                {
-                    "href": "https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/hr_fernsehen_1.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503050", 
-            "name": "BR Fernsehen S\u00fcd", 
-            "pictures": [
-                {
-                    "href": "https://wp4-images-de-dynamic.horizon.tv/ChannelLogos/02/brf_sued.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503066", 
-            "name": "MDR Sachsen", 
-            "pictures": [
-                {
-                    "href": "https://wp23-images-de-dynamic.horizon.tv/ChannelLogos/02/mdr_sachsen.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503143", 
-            "name": "NDR FS HH", 
-            "pictures": [
-                {
-                    "href": "https://wp12-images-de-dynamic.horizon.tv/ChannelLogos/02/ndr_fernsehen_hh.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503155", 
-            "name": "rbb Brandenburg", 
-            "pictures": [
-                {
-                    "href": "https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/rbb_brandenburg.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "834825767112", 
-            "name": "Radio Bremen TV", 
-            "pictures": [
-                {
-                    "href": "https://wp3-images-de-dynamic.horizon.tv/ChannelLogos/02/radiobremen_2.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "834825767111", 
-            "name": "SWR Fernsehen BW", 
-            "pictures": [
-                {
-                    "href": "https://wp3-images-de-dynamic.horizon.tv/ChannelLogos/02/swr_fs_bw.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503089", 
-            "name": "DMAX", 
-            "pictures": [
-                {
-                    "href": "https://wp18-images-de-dynamic.horizon.tv/ChannelLogos/02/dmax.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503079", 
-            "name": "ZDFinfo", 
-            "pictures": [
-                {
-                    "href": "https://wp10-images-de-dynamic.horizon.tv/ChannelLogos/02/zdf_info.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "488928807317", 
-            "name": "TLC", 
-            "pictures": [
-                {
-                    "href": "https://wp22-images-de-dynamic.horizon.tv/ChannelLogos/02/tlc_2.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "745574951375", 
-            "name": "kabel eins Doku", 
-            "pictures": [
-                {
-                    "href": "https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/kabel1_doku_1.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "745574951376", 
-            "name": "N24 Doku", 
-            "pictures": [
-                {
-                    "href": "https://wp6-images-de-dynamic.horizon.tv/ChannelLogos/02/n24_doku_2.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503083", 
-            "name": "ARD-alpha", 
-            "pictures": [
-                {
-                    "href": "https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/br-alpha.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "886939687163", 
-            "name": "Home & Garden TV", 
-            "pictures": [
-                {
-                    "href": "https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/hgtv.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "902208039442", 
-            "name": "National Geographic", 
-            "pictures": [
-                {
-                    "href": "https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/nat_geo_1.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438502983", 
-            "name": "Spiegel TV Wissen", 
-            "pictures": [
-                {
-                    "href": "https://wp16-images-de-dynamic.horizon.tv/ChannelLogos/02/spiegelwissen.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "810575399213", 
-            "name": "Discovery Channel", 
-            "pictures": [
-                {
-                    "href": "https://wp6-images-de-dynamic.horizon.tv/ChannelLogos/02/discovery_3.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503163", 
-            "name": "HISTORY", 
-            "pictures": [
-                {
-                    "href": "https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/history.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503058", 
-            "name": "PLANET", 
-            "pictures": [
-                {
-                    "href": "https://wp11-images-de-dynamic.horizon.tv/ChannelLogos/02/planet.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "810575399211", 
-            "name": "National Geographic Wild", 
-            "pictures": [
-                {
-                    "href": "https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/nat_geo_wild_3.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503101", 
-            "name": "Animal Planet", 
-            "pictures": [
-                {
-                    "href": "https://wp11-images-de-dynamic.horizon.tv/ChannelLogos/02/animal_planet_2.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503170", 
-            "name": "RTL Living", 
-            "pictures": [
-                {
-                    "href": "https://wp10-images-de-dynamic.horizon.tv/ChannelLogos/02/rtl_living_1.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "898267687278", 
-            "name": "Crime&Investigation", 
-            "pictures": [
-                {
-                    "href": "https://wp5-images-de-dynamic.horizon.tv/ChannelLogos/02/crime_u_i.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438502952", 
-            "name": "COMEDY CENTRAL", 
-            "pictures": [
-                {
-                    "href": "https://wp19-images-de-dynamic.horizon.tv/ChannelLogos/02/comedy_central.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503045", 
-            "name": "DELUXE MUSIC", 
-            "pictures": [
-                {
-                    "href": "https://wp28-images-de-dynamic.horizon.tv/ChannelLogos/02/deluxe_music.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "581525543056", 
-            "name": "Deutsches Musik Fernsehen", 
-            "pictures": [
-                {
-                    "href": "https://wp26-images-de-dynamic.horizon.tv/ChannelLogos/02/deutsches_musik_fernsehen.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "809640999021", 
-            "name": "MTV", 
-            "pictures": [
-                {
-                    "href": "https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/mtv_3.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "145416231117", 
-            "name": "MTV Brand New", 
-            "pictures": [
-                {
-                    "href": "https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/mtv_brand_new.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503033", 
-            "name": "Gute Laune TV", 
-            "pictures": [
-                {
-                    "href": "https://wp27-images-de-dynamic.horizon.tv/ChannelLogos/02/gute_laune_tv.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503124", 
-            "name": "Super RTL", 
-            "pictures": [
-                {
-                    "href": "https://wp24-images-de-dynamic.horizon.tv/ChannelLogos/02/super_rtl_2.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "834825255158", 
-            "name": "KiKa", 
-            "pictures": [
-                {
-                    "href": "https://wp6-images-de-dynamic.horizon.tv/ChannelLogos/02/kika.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29609511128", 
-            "name": "nick/MTV+", 
-            "pictures": [
-                {
-                    "href": "https://wp18-images-de-dynamic.horizon.tv/ChannelLogos/02/nick_mtvplus.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "728445991321", 
-            "name": "TOGGO plus", 
-            "pictures": [
-                {
-                    "href": "https://wp19-images-de-dynamic.horizon.tv/ChannelLogos/02/toggo_plus.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "581525543058", 
-            "name": "RiC", 
-            "pictures": [
-                {
-                    "href": "https://wp17-images-de-dynamic.horizon.tv/ChannelLogos/02/ric.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "887576103092", 
-            "name": "Disney Junior", 
-            "pictures": [
-                {
-                    "href": "https://wp19-images-de-dynamic.horizon.tv/ChannelLogos/02/disney_junior_3.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503064", 
-            "name": "Nicktoons", 
-            "pictures": [
-                {
-                    "href": "https://wp22-images-de-dynamic.horizon.tv/ChannelLogos/02/nicktoons.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503132", 
-            "name": "Nick Jr.", 
-            "pictures": [
-                {
-                    "href": "https://wp3-images-de-dynamic.horizon.tv/ChannelLogos/02/nick_jr.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503129", 
-            "name": "Fix&Foxi", 
-            "pictures": [
-                {
-                    "href": "https://wp26-images-de-dynamic.horizon.tv/ChannelLogos/02/fix_and_foxi.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503117", 
-            "name": "zdf_neo", 
-            "pictures": [
-                {
-                    "href": "https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/zdf_neo_v2.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503118", 
-            "name": "Nitro", 
-            "pictures": [
-                {
-                    "href": "https://wp10-images-de-dynamic.horizon.tv/ChannelLogos/02/nitro.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438502972", 
-            "name": "SAT.1 GOLD", 
-            "pictures": [
-                {
-                    "href": "https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/sat1_gold_1.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29609511124", 
-            "name": "Tele 5", 
-            "pictures": [
-                {
-                    "href": "https://wp24-images-de-dynamic.horizon.tv/ChannelLogos/02/tele5_1.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "342736423084", 
-            "name": "Disney SD", 
-            "pictures": [
-                {
-                    "href": "https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/disney_channel_1.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "465354791388", 
-            "name": "SIXX", 
-            "pictures": [
-                {
-                    "href": "https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/sixx.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "432862759167", 
-            "name": "ProSieben MAXX", 
-            "pictures": [
-                {
-                    "href": "https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/prosieben_maxx.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "881926695414", 
-            "name": "RTLplus", 
-            "pictures": [
-                {
-                    "href": "https://wp11-images-de-dynamic.horizon.tv/ChannelLogos/02/rtlplus_1.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503166", 
-            "name": "ONE", 
-            "pictures": [
-                {
-                    "href": "https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/one_sd_1.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "911733287342", 
-            "name": "VOXup", 
-            "pictures": [
-                {
-                    "href": "https://wp26-images-de-dynamic.horizon.tv/ChannelLogos/02/voxup.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "902207527386", 
-            "name": "TNT Serie", 
-            "pictures": [
-                {
-                    "href": "https://wp4-images-de-dynamic.horizon.tv/ChannelLogos/02/tnt_serie_2.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "902207527387", 
-            "name": "13th Street", 
-            "pictures": [
-                {
-                    "href": "https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/13th_street.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "902207527388", 
-            "name": "SYFY", 
-            "pictures": [
-                {
-                    "href": "https://wp27-images-de-dynamic.horizon.tv/ChannelLogos/02/syfy_v2.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "902207527389", 
-            "name": "Fox Serie", 
-            "pictures": [
-                {
-                    "href": "https://wp7-images-de-dynamic.horizon.tv/ChannelLogos/02/fox_2.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503181", 
-            "name": "kabel eins classics", 
-            "pictures": [
-                {
-                    "href": "https://wp5-images-de-dynamic.horizon.tv/ChannelLogos/02/kabel_eins_classics.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "427555366996", 
-            "name": "RTL Crime", 
-            "pictures": [
-                {
-                    "href": "https://wp28-images-de-dynamic.horizon.tv/ChannelLogos/02/rtl_crime_2.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503121", 
-            "name": "Kinowelt TV", 
-            "pictures": [
-                {
-                    "href": "https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/kinowelt.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503007", 
-            "name": "SONY AXN", 
-            "pictures": [
-                {
-                    "href": "https://wp11-images-de-dynamic.horizon.tv/ChannelLogos/02/sony_axn.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438502993", 
-            "name": "ProSieben FUN", 
-            "pictures": [
-                {
-                    "href": "https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/prosieben_fun.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "532730407298", 
-            "name": "UNIVERSAL TV", 
-            "pictures": [
-                {
-                    "href": "https://wp21-images-de-dynamic.horizon.tv/ChannelLogos/02/universal_tv.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503091", 
+            "contentId": "lgi-obolite-de-prod-master:SV_09999_58109", 
             "name": "Silverline Movie Channel", 
             "pictures": [
                 {
-                    "href": "https://wp27-images-de-dynamic.horizon.tv/ChannelLogos/02/silverline.png"
+                    "href": "http://staticqbr-de-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/n_silverline.SV_09999_58109.png?style=content-station-logo-large"
                 }
             ]
         }, 
         {
-            "contentId": "29438503107", 
-            "name": "Sat.1 Emotions", 
-            "pictures": [
-                {
-                    "href": "https://wp27-images-de-dynamic.horizon.tv/ChannelLogos/02/sat1_emotions3.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "616178215133", 
-            "name": "SONY CHANNEL", 
-            "pictures": [
-                {
-                    "href": "https://wp28-images-de-dynamic.horizon.tv/ChannelLogos/02/sony_channel_3.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "427555366993", 
-            "name": "RTL Passion", 
-            "pictures": [
-                {
-                    "href": "https://wp21-images-de-dynamic.horizon.tv/ChannelLogos/02/rtl_passion_1.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438502968", 
-            "name": "SPORT1", 
-            "pictures": [
-                {
-                    "href": "https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/sport1_1.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29609511127", 
-            "name": "EUROSPORT 1", 
-            "pictures": [
-                {
-                    "href": "https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/eurosport_1.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438502965", 
-            "name": "Sky Sport News", 
-            "pictures": [
-                {
-                    "href": "https://wp18-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_news_v2.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438502964", 
-            "name": "EUROSPORT 2", 
-            "pictures": [
-                {
-                    "href": "https://wp26-images-de-dynamic.horizon.tv/ChannelLogos/02/eurosport_2_1.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503161", 
-            "name": "auto motor und sport channel", 
-            "pictures": [
-                {
-                    "href": "https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/auto_motor_und_sport_channel.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "145416231118", 
-            "name": "eSPORTS1", 
-            "pictures": [
-                {
-                    "href": "https://wp23-images-de-dynamic.horizon.tv/ChannelLogos/02/eSports_1.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438502962", 
-            "name": "sportdigital", 
-            "pictures": [
-                {
-                    "href": "https://wp3-images-de-dynamic.horizon.tv/ChannelLogos/02/sportdigital_fussball.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "810575911131", 
-            "name": "Motorvision", 
-            "pictures": [
-                {
-                    "href": "https://wp13-images-de-dynamic.horizon.tv/ChannelLogos/02/motorvision.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "465354791385", 
-            "name": "WELT", 
-            "pictures": [
-                {
-                    "href": "https://wp22-images-de-dynamic.horizon.tv/ChannelLogos/02/welt.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503090", 
-            "name": "PHOENIX", 
-            "pictures": [
-                {
-                    "href": "https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/phoenix_das_ganze_bild.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503069", 
-            "name": "ntv", 
-            "pictures": [
-                {
-                    "href": "https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/ntv.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503029", 
-            "name": "euronews (D)", 
-            "pictures": [
-                {
-                    "href": "https://wp8-images-de-dynamic.horizon.tv/ChannelLogos/02/euronews_(d).png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438502971", 
-            "name": "tagesschau24", 
-            "pictures": [
-                {
-                    "href": "https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/Tagesschau_24_1.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "925650983359", 
-            "name": "Sky One HD", 
-            "pictures": [
-                {
-                    "href": "https://wp24-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_one_hd.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503036", 
+            "contentId": "lgi-obolite-de-prod-master:Sky_Atlantic_HD", 
             "name": "Sky Atlantic HD", 
             "pictures": [
                 {
-                    "href": "https://wp15-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_atlantic_hd_1.png"
+                    "href": "http://staticqbr-de-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/sky_atlantic_hd_new.Sky_Atlantic_HD.png?style=content-station-logo-large"
                 }
             ]
         }, 
         {
-            "contentId": "887687207308", 
-            "name": "Sky Serien & Shows HD", 
-            "pictures": [
-                {
-                    "href": "https://wp18-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_serien_u_shows_hd_6.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "904120359446", 
+            "contentId": "lgi-obolite-de-prod-master:SV_00133_00023", 
             "name": "Sky Krimi HD", 
             "pictures": [
                 {
-                    "href": "https://wp22-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_krimi_hd.png"
+                    "href": "http://staticqbr-de-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/n_sky_krimi_hd_new.SV_00133_00023.png?style=content-station-logo-large"
                 }
             ]
         }, 
         {
-            "contentId": "887575079385", 
-            "name": "TNT Comedy", 
+            "contentId": "lgi-obolite-de-prod-master:SV_00133_00117", 
+            "name": "Sky Serien & Shows HD", 
             "pictures": [
                 {
-                    "href": "https://wp1-images-de-dynamic.horizon.tv/ChannelLogos/02/tnt_comedy.png"
+                    "href": "http://staticqbr-de-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/n_sky_default_1.SV_00133_00117.png?style=content-station-logo-large"
                 }
             ]
         }, 
         {
-            "contentId": "902207527392", 
-            "name": "Heimatkanal", 
-            "pictures": [
-                {
-                    "href": "https://wp19-images-de-dynamic.horizon.tv/ChannelLogos/02/heimatkanal_1.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503039", 
-            "name": "Romance TV", 
-            "pictures": [
-                {
-                    "href": "https://wp28-images-de-dynamic.horizon.tv/ChannelLogos/02/romance_tv_1.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "902208039447", 
-            "name": "Classica", 
-            "pictures": [
-                {
-                    "href": "https://wp11-images-de-dynamic.horizon.tv/ChannelLogos/02/stingray_classica.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "902207527393", 
-            "name": "Boomerang", 
-            "pictures": [
-                {
-                    "href": "https://wp10-images-de-dynamic.horizon.tv/ChannelLogos/02/boomerang_1.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "902208039448", 
-            "name": "Junior", 
-            "pictures": [
-                {
-                    "href": "https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/Junior_3.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438502986", 
+            "contentId": "lgi-obolite-de-prod-master:SV_00133_00052", 
             "name": "Spiegel Geschichte", 
             "pictures": [
                 {
-                    "href": "https://wp5-images-de-dynamic.horizon.tv/ChannelLogos/02/spiegel_geschichte_1.png"
+                    "href": "http://staticqbr-de-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/spiegel_geschichte_1.SV_00133_00052.png?style=content-station-logo-large"
                 }
             ]
         }, 
         {
-            "contentId": "29438503092", 
-            "name": "Sky Cinema Thriller HD", 
-            "pictures": [
-                {
-                    "href": "https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_cinema_thriller_hd.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "902208039449", 
-            "name": "Sky Cinema Special HD", 
-            "pictures": [
-                {
-                    "href": "https://wp9-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_special_hd_1.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438502974", 
-            "name": "Sky Cinema Premieren", 
-            "pictures": [
-                {
-                    "href": "https://wp5-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_cinema_premieren.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438502977", 
+            "contentId": "lgi-obolite-de-prod-master:SV_00133_00043", 
             "name": "Sky Cinema Premieren +24", 
             "pictures": [
                 {
-                    "href": "https://wp20-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_cinema_premieren_24.png"
+                    "href": "http://staticqbr-de-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/n_sky_cinema_premieren_24_5.SV_00133_00043.png?style=content-station-logo-large"
                 }
             ]
         }, 
         {
-            "contentId": "29438502959", 
-            "name": "Sky Cinema Best Of", 
+            "contentId": "lgi-obolite-de-prod-master:Sky_Sport_HD_1", 
+            "name": "Sky Sport 1 HD", 
             "pictures": [
                 {
-                    "href": "https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_cinema_best_of.png"
+                    "href": "http://staticqbr-de-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/n_sky_sport_1_hd_new.Sky_Sport_HD_1.png?style=content-station-logo-large"
                 }
             ]
         }, 
         {
-            "contentId": "29438502991", 
-            "name": "Sky Cinema Action", 
+            "contentId": "lgi-obolite-de-prod-master:Sky_Sport_HD_2", 
+            "name": "Sky Sport 2 HD", 
             "pictures": [
                 {
-                    "href": "https://wp11-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_cinema_action_v3.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "761023015393", 
-            "name": "Sky Cinema Family", 
-            "pictures": [
-                {
-                    "href": "https://wp28-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_cinema_family3.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438503104", 
-            "name": "Sky Cinema Fun", 
-            "pictures": [
-                {
-                    "href": "https://wp6-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_cinema_fun.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "561410599035", 
-            "name": "Sky Cinema Classics", 
-            "pictures": [
-                {
-                    "href": "https://wp19-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_cinema_classics.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "902207527394", 
-            "name": "TNT Film", 
-            "pictures": [
-                {
-                    "href": "https://wp25-images-de-dynamic.horizon.tv/ChannelLogos/02/tnt_film_2.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29436455406", 
-            "name": "Sky Sport Bundesliga 1", 
-            "pictures": [
-                {
-                    "href": "https://wp8-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_buli_1.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29436455417", 
-            "name": "Sky Sport Bundesliga 2", 
-            "pictures": [
-                {
-                    "href": "https://wp23-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_buli_2.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29436455415", 
-            "name": "Sky Sport Bundesliga 3", 
-            "pictures": [
-                {
-                    "href": "https://wp4-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_buli_3.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29436455402", 
-            "name": "Sky Sport Bundesliga 4", 
-            "pictures": [
-                {
-                    "href": "https://wp3-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_buli_4.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438502956", 
-            "name": "Sky Sport 1", 
-            "pictures": [
-                {
-                    "href": "https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_1_v2.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29438502957", 
-            "name": "Sky Sport 2", 
-            "pictures": [
-                {
-                    "href": "https://wp14-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_2_v3.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29436455407", 
-            "name": "Sky Sport 3", 
-            "pictures": [
-                {
-                    "href": "https://wp21-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_3_v2.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "29436455414", 
-            "name": "Sky Sport 4", 
-            "pictures": [
-                {
-                    "href": "https://wp4-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_4_v2.png"
-                }
-            ]
-        }, 
-        {
-            "contentId": "902207527398", 
-            "name": "Sky Sport Austria 1", 
-            "pictures": [
-                {
-                    "href": "https://wp5-images-de-dynamic.horizon.tv/ChannelLogos/02/sky_sport_austria_1.png"
+                    "href": "http://staticqbr-de-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/sky_sport_2_hd_new.Sky_Sport_HD_2.png?style=content-station-logo-large"
                 }
             ]
         }

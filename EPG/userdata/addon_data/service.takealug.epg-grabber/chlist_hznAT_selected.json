@@ -1,0 +1,499 @@
+{
+    "channellist": [
+        {
+            "contentId": "lgi-at-prodobo-master:ATV_HD", 
+            "name": "ATV HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7052.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:PULS_4_HD", 
+            "name": "PULS 4 HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7090.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:ATV_II_HD", 
+            "name": "ATV2 HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/8284.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:PULS24_HD", 
+            "name": "PULS24 HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/2061.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:kabel_eins_Doku_HD", 
+            "name": "Kabel Eins Doku HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/kabel_eins_Doku_HD.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:N24_Austria", 
+            "name": "N24 doku", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/8260.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Eurosport_1_HD", 
+            "name": "Eurosport 1 HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1091.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Sport_1_HD", 
+            "name": "Sport 1 HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/4555.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Sport1__HD", 
+            "name": "Sport1+ HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/3039.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:sportdigital_HD", 
+            "name": "SPORTDIGITAL FUSSBALL HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/8251.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Auto_Motor_und_Sport_Channel_HD", 
+            "name": "auto motor und sport channel HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/4562.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Motorvision_HD", 
+            "name": "Motorvision HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/8470.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:13TH_STREET_HD", 
+            "name": "13TH STREET HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1282.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Universal_Channel_HD", 
+            "name": "Universal TV HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/5194.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Syfy_HD", 
+            "name": "Syfy HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1108.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:TNT_Serie_HD", 
+            "name": "Warner TV Serie HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1107.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:TNT_Comedy_HD", 
+            "name": "Warner TV Comedy HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/4525.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Kinowelt_TV_HD", 
+            "name": "Kinowelt TV HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/4633.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:kabel_eins_classics_HD", 
+            "name": "kabel eins CLASSICS HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/8071.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Romance_TV_HD", 
+            "name": "Romance TV HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1318.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:RTL_Passion_HD", 
+            "name": "RTL Passion HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/4635.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Heimatkanal", 
+            "name": "Heimatkanal", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/3011.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Sky_Krimi", 
+            "name": "Sky Krimi HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1052.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Sat_1_emotions_HD", 
+            "name": "SAT.1 emotions HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Sat_1_emotions_HD.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:ProSieben_FUN_HD", 
+            "name": "ProSieben FUN HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/ProSieben_FUN_HD.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:GEO_Television_HD", 
+            "name": "GEO Television HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/GEO_Television_HD.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Spiegel_Geschichte_HD", 
+            "name": "Spiegel Geschichte HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/9098.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Spiegel_Wissen_HD", 
+            "name": "Curiosity Channel", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Spiegel_Wissen_HD.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:History_HD", 
+            "name": "History HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1094.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Nat_Geo_HD", 
+            "name": "Nat Geo HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1103.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Nat_Geo_People_HD", 
+            "name": "Nat Geo Wild HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/4634.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:A_E_HD", 
+            "name": "Crime + Investigation HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7224.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:RTL_Living_HD", 
+            "name": "RTL Living HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/4642.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:ORF_III", 
+            "name": "ORF III", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/3042.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:RTL_Nitro", 
+            "name": "Nitro", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/7164.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:DMAX", 
+            "name": "DMAX", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/1072.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Sky_1", 
+            "name": "Sky One HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/8428.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Sky_Nature_HD", 
+            "name": "Sky Nature HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Sky_Nature_HD.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Sky_Documentaries_HD", 
+            "name": "Sky Documentaries HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Sky_Documentaries_HD.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Sky_Popup_Channel_HD", 
+            "name": "Sky Replay HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/9067.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Sky_Crime_HD", 
+            "name": "Sky Crime HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Sky_Crime_HD.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Sky_Comedy_HD", 
+            "name": "Sky Comedy HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Sky_Comedy_HD.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Sky_Cinema_HD", 
+            "name": "Sky Cinema Premieren HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/4592.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Sky_Hits_HD", 
+            "name": "Sky Cinema Best of HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/4648.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Sky_Cinema_Family_HD", 
+            "name": "Sky Cinema Family HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/8427.HD.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Disney_Cinemagic_HD", 
+            "name": "Sky Cinema Special HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/9076.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Sky_Cinema_Action_HD", 
+            "name": "Sky Cinema Action HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/3061.HD.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Sky_Cinema_Thriller_HD", 
+            "name": "Sky Cinema Thriller HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/3021.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Sky_Cinema__24", 
+            "name": "Sky Cinema Premieren +24 HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/3022.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Sky_Nostalgie", 
+            "name": "Sky Cinema Classics", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/3025.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Sky_Comedy", 
+            "name": "Sky Cinema Fun", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/3074.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Sky_Sport_Austria_HD", 
+            "name": "Sky Sport Austria 1 HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/8089.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Sky_Sport_Austria_2_HD", 
+            "name": "Sky Sport Austria 2 HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/8126.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Sky_Sport_F1_HD", 
+            "name": "Sky Sport F1", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Sky_Sport_F1_HD.f.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-at-prodobo-master:Sky_Bundesliga_HD_1", 
+            "name": "Sky Bundesliga HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-at-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/Sky_Bundesliga_HD.f.png?style=content-station-logo-large"
+                }
+            ]
+        }
+    ]
+}

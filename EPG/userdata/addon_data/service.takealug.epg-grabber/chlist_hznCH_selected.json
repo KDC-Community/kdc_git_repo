@@ -1,0 +1,130 @@
+{
+    "channellist": [
+        {
+            "contentId": "lgi-ch-prod-master:SV09038", 
+            "name": "SRF 1 HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-ch-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/SV09038.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-ch-prod-master:SV09039", 
+            "name": "SRF zwei HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-ch-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/SV09039.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-ch-prod-master:SV09010", 
+            "name": "3+ HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-ch-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/SV09010.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-ch-prod-master:SV08421", 
+            "name": "MySports One HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-ch-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/SV08421.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-ch-prod-master:SV09036", 
+            "name": "ORF eins HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-ch-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/SV09036.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-ch-prod-master:SV09056", 
+            "name": "4+ HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-ch-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/SV09056.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-ch-prod-master:SV09250", 
+            "name": "5+ HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-ch-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/SV09250.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-ch-prod-master:SV09037", 
+            "name": "ORF 2 HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-ch-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/SV09037.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-ch-prod-master:SV06303", 
+            "name": "ORF III HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-ch-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/SV06303.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-ch-prod-master:SV07125", 
+            "name": "blue Zoom HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-ch-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/SV07125.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-ch-prod-master:SV09030", 
+            "name": "WB TV Film HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-ch-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/SV09030.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-ch-prod-master:SV09210", 
+            "name": "Animal Planet HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-ch-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/SV09210.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-ch-prod-master:SV09064", 
+            "name": "Bergblick", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-ch-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/SV09064.png?style=content-station-logo-large"
+                }
+            ]
+        }, 
+        {
+            "contentId": "lgi-ch-prod-master:SV09209", 
+            "name": "Bon Gusto HD", 
+            "pictures": [
+                {
+                    "href": "https://staticqbr-ch-prod.prod.cdn.dmdsdp.com/image-service/ImagesEPG/EventImages/SV09209.png?style=content-station-logo-large"
+                }
+            ]
+        }
+    ]
+}
