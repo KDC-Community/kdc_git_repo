@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<!-- Exported by AEL on 2019-11-20 23:12:33 -->
+<!-- Exported by AEL on 2020-11-25 03:26:50 -->
 <advanced_emulator_launcher_configuration>
 <category>
   <name>FRONTENDS</name>
@@ -40,7 +40,7 @@
   <args>fbalpha &quot;%rom%&quot; $categoryID$ $launcherID$ $romID$</args>
   <args_extra />
   <ROM_path>/storage/emulators/roms/fba/</ROM_path>
-  <ROM_ext>zip</ROM_ext>
+  <ROM_ext>zip|7z</ROM_ext>
   <ROM_asset_path>/storage/emulators/ael-assets/fba</ROM_asset_path>
   <Asset_Prefix>Arcade - FBA</Asset_Prefix>
   <s_icon>/storage/emulators/ael-assets/Arcade FBA_fanart_1.jpg</s_icon>
@@ -64,7 +64,7 @@
   <args>mame2003 &quot;%rom%&quot; $categoryID$ $launcherID$ $romID$</args>
   <args_extra />
   <ROM_path>/storage/emulators/roms/mame/MAME 0.37b5 mame2000/MAME0.37b5_MAME2000/roms</ROM_path>
-  <ROM_ext>zip</ROM_ext>
+  <ROM_ext>zip|7z</ROM_ext>
   <ROM_asset_path>/storage/emulators/ael-assets/mame</ROM_asset_path>
   <Asset_Prefix>Arcade - MAME</Asset_Prefix>
   <s_icon>/storage/emulators/ael-assets/Arcade - MAME_icon.jpg</s_icon>
@@ -232,7 +232,7 @@
   <args>puae &quot;%rom%&quot; $categoryID$ $launcherID$ $romID$</args>
   <args_extra />
   <ROM_path>/storage/emulators/roms/amiga/config</ROM_path>
-  <ROM_ext>adf|zip|uae</ROM_ext>
+  <ROM_ext>adf|dms|fdi|ipf|zip|hdf|hdz|uae|m3u</ROM_ext>
   <ROM_asset_path>/storage/emulators/ael-assets/amiga</ROM_asset_path>
   <Asset_Prefix>Amiga 500</Asset_Prefix>
   <s_icon>/storage/emulators/ael-assets/Amiga 500_fanart.jpg</s_icon>
@@ -256,7 +256,7 @@
   <args>vice &quot;%rom%&quot; $categoryID$ $launcherID$ $romID$</args>
   <args_extra />
   <ROM_path>/storage/emulators/roms/C64</ROM_path>
-  <ROM_ext>zip|crt|d64|g64|t64|x64|prg|tab</ROM_ext>
+  <ROM_ext>zip|crt|prg|tab|d64|d71|d80|d82|g64|g41|x64|t64|p00|bin|gz|d6z|d7z|d8z|g6z|g4z|x6z|cmd|m3u</ROM_ext>
   <ROM_asset_path>/storage/emulators/ael-assets/C64</ROM_asset_path>
   <Asset_Prefix>Commodore C64</Asset_Prefix>
   <s_icon>/storage/emulators/ael-assets/C64_fanart.jpg</s_icon>
@@ -400,7 +400,7 @@
   <args>genesis_plus_gx &quot;%rom%&quot; $categoryID$ $launcherID$ $romID$</args>
   <args_extra />
   <ROM_path>/storage/emulators/roms/gamegear/</ROM_path>
-  <ROM_ext>gg|zip</ROM_ext>
+  <ROM_ext>gg|zip|mdx|md|smd|gen|bin|cue|iso|chd|sms|sg|7z</ROM_ext>
   <ROM_asset_path>/storage/emulators/ael-assets/gamegear</ROM_asset_path>
   <Asset_Prefix>Game Gear</Asset_Prefix>
   <s_icon>/storage/emulators/ael-assets/Game Gear_fanart.jpg</s_icon>
@@ -472,7 +472,7 @@
   <args>picodrive &quot;%rom%&quot; $categoryID$ $launcherID$ $romID$</args>
   <args_extra />
   <ROM_path>/storage/emulators/roms/mastersystem/</ROM_path>
-  <ROM_ext>sms|zip</ROM_ext>
+  <ROM_ext>zip|bin|gen|smd|md|32x|cue|iso|sms|68k|sg</ROM_ext>
   <ROM_asset_path>/storage/emulators/ael-assets/mastersystem</ROM_asset_path>
   <Asset_Prefix>Master System</Asset_Prefix>
   <s_icon>/storage/emulators/ael-assets/Master System_fanart.jpg</s_icon>
@@ -484,7 +484,31 @@
   <s_trailer />
 </launcher>
 <launcher>
-  <name>Mega Drive - Mega CD</name>
+  <name>SEGA32x</name>
+  <category>GAMESTARTER</category>
+  <year>1994</year>
+  <genre>Fifth generation console</genre>
+  <developer>SEGA</developer>
+  <rating />
+  <plot>The 32X is an add-on for the Mega Drive/Genesis video game console. Codenamed "Project Mars", the 32X was designed to expand the power of the Genesis and serve as a transitional console into the 32-bit era until the release of the Sega Saturn. Independent of the Genesis, the 32X uses its own ROM cartridges and has its own library of games. The add-on was distributed under the name Super 32X in Japan, Genesis 32X in North America, Mega Drive 32X in the PAL region, and Mega 32X in Brazil. Unveiled by Sega at June 1994's Consumer Electronics Show, the 32X was presented as a low-cost option for consumers looking to play 32-bit games. Developed in response to the Atari Jaguar and concerns that the Saturn would not make it to market by the end of 1994, the product was first conceived as an entirely new console. At the suggestion of Sega of America executive Joe Miller and his team, the console was converted into an add-on to the existing Genesis and made more powerful. The final design contained two 32-bit central processing units and a 3D graphics processor. To bring the new add-on to market by its scheduled release date of November 1994, development of the new system and its games were rushed. The console failed to attract third-party video game developers and consumers because of the announcement of the Sega Saturn's simultaneous release in Japan. Sega's efforts to rush the 32X to market cut into available time for game development, resulting in a weak library of forty titles that could not fully use the add-on's hardware, including Genesis ports. By the end of 1994, the 32X had sold 665,000 units. After price reductions in 1995, it was discontinued in 1996 as Sega turned its focus to the Saturn.</plot>
+  <platform>Sega32x</platform>
+  <application>/storage/.kodi/addons/game.retroarch/addon.sh</application>
+  <args>picodrive &quot;%rom%&quot; $categoryID$ $launcherID$ $romID$</args>
+  <args_extra />
+  <ROM_path>/storage/emulators/roms/SEGA32x/</ROM_path>
+  <ROM_ext>zip|bin|gen|smd|md|32x|cue|iso|sms|68k|sg</ROM_ext>
+  <ROM_asset_path>/storage/emulators/ael-assets/SEGA32x</ROM_asset_path>
+  <Asset_Prefix>Master System</Asset_Prefix>
+  <s_icon>/storage/emulators/ael-assets/SEGA32x_fanart.jpg</s_icon>
+  <s_fanart>/storage/emulators/ael-assets/SEGA32x_fanart.jpg</s_fanart>
+  <s_banner />
+  <s_poster />
+  <s_clearlogo />
+  <s_controller />
+  <s_trailer />
+</launcher>
+<launcher>
+  <name>Mega Drive - Mega CD - SG-1000</name>
   <category>GAMESTARTER</category>
   <year>1988</year>
   <genre>Fourth generation console</genre>
@@ -496,11 +520,59 @@
   <args>genesis_plus_gx &quot;$rom$&quot;</args>
   <args_extra />
   <ROM_path>/storage/emulators/roms/megadrive/</ROM_path>
-  <ROM_ext>smd|md|bin|iso|zip</ROM_ext>
+  <ROM_ext>32x|gg|zip|mdx|md|smd|gen|bin|cue|iso|chd|sms|sg|7z</ROM_ext>
   <ROM_asset_path>/storage/emulators/ael-assets/megadrive</ROM_asset_path>
   <Asset_Prefix>Mega Drive</Asset_Prefix>
   <s_icon>/storage/emulators/ael-assets/Mega Drive_fanart.jpg</s_icon>
   <s_fanart>/storage/emulators/ael-assets/Mega Drive_fanart.jpg</s_fanart>
+  <s_banner />
+  <s_poster />
+  <s_clearlogo />
+  <s_controller />
+  <s_trailer />
+</launcher>
+<launcher>
+  <name>Mega CD</name>
+  <category>GAMESTARTER</category>
+  <year>1988</year>
+  <genre>Fourth generation console</genre>
+  <developer>SEGA</developer>
+  <rating />
+  <plot>The Sega Genesis, known as the Mega Drive in most regions outside North America, is a 16-bit home video game console which was developed and sold by Sega Enterprises, Ltd. The Genesis was Sega&apos;s third console and the successor to the Master System. Sega first released the console as the Mega Drive in Japan in 1988, followed by a North American debut under the Genesis moniker in 1989. In 1990, the console was distributed as the Mega Drive by Virgin Mastertronic in Europe.&#10;Designed by an R&amp;D team supervised by Hideki Sato and Masami Ishikawa, the hardware was adapted from Sega&apos;s System 16 arcade board, centered on a Motorola 68000 processor as a primary CPU and a Zilog Z80 as a secondary processor. The system supports a library of more than 900 games created both by Sega and a wide array of third-party publishers and delivered on ROM-based cartridges. It can play Master System games when the separately sold Power Base Converter is inserted.&#10;&#10;The Sega CD, released as the Mega-CD most regions outside North America, is a CD-ROM accessory for the Sega Genesis video game console designed and produced by Sega as part of the fourth generation of video game consoles. The add-on was released on December 12, 1991 in Japan, October 15, 1992 in North America, and 1993 in Europe. The Sega CD lets the user play CD-based games and adds extra hardware functionality, such as a faster central processing unit and graphic enhancements. It can also play audio CDs and CD+G discs.</plot>
+  <platform>Mega CD</platform>
+  <application>/storage/.kodi/addons/game.retroarch/addon.sh</application>
+  <args>genesis_plus_gx &quot;$rom$&quot;</args>
+  <args_extra />
+  <ROM_path>/storage/emulators/roms/megaCD/</ROM_path>
+  <ROM_ext>32x|gg|zip|mdx|md|smd|gen|bin|cue|iso|chd|sms|sg|7z</ROM_ext>
+  <ROM_asset_path>/storage/emulators/ael-assets/megaCD</ROM_asset_path>
+  <Asset_Prefix>Mega Drive</Asset_Prefix>
+  <s_icon>/storage/emulators/ael-assets/Mega CD_fanart.jpg</s_icon>
+  <s_fanart>/storage/emulators/ael-assets/Mega CD_fanart.jpg</s_fanart>
+  <s_banner />
+  <s_poster />
+  <s_clearlogo />
+  <s_controller />
+  <s_trailer />
+</launcher>
+<launcher>
+  <name>SEGA-SG-1000</name>
+  <category>GAMESTARTER</category>
+  <year>1983</year>
+  <genre>Third generation console</genre>
+  <developer>SEGA</developer>
+  <rating />
+  <plot>The SG-1000, also known as the Sega Computer Videogame SG-1000, is a cartridge-based home video game console manufactured by Sega and released in Japan, Australia, and other countries. It was Sega's first entry into the home video game hardware business, and provided the basis for the more successful Master System. Introduced in 1983, the SG-1000 was released on the same day that Nintendo released the Family Computer (Famicom for short) in Japan. The SG-1000 was released in several forms, including the SC-3000 computer and the redesigned SG-1000 II, also known as the Mark II, released in 1984.</plot>
+  <platform>Sega Mega Drive / Mega CD</platform>
+  <application>/storage/.kodi/addons/game.retroarch/addon.sh</application>
+  <args>genesis_plus_gx &quot;$rom$&quot;</args>
+  <args_extra />
+  <ROM_path>/storage/emulators/roms/SEGA-SG-1000/</ROM_path>
+  <ROM_ext>32x|gg|zip|mdx|md|smd|gen|bin|cue|iso|chd|sms|sg|7z</ROM_ext>
+  <ROM_asset_path>/storage/emulators/ael-assets/SEGA-SG-1000</ROM_asset_path>
+  <Asset_Prefix>Mega Drive</Asset_Prefix>
+  <s_icon>/storage/emulators/ael-assets/SEGA-SG-1000_fanart.jpg</s_icon>
+  <s_fanart>/storage/emulators/ael-assets/SEGA-SG-1000_fanart.jpg</s_fanart>
   <s_banner />
   <s_poster />
   <s_clearlogo />
@@ -640,7 +712,7 @@
   <args>snes9x2010 &quot;%rom%&quot; $categoryID$ $launcherID$ $romID$</args>
   <args_extra />
   <ROM_path>/storage/emulators/roms/snes/</ROM_path>
-  <ROM_ext>smc|sfc|zip</ROM_ext>
+  <ROM_ext>smc|sfc|zip|fig|gd3|gd7|dx2|bsx|swc</ROM_ext>
   <ROM_asset_path>/storage/emulators/ael-assets/snes</ROM_asset_path>
   <Asset_Prefix>SNES</Asset_Prefix>
   <s_icon>/storage/emulators/ael-assets/SNES_fanart.jpg</s_icon>
@@ -784,7 +856,7 @@
   <args>pcsx_rearmed &quot;%rom%&quot; $categoryID$ $launcherID$ $romID$</args>
   <args_extra />
   <ROM_path>/storage/emulators/roms/psx/</ROM_path>
-  <ROM_ext>bin|img|pbp|PBP|IMG|BIN</ROM_ext>
+  <ROM_ext>bin|img|cue|CUE|mdf|toc|cbn|m3u|pbp|PBP|IMG|BIN</ROM_ext>
   <ROM_asset_path>/storage/emulators/ael-assets/psx</ROM_asset_path>
   <Asset_Prefix>PlayStation</Asset_Prefix>
   <s_icon>/storage/emulators/ael-assets/PlayStation_fanart1.jpg</s_icon>
@@ -856,11 +928,11 @@
   <args>yabause &quot;%rom%&quot; $categoryID$ $launcherID$ $romID$</args>
   <args_extra />
   <ROM_path>/storage/emulators/roms/segasaturn/</ROM_path>
-  <ROM_ext>zip</ROM_ext>
+  <ROM_ext>bin|iso|cue|zip</ROM_ext>
   <ROM_asset_path>/storage/emulators/ael-assets/segasaturn</ROM_asset_path>
-  <Asset_Prefix>Arcade - FBA</Asset_Prefix>
+  <Asset_Prefix>Sega Saturn</Asset_Prefix>
   <s_icon>/storage/emulators/ael-assets/Saturn_fanart_2.jpg</s_icon>
-  <s_fanart>/storage/emulators/ael-assets</s_fanart>
+  <s_fanart>/storage/emulators/ael-assets/Saturn_fanart_2.jpg</s_fanart>
   <s_banner />
   <s_poster />
   <s_clearlogo />
