@@ -58,7 +58,7 @@ script.module.pyqrcode-0.0.2*https://kdc-community.github.io/kdc_git_repo/script
 script.module.resolveurl-5.1.70*https://kdc-community.github.io/kdc_git_repo/script.module.resolveurl/script.module.resolveurl-5.1.70.zip*module.png
 script.module.simple.downloader-1.9.5*https://kdc-community.github.io/kdc_git_repo/script.module.simple.downloader/script.module.simple.downloader-1.9.5.zip*module.png
 script.module.metahandler-3.0.3*https://kdc-community.github.io/kdc_git_repo/script.module.metahandler/script.module.metahandler-3.0.3.zip*module.png
-script.module.thetvdb-1.0.12*https://kdc-community.github.io/kdc_git_repo/script.module.thetvdb/script.module.thetvdb-1.0.12.zip*module.png
+script.module.thetvdb-1.0.27*https://kdc-community.github.io/kdc_git_repo/script.module.thetvdb/script.module.thetvdb-1.0.27.zip*module.png
 script.module.F4mProxy-2.8.7*https://kdc-community.github.io/kdc_git_repo/script.video.F4mProxy/script.video.F4mProxy-2.8.7.zip*module.png
 script.module.tzlocal-2.0.0*https://kdc-community.github.io/kdc_git_repo/script.module.tzlocal/script.module.tzlocal.zip*module.png
 
