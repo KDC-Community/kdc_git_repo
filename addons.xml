@@ -1,49 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 
-<addon id="plugin.audio.i_love_chillout"
-    name="I Love Chillout" version="2019.10.10"
-	provider-name="Ctrl_Esc">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-    </requires>
-    <extension point="xbmc.python.script" library="default.py">
-        <provides>audio</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-       <summary>Radio Online Stream</summary>
-        <description>Hirschmilch Chillout https://hirschmilch.de/chillout</description>
-        <platform>all</platform>
-        <language>DE</language>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://hirschmilch.de/</website>
-        <source></source>
-        <email></email>
-    </extension>
-</addon>
-
-
-<addon id="plugin.audio.i_love_electronic"
-    name="I Love Electronic" version="2019.10.10"
-	provider-name="Ctrl_Esc">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-    </requires>
-    <extension point="xbmc.python.script" library="default.py">
-        <provides>audio</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-       <summary>Radio Online Stream</summary>
-        <description>Hirschmilch Psytrance https://hirschmilch.de/electronic</description>
-        <platform>all</platform>
-        <language>DE</language>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://hirschmilch.de/</website>
-        <source></source>
-        <email></email>
-    </extension>
-</addon>
-
 
 <addon id="plugin.audio.i_love_hirschmilch"
     name="Hirschmilch" version="4.8.1"
@@ -75,94 +32,6 @@ Moyn to: Norbert R., TOXYNTH, The Dependencie Brother From Another Mother, Hellm
             <icon>icon.png</icon>
             <fanart>fanart1.jpg</fanart>
         </assets>
-    </extension>
-</addon>
-
-
-<addon id="plugin.audio.i_love_proghouse"
-    name="I Love Prog-House" version="2019.10.10"
-	provider-name="Ctrl_Esc">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-    </requires>
-    <extension point="xbmc.python.script" library="default.py">
-        <provides>audio</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-       <summary>Radio Online Stream</summary>
-        <description>Hirschmilch Progressive-House https://hirschmilch.de/prog-house</description>
-        <platform>all</platform>
-        <language>DE</language>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://hirschmilch.de/</website>
-        <source></source>
-        <email></email>
-    </extension>
-</addon>
-
-
-<addon id="plugin.audio.i_love_progressive"
-    name="I Love Progressive" version="2019.10.10"
-	provider-name="Ctrl_Esc">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-    </requires>
-    <extension point="xbmc.python.script" library="default.py">
-        <provides>audio</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-       <summary>Radio Online Stream</summary>
-        <description>Hirschmilch Progressive https://hirschmilch.de/progressive</description>
-        <platform>all</platform>
-        <language>DE</language>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://hirschmilch.de/</website>
-        <source></source>
-        <email></email>
-    </extension>
-</addon>
-
-
-<addon id="plugin.audio.i_love_psytrance"
-    name="I Love Psytrance" version="2019.10.10"
-	provider-name="Ctrl_Esc">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-    </requires>
-    <extension point="xbmc.python.script" library="default.py">
-        <provides>audio</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-       <summary>Radio Online Stream</summary>
-        <description>Hirschmilch Psytrance https://hirschmilch.de/psytrance</description>
-        <platform>all</platform>
-        <language>DE</language>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>https://hirschmilch.de/</website>
-        <source></source>
-        <email></email>
-    </extension>
-</addon>
-
-
-<addon id="plugin.audio.i_love_techno"
-    name="I Love Techno" version="2019.10.10"
-	provider-name="SH Germania">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-    </requires>
-    <extension point="xbmc.python.script" library="default.py">
-        <provides>audio</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-       <summary>Radio Online Stream</summary>
-        <description>Stream I Love Techno Online http://ilovetechno.fm/ </description>
-        <platform>all</platform>
-        <language>en</language>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-        <website>http://ilovetechno.fm/</website>
-        <source>https://app.box.com/s/vc9jtbnupbu7cap1s8h2</source>
-        <email></email>
     </extension>
 </addon>
 
@@ -299,57 +168,6 @@ Art by Marquerite for original code. </description>
         <description lang="ta_IN">இசை துணை பயன் rad.io, radio.de மற்றும் radio.fr இருந்து 7000 க்கும் மேல் வானொலி ஒளிபரப்புகளை அணுக உதவி செய்யும்[CR]தற்போதைய அம்சங்கள்[CR]- ஆங்கிலம், ஜெர்மன் மற்றும் பிரெஞ்சு மொழியாக்கம்[CR]- இருப்பிடம், வகை, தலைப்பு, நாடு, நகரம் மற்றும் மொழி கொண்டு நிலையங்களை உலாவ முடியும்[CR]- நிலையங்களை தேடுதல்[CR]- 115 வகைகள், 59 தலைப்புகள், 94 நாடுகள், 1010 நகரங்கள், 63 மொழிகள்</description>
         <description lang="zh">访问rad.io、radio.de和radio.fr上超过7000个国际电台广播的音频插件[CR]现有功能[CR]- 英语、德语和法语支持[CR]- 按地点、类别、主题、国家、城市和语言浏览站点[CR]- 搜索站点[CR]- 115个类别、59个主题、94个国家、1010城市、63种语言</description>
     </extension>
-</addon>
-
-
-<addon id="plugin.audio.rainymood.com" name="Rainymood.com" version="1.2.0" provider-name="cdwertmann">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="addon.py">
-        <provides>audio</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <platform>all</platform>
-        <summary lang="en">Rainymood.com</summary>
-        <description lang="en">Listen to the soothing sound of rain</description>
-        <website>https://github.com/cdwertmann/plugin.audio.rainymood.com</website>
-        <source>git://github.com/cdwertmann/plugin.audio.rainymood.com.git</source>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
-        <disclaimer>Rainymood.com has not endorsed this addon</disclaimer>
-    </extension>
-</addon>
-
-
-<addon id="plugin.audio.rautemusik"
-	name="RauteMusik.FM"
-	version="0.5.0"
-	provider-name="RauteMusik GmbH, Leo Moll">
-	<requires>
-		<import addon="xbmc.python" version="2.14.0"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="addon.py">
-		<provides>audio</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="de">RauteMusik.FM</summary>
-		<summary lang="en">RauteMusik.FM</summary>
-		<description lang="de">Das Internetradio RauteMusik.FM wurde im Jahr 2003 gegründet und hat sich seitdem zu Europas größtem Online Radio entwickelt. Rund 300 Mitglieder sorgen täglich dafür, dass rund um die Uhr die beste Musik der vergangenen Jahre und die Hits aus den aktuellen Charts über das Webradio gesendet werden können.</description>
-		<description lang="en">RauteMusik.FM was founded in 2003 and has become one of the largest internet radio networks in Europe. More than 300 members are working hard in providing the best music of the last years and the current charts.</description>
-		<disclaimer lang="de">Enjoy our music!</disclaimer>
-		<disclaimer lang="en">Enjoy our music!</disclaimer>
-		<platform>all</platform>
-		<language>de</language>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<forum>http://forum.kodi.tv/showthread.php?tid=206315</forum>
-		<website>http://www.rautemusik.fm/</website>
-		<source></source>
-		<email></email>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-	</extension>
 </addon>
 
 

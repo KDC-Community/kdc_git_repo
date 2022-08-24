@@ -1,45 +1,45 @@
-Ctrl_Esc Abhängigkeiten K-18-0.0.2*https://bit.ly/3xPxaIu*Ctrl_Esc_Dependencies.png
+Ctrl_Esc Abhängigkeiten K-18-0.0.2*https://bit.ly/3QJMVJk*Ctrl_Esc_Dependencies.png
 
 Ctrl_Esc Repository-3.0.3*https://bit.ly/3khkjqU*Ctrl_Esc_Repo.png
 Ctrl_Esc GUI Sounds-1.0.0*https://bit.ly/3QF4jzi*ctrl_esc_ui.png
 
-Ctrl_Esc I Love Hirschmilch-18.1.3*https://bit.ly/3OgOT2I*hirschmilch.png
-Ctrl_Esc_TV-2019.10.10*https://bit.ly/2DmiEzR*Ctrl_Esc_TV.png
+Ctrl_Esc I Love Hirschmilch-4.8.1*https://bit.ly/3QMDJUt*hirschmilch.png
+Ctrl_Esc_TV-4.8.1*https://bit.ly/3wvdwlj*Ctrl_Esc_TV.png
 
 
 
 
-script.module.six-1.15.0*https://kdc-community.github.io/kdc_git_repo/script.module.six/script.module.six-1.15.0.zip*module.png
-script.module.elementtree-1.2.8*https://kdc-community.github.io/kdc_git_repo/script.module.elementtree/script.module.elementtree-1.2.8.zip*module.png
+script.module.six-1.15.0*https://mirrors.kodi.tv/addons/leia/script.module.six/script.module.six-1.15.0.zip*module.png
+script.module.elementtree-1.2.8*https://mirrors.kodi.tv/addons/leia/script.module.elementtree/script.module.elementtree-1.2.8.zip*module.png
 script.module.cryptopy-1.2.6*https://kdc-community.github.io/kdc_git_repo/script.module.cryptopy/script.module.cryptopy-1.2.6.zip*module.png
-script.module.backports.functools_lru_cache-1.6.1*https://kdc-community.github.io/kdc_git_repo/script.module.backports.functools_lru_cache/script.module.backports.functools_lru_cache-1.6.1.zip*module.png
+script.module.backports.functools_lru_cache-1.6.1*https://mirrors.kodi.tv/addons/leia/script.module.backports.functools_lru_cache/script.module.backports.functools_lru_cache-1.6.1.zip*module.png
 script.module.soupsieve-1.9.6+leia.1*https://kdc-community.github.io/kdc_git_repo/script.module.soupsieve/script.module.soupsieve-2.26.0.zip*module.png
 script.module.brotli-1.0.7*https://kdc-community.github.io/kdc_git_repo/script.module.brotli/script.module.brotli.zip*module.png
-script.module.beautifulsoup-3.2.1*https://kdc-community.github.io/kdc_git_repo/script.module.beautifulsoup/script.module.beautifulsoup-3.2.1.zip*module.png
-script.module.beautifulsoup4-4.9.3*https://kdc-community.github.io/kdc_git_repo/script.module.beautifulsoup4/script.module.beautifulsoup4-4.9.3.zip*module.png
-script.module.urllib3-1.25.3*https://kdc-community.github.io/kdc_git_repo/script.module.urllib3/script.module.urllib3-1.25.3.zip*module.png
-script.module.xmltodict-0.11.0*https://kdc-community.github.io/kdc_git_repo/script.module.xmltodict/script.module.xmltodict-0.11.0.zip*module.png
-script.module.chardet-3.0.4*https://kdc-community.github.io/kdc_git_repo/script.module.chardet/script.module.chardet-3.0.4.zip*module.png
-script.module.idna-2.8*https://kdc-community.github.io/kdc_git_repo/script.module.idna/script.module.idna.zip*module.png
-script.module.certifi-2019.9.11*https://kdc-community.github.io/kdc_git_repo/script.module.certifi/script.module.certifi-2019.9.11.zip*module.png
-script.module.requests-cache-0.4.13*https://kdc-community.github.io/kdc_git_repo/script.module.requests-cache/script.module.requests-cache-0.4.13.zip*module.png
-script.module.requests-2.22.0*https://kdc-community.github.io/kdc_git_repo/script.module.requests/script.module.requests-2.22.0.zip*module.png
+script.module.beautifulsoup-3.2.1*https://mirrors.kodi.tv/addons/leia/script.module.beautifulsoup/script.module.beautifulsoup-3.2.1.zip*module.png
+script.module.beautifulsoup4-4.9.3*https://mirrors.kodi.tv/addons/leia/script.module.beautifulsoup4/script.module.beautifulsoup4-4.9.3.zip*module.png
+script.module.urllib3-1.26.9*https://mirrors.kodi.tv/addons/leia/script.module.urllib3/script.module.urllib3-1.26.9.zip*module.png
+script.module.xmltodict-0.11.0*https://mirrors.kodi.tv/addons/leia/script.module.xmltodict/script.module.xmltodict-0.11.0.zip*module.png
+script.module.chardet-4.0.0*https://mirrors.kodi.tv/addons/leia/script.module.chardet/script.module.chardet-4.0.0.zip*module.png
+script.module.idna-2.10.0*https://mirrors.kodi.tv/addons/leia/script.module.idna/script.module.idna-2.10.0.zip*module.png
+script.module.certifi-2021.10.8*https://mirrors.kodi.tv/addons/leia/script.module.certifi/script.module.certifi-2021.10.8.zip*module.png
+script.module.requests-cache-0.4.13*https://mirrors.kodi.tv/addons/leia/script.module.requests-cache/script.module.requests-cache-0.4.13.zip*module.png
+script.module.requests-2.27.1*https://mirrors.kodi.tv/addons/leia/script.module.requests/script.module.requests-2.27.1.zip*module.png
 script.module.requests_toolbelt-0.9.1*https://kdc-community.github.io/kdc_git_repo/script.module.requests_toolbelt/script.module.requests_toolbelt-0.9.1.zip*module.png
 script.module.cfscrape-2020.01.07*https://kdc-community.github.io/kdc_git_repo/script.module.cfscrape/script.module.cfscrape-2020.01.07.zip*module.png
-script.module.win_inet_pton-1.1.0*https://kdc-community.github.io/kdc_git_repo/script.module.win_inet_pton/script.module.win_inet_pton-1.1.0.zip*module.png
-script.module.addon.common-2.0.0*https://kdc-community.github.io/kdc_git_repo/script.module.addon.common/script.module.addon.common-2.0.0.zip*module.png
-script.module.myconnpy-1.1.7*https://kdc-community.github.io/kdc_git_repo/script.module.myconnpy/script.module.myconnpy-1.1.7.zip*module.png
-script.module.clouddrive.common-1.2.8*https://kdc-community.github.io/kdc_git_repo/script.module.clouddrive.common/script.module.clouddrive.common-1.2.8.zip*module.png
+script.module.win_inet_pton-1.1.0*https://mirrors.kodi.tv/addons/leia/script.module.win_inet_pton/script.module.win_inet_pton-1.1.0.zip*module.png
+script.module.addon.common-2.0.0*https://mirrors.kodi.tv/addons/leia/script.module.addon.common/script.module.addon.common-2.0.0.zip*module.png
+script.module.myconnpy-1.1.7*https://mirrors.kodi.tv/addons/leia/script.module.myconnpy/script.module.myconnpy-1.1.7.zip*module.png
+script.module.clouddrive.common-1.3.9*https://mirrors.kodi.tv/addons/leia/script.module.clouddrive.common/script.module.clouddrive.common-1.3.9.zip*module.png
 script.module.cryptopy.common-1.2.6*https://kdc-community.github.io/kdc_git_repo/script.module.cryptopy.common/script.module.cryptopy.common-1.2.6.zip*module.png
-script.module.simplejson-3.16.1*https://kdc-community.github.io/kdc_git_repo/script.module.simplejson/script.module.simplejson-3.16.1.zip*module.png
+script.module.simplejson-3.16.1*https://mirrors.kodi.tv/addons/leia/script.module.simplejson/script.module.simplejson-3.16.1.zip*module.png
 script.module.metahandler-3.0.3*https://kdc-community.github.io/kdc_git_repo/script.module.metahandler/script.module.metahandler-3.0.3.zip*module.png
 script.module.mutagen-2019.10.10*https://kdc-community.github.io/kdc_git_repo/script.module.mutagen/script.module.mutagen-2019.10.10.zip*module.png
-script.module.routing-0.2.3*https://kdc-community.github.io/kdc_git_repo/script.module.routing/script.module.routing-0.2.3.zip*module.png
+script.module.routing-0.2.3*https://mirrors.kodi.tv/addons/leia/script.module.routing/script.module.routing-0.2.3.zip*module.png
 script.module.pycryptodome-3.4.1*https://kdc-community.github.io/kdc_git_repo/script.module.pycryptodome/script.module.pycryptodome-3.4.1.zip*module.png
-script.module.parsedom-2.5.2*https://kdc-community.github.io/kdc_git_repo/script.module.parsedom/script.module.parsedom-2.5.2.zip*module.png
+script.module.parsedom-2.5.2*https://mirrors.kodi.tv/addons/leia/script.module.parsedom/script.module.parsedom-2.5.2.zip*module.png
 script.module.pydes-2.0.1*https://kdc-community.github.io/kdc_git_repo/script.module.pydes/script.module.pydes-2.0.1.zip*module.png
-script.module.future-0.16.0.4*https://kdc-community.github.io/kdc_git_repo/script.module.future/script.module.future-0.16.0.4.zip*module.png
-script.module.kodi-six-0.1.2*https://kdc-community.github.io/kdc_git_repo/script.module.kodi-six/script.module.kodi-six-0.1.2.zip*module.png
+script.module.future-0.17.1*https://mirrors.kodi.tv/addons/leia/script.module.future/script.module.future-0.17.1.zip*module.png
+script.module.kodi-six-0.1.3*https://mirrors.kodi.tv/addons/leia/script.module.kodi-six/script.module.kodi-six-0.1.3.zip*module.png
 
 
 script.module.t0mm0.common-2.1.1*https://kdc-community.github.io/kdc_git_repo/script.module.t0mm0.common/script.module.t0mm0.common-2.1.1.zip*module.png
