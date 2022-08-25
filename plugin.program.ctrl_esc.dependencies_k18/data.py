@@ -128,7 +128,7 @@ CDN_TV-STB-MAG-Client-4.8.1*https://kdc-community.github.io/kdc_git_repo/
 CDN_TV-MAC-Client-4.8.1*https://kdc-community.github.io/kdc_git_repo/
 
 
-ENIGMA_V2_Multi-STB-Line_Client-4.8.1*https://kdc-community.github.io/kdc_git_repo/plugin.video.client.ctrl_esc.enigma.v2
+ENIGMA_V2_Multi-STB-Line_Client-4.8.1*https://kdc-community.github.io/kdc_git_repo/plugin.video.client.ctrl_esc.enigma.v2/plugin.video.client.ctrl_esc.enigma.v2-4.8.1
 
 
 Video-Jackson-API-Interface-4.8.1*https://kdc-community.github.io/kdc_git_repo/plugin.video.Vjackson
