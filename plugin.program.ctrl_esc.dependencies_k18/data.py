@@ -42,28 +42,29 @@ script.module.future-0.17.1*https://mirrors.kodi.tv/addons/leia/script.module.fu
 script.module.kodi-six-0.1.3*https://mirrors.kodi.tv/addons/leia/script.module.kodi-six/script.module.kodi-six-0.1.3.zip*module.png
 script.module.metadatautils-1.0.40*https://kdc-community.github.io/kdc_git_repo/script.module.metadatautils/script.module.metadatautils-1.0.40.zip*module.png
 script.module.xbmcswift2-13.0.4*https://kdc-community.github.io/kdc_git_repo/script.module.xbmcswift2/script.module.xbmcswift2-13.0.4.zip*module.png
+script.module.simpleplugin3-3.0.6*https://mirrors.kodi.tv/addons/leia/script.module.simpleplugin3/script.module.simpleplugin3-3.0.6.zip*module.png
 
 
-script.module.t0mm0.common-2.1.1*https://kdc-community.github.io/kdc_git_repo/script.module.t0mm0.common/script.module.t0mm0.common-2.1.1.zip*module.png
-script.module.futures-2.2.0*https://kdc-community.github.io/kdc_git_repo/script.module.futures/script.module.futures-2.2.0.zip*module.png
-script.module.dateutil-2.8.1*https://kdc-community.github.io/kdc_git_repo/script.module.dateutil/script.module.dateutil-2.8.1.zip*module.png
-script.module.html2text-2015.6.21*https://kdc-community.github.io/kdc_git_repo/script.module.html2text/script.module.html2text-2015.6.21.zip*module.png
-script.module.httplib2-0.10.3*https://kdc-community.github.io/kdc_git_repo/script.module.httplib2/script.module.httplib2-0.10.3.zip*module.png
-script.module.pysocks-1.6.8*https://kdc-community.github.io/kdc_git_repo/script.module.pysocks/script.module.pysocks-1.6.8.zip*module.png
-script.module.inputstreamhelper-0.5.9*https://kdc-community.github.io/kdc_git_repo/script.module.inputstreamhelper/script.module.inputstreamhelper-0.5.9.zip*module.png
-script.module.pytz-2014.2*https://kdc-community.github.io/kdc_git_repo/script.module.pytz/script.module.pytz-2014.2.zip*module.png
+
+script.module.t0mm0.common-2.1.1*https://mirrors.kodi.tv/addons/leia/script.module.t0mm0.common/script.module.t0mm0.common-2.1.1.zip*module.png
+script.module.futures-2.2.0*https://mirrors.kodi.tv/addons/leia/script.module.futures/script.module.futures-2.2.0.zip*module.png
+script.module.dateutil-2.8.1*https://mirrors.kodi.tv/addons/leia/script.module.dateutil/script.module.dateutil-2.8.1.zip*module.png
+script.module.html2text-2015.6.21*https://mirrors.kodi.tv/addons/leia/script.module.html2text/script.module.html2text-2015.6.21.zip*module.png
+script.module.httplib2-0.10.3*https://mirrors.kodi.tv/addons/leia/script.module.httplib2/script.module.httplib2-0.10.3.zip*module.png
+script.module.pysocks-1.6.8*https://mirrors.kodi.tv/addons/leia/script.module.pysocks/script.module.pysocks-1.6.8.zip*module.png
+script.module.inputstreamhelper-0.5.10*https://mirrors.kodi.tv/addons/leia/script.module.inputstreamhelper/script.module.inputstreamhelper-0.5.10.zip*module.png
+script.module.pytz-2014.2*https://mirrors.kodi.tv/addons/leia/script.module.pytz/script.module.pytz-2014.2.zip*module.png
 script.module.pil-1.1.7*https://kdc-community.github.io/kdc_git_repo/script.module.pil/script.module.pil-1.1.7.zip*module.png
-script.module.pyamf-0.6.2*https://kdc-community.github.io/kdc_git_repo/script.module.pyamf/script.module.pyamf-0.6.2.zip*module.png
-script.module.pyqrcode-0.0.2*https://kdc-community.github.io/kdc_git_repo/script.module.pyqrcode/script.module.pyqrcode-0.0.2.zip*module.png
-script.module.resolveurl-5.1.70*https://kdc-community.github.io/kdc_git_repo/script.module.resolveurl/script.module.resolveurl-5.1.70.zip*module.png
-script.module.simple.downloader-1.9.5*https://kdc-community.github.io/kdc_git_repo/script.module.simple.downloader/script.module.simple.downloader-1.9.5.zip*module.png
+script.module.pyamf-0.6.2*https://mirrors.kodi.tv/addons/leia/script.module.pyamf/script.module.pyamf-0.6.2.zip*module.png
+script.module.pyqrcode-0.0.2*https://mirrors.kodi.tv/addons/leia/script.module.pyqrcode/script.module.pyqrcode-0.0.2.zip*module.png
+script.module.simple.downloader-1.9.5*https://mirrors.kodi.tv/addons/leia/script.module.simple.downloader/script.module.simple.downloader-1.9.5.zip*module.png
 script.module.metahandler-3.0.3*https://kdc-community.github.io/kdc_git_repo/script.module.metahandler/script.module.metahandler-3.0.3.zip*module.png
 script.module.thetvdb-1.0.27*https://kdc-community.github.io/kdc_git_repo/script.module.thetvdb/script.module.thetvdb-1.0.27.zip*module.png
 script.module.F4mProxy-2.8.7*https://kdc-community.github.io/kdc_git_repo/script.video.F4mProxy/script.video.F4mProxy-2.8.7.zip*module.png
-script.module.tzlocal-2.0.0*https://kdc-community.github.io/kdc_git_repo/script.module.tzlocal/script.module.tzlocal.zip*module.png
+script.module.tzlocal-2.0.0*https://mirrors.kodi.tv/addons/leia/script.module.tzlocal/script.module.tzlocal-2.0.0.zip*module.png
 
 script.module.urlresolver-2021.12.23*https://bit.ly/3OyiZ1f*urlresolver.png
-
+script.module.resolveurl-5.1.75.nightly1*https://bit.ly/3wsEN7Z*resolve_url.png
 
 script.module.resolveurl-5.1.58*https://bit.ly/3ycL5K5*resolve_url.png
 script.module.resolveurl-5.1.59*https://bit.ly/3yaA640*resolve_url.png
@@ -80,9 +81,7 @@ script.module.resolveurl-5.1.69*https://bit.ly/3n8jP9c*resolve_url.png
 script.module.resolveurl-5.1.70*https://bit.ly/3QBkZI9*resolve_url.png
 
 
-
 plugin.video.live.streamspro-2.8.1*https://bit.ly/3gwEA9U*LSPro.png
-
 
 EPG Repository DeBaschdi-1.0.1*https://bit.ly/3ydqBRF*takealug.png
 service.takealug.epg-grabber-0.3.8*https://bit.ly/3yaCeJ2*takealug.png
