@@ -429,7 +429,7 @@ See README!
 </addon>
 
 
-<addon id="plugin.video.bones" name="Bones Brigade" version="2019.10.10" provider-name="Ctrl_Esc">
+<addon id="plugin.video.bones" name="Bones Brigade" version="2019.10.10" provider-name="Griffin">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.universalscrapers" version="1.0.2" />
