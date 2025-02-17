@@ -1,105 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
+<items>
 <item>
-<title>[B][COLOR limered]============================================= [/B][/COLOR]<title>
-<link>http://ignorame<link><thumbnail>ext</thumbnail>
+<title>[B][COLOR limered]============================================= [/B][/COLOR]</title>
+<link>http://ignorame</link><thumbnail>ext</thumbnail>
 <externallink></externallink>
 <fanart>https://i.imgur.com/5LelUfo.jpg</fanart>
 <info>[B][I][COLOR darkred] RaspberryPi KODI DEUTSCHLAND COMMUNITY [/B][/I][/COLOR]</info>
-<item>
-
-
-<item>
-<title>[B][COLOR lime]===  First Download & Install plugin.git.browser!!!   ===   https://bit.ly/33N2cQr   ===   Inside The Addon Search Username: KDC-Community   ===   Then Install All """script.module""" And Enjoy!!! [/B][/COLOR]<title>
-<link>http://ignorame<link><thumbnail>ext</thumbnail>
-<externallink></externallink>
-<fanart>https://i.imgur.com/5LelUfo.jpg</fanart>
-<info>[B][I][COLOR darkred] RaspberryPi KODI DEUTSCHLAND COMMUNITY [/B][/I][/COLOR]</info>
-<item>
-<item>
-<title>[B][COLOR limered]============================================= [/B][/COLOR]<title>
-<link>http://ignorame<link><thumbnail>ext</thumbnail>
-<externallink></externallink>
-<fanart>https://i.imgur.com/5LelUfo.jpg</fanart>
-<info>[B][I][COLOR darkred] RaspberryPi KODI DEUTSCHLAND COMMUNITY [/B][/I][/COLOR]</info>
-<item>
-
+</item>
 
 <item>
-<title>[B][COLOR antiquewhite]===  Free German [COLOR darkred] TV & Radio [COLOR antiquewhite]===[/B][/COLOR]<title>
-<link>http://ignorame<link><thumbnail>ext</thumbnail>
+<title>[B][COLOR antiquewhite]===  Free German [COLOR darkred] TV & Radio [COLOR antiquewhite]===[/B][/COLOR]</title>
+<link>http://ignorame</link><thumbnail>ext</thumbnail>
 <externallink>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/kodi/kodi.m3u</externallink>
 <fanart>https://i.imgur.com/5LelUfo.jpg</fanart>
 <info>[B][I][COLOR darkred] RaspberryPi KODI DEUTSCHLAND COMMUNITY [/B][/I][/COLOR]</info>
-<item>
+</item>
 
 
 <item>
-<title>[B][COLOR antiquewhite]===  Free German [COLOR darkred] TV [COLOR antiquewhite]===[/B][/COLOR]<title>
-<link>http://ignorame<link><thumbnail>ext</thumbnail>
+<title>[B][COLOR antiquewhite]===  Free German [COLOR darkred] TV [COLOR antiquewhite]===[/B][/COLOR]</title>
+<link>http://ignorame</link><thumbnail>ext</thumbnail>
 <externallink>https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/iptv/kodi/kodi_tv.m3u</externallink>
 <fanart>https://i.imgur.com/5LelUfo.jpg</fanart>
 <info>[B][I][COLOR darkred] RaspberryPi KODI DEUTSCHLAND COMMUNITY [/B][/I][/COLOR]</info>
-<item>
+</item>
 
 
 <item>
-<title>[B][COLOR limered]============================================= [/B][/COLOR]<title>
-<link>http://ignorame<link><thumbnail>ext</thumbnail>
+<title>[B][COLOR limered]============================================= [/B][/COLOR]</title>
+<link>http://ignorame</link><thumbnail>ext</thumbnail>
 <externallink></externallink>
 <fanart>https://i.imgur.com/5LelUfo.jpg</fanart>
 <info>[B][I][COLOR darkred] RaspberryPi KODI DEUTSCHLAND COMMUNITY [/B][/I][/COLOR]</info>
-<item>
-
-
-<item>
-<title>[B][COLOR antiquewhite]===  Wagas World [COLOR darkred] Portal [COLOR antiquewhite]===[/COLOR][/B]<title>
-<link>http://ignorame<link><thumbnail>ext</thumbnail>
-<externallink>http://wagasworld.com/Kodi/wwstreamportal.xml</externallink>
-<fanart>https://i.imgur.com/5LelUfo.jpg</fanart>
-<info>[B][I][COLOR darkred] RaspberryPi KODI DEUTSCHLAND COMMUNITY [/B][/I][/COLOR]</info>
-<item>
-
-
-<item>
-<title>[B][COLOR antiquewhite]===  SGK [COLOR darkred] Portal [COLOR antiquewhite]===[/COLOR][/B]<title>
-<link>http://ignorame<link><thumbnail>ext</thumbnail>
-<externallink>http://sgkodi.de/SGK-Portal/portal_main.xml</externallink>
-<fanart>https://i.imgur.com/5LelUfo.jpg</fanart>
-<info>[B][I][COLOR darkred] RaspberryPi KODI DEUTSCHLAND COMMUNITY [/B][/I][/COLOR]</info>
-<item>
-
-
-<item>
-<title>[B][COLOR antiquewhite]===  OpenKD [COLOR darkred] Portal [COLOR antiquewhite]===[/COLOR][/B]<title>
-<link>http://ignorame<link><thumbnail>ext</thumbnail>
-<externallink>http://openkd.tv/homepage/files/OpenKD_Portal/portal.txt</externallink>
-<fanart>https://i.imgur.com/5LelUfo.jpg</fanart>
-<info>[B][I][COLOR darkred] RaspberryPi KODI DEUTSCHLAND COMMUNITY [/B][/I][/COLOR]</info>
-<item>
+</item>
 
 
 <item>
 <title>[B][COLOR antiquewhite]===  Psyco [COLOR darkred] Portal [COLOR antiquewhite]===[/COLOR][/B]<title>
 <link>http://ignorame<link><thumbnail>ext</thumbnail>
 <externallink>https://raw.githubusercontent.com/PsycoTV/PsycoTV/master/psyco</externallink>
-<fanart>https://i.imgur.com/5LelUfo.jpg</fanart>
-<info>[B][I][COLOR darkred] RaspberryPi KODI DEUTSCHLAND COMMUNITY [/B][/I][/COLOR]</info>
-<item>
-
-
-<item>
-<title>[B][COLOR antiquewhite]===  Ghost [COLOR darkred] Portal [COLOR antiquewhite]===[/COLOR][/B]<title>
-<link>http://ignorame<link><thumbnail>ext</thumbnail>
-<externallink>http://ghost-repo.de/Ghost_Portal/Ghost-Haupt/ghost.tv/Ghost_TV_haupt.txt</externallink>
-<fanart>https://i.imgur.com/5LelUfo.jpg</fanart>
-<info>[B][I][COLOR darkred] RaspberryPi KODI DEUTSCHLAND COMMUNITY [/B][/I][/COLOR]</info>
-<item>
-<item>
-<title>[B][COLOR antiquewhite]===  Ghost [COLOR darkred] Portal TV [COLOR antiquewhite]===[/COLOR][/B]<title>
-<link>http://ignorame<link><thumbnail>ext</thumbnail>
-<externallink>http://ghost-repo.de/Ghost_Portal/Ghost-Haupt/ghost.tv/Ghost_TV_zum_Live.txt</externallink>
 <fanart>https://i.imgur.com/5LelUfo.jpg</fanart>
 <info>[B][I][COLOR darkred] RaspberryPi KODI DEUTSCHLAND COMMUNITY [/B][/I][/COLOR]</info>
 <item>
@@ -487,4 +427,4 @@
 <item>
 
 
-</item>
+</items>
