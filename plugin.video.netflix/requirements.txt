@@ -3,7 +3,7 @@ future
 mysql-connector-python
 polib
 pycrypto
-pycryptodomex==3.4.5
+pycryptodomex==3.19.1
 pydes
 pylint
 requests
